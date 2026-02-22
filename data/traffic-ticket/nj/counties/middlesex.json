@@ -1,0 +1,106 @@
+{
+  "name": "Middlesex County",
+  "countySeat": "New Brunswick",
+  "population": "863,162",
+  "courts": {
+    "municipal": {
+      "name": "New Brunswick Municipal Court (and other municipal courts)",
+      "address": "25 Kirkpatrick St, New Brunswick, NJ 08901",
+      "phone": "(732) 745-5010",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.cityofnewbrunswick.org/municipal-court",
+      "note": "25 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Middlesex County Superior Court",
+      "address": "563 Paterson St, New Brunswick, NJ 08901",
+      "phone": "(732) 519-3200",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Middlesex County Prosecutor's Office",
+    "address": "701 Jersey Ave, New Brunswick, NJ 08901",
+    "phone": "(732) 745-3300",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Middlesex County Public Defender's Office",
+    "address": "563 Paterson St, New Brunswick, NJ 08901",
+    "phone": "(732) 519-3200",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Middlesex County Clerk",
+    "address": "75 Bayard St, New Brunswick, NJ 08901",
+    "phone": "(732) 745-4202",
+    "website": "https://www.middlesexcountynj.gov/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "New Brunswick Police Department",
+      "address": "25 Kirkpatrick St, New Brunswick, NJ 08901",
+      "phone": "(732) 745-5200"
+    },
+    "countyPolice": {
+      "name": "Middlesex County Sheriff's Office",
+      "address": "701 Jersey Ave, New Brunswick, NJ 08901",
+      "phone": "(732) 745-3277"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses",
+    "universityArea": "Extra enforcement near Rutgers University"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and garage parking",
+      "cost": "$5-15"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and train including Northeast Corridor",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

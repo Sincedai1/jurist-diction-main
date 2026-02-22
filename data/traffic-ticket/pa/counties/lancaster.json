@@ -1,0 +1,102 @@
+{
+  "name": "Lancaster County",
+  "countySeat": "Lancaster",
+  "population": "545,847",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Lancaster County Magisterial District Courts",
+      "address": "50 North Duke Street, Lancaster, PA 17602",
+      "phone": "(717) 299-8200",
+      "hours": "Monday-Friday 8:30 AM - 5:00 PM",
+      "website": "https://www.co.lancaster.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Lancaster County",
+      "address": "50 North Duke Street, Lancaster, PA 17602",
+      "phone": "(717) 299-8200",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Lancaster County District Attorney's Office",
+    "address": "50 North Duke Street, Lancaster, PA 17602",
+    "phone": "(717) 299-8300",
+    "trafficDivisionContact": "(717) 299-8300"
+  },
+  "publicDefender": {
+    "office": "Lancaster County Public Defender",
+    "address": "50 North Duke Street, Lancaster, PA 17602",
+    "phone": "(717) 299-8400",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Lancaster County Clerk of Courts",
+    "address": "50 North Duke Street, Lancaster, PA 17602",
+    "phone": "(717) 299-8200",
+    "website": "https://www.co.lancaster.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Lancaster County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Lancaster City Police Department",
+      "address": "39 West Chestnut Street, Lancaster, PA 17603",
+      "phone": "(717) 735-3300",
+      "recordsRequest": "(717) 735-3300"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Lancaster Station",
+      "address": "2099 Lincoln Highway East, Lancaster, PA 17602",
+      "phone": "(717) 299-7651"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Lancaster County",
+    "speedCameras": "Not currently used in Lancaster County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-15 for court appearance",
+      "note": "Paid parking in downtown Lancaster"
+    },
+    "publicTransit": {
+      "service": "Red Rose Transit Authority (RRTA)",
+      "routes": "Bus service throughout Lancaster County",
+      "website": "https://www.redrosetransit.com"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "county": "Washington",
+  "countySeat": "Jonesborough",
+  "judicialDistrict": "1st Judicial District",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "criminalCourt": {
+      "name": "Washington County Criminal Court",
+      "address": "Jonesborough Courthouse",
+      "city": "Jonesborough",
+      "state": "TN",
+      "zip": "XXXXX",
+      "phone": "(423) XXX-XXXX",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "Contact Jonesborough County Clerk"
+    },
+    "generalSessions": {
+      "name": "Washington County General Sessions Court",
+      "address": "Jonesborough Courthouse",
+      "city": "Jonesborough",
+      "state": "TN",
+      "zip": "XXXXX",
+      "phone": "(423) XXX-XXXX",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Washington County Circuit Court Clerk",
+    "address": "Jonesborough Courthouse",
+    "city": "Jonesborough",
+    "state": "TN",
+    "zip": "XXXXX",
+    "phone": "(423) XXX-XXXX",
+    "email": "clerk@washingtoncountytn.gov",
+    "expungementInfo": "Contact clerk's office for expungement information"
+  },
+  "districtAttorney": {
+    "office": "Washington County District Attorney's Office",
+    "name": "District Attorney General",
+    "address": "Jonesborough, TN",
+    "phone": "(423) XXX-XXXX"
+  },
+  "fees": {
+    "filingFee": 0,
+    "administrativeFee": 0,
+    "certificationFee": 5,
+    "copyFee": 0.5,
+    "notes": "State expungement fees were eliminated in 2024. Some counties may charge administrative processing fees."
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at the Circuit Court Clerk's office in Jonesborough",
+    "hoursForFiling": "Monday-Friday 8:00 AM - 4:00 PM",
+    "daNotification": "Petitioner must serve a copy of the petition on the District Attorney's office",
+    "daServiceAddress": "District Attorney's Office, Jonesborough, TN",
+    "hearingRequired": "Hearings may be required for felony expungements; misdemeanors often processed without hearing",
+    "hearingLocation": "If hearing required, will be at Washington County Criminal Court",
+    "specialNotes": [
+      "Contact clerk's office for current forms and procedures",
+      "Proof of DA service typically required",
+      "Processing times vary by case complexity"
+    ]
+  },
+  "timeline": {
+    "processingTime": "30-60 days for uncontested expungements",
+    "daResponsePeriod": "30 days",
+    "hearingNotice": "2-4 weeks advance notice if hearing required"
+  },
+  "forms": {
+    "whereToObtain": "Available at Clerk's office or contact for current forms",
+    "onlineForms": "Contact clerk's office for form availability",
+    "requiredForms": [
+      "Petition for Expungement",
+      "Order of Expungement"
+    ],
+    "additionalForms": [
+      "Certificate of Service (proof of DA service)",
+      "Affidavit of Indigency (if requesting fee waiver)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Aid of East Tennessee - Johnson City",
+        "address": "211 E Watauga Ave",
+        "city": "Johnson City",
+        "phone": "(423) 928-5252",
+        "website": "https://www.laet.org"
+      },
+      {
+        "name": "Jonesborough Bar Association Lawyer Referral",
+        "phone": "Contact local bar association"
+      }
+    ],
+    "selfHelp": {
+      "name": "Washington County Law Library",
+      "location": "Jonesborough Courthouse",
+      "hours": "Contact for hours",
+      "services": "Legal research assistance, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinic": {
+      "schedule": "Contact local legal aid for clinic schedules",
+      "services": "Free legal assistance with expungement paperwork"
+    },
+    "reentryProgram": {
+      "name": "Washington County Reentry Services",
+      "services": "Contact local agencies for reentry assistance"
+    }
+  },
+  "notes": [
+    "Washington County is part of the 1st Judicial District",
+    "Contact clerk's office for specific local procedures",
+    "State law governs expungement eligibility"
+  ]
+}

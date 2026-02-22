@@ -1,0 +1,377 @@
+{
+  "jurisdiction": "Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "title": "Pennsylvania Landlord-Tenant Law Reference",
+  "disclaimer": "This is informational only and does not constitute legal advice. Consult a licensed attorney for legal guidance.",
+  "statutes": {
+    "landlordTenantAct": {
+      "name": "Landlord-Tenant Act of 1951",
+      "code": "68 P.S. 250.101 et seq.",
+      "appliesTo": "All Pennsylvania counties",
+      "sections": {
+        "250.101": {
+          "title": "Short Title",
+          "summary": "This act shall be known as the 'Landlord and Tenant Act of 1951'"
+        },
+        "250.201": {
+          "title": "Rights of Tenant",
+          "summary": "Tenant has right to possession for the term of the lease, subject to lease conditions",
+          "tenantRights": [
+            "Right to peaceful possession during lease term",
+            "Right to proper notice before eviction",
+            "Right to return of security deposit"
+          ]
+        },
+        "250.202": {
+          "title": "Rights of Landlord",
+          "summary": "Landlord may recover possession for non-payment, lease violation, or end of term",
+          "keyPoints": [
+            "Must follow legal process for eviction",
+            "Self-help evictions prohibited",
+            "May recover unpaid rent and damages"
+          ]
+        },
+        "250.203": {
+          "title": "Notice to Vacate",
+          "summary": "Required notice periods for various eviction types",
+          "noticePeriods": {
+            "nonpayment": "10 days written notice",
+            "leaseViolation": "15 days written notice (or as specified in lease)",
+            "holdover": "Notice required per lease terms or 30 days for month-to-month"
+          }
+        },
+        "250.204": {
+          "title": "Service of Notice",
+          "summary": "Methods for serving notice on tenant",
+          "validMethods": [
+            "Personal service on tenant",
+            "Posting on premises AND mailing to tenant",
+            "Certified mail with return receipt"
+          ]
+        },
+        "250.206": {
+          "title": "Recovery of Possession",
+          "summary": "Landlord must use judicial process to recover possession",
+          "prohibitedActions": [
+            "Self-help evictions are ILLEGAL",
+            "Cannot change locks",
+            "Cannot shut off utilities",
+            "Cannot remove tenant belongings",
+            "Cannot use force or threats"
+          ]
+        },
+        "250.301": {
+          "title": "Security Deposits",
+          "summary": "Rules governing security deposits",
+          "keyPoints": [
+            "Escrow required in approved financial institution",
+            "Must return within 30 days of lease termination",
+            "Written itemized list required for any deductions",
+            "May not withhold for normal wear and tear",
+            "Wrongful withholding = double damages possible"
+          ]
+        },
+        "250.511": {
+          "title": "Landlord's Liability for Non-Delivery",
+          "summary": "Landlord liability for failing to deliver possession"
+        }
+      }
+    },
+    "impliedWarranty": {
+      "name": "Implied Warranty of Habitability",
+      "citation": "Pugh v. Holmes, 486 Pa. 272 (1979)",
+      "summary": "Pennsylvania recognizes implied warranty of habitability in residential leases",
+      "requirements": [
+        "Weatherproof and watertight",
+        "Plumbing and heating in working order",
+        "Adequate water supply",
+        "Electric lighting in working order",
+        "Clean and sanitary condition",
+        "Safe structural components"
+      ],
+      "tenantRemedies": [
+        "Withhold rent (after proper notice to landlord)",
+        "Repair and deduct",
+        "Terminate lease",
+        "Sue for damages"
+      ]
+    },
+    "selfHelpEviction": {
+      "name": "Self-Help Eviction Prohibition",
+      "code": "68 P.S. 250.206",
+      "summary": "Landlords cannot use self-help methods to remove tenants",
+      "prohibitedActions": [
+        "Changing locks without court order",
+        "Removing doors or windows",
+        "Shutting off utilities (water, electric, gas)",
+        "Removing tenant's belongings",
+        "Threatening or harassing tenant",
+        "Using force to remove tenant"
+      ],
+      "remedies": [
+        "Tenant may sue for damages",
+        "Recovery of actual damages",
+        "Possible punitive damages",
+        "Attorney fees may be awarded",
+        "May constitute criminal offense"
+      ]
+    },
+    "retaliatoryEviction": {
+      "name": "Retaliatory Eviction Protection",
+      "citation": "Common Law / Jacobs v. Nether Inn, Inc.",
+      "summary": "Landlord cannot evict in retaliation for tenant exercising legal rights",
+      "protectedActivities": [
+        "Complaining about housing code violations",
+        "Reporting health or safety violations",
+        "Joining or organizing tenant unions",
+        "Exercising rights under lease or law",
+        "Withholding rent for habitability issues"
+      ],
+      "presumption": "Rebuttable presumption of retaliation if eviction within reasonable time after protected activity"
+    },
+    "noticePeriods": {
+      "name": "Required Notice Periods",
+      "summary": "Minimum notice periods required under Pennsylvania law",
+      "periods": {
+        "nonpayment": {
+          "days": 10,
+          "type": "Written notice to pay or vacate",
+          "notes": "Tenant may cure by paying all rent due within the 10-day period",
+          "mustInclude": [
+            "Amount of rent owed",
+            "Demand for payment or possession",
+            "Date by which payment must be made"
+          ]
+        },
+        "leaseViolation": {
+          "days": 15,
+          "type": "Written notice to cure or vacate",
+          "notes": "Must specify the nature of the violation",
+          "exceptions": "Lease may specify different period"
+        },
+        "holdover": {
+          "days": 30,
+          "type": "Written notice to vacate",
+          "notes": "For month-to-month tenancies; must be full rental period"
+        },
+        "expiration": {
+          "days": 0,
+          "type": "No notice required for fixed-term lease expiration",
+          "notes": "Tenant must vacate at end of lease term unless renewed"
+        }
+      }
+    },
+    "courtSystem": {
+      "name": "Pennsylvania Court System for Landlord-Tenant",
+      "summary": "Two-tier system for eviction proceedings",
+      "courts": {
+        "magisterialDistrict": {
+          "name": "Magisterial District Court",
+          "description": "Initial filing location for eviction cases",
+          "jurisdiction": "Landlord-tenant disputes up to $12,000",
+          "procedures": [
+            "Complaint filed by landlord",
+            "Hearing within 7-15 days typically",
+            "No jury trial at this level",
+            "Informal procedures",
+            "Appeal de novo to Common Pleas"
+          ]
+        },
+        "commonPleas": {
+          "name": "Court of Common Pleas",
+          "description": "Appeals court and higher value cases",
+          "jurisdiction": "Appeals from Magisterial District Court",
+          "procedures": [
+            "Appeal must be filed within 30 days",
+            "De novo hearing (new trial)",
+            "Jury trial available",
+            "More formal procedures",
+            "Must post supersedeas bond to stay eviction"
+          ]
+        }
+      }
+    },
+    "appeals": {
+      "name": "Appeal Rights",
+      "code": "Pa.R.C.P. 1001 et seq.",
+      "summary": "Right to appeal Magisterial District Court judgment",
+      "keyPoints": [
+        "30 days to file appeal",
+        "Must file in Common Pleas Court",
+        "Supersedeas bond required to stay eviction",
+        "Bond typically equals judgment plus costs",
+        "De novo hearing in Common Pleas"
+      ]
+    },
+    "fairHousing": {
+      "name": "Fair Housing Protections",
+      "citation": "PA Human Relations Act, 43 P.S. 955",
+      "protectedClasses": [
+        "Race",
+        "Color",
+        "Religion",
+        "Sex",
+        "Familial status",
+        "National origin",
+        "Disability",
+        "Age (40+)",
+        "Ancestry"
+      ]
+    }
+  },
+  "defenseStrategies": {
+    "nonpayment": {
+      "name": "Non-Payment of Rent",
+      "defenses": [
+        {
+          "defense": "Improper Notice",
+          "description": "Landlord failed to provide required 10-day written notice",
+          "citation": "68 P.S. 250.203",
+          "howToRaise": "File answer alleging insufficient notice; request dismissal"
+        },
+        {
+          "defense": "Payment Made",
+          "description": "All rent due was paid within the 10-day notice period",
+          "citation": "68 P.S. 250.203",
+          "howToRaise": "Provide receipts showing payment before deadline"
+        },
+        {
+          "defense": "Breach of Warranty of Habitability",
+          "description": "Premises not maintained in habitable condition",
+          "citation": "Pugh v. Holmes, 486 Pa. 272 (1979)",
+          "howToRaise": "Document conditions; show landlord was notified; may justify rent withholding"
+        },
+        {
+          "defense": "Acceptance of Partial Payment",
+          "description": "Landlord accepted partial payment after notice, waiving right to evict",
+          "citation": "Common law",
+          "howToRaise": "Show acceptance of payment after notice was served"
+        },
+        {
+          "defense": "Improper Calculation",
+          "description": "Amount claimed includes improper charges (late fees not in lease, normal wear deductions)",
+          "citation": "Contract law",
+          "howToRaise": "Review lease terms; challenge improper fees"
+        },
+        {
+          "defense": "Retaliation",
+          "description": "Eviction filed in response to tenant exercising legal rights",
+          "citation": "Common law",
+          "howToRaise": "Show timing between protected activity and eviction filing"
+        },
+        {
+          "defense": "Security Deposit Offset",
+          "description": "Landlord failed to return security deposit or provide itemization within 30 days",
+          "citation": "68 P.S. 250.512",
+          "howToRaise": "May claim double damages for wrongfully withheld deposit"
+        }
+      ]
+    },
+    "leaseViolation": {
+      "name": "Lease Violation",
+      "defenses": [
+        {
+          "defense": "Improper Notice",
+          "description": "Landlord failed to provide required 15-day written notice",
+          "citation": "68 P.S. 250.203",
+          "howToRaise": "File answer alleging insufficient notice period"
+        },
+        {
+          "defense": "Violation Cured",
+          "description": "Tenant cured the violation within notice period",
+          "citation": "68 P.S. 250.203",
+          "howToRaise": "Document compliance; show violation was remedied"
+        },
+        {
+          "defense": "No Actual Violation",
+          "description": "Alleged violation did not occur or does not violate lease",
+          "citation": "Contract law",
+          "howToRaise": "Review lease terms; present evidence disproving violation"
+        },
+        {
+          "defense": "Selective Enforcement",
+          "description": "Landlord enforces provision against tenant but not others",
+          "citation": "Equitable principles",
+          "howToRaise": "Document inconsistent enforcement of lease terms"
+        },
+        {
+          "defense": "Landlord Breach First",
+          "description": "Landlord breached lease before alleged tenant violation",
+          "citation": "Contract law",
+          "howToRaise": "Document landlord's prior breach"
+        },
+        {
+          "defense": "Unconscionable Lease Term",
+          "description": "The lease provision being enforced is unconscionable",
+          "citation": "Contract law",
+          "howToRaise": "Show provision is unfair or hidden in lease"
+        }
+      ]
+    },
+    "holdover": {
+      "name": "Holdover Tenant",
+      "defenses": [
+        {
+          "defense": "Improper Notice",
+          "description": "Landlord failed to provide required 30-day notice to terminate month-to-month",
+          "citation": "68 P.S. 250.203",
+          "howToRaise": "Challenge notice adequacy and timing"
+        },
+        {
+          "defense": "Lease Extension Created",
+          "description": "Landlord's actions created a new tenancy period",
+          "citation": "Common law",
+          "howToRaise": "Show acceptance of rent after lease end; evidence of renewal agreement"
+        },
+        {
+          "defense": "Estoppel",
+          "description": "Landlord's conduct led tenant to believe tenancy would continue",
+          "citation": "Equitable principles",
+          "howToRaise": "Document landlord's assurances or conduct"
+        }
+      ]
+    }
+  },
+  "resources": {
+    "legalAid": {
+      "statewide": {
+        "name": "Pennsylvania Legal Aid Network",
+        "website": "https://www.palawhelp.org",
+        "phone": "1-800-322-7572"
+      },
+      "philadelphia": {
+        "name": "Community Legal Services of Philadelphia",
+        "address": "1424 Chestnut Street, Philadelphia, PA 19102",
+        "phone": "215-981-3700",
+        "website": "https://www.clsphila.org"
+      },
+      "allegheny": {
+        "name": "Neighborhood Legal Services Association",
+        "address": "925 Penn Avenue, Suite 600, Pittsburgh, PA 15222",
+        "phone": "412-255-6700",
+        "website": "https://www.nlsa.us"
+      }
+    },
+    "tenantOrganizations": {
+      "statewide": {
+        "name": "Housing Alliance of Pennsylvania",
+        "website": "https://www.housingalliancepa.org",
+        "description": "Advocacy and resources for affordable housing"
+      },
+      "philadelphia": {
+        "name": "Philadelphia Tenant Union",
+        "description": "Tenant organizing and advocacy"
+      }
+    },
+    "courtSystems": {
+      "general": "Magisterial District Courts handle initial eviction cases",
+      "appeals": "Court of Common Pleas hears appeals within 30 days"
+    },
+    "tenantProtectionHighlights": [
+      "Strong implied warranty of habitability established by case law",
+      "Self-help evictions strictly prohibited",
+      "30-day return requirement for security deposits with potential double damages",
+      "Extensive fair housing protections including age and ancestry"
+    ]
+  }
+}

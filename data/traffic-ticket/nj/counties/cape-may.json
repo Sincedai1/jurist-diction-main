@@ -1,0 +1,106 @@
+{
+  "name": "Cape May County",
+  "countySeat": "Cape May Court House",
+  "population": "95,263",
+  "courts": {
+    "municipal": {
+      "name": "Lower Township Municipal Court (and other municipal courts)",
+      "address": "2600 Bayshore Rd, Villas, NJ 08251",
+      "phone": "(609) 886-2137",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.lowertownship.com/municipal-court",
+      "note": "16 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Cape May County Superior Court",
+      "address": "9 N Main St, Cape May Court House, NJ 08210",
+      "phone": "(609) 465-1100",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Cape May County Prosecutor's Office",
+    "address": "4 Moore Rd, Cape May Court House, NJ 08210",
+    "phone": "(609) 465-1135",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Cape May County Public Defender's Office",
+    "address": "9 N Main St, Cape May Court House, NJ 08210",
+    "phone": "(609) 465-1100",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Cape May County Clerk",
+    "address": "7 N Main St, Cape May Court House, NJ 08210",
+    "phone": "(609) 465-1013",
+    "website": "https://www.capemaycountyclerk.com/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Cape May County Prosecutor's Office - Law Enforcement",
+      "address": "4 Moore Rd, Cape May Court House, NJ 08210",
+      "phone": "(609) 465-1135"
+    },
+    "countyPolice": {
+      "name": "Cape May County Sheriff's Office",
+      "address": "4 Moore Rd, Cape May Court House, NJ 08210",
+      "phone": "(609) 463-4660"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop A",
+      "phone": "(609) 861-2400"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses",
+    "touristAreas": "Higher enforcement during summer months"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and lot parking",
+      "cost": "$5-10"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus service to shore points",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

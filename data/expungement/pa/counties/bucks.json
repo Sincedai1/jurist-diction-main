@@ -1,0 +1,79 @@
+{
+  "county": "Bucks",
+  "countySeat": "Doylestown",
+  "judicialDistrict": "7th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Bucks County",
+      "address": "100 North Main Street",
+      "city": "Doylestown",
+      "state": "PA",
+      "zip": "18901",
+      "phone": "(215) 348-6000",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Bucks County Clerk of Courts",
+    "address": "100 North Main Street",
+    "city": "Doylestown",
+    "state": "PA",
+    "zip": "18901",
+    "phone": "(215) 348-6100",
+    "website": "https://www.buckscounty.gov"
+  },
+  "districtAttorney": {
+    "office": "Bucks County District Attorney's Office",
+    "address": "100 North Main Street",
+    "city": "Doylestown",
+    "state": "PA",
+    "zip": "18901",
+    "phone": "(215) 348-6500"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "certificationFee": 5,
+    "copyFee": 0.25,
+    "notes": "Bucks County follows PA Clean Slate Act. Filing fees may apply for certain petition-based expungements."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "verification": "Check status through PA State Police or PAeDocket",
+    "automaticSealing": "Court system automatically processes eligible records"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at the Clerk of Courts office",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 4:00 PM",
+    "daNotification": "Court will forward copy to District Attorney's office",
+    "daResponsePeriod": "30 days for DA to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions"
+  },
+  "timeline": {
+    "processingTime": "30-90 days for uncontested expungements",
+    "daResponsePeriod": "30 days",
+    "cleanSlateProcessing": "Automatic sealing processed on rolling basis"
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Bucks County Legal Aid",
+        "phone": "(215) 781-6400",
+        "website": "https://www.buckslegal.org",
+        "services": "Free legal assistance for eligible individuals"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtPortal": "https://ujsportal.pacourts.us",
+    "courtWebsite": "https://www.buckscounty.gov",
+    "statePoliceRecords": "https://www.psp.pa.gov"
+  },
+  "notes": [
+    "Bucks County follows Pennsylvania Clean Slate Act",
+    "Clean Slate automatic sealing is implemented",
+    "Contact Clerk of Courts for specific filing requirements"
+  ]
+}

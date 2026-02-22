@@ -1,0 +1,102 @@
+{
+  "name": "Elk County",
+  "countySeat": "Ridgway",
+  "population": "30,990",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Elk County Magisterial District Court",
+      "address": "100 Main Street, Ridgway, PA 15853",
+      "phone": "(814) 776-1100",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.co.elk.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Elk County",
+      "address": "100 Main Street, Ridgway, PA 15853",
+      "phone": "(814) 776-1100",
+      "note": "Appeals from Magisterial District Court"
+    }
+  },
+  "districtAttorney": {
+    "office": "Elk County District Attorney's Office",
+    "address": "100 Main Street, Ridgway, PA 15853",
+    "phone": "(814) 776-1120",
+    "trafficDivisionContact": "(814) 776-1120"
+  },
+  "publicDefender": {
+    "office": "Elk County Public Defender",
+    "address": "100 Main Street, Ridgway, PA 15853",
+    "phone": "(814) 776-1130",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Elk County Clerk of Courts",
+    "address": "100 Main Street, Ridgway, PA 15853",
+    "phone": "(814) 776-1100",
+    "website": "https://www.co.elk.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Elk County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Ridgway Police Department",
+      "address": "108 Main Street, Ridgway, PA 15853",
+      "phone": "(814) 776-1111",
+      "recordsRequest": "(814) 776-1111"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Ridgway Station",
+      "address": "333 Hydra Drive, Ridgway, PA 15853",
+      "phone": "(814) 776-6131"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Elk County",
+    "speedCameras": "Not currently used in Elk County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking available"
+    },
+    "publicTransit": {
+      "service": "No public transit available",
+      "routes": "N/A",
+      "website": "N/A"
+    }
+  }
+}

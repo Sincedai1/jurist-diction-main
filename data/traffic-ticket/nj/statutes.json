@@ -1,0 +1,341 @@
+{
+  "title": "New Jersey Motor Vehicle Statutes (N.J.S.A. Title 39)",
+  "description": "Key New Jersey Statutes Annotated traffic provisions for defense packet generation",
+  "disclaimer": "This is informational only and not legal advice. Statutes may have been amended. Always verify current law.",
+  "lastUpdated": "2026-02-21",
+  "statutes": {
+    "speeding": {
+      "code": "N.J.S.A. 39:4-98",
+      "title": "Speed regulations",
+      "description": "Establishes speed limits on New Jersey highways and roads",
+      "defensePoints": [
+        "Calibration of speed measurement device (requires calibration within 5 days in NJ)",
+        "Officer training and certification",
+        "Road conditions at time of violation",
+        "Signage visibility and placement",
+        "Speed limit posting requirements"
+      ],
+      "relatedStatutes": [
+        "N.J.S.A. 39:4-97 (Careful driving)",
+        "N.J.S.A. 39:4-99 (Establishment of speed zones)",
+        "N.J.S.A. 39:4-100 (Speed signs)"
+      ],
+      "points": {
+        "1-14_over": 2,
+        "15-29_over": 4,
+        "30+_over": 5
+      },
+      "typicalFine": "50-200+ depending on speed and location (plus court costs)",
+      "mandatoryCourtAppearance": "Required for 20+ mph over limit in 65 mph zones or 25+ in other zones"
+    },
+    "recklessDriving": {
+      "code": "N.J.S.A. 39:4-96",
+      "title": "Reckless driving",
+      "description": "Operating a vehicle heedlessly in willful disregard of rights of others",
+      "defensePoints": [
+        "Lack of willful or wanton conduct",
+        "Emergency circumstances",
+        "Road conditions necessitating actions",
+        "Witness testimony to actual driving",
+        "Definition of 'willful disregard'"
+      ],
+      "classification": "Motor Vehicle Violation (not criminal in NJ)",
+      "mandatoryCourtAppearance": true,
+      "penalties": {
+        "maxFine": "$200",
+        "maxJail": "60 days (municipal court)",
+        "licenseSuspension": "Possible up to 90 days (judge discretion)"
+      },
+      "points": 5,
+      "typicalFine": "50-200"
+    },
+    "carelessDriving": {
+      "code": "N.J.S.A. 39:4-97",
+      "title": "Careless driving",
+      "description": "Driving without due caution and circumspection",
+      "defensePoints": [
+        "Driving was reasonable under circumstances",
+        "No actual danger was created",
+        "Weather or road conditions",
+        "Witness testimony"
+      ],
+      "classification": "Motor Vehicle Violation",
+      "points": 2,
+      "typicalFine": "50-200"
+    },
+    "unsafeDriving": {
+      "code": "N.J.S.A. 39:4-97.2",
+      "title": "Unsafe driving statute",
+      "description": "Plea option that avoids points with surcharge",
+      "defensePoints": [
+        "May be offered as plea bargain from more serious charge",
+        "Limited to two uses per five years",
+        "Includes mandatory surcharge of $250-400"
+      ],
+      "points": 0,
+      "typicalFine": "50-150 + $250-400 surcharge",
+      "note": "Commonly used plea bargain option in NJ"
+    },
+    "suspendedLicense": {
+      "code": "N.J.S.A. 39:3-40",
+      "title": "Driving while license suspended",
+      "description": "Operating a vehicle with a suspended, revoked, or cancelled license",
+      "defensePoints": [
+        "Knowledge of suspension (or lack thereof)",
+        "Administrative error",
+        "Proper notice not received",
+        "Compliance with reinstatement requirements",
+        "Emergency circumstances"
+      ],
+      "classification": {
+        "first_offense": "Disorderly Persons Offense",
+        "second_offense": "Disorderly Persons Offense"
+      },
+      "mandatoryCourtAppearance": true,
+      "penalties": {
+        "first_offense": {
+          "maxFine": "$500",
+          "additional_suspension": "6 months to 1 year",
+          "insurance_surcharge": "$250/year for 3 years"
+        },
+        "second_offense": {
+          "minJail": "1-5 days",
+          "maxFine": "$750",
+          "additional_suspension": "1-2 years"
+        },
+        "third_offense": {
+          "minJail": "10 days",
+          "maxFine": "$1,000",
+          "additional_suspension": "2+ years"
+        }
+      },
+      "points": 0,
+      "typicalFine": "500-1,000"
+    },
+    "noInsurance": {
+      "code": "N.J.S.A. 39:6B-2",
+      "title": "Failure to maintain liability insurance",
+      "description": "Operating a vehicle without required liability insurance",
+      "defensePoints": [
+        "Proof of coverage at time of stop",
+        "Insurance lapse was brief and unintentional",
+        "Vehicle was not being operated",
+        "Administrative error by insurance company"
+      ],
+      "classification": "Motor Vehicle Violation",
+      "mandatoryCourtAppearance": true,
+      "penalties": {
+        "first_offense": {
+          "minFine": "$300",
+          "maxFine": "$1,000",
+          "licenseSuspension": "1 year",
+          "communityService": "Possible"
+        },
+        "second_offense": {
+          "minFine": "$500",
+          "maxFine": "$5,000",
+          "minJail": "14 days",
+          "licenseSuspension": "2 years"
+        }
+      },
+      "points": 9,
+      "typicalFine": "300-1,000",
+      "requirements": {
+        "minimum_coverage": {
+          "bodily_injury_per_person": "$15,000",
+          "bodily_injury_per_accident": "$30,000",
+          "property_damage": "$5,000",
+          "PIP": "$15,000",
+          "uninsured_motorist": "$15,000/$30,000"
+        }
+      }
+    },
+    "improperLaneChange": {
+      "code": "N.J.S.A. 39:4-88",
+      "title": "Traffic on marked lanes",
+      "description": "Requirements for safe lane changes and passing",
+      "defensePoints": [
+        "Lane change was made safely",
+        "Signal was given as required",
+        "Visibility and road conditions",
+        "Necessity of maneuver",
+        "Witness testimony"
+      ],
+      "points": 2,
+      "typicalFine": "50-150"
+    },
+    "failureToYield": {
+      "code": "N.J.S.A. 39:4-90",
+      "title": "Right of way at intersections",
+      "description": "Requirements for yielding right-of-way in various situations",
+      "defensePoints": [
+        "Right-of-way was not actually required",
+        "Other driver was not in hazardous proximity",
+        "Emergency circumstances",
+        "Traffic signal confusion",
+        "Witness testimony"
+      ],
+      "points": 2,
+      "typicalFine": "50-150",
+      "mandatoryCourtAppearance": "Required if accident involved"
+    },
+    "followingTooClose": {
+      "code": "N.J.S.A. 39:4-89",
+      "title": "Tailgating",
+      "description": "Requirements for maintaining safe following distance",
+      "defensePoints": [
+        "Distance was reasonable for conditions",
+        "Other vehicle made sudden stop",
+        "Weather and road conditions",
+        "Traffic flow considerations",
+        "No accident occurred"
+      ],
+      "points": 5,
+      "typicalFine": "50-200"
+    },
+    "failureToSignal": {
+      "code": "N.J.S.A. 39:4-85",
+      "title": "Signals for turning and stopping",
+      "description": "Requirements for turn and stop signals",
+      "defensePoints": [
+        "Signal was given but not observed",
+        "Signal mechanism malfunction",
+        "Turn was not required in that location",
+        "Other drivers were aware of intentions",
+        "Mechanical failure documentation"
+      ],
+      "points": 2,
+      "typicalFine": "25-100"
+    },
+    "runningRedLight": {
+      "code": "N.J.S.A. 39:4-105",
+      "title": "Traffic signals",
+      "description": "Requirements for obeying traffic signals",
+      "defensePoints": [
+        "Light was yellow when entering intersection",
+        "Signal timing malfunction",
+        "Emergency circumstances",
+        "Visibility issues (sun glare, etc.)",
+        "Camera calibration (if applicable)"
+      ],
+      "points": 2,
+      "typicalFine": "50-200",
+      "mandatoryCourtAppearance": "Required in some municipalities"
+    },
+    "stopSign": {
+      "code": "N.J.S.A. 39:4-144",
+      "title": "Obedience to stop signs",
+      "description": "Requirements for stopping at stop signs",
+      "defensePoints": [
+        "Complete stop was made",
+        "Stop sign visibility",
+        "Sign not properly posted",
+        "Officer's view obstructed"
+      ],
+      "points": 2,
+      "typicalFine": "50-200"
+    },
+    "expiredRegistration": {
+      "code": "N.J.S.A. 39:3-4",
+      "title": "Registration required",
+      "description": "Requirements for current vehicle registration",
+      "defensePoints": [
+        "Registration was current (documentation error)",
+        "Mailed renewal not received",
+        "Brief expiration period",
+        "Newly purchased vehicle",
+        "Administrative delay"
+      ],
+      "points": 0,
+      "typicalFine": "54-100"
+    },
+    "equipmentViolation": {
+      "code": "Various - Title 39 Chapter 3",
+      "title": "Equipment violations",
+      "description": "Various equipment-related violations",
+      "subcategories": {
+        "headlights": {
+          "code": "N.J.S.A. 39:3-50",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "taillights": {
+          "code": "N.J.S.A. 39:3-61",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "brakeLights": {
+          "code": "N.J.S.A. 39:3-55",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "windshield": {
+          "code": "N.J.S.A. 39:3-74",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "muffler": {
+          "code": "N.J.S.A. 39:3-72",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "tint": {
+          "code": "N.J.S.A. 39:3-74.1",
+          "points": 0,
+          "fine": "50-150"
+        },
+        "inspection": {
+          "code": "N.J.S.A. 39:8-1",
+          "points": 0,
+          "fine": "100-200"
+        }
+      },
+      "defensePoints": [
+        "Equipment was functioning at time of stop",
+        "Defect was unknown to driver",
+        "Immediate repair documentation",
+        "Manufacturer defect"
+      ]
+    }
+  },
+  "pointSystem": {
+    "description": "New Jersey Point System for Moving Violations",
+    "suspensionThresholds": {
+      "12_points": "License suspension",
+      "point_accrual": "Points accumulate on license"
+    },
+    "consequences": {
+      "12+_points": "License suspended",
+      "insurance_surcharges": "Additional fees for 6+ point violations"
+    },
+    "pointReduction": {
+      "description": "Points can be reduced through safe driving and defensive driving courses",
+      "safeDrivingPeriod": "3 points deducted for 12 months violation-free",
+      "defensiveDriving": "2 points deducted for completing approved course",
+      "maxReductionPerYear": "7 points total maximum reduction"
+    },
+    "insuranceSurcharges": {
+      "6-9_points": "$150/year for 3 years",
+      "9-12_points": "$250/year for 3 years",
+      "12+_points": "$300/year for 3 years"
+    }
+  },
+  "generalProcedures": {
+    "contestTimeline": "Generally must appear or respond by court date on summons",
+    "courtOptions": [
+      "Pay the fine (admission of guilt)",
+      "Request court hearing (plead not guilty)",
+      "Plea to unsafe driving (39:4-97.2) if eligible",
+      "Request discovery before trial"
+    ],
+    "mandatoryCourtAppearanceNote": "New Jersey requires mandatory court appearances for many violations including speeding 20+ over in 65 zones, reckless driving, driving while suspended, and no insurance",
+    "unsafeDrivingStatute": {
+      "description": "NJ's unique plea bargain option that avoids points",
+      "limitations": [
+        "Can only use twice in 5 years",
+        "Includes mandatory surcharge ($250 first, $400 second)",
+        "Third offense within 5 years results in 4 points"
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "county": "Erie",
+  "countySeat": "Erie",
+  "judicialDistrict": "2nd Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Erie County",
+      "address": "140 West 6th Street",
+      "city": "Erie",
+      "state": "PA",
+      "zip": "16501",
+      "phone": "(814) 451-6200"
+    }
+  },
+  "clerkInformation": {
+    "name": "Erie County Clerk of Courts",
+    "address": "140 West 6th Street",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16501",
+    "phone": "(814) 451-6200",
+    "website": "https://www.eriecountypa.gov"
+  },
+  "districtAttorney": {
+    "office": "Erie County District Attorney's Office",
+    "phone": "(814) 451-6300"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Erie County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Northwestern Legal Services",
+        "phone": "(814) 452-6946"
+      }
+    ]
+  },
+  "notes": [
+    "Erie County follows Pennsylvania Clean Slate Act"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "name": "Shelby County",
+  "countySeat": "Memphis",
+  "population": "929,744",
+  "courts": {
+    "generalSessions": {
+      "name": "Shelby County General Sessions Court - Civil Division",
+      "address": "140 Adams Ave, Memphis, TN 38103",
+      "phone": "(901) 222-3400",
+      "hours": "Monday-Friday 8:30 AM - 5:00 PM",
+      "website": "https://www.shelbycountytn.gov/276/General-Sessions-Court",
+      "parking": "Public parking available around the courthouse",
+      "publicTransport": "Accessible via MATA bus system"
+    },
+    "criminalCourt": {
+      "name": "Shelby County Criminal Court",
+      "address": "201 Poplar Ave, Memphis, TN 38103",
+      "phone": "(901) 222-3900",
+      "note": "Handles criminal traffic matters (DUI, reckless driving, etc.)"
+    },
+    "municipal": {
+      "name": "Memphis City Court",
+      "address": "201 Poplar Ave, Memphis, TN 38103",
+      "phone": "(901) 576-8650",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.memphistn.gov/government/city-court/",
+      "note": "Handles city traffic citations within Memphis city limits"
+    },
+    "trafficViolationsBureau": {
+      "name": "Memphis Traffic Violations Bureau",
+      "address": "201 Poplar Ave, Suite LL71, Memphis, TN 38103",
+      "phone": "(901) 576-8650",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "note": "For payment and information on city traffic tickets"
+    },
+    "suburbanMunicipal": {
+      "description": "Suburban municipalities have their own courts",
+      "cities": [
+        {
+          "name": "Bartlett City Court",
+          "address": "5838 Stage Rd, Bartlett, TN 38134",
+          "phone": "(901) 385-5510"
+        },
+        {
+          "name": "Collierville Municipal Court",
+          "address": "156 N Rowlett St, Collierville, TN 38017",
+          "phone": "(901) 457-2280"
+        },
+        {
+          "name": "Germantown Municipal Court",
+          "address": "1930 S Germantown Rd, Germantown, TN 38138",
+          "phone": "(901) 757-7210"
+        },
+        {
+          "name": "Cordova/Cordova Justice Center",
+          "address": "8260 Trinity Rd, Cordova, TN 38018",
+          "phone": "(901) 867-0900"
+        }
+      ]
+    }
+  },
+  "districtAttorney": {
+    "office": "Shelby County District Attorney's Office",
+    "address": "201 Poplar Ave, Suite 301, Memphis, TN 38103",
+    "phone": "(901) 222-1300",
+    "website": "https://www.scdag.com/",
+    "trafficDivision": "Contact main number for traffic matters"
+  },
+  "publicDefender": {
+    "office": "Shelby County Public Defender's Office",
+    "address": "201 Poplar Ave, Suite 401, Memphis, TN 38103",
+    "phone": "(901) 222-3800",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Shelby County Circuit Court Clerk",
+    "address": "140 Adams Ave, Memphis, TN 38103",
+    "phone": "(901) 222-3800",
+    "website": "https://www.shelbycountytn.gov/235/Circuit-Court-Clerk"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "City tickets: 7 days; County tickets: check citation",
+      "process": [
+        "Memphis city tickets: Appear at City Court or plead online",
+        "County tickets: Appear at General Sessions Court",
+        "Request court date at time of appearance",
+        "Discovery requests filed through court clerk"
+      ],
+      "onlinePayment": "https://secure.memphistn.gov/payments/",
+      "pleaOptions": ["Online", "In person", "Mail (notarized plea)"]
+    },
+    "courtDates": {
+      "scheduling": "Court dates typically 4-8 weeks out",
+      "continuances": "Contact court clerk at least 48 hours before court date",
+      "noShow": "Failure to appear results in capias (bench warrant) and license hold"
+    },
+    "diversionProgram": {
+      "name": "Shelby County Judicial Diversion Program",
+      "eligibility": [
+        "First-time offenders",
+        "No prior judicial diversions",
+        "Non-violent traffic offenses",
+        "No DUI or serious bodily injury"
+      ],
+      "requirements": [
+        "Complete defensive driving course",
+        "Pay court costs and diversion fee",
+        "Probation period (typically 11 months 29 days)",
+        "No new violations during probation"
+      ],
+      "cost": "$200-400 depending on offense",
+      "contact": "Shelby County District Attorney's Office - (901) 222-1300"
+    },
+    "trafficSchool": {
+      "approvedProviders": [
+        "Memphis City Schools Adult Education",
+        "National Safety Council",
+        "Tennessee-approved online courses"
+      ],
+      "deadline": "Must complete within time specified by court (usually 90 days)",
+      "cost": "$25-75"
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Memphis Police Department",
+      "address": "170 N Main St, Memphis, TN 38103",
+      "phone": "(901) 545-2677",
+      "recordsRequest": "(901) 636-3638",
+      "website": "https://www.memphistn.gov/government/police-department/"
+    },
+    "highwayPatrol": {
+      "name": "Tennessee Highway Patrol - Memphis District",
+      "address": "6435 Summer Ave, Memphis, TN 38134",
+      "phone": "(901) 543-6221"
+    },
+    "shelbyCountySheriff": {
+      "name": "Shelby County Sheriff's Office",
+      "address": "201 Poplar Ave, Memphis, TN 38103",
+      "phone": "(901) 222-5500",
+      "website": "https://www.shelbycountytn.gov/254/Sheriffs-Office"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended; no shorts, flip flops, or revealing attire",
+    "electronics": "Cell phones permitted but must be silenced",
+    "weapons": "No weapons; courthouse has security screening",
+    "checkIn": "Arrive 30 minutes early for security screening"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines; 25 MPH during school hours",
+    "constructionZones": "Double fines in active construction zones",
+    "redLightCameras": "No longer operational (discontinued 2016)",
+    "speedCameras": "Not used in Shelby County",
+    "photoEnforcement": "Not currently used"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Criminal Justice Center parking garage",
+        "Metered street parking around courthouse",
+        "Private lots within walking distance"
+      ],
+      "cost": "$5-15 for court visit",
+      "note": "Downtown parking can be limited; arrive early"
+    },
+    "publicTransit": {
+      "service": "Memphis Area Transit Authority (MATA)",
+      "routes": "Multiple routes serve downtown area",
+      "website": "https://www.matatransit.com/"
+    }
+  },
+  "additionalResources": {
+    "legalAid": {
+      "name": "Memphis Area Legal Services",
+      "address": "22 N Front St, Memphis, TN 38103",
+      "phone": "(901) 523-8822",
+      "note": "Free legal assistance for qualifying individuals"
+    },
+    "lawyerReferral": {
+      "name": "Memphis Bar Association Lawyer Referral Service",
+      "phone": "(901) 527-3573",
+      "website": "https://www.memphisbar.org/"
+    }
+  }
+}

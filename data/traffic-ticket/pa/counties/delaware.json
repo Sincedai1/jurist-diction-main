@@ -1,0 +1,102 @@
+{
+  "name": "Delaware County",
+  "countySeat": "Media",
+  "population": "576,830",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Delaware County Magisterial District Courts",
+      "address": "201 West Front Street, Media, PA 19063",
+      "phone": "(610) 891-4000",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.delcopa.gov",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Delaware County",
+      "address": "201 West Front Street, Media, PA 19063",
+      "phone": "(610) 891-4000",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Delaware County District Attorney's Office",
+    "address": "201 West Front Street, Media, PA 19063",
+    "phone": "(610) 891-4100",
+    "trafficDivisionContact": "(610) 891-4100"
+  },
+  "publicDefender": {
+    "office": "Delaware County Public Defender",
+    "address": "201 West Front Street, Media, PA 19063",
+    "phone": "(610) 891-4200",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Delaware County Clerk of Courts",
+    "address": "201 West Front Street, Media, PA 19063",
+    "phone": "(610) 891-4000",
+    "website": "https://www.delcopa.gov"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Delaware County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Media Police Department",
+      "address": "599 Baltimore Pike, Media, PA 19063",
+      "phone": "(610) 566-6262",
+      "recordsRequest": "(610) 566-6262"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Media Station",
+      "address": "3400 West Chester Pike, Newtown Square, PA 19073",
+      "phone": "(610) 353-1500"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Delaware County",
+    "speedCameras": "Not currently used in Delaware County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-15 for court appearance",
+      "note": "Paid parking in Media"
+    },
+    "publicTransit": {
+      "service": "SEPTA",
+      "routes": "Regional Rail and bus service",
+      "website": "https://www.septa.org"
+    }
+  }
+}

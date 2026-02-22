@@ -1,0 +1,175 @@
+{
+  "county": "Philadelphia",
+  "countySeat": "Philadelphia",
+  "judicialDistrict": "First Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Philadelphia County",
+      "address": "1301 Filbert Street",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19107",
+      "phone": "(215) 686-8000",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "divisions": [
+        "Criminal Trial Division",
+        "Municipal Court",
+        "Traffic Court"
+      ]
+    },
+    "criminalJusticeCenter": {
+      "name": "Philadelphia Criminal Justice Center",
+      "address": "1301 Filbert Street",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19107",
+      "phone": "(215) 686-8000",
+      "expungementUnit": "Room 268"
+    },
+    "municipalCourt": {
+      "name": "Philadelphia Municipal Court",
+      "address": "1301 Filbert Street",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19107",
+      "phone": "(215) 686-8000",
+      "note": "Handles summary offense expungements"
+    }
+  },
+  "clerkInformation": {
+    "name": "Clerk of Quarter Sessions (Criminal Division)",
+    "address": "1301 Filbert Street, Room 268",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19107",
+    "phone": "(215) 686-8000",
+    "expungementInfo": "https://www.courts.phila.gov",
+    "expungementEmail": "expungements@courts.phila.gov"
+  },
+  "districtAttorney": {
+    "office": "Philadelphia District Attorney's Office",
+    "name": "District Attorney",
+    "address": "3 South Penn Square",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19102",
+    "phone": "(215) 686-8000",
+    "expungementUnit": "Family and Expungement Unit"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "certificationFee": 5,
+    "copyFee": 0.25,
+    "notes": "Philadelphia County has eliminated most expungement filing fees. There is no cost to file an expungement petition. Clean Slate sealing is always free."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Philadelphia processes over 50% of all Pennsylvania expungements",
+    "verification": "Check status at courts.phila.gov or PA State Police",
+    "automaticSealing": "Court system automatically processes eligible records",
+    "contactForIssues": "Contact Expungement Unit if sealed records still appear"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at the Criminal Justice Center, Room 268",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 3:30 PM",
+    "daNotification": "Court will forward copy to District Attorney's office automatically",
+    "daResponsePeriod": "30 days for DA to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions",
+    "hearingLocation": "Criminal Justice Center if hearing scheduled",
+    "specialNotes": [
+      "Philadelphia has a dedicated Expungement Unit",
+      "Expungement clinic available at Community Legal Services",
+      "Check PAeDocket for case status",
+      "Filing is FREE in Philadelphia County"
+    ]
+  },
+  "timeline": {
+    "processingTime": "30-60 days for uncontested expungements",
+    "daResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required",
+    "cleanSlateProcessing": "Automatic sealing processed on rolling basis"
+  },
+  "forms": {
+    "whereToObtain": "Available at Clerk's office or online",
+    "onlineForms": "https://www.courts.phila.gov",
+    "requiredForms": [
+      "Petition for Expungement (Philadelphia County form)",
+      "Order of Expungement",
+      "Certification of Service"
+    ],
+    "additionalForms": [
+      "Affidavit of Indigency (if requesting fee waiver - usually not needed as filing is free)",
+      "Verification of Payment of Court Costs"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Community Legal Services of Philadelphia",
+        "address": "1424 Chestnut Street",
+        "city": "Philadelphia",
+        "phone": "(215) 981-3700",
+        "website": "https://www.clsphila.org",
+        "services": "Free expungement assistance for eligible individuals"
+      },
+      {
+        "name": "Philadelphia VIP",
+        "address": "1500 John F. Kennedy Boulevard",
+        "city": "Philadelphia",
+        "phone": "(215) 523-9550",
+        "services": "Pro bono legal assistance"
+      },
+      {
+        "name": "Philadelphia Bar Association Lawyer Referral",
+        "phone": "(215) 238-6333",
+        "website": "https://www.philabar.org"
+      }
+    ],
+    "selfHelp": {
+      "name": "Philadelphia Law Library",
+      "location": "City Hall, Room 244",
+      "address": "1400 John F. Kennedy Boulevard",
+      "city": "Philadelphia",
+      "hours": "Monday-Friday 9:00 AM - 5:00 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinics": [
+      {
+        "name": "Community Legal Services Expungement Clinic",
+        "schedule": "Regular clinics scheduled monthly",
+        "location": "1424 Chestnut Street",
+        "services": "Free legal assistance with expungement paperwork"
+      },
+      {
+        "name": "Philadelphia Court Self-Help Center",
+        "location": "Criminal Justice Center",
+        "services": "Guidance on filing procedures"
+      }
+    ],
+    "reentryPrograms": [
+      {
+        "name": "Philadelphia Reentry Coalition",
+        "services": "Comprehensive reentry services including expungement assistance",
+        "website": "https://www.philareentry.org"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtPortal": "https://ujsportal.pacourts.us",
+    "courtWebsite": "https://www.courts.phila.gov",
+    "statePoliceRecords": "https://www.psp.pa.gov",
+    "caseSearch": "https://www.courts.phila.gov/efiling"
+  },
+  "notes": [
+    "Philadelphia is Pennsylvania's largest city and processes the most expungements",
+    "Filing is FREE - Philadelphia has eliminated expungement filing fees",
+    "Philadelphia has a dedicated Expungement Unit at the Criminal Justice Center",
+    "Clean Slate automatic sealing is implemented and actively processing",
+    "Use PAeDocket to check case status online"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Juniata County",
+  "countySeat": "Mifflintown",
+  "population": "24,386",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Juniata County Magisterial District Court",
+      "address": "Bridge and Main Streets, Mifflintown, PA 17059",
+      "phone": "(717) 436-2141",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.juniatacounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Juniata County",
+      "address": "Bridge and Main Streets, Mifflintown, PA 17059",
+      "phone": "(717) 436-2141",
+      "note": "Appeals from Magisterial District Court"
+    }
+  },
+  "districtAttorney": {
+    "office": "Juniata County District Attorney's Office",
+    "address": "Bridge and Main Streets, Mifflintown, PA 17059",
+    "phone": "(717) 436-2141",
+    "trafficDivisionContact": "(717) 436-2141"
+  },
+  "publicDefender": {
+    "office": "Juniata County Public Defender",
+    "address": "Bridge and Main Streets, Mifflintown, PA 17059",
+    "phone": "(717) 436-2141",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Juniata County Clerk of Courts",
+    "address": "Bridge and Main Streets, Mifflintown, PA 17059",
+    "phone": "(717) 436-2141",
+    "website": "https://www.juniatacounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Juniata County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Mifflintown Police Department",
+      "address": "20 Market Street, Mifflintown, PA 17059",
+      "phone": "(717) 436-2421",
+      "recordsRequest": "(717) 436-2421"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Lewistown Station",
+      "address": "18 Industrial Park Road, Lewistown, PA 17044",
+      "phone": "(717) 248-2811"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Juniata County",
+    "speedCameras": "Not currently used in Juniata County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking available"
+    },
+    "publicTransit": {
+      "service": "No public transit available",
+      "routes": "N/A",
+      "website": "N/A"
+    }
+  }
+}

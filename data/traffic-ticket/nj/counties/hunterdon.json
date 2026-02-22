@@ -1,0 +1,106 @@
+{
+  "name": "Hunterdon County",
+  "countySeat": "Flemington",
+  "population": "128,509",
+  "courts": {
+    "municipal": {
+      "name": "Flemington Municipal Court (and other municipal courts)",
+      "address": "38 Park Ave, Flemington, NJ 08822",
+      "phone": "(908) 782-8834",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.hcnj.us/municipal-court",
+      "note": "26 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Hunterdon County Superior Court",
+      "address": "65 Park Ave, Flemington, NJ 08822",
+      "phone": "(908) 788-1300",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Hunterdon County Prosecutor's Office",
+    "address": "65 Park Ave, Flemington, NJ 08822",
+    "phone": "(908) 788-1300",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Hunterdon County Public Defender's Office",
+    "address": "65 Park Ave, Flemington, NJ 08822",
+    "phone": "(908) 788-1300",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Hunterdon County Clerk",
+    "address": "71 Main St, Flemington, NJ 08822",
+    "phone": "(908) 788-1221",
+    "website": "https://www.co.hunterdon.nj.us/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Flemington Police Department",
+      "address": "38 Park Ave, Flemington, NJ 08822",
+      "phone": "(908) 782-8834"
+    },
+    "countyPolice": {
+      "name": "Hunterdon County Sheriff's Office",
+      "address": "1300 Route 31, Annandale, NJ 08801",
+      "phone": "(908) 788-1166"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses",
+    "ruralRoads": "Extra caution on winding roads"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and lot parking",
+      "cost": "$5-10"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Limited bus service",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

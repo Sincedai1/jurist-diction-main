@@ -1,0 +1,102 @@
+{
+  "name": "Mifflin County",
+  "countySeat": "Lewistown",
+  "population": "46,106",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Mifflin County Magisterial District Courts",
+      "address": "20 North Wayne Street, Lewistown, PA 17044",
+      "phone": "(717) 242-2200",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.mifflincounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Mifflin County",
+      "address": "20 North Wayne Street, Lewistown, PA 17044",
+      "phone": "(717) 242-2200",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Mifflin County District Attorney's Office",
+    "address": "20 North Wayne Street, Lewistown, PA 17044",
+    "phone": "(717) 242-2210",
+    "trafficDivisionContact": "(717) 242-2210"
+  },
+  "publicDefender": {
+    "office": "Mifflin County Public Defender",
+    "address": "20 North Wayne Street, Lewistown, PA 17044",
+    "phone": "(717) 242-2220",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Mifflin County Clerk of Courts",
+    "address": "20 North Wayne Street, Lewistown, PA 17044",
+    "phone": "(717) 242-2200",
+    "website": "https://www.mifflincounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Mifflin County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Lewistown Police Department",
+      "address": "120 South Wayne Street, Lewistown, PA 17044",
+      "phone": "(717) 248-3818",
+      "recordsRequest": "(717) 248-3818"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Lewistown Station",
+      "address": "18 Industrial Park Road, Lewistown, PA 17044",
+      "phone": "(717) 248-2811"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Mifflin County",
+    "speedCameras": "Not currently used in Mifflin County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Mifflin County Transit",
+      "routes": "Shared ride service",
+      "website": "https://www.mifflincountytransit.com"
+    }
+  }
+}

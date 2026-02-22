@@ -1,0 +1,106 @@
+{
+  "name": "Sussex County",
+  "countySeat": "Newton",
+  "population": "146,146",
+  "courts": {
+    "municipal": {
+      "name": "Newton Municipal Court (and other municipal courts)",
+      "address": "39 Trinity St, Newton, NJ 07860",
+      "phone": "(973) 383-3560",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.newtontownhall.com/municipal-court",
+      "note": "24 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Sussex County Superior Court",
+      "address": "43-47 High St, Newton, NJ 07860",
+      "phone": "(973) 579-0650",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Sussex County Prosecutor's Office",
+    "address": "39 High St, Newton, NJ 07860",
+    "phone": "(973) 383-1570",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Sussex County Public Defender's Office",
+    "address": "43-47 High St, Newton, NJ 07860",
+    "phone": "(973) 579-0650",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Sussex County Clerk",
+    "address": "1 Spring St, Newton, NJ 07860",
+    "phone": "(973) 579-0900",
+    "website": "https://www.sussexcountyclerk.org/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Newton Police Department",
+      "address": "39 Trinity St, Newton, NJ 07860",
+      "phone": "(973) 383-2525"
+    },
+    "countyPolice": {
+      "name": "Sussex County Sheriff's Office",
+      "address": "39 High St, Newton, NJ 07860",
+      "phone": "(973) 579-0850"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses",
+    "ruralAreas": "Extra caution on rural and mountain roads"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street parking",
+      "cost": "$3-5"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Limited bus service",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

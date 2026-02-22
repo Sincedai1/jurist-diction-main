@@ -1,0 +1,102 @@
+{
+  "name": "Carbon County",
+  "countySeat": "Jim Thorpe",
+  "population": "64,749",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Carbon County Magisterial District Courts",
+      "address": "44 Susquehanna Street, Jim Thorpe, PA 18229",
+      "phone": "(570) 325-2712",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.carboncounty.com",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Carbon County",
+      "address": "44 Susquehanna Street, Jim Thorpe, PA 18229",
+      "phone": "(570) 325-2712",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Carbon County District Attorney's Office",
+    "address": "44 Susquehanna Street, Jim Thorpe, PA 18229",
+    "phone": "(570) 325-2720",
+    "trafficDivisionContact": "(570) 325-2720"
+  },
+  "publicDefender": {
+    "office": "Carbon County Public Defender",
+    "address": "44 Susquehanna Street, Jim Thorpe, PA 18229",
+    "phone": "(570) 325-2730",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Carbon County Clerk of Courts",
+    "address": "44 Susquehanna Street, Jim Thorpe, PA 18229",
+    "phone": "(570) 325-2712",
+    "website": "https://www.carboncounty.com"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Carbon County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Jim Thorpe Police Department",
+      "address": "101 East 10th Street, Jim Thorpe, PA 18229",
+      "phone": "(570) 325-2777",
+      "recordsRequest": "(570) 325-2777"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Lehighton Station",
+      "address": "209 Carbon Street, Lehighton, PA 18235",
+      "phone": "(610) 377-4270"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Carbon County",
+    "speedCameras": "Not currently used in Carbon County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse", "Public parking lots"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Carbon County Community Transit",
+      "routes": "Shared ride service",
+      "website": "https://www.carbontransit.com"
+    }
+  }
+}

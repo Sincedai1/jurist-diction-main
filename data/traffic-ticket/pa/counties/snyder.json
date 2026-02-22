@@ -1,0 +1,102 @@
+{
+  "name": "Snyder County",
+  "countySeat": "Middleburg",
+  "population": "39,692",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Snyder County Magisterial District Courts",
+      "address": "9 West Market Street, Middleburg, PA 17842",
+      "phone": "(570) 837-2300",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.snydercounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Snyder County",
+      "address": "9 West Market Street, Middleburg, PA 17842",
+      "phone": "(570) 837-2300",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Snyder County District Attorney's Office",
+    "address": "9 West Market Street, Middleburg, PA 17842",
+    "phone": "(570) 837-2310",
+    "trafficDivisionContact": "(570) 837-2310"
+  },
+  "publicDefender": {
+    "office": "Snyder County Public Defender",
+    "address": "9 West Market Street, Middleburg, PA 17842",
+    "phone": "(570) 837-2320",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Snyder County Clerk of Courts",
+    "address": "9 West Market Street, Middleburg, PA 17842",
+    "phone": "(570) 837-2300",
+    "website": "https://www.snydercounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Snyder County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Middleburg Police Department",
+      "address": "12 West Market Street, Middleburg, PA 17842",
+      "phone": "(570) 837-2221",
+      "recordsRequest": "(570) 837-2221"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Selinsgrove Station",
+      "address": "74 Old Trail Road, Selinsgrove, PA 17870",
+      "phone": "(570) 374-1100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Snyder County",
+    "speedCameras": "Not currently used in Snyder County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking available"
+    },
+    "publicTransit": {
+      "service": "Snyder County Transit",
+      "routes": "Shared ride service",
+      "website": "https://www.snydercountytransit.com"
+    }
+  }
+}

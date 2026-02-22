@@ -1,0 +1,105 @@
+{
+  "name": "Somerset County",
+  "countySeat": "Somerville",
+  "population": "345,361",
+  "courts": {
+    "municipal": {
+      "name": "Somerville Municipal Court (and other municipal courts)",
+      "address": "25 Davenport St, Somerville, NJ 08876",
+      "phone": "(908) 725-2600",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.somervillenj.org/municipal-court",
+      "note": "21 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Somerset County Superior Court",
+      "address": "20 N Bridge St, Somerville, NJ 08876",
+      "phone": "(908) 231-7100",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Somerset County Prosecutor's Office",
+    "address": "20 N Bridge St, Somerville, NJ 08876",
+    "phone": "(908) 231-7100",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Somerset County Public Defender's Office",
+    "address": "20 N Bridge St, Somerville, NJ 08876",
+    "phone": "(908) 231-7100",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Somerset County Clerk",
+    "address": "20 Grove St, Somerville, NJ 08876",
+    "phone": "(908) 231-7000",
+    "website": "https://www.co.somerset.nj.us/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Somerville Police Department",
+      "address": "25 Davenport St, Somerville, NJ 08876",
+      "phone": "(908) 725-0330"
+    },
+    "countyPolice": {
+      "name": "Somerset County Sheriff's Office",
+      "address": "20 Grove St, Somerville, NJ 08876",
+      "phone": "(908) 231-7200"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and lot parking",
+      "cost": "$5-10"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and train service",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Union County",
+  "countySeat": "Elizabeth",
+  "population": "575,345",
+  "courts": {
+    "municipal": {
+      "name": "Elizabeth Municipal Court (and other municipal courts)",
+      "address": "620 Rahway Ave, Elizabeth, NJ 07202",
+      "phone": "(908) 820-4140",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.elizabethnj.org/municipal-court",
+      "note": "21 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Union County Superior Court",
+      "address": "2 Broad St, Elizabeth, NJ 07208",
+      "phone": "(908) 659-4800",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Union County Prosecutor's Office",
+    "address": "32 Rasby Pl, Elizabeth, NJ 07208",
+    "phone": "(908) 527-4500",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Union County Public Defender's Office",
+    "address": "2 Broad St, Elizabeth, NJ 07208",
+    "phone": "(908) 659-4800",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Union County Clerk",
+    "address": "2 Broad St, Elizabeth, NJ 07208",
+    "phone": "(908) 527-4787",
+    "website": "https://www.ucnj.org/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Elizabeth Police Department",
+      "address": "1 Police Plaza, Elizabeth, NJ 07208",
+      "phone": "(908) 558-2000"
+    },
+    "countyPolice": {
+      "name": "Union County Sheriff's Office",
+      "address": "10 Elizabethtown Plaza, Elizabeth, NJ 07208",
+      "phone": "(908) 527-4500"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and garage parking",
+      "cost": "$5-15"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and train including Northeast Corridor and Raritan Valley",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

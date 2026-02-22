@@ -1,0 +1,102 @@
+{
+  "name": "York County",
+  "countySeat": "York",
+  "population": "456,438",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "York County Magisterial District Courts",
+      "address": "45 North George Street, York, PA 17401",
+      "phone": "(717) 771-9600",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.yorkcountypa.gov",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of York County",
+      "address": "45 North George Street, York, PA 17401",
+      "phone": "(717) 771-9600",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "York County District Attorney's Office",
+    "address": "45 North George Street, York, PA 17401",
+    "phone": "(717) 771-9610",
+    "trafficDivisionContact": "(717) 771-9610"
+  },
+  "publicDefender": {
+    "office": "York County Public Defender",
+    "address": "45 North George Street, York, PA 17401",
+    "phone": "(717) 771-9620",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "York County Clerk of Courts",
+    "address": "45 North George Street, York, PA 17401",
+    "phone": "(717) 771-9600",
+    "website": "https://www.yorkcountypa.gov"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in York County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "York City Police Department",
+      "address": "50 West King Street, York, PA 17401",
+      "phone": "(717) 846-1234",
+      "recordsRequest": "(717) 846-1234"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - York Station",
+      "address": "1100 Pettinger Road, York, PA 17404",
+      "phone": "(717) 428-2501"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in York County",
+    "speedCameras": "Not currently used in York County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-15 for court appearance",
+      "note": "Paid parking in downtown York"
+    },
+    "publicTransit": {
+      "service": "Rabbittransit",
+      "routes": "Bus service throughout York County",
+      "website": "https://www.rabbittransit.org"
+    }
+  }
+}

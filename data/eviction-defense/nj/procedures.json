@@ -1,0 +1,433 @@
+{
+  "jurisdiction": "New Jersey",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This is informational only and does not constitute legal advice. Court procedures may vary by county.",
+  "tenantProtectionNote": "New Jersey has the STRONGEST tenant protections in the United States. Use these defenses fully.",
+  "evictionProcess": {
+    "overview": {
+      "name": "New Jersey Eviction Process Overview",
+      "importantNote": "Landlord MUST have 'good cause' - lease expiration alone is NOT grounds for eviction",
+      "steps": [
+        {
+          "step": 1,
+          "name": "Determine Good Cause",
+          "description": "Landlord must have one of 13 statutory grounds to evict",
+          "timeline": "Before any notice"
+        },
+        {
+          "step": 2,
+          "name": "Notice to Cease (if required)",
+          "description": "For lease violations, landlord must first give notice to stop conduct",
+          "timeline": "Must be given before Notice to Quit"
+        },
+        {
+          "step": 3,
+          "name": "Notice to Quit",
+          "description": "Written notice demanding tenant vacate",
+          "timeline": "30 days for non-payment; varies for other grounds"
+        },
+        {
+          "step": 4,
+          "name": "File Complaint",
+          "description": "Landlord files complaint in Special Civil Part",
+          "timeline": "After notice period expires"
+        },
+        {
+          "step": 5,
+          "name": "Service of Complaint",
+          "description": "Court serves complaint on tenant",
+          "timeline": "At least 10 days before trial"
+        },
+        {
+          "step": 6,
+          "name": "Court Hearing",
+          "description": "Both parties present evidence; landlord must prove good cause",
+          "timeline": "Typically 2-3 weeks after filing"
+        },
+        {
+          "step": 7,
+          "name": "Judgment",
+          "description": "Court rules for landlord or tenant",
+          "timeline": "At hearing"
+        },
+        {
+          "step": 8,
+          "name": "Warrant of Removal",
+          "description": "If judgment for landlord, warrant issued after 3 business days",
+          "timeline": "3 business days after judgment"
+        },
+        {
+          "step": 9,
+          "name": "Physical Eviction",
+          "description": "Court officer executes warrant and removes tenant",
+          "timeline": "After warrant issued; usually within days"
+        }
+      ]
+    },
+    "criticalProtections": {
+      "goodCauseRequirement": {
+        "title": "Good Cause Required for ALL Evictions",
+        "description": "Landlord cannot evict just because lease expired or ended",
+        "statutes": "N.J.S.A. 2A:18-61.1",
+        "importance": "This is the strongest tenant protection in the nation"
+      },
+      "paymentStopsEviction": {
+        "title": "Payment Stops Non-Payment Eviction",
+        "description": "Paying all rent owed BEFORE judgment stops the eviction completely",
+        "timing": "Anytime before court enters judgment for possession"
+      },
+      "retaliationPresumption": {
+        "title": "90-Day Retaliation Presumption",
+        "description": "Eviction within 90 days of protected activity presumed retaliatory",
+        "protectedActivities": [
+          "Complaining about conditions",
+          "Filing government complaint",
+          "Joining tenant organization",
+          "Withholding rent for repairs"
+        ]
+      }
+    }
+  },
+  "defenseStrategies": {
+    "nonpayment": {
+      "evictionType": "Non-Payment of Rent (Ground 13)",
+      "timeline": {
+        "noticeRequired": "30 days (or lease term)",
+        "curePeriod": "Anytime before judgment - payment STOPS eviction"
+      },
+      "defenseOptions": [
+        {
+          "id": "improper_notice",
+          "name": "Improper Notice",
+          "description": "Challenge the 30-day notice requirements",
+          "checklist": [
+            "Was notice in writing?",
+            "Did notice state amount of rent due?",
+            "Was notice properly served?",
+            "Was full 30-day period given?",
+            "Does notice comply with statutory requirements?"
+          ],
+          "documentation": [
+            "Copy of notice received",
+            "Date notice was received",
+            "Method of service",
+            "Filing date of complaint"
+          ]
+        },
+        {
+          "id": "payment_made",
+          "name": "Payment Stops Eviction",
+          "description": "Paying ALL rent due before judgment STOPS the eviction",
+          "checklist": [
+            "What is the total amount claimed?",
+            "Can you pay before judgment?",
+            "Do you have documentation of payment?"
+          ],
+          "documentation": [
+            "Payment receipts",
+            "Bank statements",
+            "Money order receipts",
+            "Certified funds receipt"
+          ],
+          "importantNote": "This is a COMPLETE DEFENSE - eviction must be dismissed"
+        },
+        {
+          "id": "habitability",
+          "name": "Breach of Warranty of Habitability",
+          "description": "Property has serious conditions affecting habitability",
+          "checklist": [
+            "Are there conditions affecting health/safety?",
+            "Is property weatherproof and watertight?",
+            "Are plumbing, heating, electrical working?",
+            "Did you notify landlord of conditions in writing?",
+            "Did landlord fail to make repairs?"
+          ],
+          "documentation": [
+            "Photos/videos of conditions",
+            "Written notices to landlord",
+            "Housing inspector reports",
+            "Witness statements",
+            "Medical records (if applicable)"
+          ],
+          "caveat": "May reduce or eliminate rent owed; strong defense in NJ"
+        },
+        {
+          "id": "truth_in_renting",
+          "name": "Truth in Renting Violation",
+          "description": "Landlord failed to provide required Truth in Renting statement",
+          "checklist": [
+            "Did you receive Truth in Renting statement at lease signing?",
+            "Was it in English (and Spanish if requested)?",
+            "Do you have the statement or proof you didn't receive it?"
+          ],
+          "documentation": [
+            "Any disclosure documents received",
+            "Lease documents",
+            "Statement about what was provided at lease signing"
+          ],
+          "effect": "May delay or prevent eviction"
+        },
+        {
+          "id": "security_deposit",
+          "name": "Security Deposit Violation - Use as Rent",
+          "description": "If landlord violated security deposit law, deposit can be applied to rent",
+          "checklist": [
+            "Did you pay a security deposit?",
+            "Was deposit placed in proper NJ bank account?",
+            "Did landlord notify you of deposit location?",
+            "Is landlord paying required interest?",
+            "Were deductions properly itemized?"
+          ],
+          "documentation": [
+            "Proof of security deposit payment",
+            "Communications about deposit",
+            "Bank information from landlord"
+          ],
+          "effect": "Tenant may deduct deposit from rent owed",
+          "strength": "STRONG DEFENSE"
+        },
+        {
+          "id": "retaliation",
+          "name": "Retaliatory Eviction",
+          "description": "Eviction filed in response to tenant exercising legal rights",
+          "checklist": [
+            "Did you recently complain about conditions?",
+            "Did you report code violations?",
+            "Did you contact housing authorities?",
+            "Did you join a tenant organization?",
+            "Was eviction filed within 90 days of protected activity?"
+          ],
+          "documentation": [
+            "Copies of complaints made",
+            "Code violation reports",
+            "Communications with housing authorities",
+            "Timeline of events"
+          ],
+          "timingGuidance": "90-day presumption of retaliation - VERY STRONG"
+        },
+        {
+          "id": "discrimination",
+          "name": "Discriminatory Eviction",
+          "description": "Eviction based on protected class under NJ Law Against Discrimination",
+          "checklist": [
+            "Are you in a protected class?",
+            "Is landlord treating you differently than others?",
+            "Are similarly situated non-protected tenants treated differently?",
+            "Is there evidence of discriminatory statements?"
+          ],
+          "documentation": [
+            "Evidence of differential treatment",
+            "Discriminatory statements or actions",
+            "Witness statements"
+          ],
+          "protectedClasses": [
+            "Race", "Color", "Religion", "Sex", "National origin",
+            "Disability", "Familial status", "Sexual orientation",
+            "Gender identity", "Source of lawful income"
+          ]
+        }
+      ]
+    },
+    "leaseViolation": {
+      "evictionType": "Lease Violation (Ground 7)",
+      "timeline": {
+        "noticeToCeaseRequired": "YES - mandatory first step",
+        "noticeToQuit": "After violation continues despite Notice to Cease",
+        "notes": "Two-step notice process required"
+      },
+      "defenseOptions": [
+        {
+          "id": "no_notice_to_cease",
+          "name": "No Notice to Cease",
+          "description": "Landlord must give Notice to Cease BEFORE Notice to Quit",
+          "checklist": [
+            "Did you receive a Notice to Cease first?",
+            "Did Notice to Cease describe the violation?",
+            "Did Notice to Cease demand the conduct stop?",
+            "Did violation continue after Notice to Cease?"
+          ],
+          "documentation": [
+            "Copy of Notice to Cease (or proof none given)",
+            "Copy of Notice to Quit",
+            "Timeline of notices"
+          ],
+          "strength": "MANDATORY PROCEDURE - case should be dismissed"
+        },
+        {
+          "id": "violation_cured",
+          "name": "Violation Cured After Notice to Cease",
+          "description": "Violation was corrected after Notice to Cease was given",
+          "checklist": [
+            "What was the alleged violation?",
+            "Did you stop the conduct after Notice to Cease?",
+            "Did violation resume (required for eviction)?"
+          ],
+          "documentation": [
+            "Evidence violation was corrected",
+            "Photos or witness statements",
+            "Communications with landlord"
+          ]
+        },
+        {
+          "id": "no_actual_violation",
+          "name": "No Actual Violation",
+          "description": "Alleged conduct does not violate lease terms",
+          "checklist": [
+            "What specific lease provision is cited?",
+            "Does your conduct actually violate that provision?",
+            "Is the lease provision clear?"
+          ],
+          "documentation": [
+            "Copy of lease",
+            "Evidence of actual conduct",
+            "Legal analysis of lease terms"
+          ]
+        }
+      ]
+    },
+    "noGoodCause": {
+      "evictionType": "Eviction Without Good Cause",
+      "description": "Landlord must allege one of the 13 statutory grounds",
+      "defenseOptions": [
+        {
+          "id": "no_good_cause",
+          "name": "No Good Cause Stated",
+          "description": "Complaint fails to allege one of the 13 statutory grounds",
+          "checklist": [
+            "What ground is alleged in the complaint?",
+            "Does the ground match the facts?",
+            "Is lease expiration the only reason given?"
+          ],
+          "documentation": [
+            "Copy of complaint",
+            "Copy of notice",
+            "Copy of lease"
+          ],
+          "strength": "CASE DISMISSAL - good cause is MANDATORY"
+        },
+        {
+          "id": "lease_expiration_not_cause",
+          "name": "Lease Expiration is Not Good Cause",
+          "description": "End of lease term alone is NOT grounds for eviction in New Jersey",
+          "checklist": [
+            "Did landlord claim lease ended as reason for eviction?",
+            "Is there any other alleged ground?",
+            "Has landlord proved any statutory ground?"
+          ],
+          "strength": "CRITICAL DEFENSE"
+        }
+      ]
+    },
+    "ownerMoveIn": {
+      "evictionType": "Owner Move-In (Ground 8)",
+      "defenseOptions": [
+        {
+          "id": "not_owner_occupied",
+          "name": "Building Does Not Qualify",
+          "description": "Ground 8 only applies to owner-occupied 2-3 family homes",
+          "checklist": [
+            "How many units in building?",
+            "Does owner live in building?",
+            "Is building properly classified?"
+          ],
+          "documentation": [
+            "Building records",
+            "Property tax records",
+            "Evidence of owner's residence"
+          ]
+        },
+        {
+          "id": "bad_faith",
+          "name": "Landlord Acting in Bad Faith",
+          "description": "Landlord does not genuinely intend to occupy unit",
+          "checklist": [
+            "Has landlord done this before?",
+            "Is unit immediately re-rented after eviction?",
+            "Is there evidence landlord won't actually move in?"
+          ],
+          "documentation": [
+            "History of similar evictions",
+            "Evidence of rental listings",
+            "Communications showing intent"
+          ]
+        }
+      ]
+    }
+  },
+  "responseTimeline": {
+    "critical": [
+      {
+        "event": "Receive Notice to Cease",
+        "action": "STOP the alleged conduct immediately",
+        "deadline": "Right away"
+      },
+      {
+        "event": "Receive Notice to Quit",
+        "action": "Document date; prepare to defend; seek legal help",
+        "deadline": "Immediately"
+      },
+      {
+        "event": "Complaint Served",
+        "action": "Note court date; prepare answer and evidence",
+        "deadline": "Within days"
+      },
+      {
+        "event": "Court Hearing",
+        "action": "MUST appear - bring all evidence",
+        "deadline": "On scheduled date"
+      },
+      {
+        "event": "For Non-Payment",
+        "action": "PAY ALL RENT before judgment to STOP eviction",
+        "deadline": "Anytime before judgment"
+      }
+    ]
+  },
+  "courtProcedures": {
+    "specialCivilPart": {
+      "name": "Superior Court - Special Civil Part",
+      "description": "Landlord-Tenant Section handles all eviction cases",
+      "procedures": [
+        "Complaint filed by landlord",
+        "Case tracked separately from other civil matters",
+        "Court date typically within 2-3 weeks",
+        "Both parties present evidence",
+        "Judge rules same day in most cases",
+        "Landlord bears burden of proving good cause"
+      ],
+      "burdenOfProof": "LANDLORD must prove good cause - tenant does not need to prove anything initially"
+    }
+  },
+  "formsRequired": {
+    "answer": {
+      "name": "Answer to Complaint for Possession",
+      "purpose": "Respond to eviction filing",
+      "contents": [
+        "Case caption",
+        "Admissions/denials of allegations",
+        "Affirmative defenses",
+        "Prayer for relief"
+      ],
+      "filingFee": "None for tenant answer"
+    }
+  },
+  "specialProvisions": {
+    "newark": {
+      "name": "Newark-Specific Protections",
+      "notes": [
+        "Right to Counsel Program for income-eligible tenants",
+        "Just Cause Eviction Ordinance",
+        "Tenant Protection Ordinance",
+        "Stronger anti-retaliation provisions"
+      ]
+    },
+    "jerseyCity": {
+      "name": "Jersey City-Specific Protections",
+      "notes": [
+        "Rent control for most units",
+        "Just Cause Eviction requirements",
+        "Tenant protection ordinances"
+      ]
+    }
+  }
+}

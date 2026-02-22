@@ -1,0 +1,42 @@
+{
+  "county": "Bradford",
+  "countySeat": "Towanda",
+  "judicialDistrict": "44th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Bradford County",
+      "address": "301 Main Street",
+      "city": "Towanda",
+      "state": "PA",
+      "zip": "18848",
+      "phone": "(570) 265-1700",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Bradford County Clerk of Courts",
+    "address": "301 Main Street",
+    "city": "Towanda",
+    "state": "PA",
+    "zip": "18848",
+    "phone": "(570) 265-1700",
+    "website": "https://www.bradfordcountypa.org"
+  },
+  "districtAttorney": {
+    "office": "Bradford County District Attorney's Office",
+    "phone": "(570) 265-1730"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Bradford County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Bradford County follows Pennsylvania Clean Slate Act"
+  ]
+}

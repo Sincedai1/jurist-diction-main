@@ -1,0 +1,168 @@
+{
+  "name": "Knox County",
+  "countySeat": "Knoxville",
+  "population": "478,971",
+  "courts": {
+    "generalSessions": {
+      "name": "Knox County General Sessions Court",
+      "address": "300 Main St SW, Knoxville, TN 37902",
+      "phone": "(865) 215-2370",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.knoxcounty.org/circuitcourt/",
+      "divisions": ["Civil Division", "Criminal Division"],
+      "parking": "Public parking available downtown",
+      "publicTransport": "Accessible via Knoxville Area Transit (KAT)"
+    },
+    "municipal": {
+      "name": "Knoxville City Court",
+      "address": "400 Main St SW, Knoxville, TN 37902",
+      "phone": "(865) 215-2442",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.knoxvilletn.gov/government/city_court/",
+      "note": "Handles city ordinance and traffic violations within Knoxville city limits"
+    },
+    "trafficDivision": {
+      "name": "General Sessions Criminal Division",
+      "address": "300 Main St SW, Knoxville, TN 37902",
+      "phone": "(865) 215-2370",
+      "note": "Handles state traffic citations"
+    }
+  },
+  "districtAttorney": {
+    "office": "Knox County District Attorney General",
+    "address": "300 Main St SW, Knoxville, TN 37902",
+    "phone": "(865) 215-2220",
+    "website": "https://knoxcounty.org/da/"
+  },
+  "publicDefender": {
+    "office": "Knox County Public Defender's Office",
+    "address": "1201 Dameron Dr, Knoxville, TN 37920",
+    "phone": "(865) 594-1940",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Knox County Circuit Court Clerk",
+    "address": "300 Main St SW, Knoxville, TN 37902",
+    "phone": "(865) 215-2400",
+    "website": "https://www.knoxcounty.org/circuitcourt/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Generally 10 days from citation date",
+      "process": [
+        "City tickets: Contact Knoxville City Court",
+        "County tickets: Contact General Sessions Criminal Division",
+        "Enter not guilty plea to receive court date",
+        "File discovery request with court clerk"
+      ],
+      "onlinePayment": "Available through City of Knoxville website for city tickets",
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Court dates typically 4-6 weeks from arraignment",
+      "continuances": "Contact court clerk at least 48 hours before scheduled date",
+      "noShow": "Failure to appear may result in bench warrant and license suspension"
+    },
+    "diversionProgram": {
+      "name": "Knox County Pre-Trial Diversion Program",
+      "eligibility": [
+        "First-time offenders",
+        "No prior diversions",
+        "Eligible offenses (misdemeanor traffic violations)",
+        "No DUI or serious offenses"
+      ],
+      "requirements": [
+        "Complete defensive driving course",
+        "Pay program fees and court costs",
+        "Probation period (typically 11 months 29 days)",
+        "No new violations during probation"
+      ],
+      "cost": "$150-350 depending on offense",
+      "contact": "District Attorney's Office - (865) 215-2220"
+    },
+    "trafficSchool": {
+      "approvedProviders": [
+        "National Safety Council - East Tennessee",
+        "Tennessee-approved online defensive driving courses",
+        "AAA Tennessee"
+      ],
+      "deadline": "Must complete within 90 days of court order",
+      "cost": "$25-75"
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Knoxville Police Department",
+      "address": "800 Howard Baker Jr Ave, Knoxville, TN 37915",
+      "phone": "(865) 215-7210",
+      "recordsRequest": "(865) 215-7481",
+      "website": "https://www.knoxvilletn.gov/government/police_department/"
+    },
+    "highwayPatrol": {
+      "name": "Tennessee Highway Patrol - Knoxville District",
+      "address": "5719 Lyons View Pike, Knoxville, TN 37919",
+      "phone": "(865) 594-5811"
+    },
+    "knoxCountySheriff": {
+      "name": "Knox County Sheriff's Office",
+      "address": "400 Main St SW, Knoxville, TN 37902",
+      "phone": "(865) 215-2444",
+      "website": "https://www.knoxcounty.org/sheriff/"
+    },
+    "knoxCountySheriffTraffic": {
+      "name": "Knox County Sheriff's Traffic Unit",
+      "phone": "(865) 215-2444"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts, hats, or revealing attire",
+    "electronics": "Cell phones must be silenced; no recording devices without permission",
+    "weapons": "No weapons permitted; courthouse security screening required",
+    "checkIn": "Arrive 20-30 minutes early for security and check-in"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones; strictly enforced",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Knoxville",
+    "speedCameras": "Not used in Knox County",
+    "universityArea": "UT campus has additional traffic considerations"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "City County Building parking garage",
+        "Market Square garage",
+        "Street parking (metered)"
+      ],
+      "cost": "$5-10 for court visit",
+      "note": "Downtown parking available but plan for time to find spot"
+    },
+    "publicTransit": {
+      "service": "Knoxville Area Transit (KAT)",
+      "routes": "Multiple routes serve downtown",
+      "website": "https://www.katbus.com/"
+    }
+  },
+  "additionalResources": {
+    "legalAid": {
+      "name": "Legal Aid of East Tennessee",
+      "address": "502 S Gay St, Knoxville, TN 37902",
+      "phone": "(865) 637-0484",
+      "note": "Free legal assistance for qualifying individuals"
+    },
+    "lawyerReferral": {
+      "name": "Knoxville Bar Association Lawyer Referral",
+      "phone": "(865) 522-6522",
+      "website": "https://www.knoxbar.org/"
+    }
+  },
+  "universityOfTennessee": {
+    "note": "Special traffic regulations on campus",
+    "campusPolice": {
+      "name": "UT Police Department",
+      "phone": "(865) 974-3114",
+      "note": "Issues citations for campus violations"
+    },
+    "parkingAppeals": "UT Parking and Transit Services handles campus parking tickets"
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "jurisdiction": "Tennessee",
+  "lastUpdated": "2026-02-20",
+  "disclaimer": "This is informational only and does not constitute legal advice. Court procedures may vary by county.",
+  "evictionProcess": {
+    "overview": {
+      "name": "Tennessee Eviction Process Overview",
+      "steps": [
+        {
+          "step": 1,
+          "name": "Notice Period",
+          "description": "Landlord must serve proper written notice to tenant",
+          "timeline": "14-30 days depending on reason"
+        },
+        {
+          "step": 2,
+          "name": "File Detainer Warrant",
+          "description": "Landlord files detainer warrant with General Sessions Court",
+          "timeline": "After notice period expires"
+        },
+        {
+          "step": 3,
+          "name": "Court Hearing",
+          "description": "Judge hears case; both parties present evidence",
+          "timeline": "6-10 days after filing"
+        },
+        {
+          "step": 4,
+          "name": "Judgment",
+          "description": "Court rules for landlord or tenant",
+          "timeline": "At hearing"
+        },
+        {
+          "step": 5,
+          "name": "Appeal Period",
+          "description": "Losing party has 10 days to appeal",
+          "timeline": "10 calendar days"
+        },
+        {
+          "step": 6,
+          "name": "Writ of Possession",
+          "description": "If no appeal or appeal fails, writ issued to sheriff",
+          "timeline": "After appeal period"
+        },
+        {
+          "step": 7,
+          "name": "Physical Eviction",
+          "description": "Sheriff executes writ and removes tenant",
+          "timeline": "Typically 24-72 hours after writ"
+        }
+      ]
+    }
+  },
+  "defenseStrategies": {
+    "nonpayment": {
+      "evictionType": "Non-Payment of Rent",
+      "timeline": {
+        "noticeRequired": "14 days",
+        "curePeriod": "14 days - tenant can pay all rent due to stop eviction"
+      },
+      "defenseOptions": [
+        {
+          "id": "improper_notice",
+          "name": "Improper Notice",
+          "description": "Challenge the adequacy or service of the 14-day notice",
+          "checklist": [
+            "Was notice in writing?",
+            "Did notice state amount of rent due?",
+            "Was notice properly served (personal delivery, certified mail)?",
+            "Was full 14-day period given before filing?",
+            "Does notice demand possession?"
+          ],
+          "documentation": [
+            "Copy of notice received",
+            "Date notice was received",
+            "Method of service",
+            "Filing date of detainer warrant"
+          ]
+        },
+        {
+          "id": "payment_made",
+          "name": "Payment Made Within Cure Period",
+          "description": "All rent was paid within the 14-day notice period",
+          "checklist": [
+            "Was full amount of rent claimed paid?",
+            "Was payment made within 14-day period?",
+            "Did landlord accept payment?"
+          ],
+          "documentation": [
+            "Payment receipts",
+            "Bank statements",
+            "Money order receipts",
+            "Text/email confirming payment"
+          ]
+        },
+        {
+          "id": "habitability",
+          "name": "Breach of Warranty of Habitability",
+          "description": "Property has serious code violations affecting habitability",
+          "checklist": [
+            "Are there serious conditions affecting health/safety?",
+            "Did you notify landlord of conditions in writing?",
+            "Did landlord fail to make repairs within reasonable time?",
+            "Are conditions documented?"
+          ],
+          "documentation": [
+            "Photos/videos of conditions",
+            "Written notices to landlord",
+            "Code inspection reports",
+            "Utility bills showing issues",
+            "Witness statements"
+          ],
+          "caveat": "May reduce rent owed but rarely eliminates obligation entirely"
+        },
+        {
+          "id": "partial_payment_acceptance",
+          "name": "Acceptance of Partial Payment",
+          "description": "Landlord accepted partial payment after serving notice, potentially waiving eviction right",
+          "checklist": [
+            "Was partial payment accepted after notice served?",
+            "Did landlord provide receipt?",
+            "Was there agreement to accept partial payment?"
+          ],
+          "documentation": [
+            "Receipt showing date and amount",
+            "Bank records",
+            "Text/email showing landlord accepted payment"
+          ]
+        },
+        {
+          "id": "improper_charges",
+          "name": "Improper Charges Included",
+          "description": "Amount claimed includes fees or charges not authorized by lease",
+          "checklist": [
+            "Review lease for authorized fees",
+            "Are late fees properly calculated per lease?",
+            "Are there charges not in lease?",
+            "Is rent calculation correct?"
+          ],
+          "documentation": [
+            "Copy of lease",
+            "Rent payment history",
+            "Calculation of proper amount owed"
+          ]
+        },
+        {
+          "id": "retaliation",
+          "name": "Retaliatory Eviction",
+          "description": "Eviction filed in response to tenant exercising legal rights",
+          "checklist": [
+            "Did you recently complain about conditions?",
+            "Did you report code violations?",
+            "Did you organize with other tenants?",
+            "Was eviction filed shortly after protected activity?"
+          ],
+          "documentation": [
+            "Copies of complaints made",
+            "Code violation reports",
+            "Timeline of events",
+            "Witness statements"
+          ],
+          "timingGuidance": "Presumption of retaliation if eviction within 6 months of protected activity"
+        }
+      ]
+    },
+    "leaseViolation": {
+      "evictionType": "Lease Violation",
+      "timeline": {
+        "noticeRequired": "30 days",
+        "curePeriod": "30 days to cure violation (if curable)"
+      },
+      "defenseOptions": [
+        {
+          "id": "improper_notice_30",
+          "name": "Improper Notice",
+          "description": "Challenge the 30-day notice requirements",
+          "checklist": [
+            "Was notice in writing?",
+            "Did notice specify the violation?",
+            "Was full 30-day period given?",
+            "Was notice properly served?"
+          ],
+          "documentation": [
+            "Copy of notice",
+            "Date received",
+            "Filing date of detainer warrant"
+          ]
+        },
+        {
+          "id": "violation_cured",
+          "name": "Violation Cured",
+          "description": "Violation was corrected within notice period",
+          "checklist": [
+            "What was the alleged violation?",
+            "Was it possible to cure?",
+            "Did you cure within 30 days?",
+            "Did landlord acknowledge cure?"
+          ],
+          "documentation": [
+            "Evidence violation was corrected",
+            "Photos of corrected conditions",
+            "Written notice to landlord of cure",
+            "Landlord acknowledgment"
+          ]
+        },
+        {
+          "id": "no_violation",
+          "name": "No Actual Violation",
+          "description": "Alleged conduct does not violate lease terms",
+          "checklist": [
+            "What specific lease provision is cited?",
+            "Does your conduct actually violate that provision?",
+            "Is the lease provision clear and enforceable?"
+          ],
+          "documentation": [
+            "Copy of lease",
+            "Evidence of actual conduct",
+            "Legal analysis of lease terms"
+          ]
+        },
+        {
+          "id": "selective_enforcement",
+          "name": "Selective Enforcement",
+          "description": "Landlord enforces provision against you but ignores others' violations",
+          "checklist": [
+            "Are other tenants violating same provision?",
+            "Has landlord taken action against them?",
+            "Is there pattern of discrimination?"
+          ],
+          "documentation": [
+            "Witness statements",
+            "Photos of other units",
+            "Complaints to landlord about others"
+          ]
+        },
+        {
+          "id": "landlord_breach",
+          "name": "Landlord Breached First",
+          "description": "Landlord's prior breach may excuse tenant's conduct",
+          "checklist": [
+            "How did landlord breach lease?",
+            "When did breach occur?",
+            "Is breach ongoing?",
+            "Did you give landlord notice of breach?"
+          ],
+          "documentation": [
+            "Evidence of landlord breach",
+            "Written notices to landlord",
+            "Damages caused by breach"
+          ]
+        }
+      ]
+    },
+    "holdover": {
+      "evictionType": "Holdover Tenant",
+      "timeline": {
+        "noticeRequired": "30 days",
+        "notes": "For month-to-month tenancy termination"
+      },
+      "defenseOptions": [
+        {
+          "id": "improper_termination_notice",
+          "name": "Improper Termination Notice",
+          "description": "Challenge the 30-day termination notice",
+          "checklist": [
+            "Was proper notice given?",
+            "Was notice for full rental period?",
+            "Was notice properly served?"
+          ],
+          "documentation": [
+            "Copy of termination notice",
+            "Date received",
+            "Lease showing tenancy type"
+          ]
+        },
+        {
+          "id": "new_tenancy_created",
+          "name": "New Tenancy Created",
+          "description": "Landlord's actions created new tenancy period",
+          "checklist": [
+            "Did landlord accept rent after lease end?",
+            "Was there discussion of renewal?",
+            "Did landlord indicate tenancy would continue?"
+          ],
+          "documentation": [
+            "Rent receipts after lease end",
+            "Written communications",
+            "Witness statements"
+          ]
+        },
+        {
+          "id": "estoppel",
+          "name": "Estoppel/Reliance",
+          "description": "Landlord's conduct led tenant to reasonably believe tenancy would continue",
+          "checklist": [
+            "What did landlord say or do?",
+            "Did tenant rely on landlord's conduct?",
+            "Would eviction now be unfair?"
+          ],
+          "documentation": [
+            "Communications showing continued tenancy",
+            "Evidence of reliance",
+            "Damages if forced to move"
+          ]
+        }
+      ]
+    },
+    "illegalActivity": {
+      "evictionType": "Criminal/Illegal Activity",
+      "timeline": {
+        "noticeRequired": "3 days",
+        "notes": "Expedited process for drug/criminal activity"
+      },
+      "defenseOptions": [
+        {
+          "id": "lack_of_knowledge",
+          "name": "Lack of Knowledge",
+          "description": "Tenant did not know of and could not reasonably have known of illegal activity",
+          "checklist": [
+            "What activity is alleged?",
+            "Did you know about it?",
+            "Should you have known?",
+            "Who was involved?"
+          ],
+          "documentation": [
+            "Statement of lack of knowledge",
+            "Evidence you were unaware",
+            "Witness statements"
+          ]
+        },
+        {
+          "id": "prompt_action",
+          "name": "Prompt Remedial Action",
+          "description": "Tenant took immediate action to address situation after learning of it",
+          "checklist": [
+            "When did you learn of activity?",
+            "What action did you take?",
+            "Was action prompt?",
+            "Did you report to authorities?"
+          ],
+          "documentation": [
+            "Police reports filed",
+            "Written notice to landlord",
+            "Evidence of action taken",
+            "Timeline of events"
+          ]
+        },
+        {
+          "id": "improper_3_day_notice",
+          "name": "Improper Notice",
+          "description": "Challenge the 3-day notice requirements",
+          "checklist": [
+            "Was notice in writing?",
+            "Did notice specify the activity?",
+            "Was 3-day period honored before filing?"
+          ],
+          "documentation": [
+            "Copy of notice",
+            "Date received",
+            "Filing date"
+          ]
+        }
+      ]
+    }
+  },
+  "responseTimeline": {
+    "critical": [
+      {
+        "event": "Receive Notice",
+        "action": "Document date received; calculate deadline",
+        "deadline": "Immediately"
+      },
+      {
+        "event": "Detainer Warrant Served",
+        "action": "Note court date; prepare response",
+        "deadline": "Within days of service"
+      },
+      {
+        "event": "Court Hearing",
+        "action": "Appear or file answer beforehand",
+        "deadline": "Must appear or risk default judgment"
+      },
+      {
+        "event": "Judgment Against Tenant",
+        "action": "File appeal if grounds exist",
+        "deadline": "10 calendar days"
+      }
+    ]
+  },
+  "courtProcedures": {
+    "generalSessions": {
+      "name": "General Sessions Court",
+      "description": "Initial eviction hearings held here",
+      "procedures": [
+        "Detainer warrant filed by landlord",
+        "Warrant served on tenant",
+        "Hearing scheduled within 6-10 days",
+        "Both parties present evidence",
+        "Judge rules same day in most cases",
+        "No jury trial in General Sessions"
+      ],
+      "filingAnswer": {
+        "description": "Tenant may file written answer before hearing",
+        "recommended": "Yes, if possible",
+        "contents": [
+          "Admit or deny each allegation",
+          "State any affirmative defenses",
+          "Request relief (dismissal, etc.)"
+        ]
+      }
+    },
+    "circuitCourt": {
+      "name": "Circuit Court",
+      "description": "Hears appeals from General Sessions",
+      "procedures": [
+        "Appeal must be filed within 10 days",
+        "Appeal bond required",
+        "De novo hearing (new trial)",
+        "Jury trial available",
+        "More formal procedures"
+      ]
+    }
+  },
+  "formsRequired": {
+    "answer": {
+      "name": "Answer to Detainer Warrant",
+      "purpose": "Respond to eviction filing",
+      "contents": [
+        "Case caption",
+        "Admissions/denials of allegations",
+        "Affirmative defenses",
+        "Prayer for relief"
+      ]
+      },
+      "appeal": {
+        "name": "Notice of Appeal",
+        "purpose": "Appeal General Sessions judgment",
+        "deadline": "10 calendar days from judgment",
+        "requirements": [
+          "File in General Sessions Court",
+          "Post appeal bond",
+          "Serve copy on landlord/attorney"
+        ]
+      }
+    }
+  }

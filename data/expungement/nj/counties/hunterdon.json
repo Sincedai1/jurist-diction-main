@@ -1,0 +1,152 @@
+{
+  "county": "Hunterdon",
+  "countySeat": "Flemington",
+  "vicinage": "Vicinage 13",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "superiorCourt": {
+      "name": "Superior Court of New Jersey, Hunterdon County",
+      "address": "65 Park Avenue",
+      "city": "Flemington",
+      "state": "NJ",
+      "zip": "08822",
+      "phone": "(908) 788-1300",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "criminalDivision": "Room 100"
+    },
+    "criminalDivision": {
+      "name": "Criminal Division, Hunterdon County",
+      "address": "65 Park Avenue, Room 100",
+      "city": "Flemington",
+      "state": "NJ",
+      "zip": "08822",
+      "phone": "(908) 788-1300",
+      "expungementClerk": "Criminal Division Manager's Office"
+    }
+  },
+  "clerkInformation": {
+    "name": "Hunterdon County Clerk, Superior Court",
+    "address": "65 Park Avenue",
+    "city": "Flemington",
+    "state": "NJ",
+    "zip": "08822",
+    "phone": "(908) 788-1221",
+    "website": "https://www.njcourts.gov",
+    "expungementInfo": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "prosecutorOffice": {
+    "office": "Hunterdon County Prosecutor's Office",
+    "name": "Hunterdon County Prosecutor",
+    "address": "65 Park Avenue",
+    "city": "Flemington",
+    "state": "NJ",
+    "zip": "08822",
+    "phone": "(908) 788-1300",
+    "expungementUnit": "Expungement Unit"
+  },
+  "fees": {
+    "filingFee": 75,
+    "certificationFee": 10,
+    "copyFee": 0.50,
+    "notes": "Standard $75 filing fee statewide. Fee waiver available for indigent applicants. Clean Slate automatic expungement is FREE."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Hunterdon County processes expungements regularly",
+    "verification": "Check status through NJ State Police",
+    "automaticExpungement": "State system automatically processes eligible records",
+    "contactForIssues": "Contact Criminal Division if expunged records still appear"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at Superior Court, Criminal Division",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 3:30 PM",
+    "prosecutorNotification": "Petitioner must serve copy on Hunterdon County Prosecutor's Office",
+    "prosecutorServiceAddress": "65 Park Avenue, Flemington, NJ 08822",
+    "responsePeriod": "30 days for prosecutor to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions",
+    "hearingLocation": "Superior Court, Flemington if hearing scheduled",
+    "specialNotes": [
+      "Hunterdon County is largely rural with 26 municipalities",
+      "Flemington is the county seat",
+      "Must serve Prosecutor's Office with copy of petition",
+      "Use certified mail with return receipt for proof of service"
+    ]
+  },
+  "timeline": {
+    "processingTime": "45-90 days for uncontested expungements",
+    "prosecutorResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required",
+    "cleanSlateProcessing": "Automatic - processed by state system"
+  },
+  "forms": {
+    "whereToObtain": "Available at Court Clerk's office or NJ Courts website",
+    "onlineForms": "https://www.njcourts.gov/self-help/expungement",
+    "requiredForms": [
+      "Petition for Expungement (Form A)",
+      "Order for Expungement (Form B)",
+      "Notice of Expungement Order (Form C)"
+    ],
+    "additionalDocuments": [
+      "Certified copy of judgment/disposition",
+      "Proof of payment of fines and costs",
+      "Fee waiver application (if requesting)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Services of New Jersey - Hunterdon County",
+        "address": "65 Park Avenue",
+        "city": "Flemington",
+        "phone": "(908) 788-1300",
+        "website": "https://www.lsnjlaw.org",
+        "services": "Free legal assistance for eligible individuals"
+      },
+      {
+        "name": "Hunterdon County Bar Association Lawyer Referral",
+        "address": "65 Park Avenue",
+        "city": "Flemington",
+        "phone": "(908) 782-8800"
+      }
+    ],
+    "selfHelp": {
+      "name": "Hunterdon County Law Library",
+      "location": "65 Park Avenue",
+      "city": "Flemington",
+      "hours": "Monday-Friday 9:00 AM - 4:00 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinics": [
+      {
+        "name": "Hunterdon County Expungement Clinics",
+        "schedule": "Scheduled periodically through legal aid organizations",
+        "services": "Free legal assistance with expungement paperwork",
+        "contact": "(908) 788-1300"
+      }
+    ],
+    "reentryPrograms": [
+      {
+        "name": "Hunterdon County Reentry Services",
+        "address": "65 Park Avenue",
+        "city": "Flemington",
+        "phone": "(908) 788-1300",
+        "services": "Comprehensive reentry services including expungement assistance"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtWebsite": "https://www.njcourts.gov",
+    "statePoliceRecords": "https://www.njsp.org",
+    "caseSearch": "https://www.njcourts.gov/attorneys/case-management",
+    "selfHelp": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "notes": [
+    "Hunterdon County is largely rural and affluent",
+    "Flemington is the county seat",
+    "Standard $75 filing fee applies (fee waiver available)",
+    "Clean Slate automatic expungement is FREE"
+  ]
+}

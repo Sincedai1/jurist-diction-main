@@ -1,0 +1,182 @@
+{
+  "jurisdiction": "Tennessee",
+  "lastUpdated": "2026-02-20",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice. Consult a licensed attorney for legal guidance.",
+  "procedures": {
+    "dismissedCharges": {
+      "name": "Dismissed or Acquitted Charges",
+      "statute": "TCA 40-32-101(a)(1)",
+      "description": "Process for expunging charges that were dismissed or resulted in acquittal",
+      "eligibilityCriteria": [
+        "All charges in the case dismissed",
+        "Found not guilty at trial",
+        "No plea bargain resulting in conviction",
+        "No pending appeals"
+      ],
+      "waitingPeriod": "Immediate - no waiting period",
+      "process": [
+        "Obtain certified copy of dismissal order or acquittal",
+        "Complete Petition for Expungement Form (AOC-SP-001)",
+        "File petition with court clerk",
+        "Court reviews and signs order (usually within 30 days)",
+        "Records are sealed"
+      ],
+      "timeline": "30-60 days typical",
+      "fees": "No state filing fee; some counties charge small administrative fee"
+    },
+    "judicialDiversion": {
+      "name": "Judicial Diversion",
+      "statute": "TCA 40-32-101(a)(1)",
+      "description": "Process for expunging records after successful completion of judicial diversion",
+      "eligibilityCriteria": [
+        "Successfully completed all diversion requirements",
+        "No violations during diversion period",
+        "All fines and court costs paid",
+        "No new criminal charges"
+      ],
+      "waitingPeriod": "Upon successful completion",
+      "process": [
+        "Obtain Certificate of Completion from probation/supervision",
+        "Complete Petition for Expungement Form (AOC-SP-001)",
+        "Attach proof of completion",
+        "File with court clerk",
+        "Court signs order expunging record"
+      ],
+      "timeline": "30-60 days after completion",
+      "fees": "No state filing fee; administrative fees may apply"
+    },
+    "pretrialDiversion": {
+      "name": "Pretrial Diversion",
+      "statute": "TCA 40-32-101(a)(1)",
+      "description": "Process for expunging records after successful completion of pretrial diversion",
+      "eligibilityCriteria": [
+        "Successfully completed diversion program",
+        "No violations during diversion period",
+        "All program fees paid",
+        "No new criminal charges"
+      ],
+      "waitingPeriod": "Upon successful completion",
+      "process": [
+        "Obtain Certificate of Completion from District Attorney",
+        "Complete Petition for Expungement Form (AOC-SP-001)",
+        "Attach proof of completion",
+        "File with court clerk",
+        "Court signs order expunging record"
+      ],
+      "timeline": "30-60 days after completion",
+      "fees": "No state filing fee; administrative fees may apply"
+    },
+    "misdemeanorConviction": {
+      "name": "Misdemeanor Conviction",
+      "statute": "TCA 40-32-101(g)",
+      "description": "Process for expunging eligible misdemeanor convictions",
+      "eligibilityCriteria": [
+        "Conviction for eligible misdemeanor (see ineligible list)",
+        "Waiting period of 1 year completed",
+        "All court obligations satisfied (fines, costs, probation)",
+        "No pending criminal charges",
+        "No other expungement within past 5 years"
+      ],
+      "ineligibleMisdemeanors": [
+        "DUI",
+        "Domestic assault",
+        "Criminal contempt in domestic violence case",
+        "Sexual offenses"
+      ],
+      "waitingPeriod": "1 year from completion of sentence",
+      "process": [
+        "Verify waiting period has passed",
+        "Obtain proof of sentence completion and payment of all costs",
+        "Complete Petition for Expungement Form (AOC-SP-001)",
+        "File petition with convicting court",
+        "Serve copy on District Attorney",
+        "Attend hearing if required (often waived for misdemeanors)",
+        "Court signs order if granted"
+      ],
+      "timeline": "60-90 days typical",
+      "fees": "No state filing fee; administrative fees may apply",
+      "daResponsePeriod": "30 days for DA to object"
+    },
+    "felonyConviction": {
+      "name": "Non-Violent Felony Conviction",
+      "statute": "TCA 40-32-101(a)(1)(B)",
+      "description": "Process for expunging eligible non-violent felony convictions",
+      "eligibilityCriteria": [
+        "Conviction for eligible non-violent Class E felony",
+        "Waiting period of 5 years completed",
+        "All court obligations satisfied (fines, restitution, costs, probation)",
+        "No pending criminal charges",
+        "No prior expungement within past 5 years",
+        "No convictions during the 5-year waiting period"
+      ],
+      "ineligibleFelonies": [
+        "Murder/Manslaughter",
+        "Kidnapping",
+        "Robbery",
+        "Rape/Sexual offenses",
+        "Arson",
+        "Child abuse/neglect",
+        "Vehicular homicide",
+        "Drug trafficking/manufacturing",
+        "Firearm-related offenses"
+      ],
+      "waitingPeriod": "5 years from completion of sentence",
+      "process": [
+        "Verify waiting period has passed",
+        "Obtain proof of sentence completion and payment of all costs",
+        "Complete Petition for Expungement Form (AOC-SP-001)",
+        "File petition with convicting court",
+        "Serve copy on District Attorney",
+        "Attend hearing (may be required for felonies)",
+        "Court signs order if granted"
+      ],
+      "timeline": "90-120 days typical",
+      "fees": "No state filing fee; administrative fees may apply",
+      "daResponsePeriod": "30 days for DA to object"
+    }
+  },
+  "checklist": {
+    "general": [
+      "Complete copy of criminal record",
+      "Certified copy of judgment/conviction",
+      "Proof of sentence completion",
+      "Proof of payment of all fines, costs, and restitution",
+      "Valid government-issued photo ID",
+      "Completed petition forms"
+    ],
+    "diversion": [
+      "Certificate of Diversion Completion",
+      "Proof of program fee payment"
+    ],
+    "dismissed": [
+      "Certified copy of dismissal order or acquittal"
+    ]
+  },
+  "timelineFactors": [
+    {
+      "factor": "Court backlog",
+      "impact": "May add 30-60 days to processing time"
+    },
+    {
+      "factor": "DA objection",
+      "impact": "Requires hearing and may extend timeline significantly"
+    },
+    {
+      "factor": "Incomplete paperwork",
+      "impact": "Will delay processing until corrected"
+    },
+    {
+      "factor": "Multiple charges",
+      "impact": "Each charge may require separate processing"
+    }
+  ],
+  "appealsProcess": {
+    "description": "If expungement is denied",
+    "options": [
+      "Motion to reconsider within 30 days",
+      "Appeal to Court of Appeals",
+      "Wait and refile if eligibility issues can be resolved"
+    ],
+    "note": "Consult an attorney if your expungement is denied"
+  }
+}

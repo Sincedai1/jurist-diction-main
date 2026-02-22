@@ -1,0 +1,107 @@
+{
+  "name": "Bergen County",
+  "countySeat": "Hackensack",
+  "population": "955,732",
+  "courts": {
+    "municipal": {
+      "name": "Various Municipal Courts (check ticket for specific court)",
+      "address": "Each municipality has its own court",
+      "phone": "Check ticket or municipal website",
+      "hours": "Varies by municipality",
+      "note": "Traffic tickets are handled in the municipal court of the town where violation occurred"
+    },
+    "superior": {
+      "name": "Bergen County Superior Court",
+      "address": "10 Main St, Hackensack, NJ 07601",
+      "phone": "(201) 646-2300",
+      "note": "Appeals and more serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Bergen County Prosecutor's Office",
+    "address": "10 Main St, Hackensack, NJ 07601",
+    "phone": "(201) 646-2300",
+    "note": "Prosecutors handle serious offenses; most traffic matters handled by municipal prosecutors"
+  },
+  "publicDefender": {
+    "office": "Bergen County Public Defender's Office",
+    "address": "10 Main St, Hackensack, NJ 07601",
+    "phone": "(201) 646-2400",
+    "note": "Available for indigent defendants in criminal cases"
+  },
+  "clerk": {
+    "name": "Bergen County Clerk",
+    "address": "1 Bergen County Plaza, Hackensack, NJ 07601",
+    "phone": "(201) 336-7000",
+    "website": "https://www.co.bergen.nj.us/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed on summons",
+      "process": [
+        "Enter not guilty plea by calling court or appearing",
+        "Plea conference may be scheduled with prosecutor",
+        "Trial date set if no plea agreement reached",
+        "Present evidence and cross-examine officer at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court administrator",
+      "noShow": "Failure to appear may result in bench warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 plea commonly offered (no points, surcharge)",
+      "note": "Plea conferences typical in NJ municipal courts"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving courses can reduce 2 points",
+      "providers": [
+        "NJMVC-approved defensive driving courses",
+        "Online options available"
+      ]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Local Municipal Police Departments",
+      "note": "Each town has its own police department"
+    },
+    "countyPolice": {
+      "name": "Bergen County Sheriff's Office",
+      "address": "10 Main St, Hackensack, NJ 07601",
+      "phone": "(201) 646-2222"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B Headquarters",
+      "address": "20 Winters Rd, Paramus, NJ 07652",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Not currently permitted in NJ (discontinued 2024)",
+    "mandatoryAppearances": "Court appearance required for many violations in NJ"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Varies by municipality",
+      "cost": "Free-$10 depending on location"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and train service throughout county",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "county": "Butler",
+  "countySeat": "Butler",
+  "judicialDistrict": "50th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Butler County",
+      "address": "124 West Diamond Street",
+      "city": "Butler",
+      "state": "PA",
+      "zip": "16001",
+      "phone": "(724) 284-5200",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Butler County Clerk of Courts",
+    "address": "124 West Diamond Street",
+    "city": "Butler",
+    "state": "PA",
+    "zip": "16001",
+    "phone": "(724) 284-5200",
+    "website": "https://www.co.butler.pa.us"
+  },
+  "districtAttorney": {
+    "office": "Butler County District Attorney's Office",
+    "phone": "(724) 284-5220"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Butler County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Butler County follows Pennsylvania Clean Slate Act"
+  ]
+}

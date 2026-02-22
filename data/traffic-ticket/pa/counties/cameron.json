@@ -1,0 +1,102 @@
+{
+  "name": "Cameron County",
+  "countySeat": "Emporium",
+  "population": "4,547",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Cameron County Magisterial District Court",
+      "address": "20 East 5th Street, Emporium, PA 15834",
+      "phone": "(814) 486-0427",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.cameroncountypa.com",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Cameron County",
+      "address": "20 East 5th Street, Emporium, PA 15834",
+      "phone": "(814) 486-0427",
+      "note": "Appeals from Magisterial District Court"
+    }
+  },
+  "districtAttorney": {
+    "office": "Cameron County District Attorney's Office",
+    "address": "20 East 5th Street, Emporium, PA 15834",
+    "phone": "(814) 486-0427",
+    "trafficDivisionContact": "(814) 486-0427"
+  },
+  "publicDefender": {
+    "office": "Cameron County Public Defender",
+    "address": "20 East 5th Street, Emporium, PA 15834",
+    "phone": "(814) 486-0427",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Cameron County Clerk of Courts",
+    "address": "20 East 5th Street, Emporium, PA 15834",
+    "phone": "(814) 486-0427",
+    "website": "https://www.cameroncountypa.com"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Cameron County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Emporium Police Department",
+      "address": "20 East 5th Street, Emporium, PA 15834",
+      "phone": "(814) 486-0600",
+      "recordsRequest": "(814) 486-0600"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Emporium Station",
+      "address": "166 Route 120 East, Emporium, PA 15834",
+      "phone": "(814) 486-3111"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Cameron County",
+    "speedCameras": "Not currently used in Cameron County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking available"
+    },
+    "publicTransit": {
+      "service": "No public transit available",
+      "routes": "N/A",
+      "website": "N/A"
+    }
+  }
+}

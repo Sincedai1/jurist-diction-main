@@ -1,0 +1,50 @@
+{
+  "county": "Centre",
+  "countySeat": "Bellefonte",
+  "judicialDistrict": "49th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Centre County",
+      "address": "102 South Allegheny Street",
+      "city": "Bellefonte",
+      "state": "PA",
+      "zip": "16823",
+      "phone": "(814) 355-6727",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Centre County Clerk of Courts",
+    "address": "102 South Allegheny Street",
+    "city": "Bellefonte",
+    "state": "PA",
+    "zip": "16823",
+    "phone": "(814) 355-6727",
+    "website": "https://www.centrecountycode.us"
+  },
+  "districtAttorney": {
+    "office": "Centre County District Attorney's Office",
+    "phone": "(814) 355-6727"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Centre County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Centre County Bar Association",
+        "phone": "(814) 237-4900"
+      }
+    ]
+  },
+  "notes": [
+    "Centre County follows Pennsylvania Clean Slate Act"
+  ]
+}

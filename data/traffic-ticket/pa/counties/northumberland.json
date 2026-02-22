@@ -1,0 +1,102 @@
+{
+  "name": "Northumberland County",
+  "countySeat": "Sunbury",
+  "population": "91,647",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Northumberland County Magisterial District Courts",
+      "address": "2 North 2nd Street, Sunbury, PA 17801",
+      "phone": "(570) 988-4200",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.norrycopa.com",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Northumberland County",
+      "address": "2 North 2nd Street, Sunbury, PA 17801",
+      "phone": "(570) 988-4200",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Northumberland County District Attorney's Office",
+    "address": "2 North 2nd Street, Sunbury, PA 17801",
+    "phone": "(570) 988-4210",
+    "trafficDivisionContact": "(570) 988-4210"
+  },
+  "publicDefender": {
+    "office": "Northumberland County Public Defender",
+    "address": "2 North 2nd Street, Sunbury, PA 17801",
+    "phone": "(570) 988-4220",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Northumberland County Clerk of Courts",
+    "address": "2 North 2nd Street, Sunbury, PA 17801",
+    "phone": "(570) 988-4200",
+    "website": "https://www.norrycopa.com"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Northumberland County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Sunbury Police Department",
+      "address": "225 Market Street, Sunbury, PA 17801",
+      "phone": "(570) 286-4587",
+      "recordsRequest": "(570) 286-4587"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Milton Station",
+      "address": "696 State Route 254, Milton, PA 17847",
+      "phone": "(570) 742-8900"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Northumberland County",
+    "speedCameras": "Not currently used in Northumberland County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Rabbittransit",
+      "routes": "Bus service in Columbia, Montour, Northumberland counties",
+      "website": "https://www.rabbittransit.org"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Hinds County",
+  "countySeat": "Jackson",
+  "population": "227,742",
+  "courts": {
+    "justice": {
+      "name": "Hinds County Justice Court",
+      "address": "407 E Pascagoula St, Jackson, MS 39201",
+      "phone": "(601) 968-6570",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "website": "https://www.hindscountyms.gov/",
+      "note": "Handles traffic offenses and misdemeanors"
+    },
+    "municipal": {
+      "name": "Jackson Municipal Court",
+      "address": "325 S President St, Jackson, MS 39201",
+      "phone": "(601) 960-1060",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "note": "Handles city of Jackson traffic violations"
+    },
+    "county": {
+      "name": "Hinds County Court",
+      "address": "407 E Pascagoula St, Jackson, MS 39201",
+      "phone": "(601) 968-6570",
+      "note": "Appeals and more serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Hinds County District Attorney's Office",
+    "address": "110 N Congress St, Jackson, MS 39201",
+    "phone": "(601) 968-6628",
+    "trafficDivisionContact": "(601) 968-6628"
+  },
+  "publicDefender": {
+    "office": "Hinds County Public Defender",
+    "address": "407 E Pascagoula St, Jackson, MS 39201",
+    "phone": "(601) 968-6561",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Hinds County Circuit Clerk",
+    "address": "407 E Pascagoula St, Jackson, MS 39201",
+    "phone": "(601) 968-6628",
+    "website": "https://www.hindscountyms.gov/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear or pay by court date on citation",
+      "process": [
+        "Enter not guilty plea at court window or by mail",
+        "Trial date will be set",
+        "Present evidence at trial",
+        "Officer must appear for conviction"
+      ],
+      "paymentOptions": ["In person", "Mail", "Online (some violations)"]
+    },
+    "courtDates": {
+      "scheduling": "Typically 4-8 weeks from plea",
+      "continuances": "Request through court clerk",
+      "noShow": "Failure to appear may result in bench warrant"
+    },
+    "diversionProgram": {
+      "available": true,
+      "eligibility": [
+        "First-time offenders",
+        "Minor violations only",
+        "Court approval required"
+      ],
+      "benefits": "Dismissal upon completion"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "May be offered to reduce or dismiss charges",
+      "providers": [
+        "MS DPS-approved defensive driving courses",
+        "Various online options"
+      ]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Jackson Police Department",
+      "address": "601 S State St, Jackson, MS 39201",
+      "phone": "(601) 960-1234",
+      "recordsRequest": "(601) 960-1340"
+    },
+    "countySheriff": {
+      "name": "Hinds County Sheriff's Office",
+      "address": "407 E Pascagoula St, Jackson, MS 39201",
+      "phone": "(601) 974-2900"
+    },
+    "highwayPatrol": {
+      "name": "Mississippi Highway Patrol - Troop H",
+      "address": "401 NW Rankin Rd, Jackson, MS 39232",
+      "phone": "(601) 987-1212"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts or tank tops",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "mandatoryAppearances": "Required for reckless driving, DUI, driving suspended"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Street parking around courthouse",
+        "Public parking lots"
+      ],
+      "cost": "Free-$5"
+    },
+    "publicTransit": {
+      "service": "JATRAN (Jackson Transit System)",
+      "routes": "Limited bus service",
+      "website": "https://www.jacksonms.gov/"
+    }
+  }
+}

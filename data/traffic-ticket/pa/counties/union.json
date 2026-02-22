@@ -1,0 +1,102 @@
+{
+  "name": "Union County",
+  "countySeat": "Lewisburg",
+  "population": "44,690",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Union County Magisterial District Courts",
+      "address": "103 South 2nd Street, Lewisburg, PA 17837",
+      "phone": "(570) 524-8700",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.unioncounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Union County",
+      "address": "103 South 2nd Street, Lewisburg, PA 17837",
+      "phone": "(570) 524-8700",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Union County District Attorney's Office",
+    "address": "103 South 2nd Street, Lewisburg, PA 17837",
+    "phone": "(570) 524-8710",
+    "trafficDivisionContact": "(570) 524-8710"
+  },
+  "publicDefender": {
+    "office": "Union County Public Defender",
+    "address": "103 South 2nd Street, Lewisburg, PA 17837",
+    "phone": "(570) 524-8720",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Union County Clerk of Courts",
+    "address": "103 South 2nd Street, Lewisburg, PA 17837",
+    "phone": "(570) 524-8700",
+    "website": "https://www.unioncounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Union County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Lewisburg Police Department",
+      "address": "2 South 2nd Street, Lewisburg, PA 17837",
+      "phone": "(570) 523-2021",
+      "recordsRequest": "(570) 523-2021"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Milton Station",
+      "address": "696 State Route 254, Milton, PA 17847",
+      "phone": "(570) 742-8900"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Union County",
+    "speedCameras": "Not currently used in Union County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Rabbittransit",
+      "routes": "Bus service in Union County",
+      "website": "https://www.rabbittransit.org"
+    }
+  }
+}

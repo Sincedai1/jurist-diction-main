@@ -1,0 +1,158 @@
+{
+  "county": "Camden",
+  "countySeat": "Camden",
+  "vicinage": "Vicinage 4",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "superiorCourt": {
+      "name": "Superior Court of New Jersey, Camden County",
+      "address": "101 Park Boulevard",
+      "city": "Camden",
+      "state": "NJ",
+      "zip": "08103",
+      "phone": "(856) 650-9100",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "criminalDivision": "Room 100"
+    },
+    "criminalDivision": {
+      "name": "Criminal Division, Camden County",
+      "address": "101 Park Boulevard, Room 100",
+      "city": "Camden",
+      "state": "NJ",
+      "zip": "08103",
+      "phone": "(856) 650-9100",
+      "expungementClerk": "Criminal Division Manager's Office"
+    }
+  },
+  "clerkInformation": {
+    "name": "Camden County Clerk, Superior Court",
+    "address": "101 Park Boulevard",
+    "city": "Camden",
+    "state": "NJ",
+    "zip": "08103",
+    "phone": "(856) 225-7275",
+    "website": "https://www.njcourts.gov",
+    "expungementInfo": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "prosecutorOffice": {
+    "office": "Camden County Prosecutor's Office",
+    "name": "Camden County Prosecutor",
+    "address": "101 Park Boulevard",
+    "city": "Camden",
+    "state": "NJ",
+    "zip": "08103",
+    "phone": "(856) 225-8500",
+    "expungementUnit": "Expungement Unit"
+  },
+  "fees": {
+    "filingFee": 75,
+    "certificationFee": 10,
+    "copyFee": 0.50,
+    "notes": "Standard $75 filing fee statewide. Fee waiver available for indigent applicants. Clean Slate automatic expungement is FREE."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Camden County processes significant expungements",
+    "verification": "Check status through NJ State Police",
+    "automaticExpungement": "State system automatically processes eligible records",
+    "contactForIssues": "Contact Criminal Division if expunged records still appear"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at Superior Court, Criminal Division",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 3:30 PM",
+    "prosecutorNotification": "Petitioner must serve copy on Camden County Prosecutor's Office",
+    "prosecutorServiceAddress": "101 Park Boulevard, Camden, NJ 08103",
+    "responsePeriod": "30 days for prosecutor to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions",
+    "hearingLocation": "Superior Court, Camden if hearing scheduled",
+    "specialNotes": [
+      "Camden County includes Camden City, Cherry Hill, and surrounding municipalities",
+      "Close proximity to Philadelphia",
+      "Must serve Prosecutor's Office with copy of petition",
+      "Use certified mail with return receipt for proof of service"
+    ]
+  },
+  "timeline": {
+    "processingTime": "45-90 days for uncontested expungements",
+    "prosecutorResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required",
+    "cleanSlateProcessing": "Automatic - processed by state system"
+  },
+  "forms": {
+    "whereToObtain": "Available at Court Clerk's office or NJ Courts website",
+    "onlineForms": "https://www.njcourts.gov/self-help/expungement",
+    "requiredForms": [
+      "Petition for Expungement (Form A)",
+      "Order for Expungement (Form B)",
+      "Notice of Expungement Order (Form C)"
+    ],
+    "additionalDocuments": [
+      "Certified copy of judgment/disposition",
+      "Proof of payment of fines and costs",
+      "Fee waiver application (if requesting)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Services of New Jersey - Camden County",
+        "address": "101 Park Boulevard",
+        "city": "Camden",
+        "phone": "(856) 963-2746",
+        "website": "https://www.lsnjlaw.org",
+        "services": "Free legal assistance for eligible individuals"
+      },
+      {
+        "name": "Camden County Bar Association Lawyer Referral",
+        "address": "1000 White Horse Road",
+        "city": "Voorhees",
+        "phone": "(856) 435-2333"
+      },
+      {
+        "name": "Rutgers Law School - Camden Clinic",
+        "address": "217 North 5th Street",
+        "city": "Camden",
+        "phone": "(856) 225-6375"
+      }
+    ],
+    "selfHelp": {
+      "name": "Camden County Law Library",
+      "location": "101 Park Boulevard",
+      "city": "Camden",
+      "hours": "Monday-Friday 9:00 AM - 4:00 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinics": [
+      {
+        "name": "Camden County Expungement Clinics",
+        "schedule": "Scheduled periodically through legal aid organizations",
+        "services": "Free legal assistance with expungement paperwork",
+        "contact": "(856) 963-2746"
+      }
+    ],
+    "reentryPrograms": [
+      {
+        "name": "Camden County Reentry Services",
+        "address": "101 Park Boulevard",
+        "city": "Camden",
+        "phone": "(856) 225-8500",
+        "services": "Comprehensive reentry services including expungement assistance"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtWebsite": "https://www.njcourts.gov",
+    "statePoliceRecords": "https://www.njsp.org",
+    "caseSearch": "https://www.njcourts.gov/attorneys/case-management",
+    "selfHelp": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "notes": [
+    "Camden County includes Camden City and Cherry Hill",
+    "Close proximity to Philadelphia via PATCO and bridges",
+    "Standard $75 filing fee applies (fee waiver available)",
+    "Clean Slate automatic expungement is FREE"
+  ]
+}

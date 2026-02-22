@@ -1,0 +1,159 @@
+{
+  "county": "Middlesex",
+  "countySeat": "New Brunswick",
+  "vicinage": "Vicinage 8",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "superiorCourt": {
+      "name": "Superior Court of New Jersey, Middlesex County",
+      "address": "563 Paterson Street",
+      "city": "New Brunswick",
+      "state": "NJ",
+      "zip": "08901",
+      "phone": "(732) 519-3200",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "criminalDivision": "Room 100"
+    },
+    "criminalDivision": {
+      "name": "Criminal Division, Middlesex County",
+      "address": "563 Paterson Street, Room 100",
+      "city": "New Brunswick",
+      "state": "NJ",
+      "zip": "08901",
+      "phone": "(732) 519-3200",
+      "expungementClerk": "Criminal Division Manager's Office"
+    }
+  },
+  "clerkInformation": {
+    "name": "Middlesex County Clerk, Superior Court",
+    "address": "75 Bayard Street",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "zip": "08901",
+    "phone": "(732) 745-4202",
+    "website": "https://www.njcourts.gov",
+    "expungementInfo": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "prosecutorOffice": {
+    "office": "Middlesex County Prosecutor's Office",
+    "name": "Middlesex County Prosecutor",
+    "address": "701 Jersey Avenue",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "zip": "08901",
+    "phone": "(732) 745-3300",
+    "expungementUnit": "Expungement Unit"
+  },
+  "fees": {
+    "filingFee": 75,
+    "certificationFee": 10,
+    "copyFee": 0.50,
+    "notes": "Standard $75 filing fee statewide. Fee waiver available for indigent applicants. Clean Slate automatic expungement is FREE."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Middlesex County processes significant expungements",
+    "verification": "Check status through NJ State Police",
+    "automaticExpungement": "State system automatically processes eligible records",
+    "contactForIssues": "Contact Criminal Division if expunged records still appear"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at Superior Court, Criminal Division",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 3:30 PM",
+    "prosecutorNotification": "Petitioner must serve copy on Middlesex County Prosecutor's Office",
+    "prosecutorServiceAddress": "701 Jersey Avenue, New Brunswick, NJ 08901",
+    "responsePeriod": "30 days for prosecutor to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions",
+    "hearingLocation": "Superior Court, New Brunswick if hearing scheduled",
+    "specialNotes": [
+      "Middlesex County includes New Brunswick, Edison, Woodbridge, Perth Amboy",
+      "New Brunswick is the county seat and home to Rutgers University",
+      "Must serve Prosecutor's Office with copy of petition",
+      "Use certified mail with return receipt for proof of service"
+    ]
+  },
+  "timeline": {
+    "processingTime": "45-90 days for uncontested expungements",
+    "prosecutorResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required",
+    "cleanSlateProcessing": "Automatic - processed by state system"
+  },
+  "forms": {
+    "whereToObtain": "Available at Court Clerk's office or NJ Courts website",
+    "onlineForms": "https://www.njcourts.gov/self-help/expungement",
+    "requiredForms": [
+      "Petition for Expungement (Form A)",
+      "Order for Expungement (Form B)",
+      "Notice of Expungement Order (Form C)"
+    ],
+    "additionalDocuments": [
+      "Certified copy of judgment/disposition",
+      "Proof of payment of fines and costs",
+      "Fee waiver application (if requesting)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Services of New Jersey - Middlesex County",
+        "address": "100 Bayard Street",
+        "city": "New Brunswick",
+        "phone": "(732) 249-7600",
+        "website": "https://www.lsnjlaw.org",
+        "services": "Free legal assistance for eligible individuals"
+      },
+      {
+        "name": "Middlesex County Bar Association Lawyer Referral",
+        "address": "89 Market Street",
+        "city": "Piscataway",
+        "phone": "(732) 828-0200"
+      },
+      {
+        "name": "Rutgers Law School Clinic",
+        "address": "123 Washington Street",
+        "city": "Newark",
+        "phone": "(973) 353-5687",
+        "note": "Serves Middlesex County residents"
+      }
+    ],
+    "selfHelp": {
+      "name": "Middlesex County Law Library",
+      "location": "563 Paterson Street",
+      "city": "New Brunswick",
+      "hours": "Monday-Friday 9:00 AM - 4:00 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinics": [
+      {
+        "name": "Middlesex County Expungement Clinics",
+        "schedule": "Scheduled periodically through legal aid organizations",
+        "services": "Free legal assistance with expungement paperwork",
+        "contact": "(732) 249-7600"
+      }
+    ],
+    "reentryPrograms": [
+      {
+        "name": "Middlesex County Reentry Services",
+        "address": "563 Paterson Street",
+        "city": "New Brunswick",
+        "phone": "(732) 519-3200",
+        "services": "Comprehensive reentry services including expungement assistance"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtWebsite": "https://www.njcourts.gov",
+    "statePoliceRecords": "https://www.njsp.org",
+    "caseSearch": "https://www.njcourts.gov/attorneys/case-management",
+    "selfHelp": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "notes": [
+    "Middlesex County includes New Brunswick, Edison, Woodbridge",
+    "New Brunswick is the county seat and home to Rutgers University",
+    "Standard $75 filing fee applies (fee waiver available)",
+    "Clean Slate automatic expungement is FREE"
+  ]
+}

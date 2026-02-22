@@ -1,0 +1,344 @@
+{
+  "jurisdiction": "Tennessee",
+  "lastUpdated": "2026-02-20",
+  "title": "Tennessee Landlord-Tenant Law Reference",
+  "disclaimer": "This is informational only and does not constitute legal advice. Consult a licensed attorney for legal guidance.",
+  "statutes": {
+    "urlta": {
+      "name": "Uniform Residential Landlord and Tenant Act (URLTA)",
+      "code": "TCA 66-28-101 et seq.",
+      "appliesTo": "Counties with population >= 75,000 (Davidson, Shelby, Knox, Hamilton, etc.)",
+      "sections": {
+        "66-28-103": {
+          "title": "Definitions",
+          "summary": "Defines key terms including 'landlord', 'tenant', 'premises', 'rent', and 'security deposit'"
+        },
+        "66-28-104": {
+          "title": "Jurisdiction",
+          "summary": "General Sessions Court has jurisdiction over detainer warrants and eviction proceedings"
+        },
+        "66-28-201": {
+          "title": "Landlord Obligations",
+          "summary": "Landlords must maintain fit premises, comply with building codes, and keep facilities in working order",
+          "tenantRights": [
+            "Right to habitable dwelling",
+            "Right to working plumbing, heating, and electrical systems",
+            "Right to notice before landlord entry (except emergencies)"
+          ]
+        },
+        "66-28-301": {
+          "title": "Tenant Obligations",
+          "summary": "Tenants must pay rent, keep premises clean, and comply with lease terms"
+        },
+        "66-28-304": {
+          "title": "Security Deposits",
+          "summary": "Landlords must return security deposit within 30 days of lease termination, with itemized deductions",
+          "keyPoints": [
+            "Must be deposited in FDIC-insured bank",
+            "Landlord must notify tenant of deposit location",
+            "Itemized statement required for deductions",
+            "Wrongful withholding = liability for deposit amount"
+          ]
+        },
+        "66-28-501": {
+          "title": "Noncompliance by Landlord",
+          "summary": "Tenant remedies when landlord fails to maintain premises",
+          "remedies": [
+            "Written notice to landlord",
+            "14 days to cure defect",
+            "May terminate lease if not cured",
+            "May sue for damages"
+          ]
+        },
+        "66-28-502": {
+          "title": "Landlord's Right to Terminate - Nonpayment",
+          "summary": "Landlord may terminate for nonpayment of rent",
+          "noticeRequired": "14 days written notice to vacate",
+          "keyPoints": [
+            "Notice must state rent due and owing",
+            "Notice must demand possession",
+            "Tenant may pay within 14 days to avoid termination",
+            "After 14 days, landlord may file detainer warrant"
+          ]
+        },
+        "66-28-503": {
+          "title": "Landlord's Right to Terminate - Lease Violation",
+          "summary": "Landlord may terminate for breach of lease terms",
+          "noticeRequired": "30 days written notice for lease violations",
+          "keyPoints": [
+            "Notice must specify the violation",
+            "Tenant has opportunity to cure violation",
+            "Serious violations (illegal activity) may have shorter notice"
+          ]
+        },
+        "66-28-512": {
+          "title": "Recovery of Possession",
+          "summary": "Landlord must use judicial process to evict",
+          "prohibitedActions": [
+            "Self-help evictions are ILLEGAL",
+            "Cannot change locks",
+            "Cannot shut off utilities",
+            "Cannot remove tenant belongings"
+          ]
+        }
+      }
+    },
+    "nonUrlta": {
+      "name": "Non-URLTA Counties",
+      "description": "Counties with population < 75,000 follow common law landlord-tenant principles",
+      "notes": "Local court rules may vary; consult local legal aid for specific procedures"
+    },
+    "detainerWarrant": {
+      "name": "Detainer Warrant Proceedings",
+      "code": "TCA 29-18-101 et seq.",
+      "summary": "Legal process for landlord to recover possession of rental property",
+      "keyPoints": [
+        "Filed in General Sessions Court",
+        "Must state grounds for eviction",
+        "Hearing typically within 6-10 days",
+        "Judgment for possession if tenant fails to appear or defend",
+        "10-day appeal period",
+        "Writ of possession after appeal period expires"
+      ]
+    },
+    "selfHelpEviction": {
+      "name": "Self-Help Eviction Prohibition",
+      "code": "TCA 66-28-512",
+      "summary": "Landlords cannot use self-help methods to remove tenants",
+      "prohibitedActions": [
+        "Changing locks without court order",
+        "Removing doors or windows",
+        "Shutting off utilities (water, electric, gas)",
+        "Removing tenant's belongings",
+        "Threatening or harassing tenant"
+      ],
+      "remedies": [
+        "Tenant may sue for damages",
+        "May be entitled to recover actual damages plus up to 3 months rent",
+        "Possible criminal penalties"
+      ]
+    },
+    "retaliatoryEviction": {
+      "name": "Retaliatory Eviction Protection",
+      "code": "TCA 66-28-411",
+      "summary": "Landlord cannot evict in retaliation for tenant exercising legal rights",
+      "protectedActivities": [
+        "Complaining about housing code violations",
+        "Organizing or joining tenant union",
+        "Exercising legal rights under lease or law",
+        "Reporting health or safety violations"
+      ]
+    },
+    "noticePeriods": {
+      "name": "Required Notice Periods",
+      "summary": "Minimum notice periods required under Tennessee law",
+      "periods": {
+        "nonpayment": {
+          "days": 14,
+          "type": "Written notice to vacate",
+          "notes": "Tenant may cure by paying all rent due within the 14-day period"
+        },
+        "leaseViolation": {
+          "days": 30,
+          "type": "Written notice to cure or vacate",
+          "notes": "Must specify the nature of the violation"
+        },
+        "holdover": {
+          "days": 30,
+          "type": "Written notice to vacate",
+          "notes": "For month-to-month tenancies ending"
+        },
+        "illegalActivity": {
+          "days": 3,
+          "type": "Written notice to vacate",
+          "notes": "For criminal activity on premises"
+        }
+      }
+    },
+    "appeals": {
+      "name": "Appeal Rights",
+      "code": "TCA 27-5-101 et seq.",
+      "summary": "Right to appeal General Sessions Court judgment",
+      "keyPoints": [
+        "10 calendar days to file appeal",
+        "Must post appeal bond (typically equal to judgment plus costs)",
+        "Appeal heard in Circuit Court",
+        "May request jury trial on appeal"
+      ]
+    },
+    "writOfPossession": {
+      "name": "Writ of Possession",
+      "code": "TCA 29-18-127",
+      "summary": "Court order authorizing sheriff to remove tenant",
+      "timeline": "Issued after 10-day appeal period expires or appeal is resolved"
+    }
+  },
+  "defenseStrategies": {
+    "nonpayment": {
+      "name": "Non-Payment of Rent",
+      "defenses": [
+        {
+          "defense": "Improper Notice",
+          "description": "Landlord failed to provide required 14-day written notice",
+          "citation": "TCA 66-28-502",
+          "howToRaise": "File answer alleging insufficient notice; request dismissal"
+        },
+        {
+          "defense": "Payment Made",
+          "description": "All rent due was paid within the 14-day notice period",
+          "citation": "TCA 66-28-502",
+          "howToRaise": "Provide receipts showing payment before deadline"
+        },
+        {
+          "defense": "Breach of Warranty of Habitability",
+          "description": "Premises not maintained in habitable condition",
+          "citation": "TCA 66-28-201",
+          "howToRaise": "Document conditions; show landlord was notified; may offset rent"
+        },
+        {
+          "defense": "Acceptance of Partial Payment",
+          "description": "Landlord accepted partial payment after notice, waiving right to evict",
+          "citation": "Common law",
+          "howToRaise": "Show acceptance of payment after notice was served"
+        },
+        {
+          "defense": "Improper Calculation",
+          "description": "Amount claimed includes improper charges (late fees not in lease, etc.)",
+          "citation": "Contract law",
+          "howToRaise": "Review lease terms; challenge improper fees"
+        },
+        {
+          "defense": "Retaliation",
+          "description": "Eviction filed in response to tenant exercising legal rights",
+          "citation": "TCA 66-28-411",
+          "howToRaise": "Show timing between protected activity and eviction filing"
+        }
+      ]
+    },
+    "leaseViolation": {
+      "name": "Lease Violation",
+      "defenses": [
+        {
+          "defense": "Improper Notice",
+          "description": "Landlord failed to provide required 30-day written notice",
+          "citation": "TCA 66-28-503",
+          "howToRaise": "File answer alleging insufficient notice period"
+        },
+        {
+          "defense": "Violation Cured",
+          "description": "Tenant cured the violation within notice period",
+          "citation": "TCA 66-28-503",
+          "howToRaise": "Document compliance; show violation was remedied"
+        },
+        {
+          "defense": "No Actual Violation",
+          "description": "Alleged violation did not occur or does not violate lease",
+          "citation": "Contract law",
+          "howToRaise": "Review lease terms; present evidence disproving violation"
+        },
+        {
+          "defense": "Selective Enforcement",
+          "description": "Landlord enforces provision against tenant but not others",
+          "citation": "Equitable principles",
+          "howToRaise": "Document inconsistent enforcement of lease terms"
+        },
+        {
+          "defense": "Landlord Breach First",
+          "description": "Landlord breached lease before alleged tenant violation",
+          "citation": "Contract law",
+          "howToRaise": "Document landlord's prior breach"
+        }
+      ]
+    },
+    "holdover": {
+      "name": "Holdover Tenant",
+      "defenses": [
+        {
+          "defense": "Improper Notice",
+          "description": "Landlord failed to provide required 30-day notice to terminate",
+          "citation": "TCA 66-28-512",
+          "howToRaise": "Challenge notice adequacy"
+        },
+        {
+          "defense": "Lease Extension Created",
+          "description": "Landlord's actions created a new tenancy",
+          "citation": "Common law",
+          "howToRaise": "Show acceptance of rent after lease end; evidence of renewal agreement"
+        },
+        {
+          "defense": "Estoppel",
+          "description": "Landlord's conduct led tenant to believe tenancy would continue",
+          "citation": "Equitable principles",
+          "howToRaise": "Document landlord's assurances or conduct"
+        }
+      ]
+    },
+    "illegalActivity": {
+      "name": "Criminal/Illegal Activity",
+      "defenses": [
+        {
+          "defense": "Lack of Knowledge",
+          "description": "Tenant did not know of and could not reasonably have known of activity",
+          "citation": "TCA 66-28-317",
+          "howToRaise": "Show tenant was unaware and had no reason to know"
+        },
+        {
+          "defense": "Prompt Action Taken",
+          "description": "Tenant took prompt action to stop activity after learning of it",
+          "citation": "TCA 66-28-317",
+          "howToRaise": "Document actions taken to address situation"
+        },
+        {
+          "defense": "Improper Notice",
+          "description": "Required 3-day notice not properly served",
+          "citation": "TCA 66-28-317",
+          "howToRaise": "Challenge notice method and timing"
+        }
+      ]
+    }
+  },
+  "resources": {
+    "legalAid": {
+      "statewide": {
+        "name": "Legal Aid of Tennessee",
+        "website": "https://www.las.org",
+        "phone": "1-800-238-1443"
+      },
+      "davidson": {
+        "name": "Legal Aid Society of Middle Tennessee",
+        "address": "211 Union Street, Suite 800, Nashville, TN 37201",
+        "phone": "615-244-6610",
+        "website": "https://www.lasmt.org"
+      },
+      "shelby": {
+        "name": "Memphis Area Legal Services",
+        "address": "121 South Court Avenue, Memphis, TN 38103",
+        "phone": "901-523-8822",
+        "website": "https://www.malsi.org"
+      },
+      "knox": {
+        "name": "Legal Aid of East Tennessee",
+        "address": "502 South Gay Street, Suite 400, Knoxville, TN 37902",
+        "phone": "865-637-0484",
+        "website": "https://www.laet.org"
+      },
+      "hamilton": {
+        "name": "Legal Aid of East Tennessee - Chattanooga",
+        "address": "535 Chestnut Street, Suite 360, Chattanooga, TN 37402",
+        "phone": "423-756-4013",
+        "website": "https://www.laet.org"
+      }
+    },
+    "tenantOrganizations": {
+      "statewide": {
+        "name": "Tennessee Housing Development Agency",
+        "website": "https://www.thda.org",
+        "description": "Housing assistance programs and tenant resources"
+      }
+    },
+    "courtSystems": {
+      "general": "General Sessions Courts handle eviction cases (detainer warrants)",
+      "appeals": "Circuit Courts hear appeals from General Sessions"
+    }
+  }
+}

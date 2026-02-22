@@ -1,0 +1,102 @@
+{
+  "name": "Franklin County",
+  "countySeat": "Chambersburg",
+  "population": "155,932",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Franklin County Magisterial District Courts",
+      "address": "157 Lincoln Way East, Chambersburg, PA 17201",
+      "phone": "(717) 261-3800",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.franklincountypa.gov",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Franklin County",
+      "address": "157 Lincoln Way East, Chambersburg, PA 17201",
+      "phone": "(717) 261-3800",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Franklin County District Attorney's Office",
+    "address": "157 Lincoln Way East, Chambersburg, PA 17201",
+    "phone": "(717) 261-3850",
+    "trafficDivisionContact": "(717) 261-3850"
+  },
+  "publicDefender": {
+    "office": "Franklin County Public Defender",
+    "address": "157 Lincoln Way East, Chambersburg, PA 17201",
+    "phone": "(717) 261-3860",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Franklin County Clerk of Courts",
+    "address": "157 Lincoln Way East, Chambersburg, PA 17201",
+    "phone": "(717) 261-3800",
+    "website": "https://www.franklincountypa.gov"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Franklin County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Chambersburg Police Department",
+      "address": "100 North Second Street, Chambersburg, PA 17201",
+      "phone": "(717) 264-4131",
+      "recordsRequest": "(717) 264-4131"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Chambersburg Station",
+      "address": "1150 Philadelphia Avenue, Chambersburg, PA 17201",
+      "phone": "(717) 264-5161"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Franklin County",
+    "speedCameras": "Not currently used in Franklin County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse", "Public parking lots"],
+      "cost": "Free to $5 for court appearance",
+      "note": "Parking generally available"
+    },
+    "publicTransit": {
+      "service": "Franklin Transit",
+      "routes": "Bus service in Chambersburg area",
+      "website": "https://www.franklintransit.org"
+    }
+  }
+}

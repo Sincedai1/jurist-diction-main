@@ -1,0 +1,137 @@
+{
+  "county": "Lake",
+  "countySeat": "Tiptonville",
+  "population": "7075",
+  "urltaApplies": true,
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This is informational only. Contact the court directly for current procedures.",
+  "court": {
+    "name": "Lake County General Sessions Court",
+    "division": "Civil Division",
+    "address": "Tiptonville Courthouse, Tiptonville, TN",
+    "phone": "731-XXX-XXXX",
+    "website": "Contact Tiptonville County Clerk",
+    "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+    "parking": "Courthouse parking available"
+  },
+  "clerkOffice": {
+    "name": "Lake County Circuit Court Clerk",
+    "address": "Tiptonville Courthouse, Tiptonville, TN",
+    "phone": "731-XXX-XXXX",
+    "website": "Contact county clerk"
+  },
+  "filingProcedures": {
+    "detainerWarrant": {
+      "filingLocation": "Clerk's Office, Tiptonville Courthouse",
+      "filingFee": "$100-150 (subject to change)",
+      "methods": [
+        "In person",
+        "Contact clerk for e-filing availability"
+      ],
+      "requiredDocuments": [
+        "Detainer Warrant form",
+        "Copy of lease (if written)",
+        "Copy of notice served",
+        "Proof of service of notice"
+      ],
+      "serviceOfProcess": {
+        "methods": [
+          "Sheriff's Office",
+          "Private process server",
+          "Certified mail"
+        ],
+        "sheriffFee": "$25-35",
+        "timeline": "Sheriff serves within 5-10 business days"
+      }
+    },
+    "answer": {
+      "filingLocation": "Same as detainer warrant",
+      "filingFee": "None for initial answer",
+      "deadline": "Before hearing date",
+      "recommended": "File at least 3 business days before hearing"
+    }
+  },
+  "hearingProcedures": {
+    "location": "Lake County Courthouse",
+    "schedule": {
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "times": "Contact court for docket times"
+    },
+    "checkIn": {
+      "description": "Check in with court clerk or bailiff",
+      "arrivalTime": "At least 30 minutes before scheduled time"
+    },
+    "continuances": {
+      "policy": "First continuance typically granted on request",
+      "method": "Request from judge at hearing or file motion beforehand",
+      "limit": "Up to 30 days typically"
+    }
+  },
+  "timeline": {
+    "noticeToHearing": "6-14 days after detainer filed",
+    "judgmentToWrit": "10 days after judgment (appeal period)",
+    "writToEviction": "24-72 hours after writ issued"
+  },
+  "appealProcedures": {
+    "court": "Lake County Circuit Court",
+    "deadline": "10 calendar days from judgment",
+    "bondAmount": "Judgment amount plus court costs",
+    "filingLocation": "General Sessions Court Clerk",
+    "hearingTimeline": "30-60 days for Circuit Court setting"
+  },
+  "legalAidResources": [
+    {
+      "name": "West Tennessee Legal Services",
+      "address": "210 E Main St, Jackson, TN",
+      "phone": "731-423-5670",
+      "hours": "Monday-Friday 8:30 AM - 5:00 PM",
+      "eligibility": "Income-qualified tenants",
+      "services": [
+        "Eviction defense",
+        "Housing counseling",
+        "Court representation"
+      ],
+      "website": "https://www.wtls.org",
+      "intake": "Call for intake screening"
+    }
+  ],
+  "emergencyResources": {
+    "rentalAssistance": [
+      {
+        "name": "Lake County Department of Human Services",
+        "phone": "731-XXX-XXXX",
+        "services": "Emergency rental assistance (when available)"
+      },
+      {
+        "name": "Local Churches and Nonprofits",
+        "services": "Emergency assistance programs"
+      }
+    ],
+    "shelters": [
+      {
+        "name": "Tiptonville Area Shelter Services",
+        "phone": "Contact local 211",
+        "services": "Emergency shelter"
+      }
+    ]
+  },
+  "specialNotes": [
+    "Lake County is part of the 29th Judicial District",
+    "Tennessee Uniform Residential Landlord and Tenant Act (URLTA) applies in this county",
+    "Contact court clerk for specific local procedures",
+    "Arrive early for security screening if required"
+  ],
+  "proceduralTips": [
+    "Bring all documentation to hearing",
+    "Dress appropriately for court",
+    "Be prepared to present case concisely",
+    "Know your defenses before hearing",
+    "Request mediation if landlord willing"
+  ]
+}

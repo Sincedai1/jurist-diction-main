@@ -1,0 +1,274 @@
+{
+  "jurisdiction": "Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice. Consult a licensed attorney for legal guidance.",
+  "procedures": {
+    "cleanSlateAutomatic": {
+      "name": "Clean Slate Automatic Sealing",
+      "statute": "18 Pa.C.S.  9122",
+      "description": "Pennsylvania's automatic sealing process - no petition required for eligible records",
+      "eligibilityCriteria": [
+        "Non-conviction records (acquittals, dismissals, nolle prosequi)",
+        "Summary offense convictions with 5-year waiting period completed",
+        "Misdemeanor convictions with 10-year waiting period completed",
+        "Certain non-violent felony convictions with 10-year waiting period completed (2023 expansion)",
+        "No subsequent arrests during the applicable waiting period",
+        "All court obligations satisfied"
+      ],
+      "waitingPeriod": "Varies by offense type - see statute",
+      "process": [
+        "Court system automatically identifies eligible records",
+        "System verifies waiting period and no subsequent arrests",
+        "Records are sealed automatically",
+        "Individual may verify sealing through PA State Police"
+      ],
+      "timeline": "Rolling basis - check status periodically",
+      "fees": "FREE - no cost to the individual",
+      "noActionRequired": true,
+      "checkStatusUrl": "https://www.psp.pa.gov"
+    },
+    "acquittalDismissal": {
+      "name": "Acquittal or Dismissal Expungement",
+      "statute": "18 Pa.C.S.  9122(a)",
+      "description": "Expungement for charges resulting in acquittal or dismissal",
+      "eligibilityCriteria": [
+        "Found not guilty at trial",
+        "Charges dismissed by court",
+        "Nolle prosequi entered by prosecutor",
+        "Charges withdrawn at preliminary hearing",
+        "No conviction on the charge"
+      ],
+      "waitingPeriod": "Immediate - may file petition right away",
+      "process": [
+        "Obtain certified copy of acquittal/dismissal order",
+        "Complete county-specific Petition for Expungement",
+        "File with Clerk of Courts in county where case was heard",
+        "Serve copy on District Attorney",
+        "Court reviews and signs order",
+        "Records are expunged"
+      ],
+      "timeline": "30-90 days typical",
+      "fees": "Filing fees vary by county ($0-$150); may be waived for indigent"
+    },
+    "ardCompletion": {
+      "name": "ARD (Accelerated Rehabilitative Disposition) Expungement",
+      "statute": "18 Pa.C.S.  9122(a)(3)",
+      "description": "Expungement for successful completion of Pennsylvania's ARD program",
+      "eligibilityCriteria": [
+        "Successfully completed all ARD requirements",
+        "All ARD fees and costs paid",
+        "No new criminal charges during ARD period",
+        "ARD was for an eligible offense"
+      ],
+      "waitingPeriod": "Upon completion of ARD program",
+      "process": [
+        "Obtain ARD completion certificate from the court",
+        "Complete Petition for Expungement",
+        "Attach proof of completion and fee payment",
+        "File with Court of Common Pleas",
+        "Serve District Attorney",
+        "Court signs expungement order"
+      ],
+      "timeline": "30-60 days after filing",
+      "fees": "Filing fees vary by county; ARD program fees already paid during program",
+      "note": "ARD is commonly used for first-time DUI offenders in Pennsylvania"
+    },
+    "summaryOffense": {
+      "name": "Summary Offense Expungement",
+      "statute": "18 Pa.C.S.  9122(a)(2)",
+      "description": "Petition-based expungement for summary offense convictions (Clean Slate also covers these automatically after 5 years)",
+      "eligibilityCriteria": [
+        "Conviction for summary offense only (not misdemeanor or felony)",
+        "5-year waiting period completed",
+        "No arrests or convictions during waiting period",
+        "All fines and costs paid"
+      ],
+      "waitingPeriod": "5 years from conviction or final discharge",
+      "process": [
+        "Verify 5-year waiting period has passed",
+        "Obtain proof of payment of all fines and costs",
+        "Complete Petition for Expungement",
+        "File with Magisterial District Court or Court of Common Pleas",
+        "Serve District Attorney",
+        "Attend hearing if required"
+      ],
+      "timeline": "30-60 days typical",
+      "fees": "Filing fees vary; may be waived",
+      "note": "Summary offenses may also be sealed automatically under Clean Slate"
+    },
+    "underageDrinking": {
+      "name": "Underage Drinking Expungement",
+      "statute": "18 Pa.C.S.  9122(a)(4)",
+      "description": "Special expungement provision for underage drinking convictions",
+      "eligibilityCriteria": [
+        "Conviction for underage drinking (18 Pa.C.S. 6308)",
+        "Have reached age 21",
+        "No other convictions during the period",
+        "All fines and costs paid"
+      ],
+      "waitingPeriod": "Upon reaching age 21",
+      "process": [
+        "Verify you are at least 21 years old",
+        "Obtain proof of age and conviction records",
+        "Complete Petition for Expungement",
+        "File with Court of Common Pleas",
+        "Court reviews and signs order"
+      ],
+      "timeline": "30-60 days typical",
+      "fees": "Filing fees vary by county"
+    },
+    "humanTraffickingVictim": {
+      "name": "Human Trafficking Victim Expungement",
+      "statute": "18 Pa.C.S.  9122(a)(5)",
+      "description": "Expungement for victims of human trafficking convicted of offenses committed while trafficked",
+      "eligibilityCriteria": [
+        "Conviction for offense committed while victim of human trafficking",
+        "Evidence of trafficking situation",
+        "Motion filed within specified timeframe"
+      ],
+      "waitingPeriod": "May file motion at any time after conviction",
+      "process": [
+        "Gather evidence of trafficking victimization",
+        "Complete Motion for Expungement",
+        "File with convicting court",
+        "Court holds hearing on motion",
+        "If granted, records expunged"
+      ],
+      "timeline": "Varies based on court schedule",
+      "fees": "Filing fees may be waived",
+      "note": "Consult an attorney or victim services organization for assistance"
+    },
+    "nonViolentFelony": {
+      "name": "Non-Violent Felony Clean Slate Sealing",
+      "statute": "18 Pa.C.S.  9122(b)(3.1)",
+      "description": "2023 expansion - automatic sealing for certain non-violent felony convictions",
+      "eligibilityCriteria": [
+        "Conviction for eligible non-violent felony",
+        "10-year waiting period completed",
+        "No subsequent arrests during waiting period",
+        "All court obligations satisfied (fines, restitution, probation)"
+      ],
+      "ineligibleFelonies": [
+        "Murder, voluntary manslaughter",
+        "Rape, sexual assault, IDSI",
+        "Aggravated assault with deadly weapon",
+        "Kidnapping",
+        "Robbery",
+        "Arson",
+        "Sex offenses requiring registration",
+        "Crimes against children",
+        "Firearms offenses"
+      ],
+      "eligibleFelonies": [
+        "Theft by unlawful taking (felony level)",
+        "Receiving stolen property (felony level)",
+        "Burglary of non-dwelling",
+        "Certain fraud offenses",
+        "Drug possession (felony amount)"
+      ],
+      "waitingPeriod": "10 years from final discharge of sentence",
+      "process": "Automatic - no petition required",
+      "fees": "FREE",
+      "note": "One of the most progressive provisions in the nation"
+    }
+  },
+  "checklist": {
+    "cleanSlateVerification": [
+      "Pennsylvania State Police criminal record check",
+      "Court records verification",
+      "Confirmation of sealing status"
+    ],
+    "petitionBased": [
+      "Complete copy of criminal record from PA State Police",
+      "Certified copy of judgment/disposition",
+      "Proof of sentence completion",
+      "Proof of payment of all fines, costs, and restitution",
+      "Valid government-issued photo ID",
+      "Completed petition forms (county-specific)",
+      "Filing fee or indigency affidavit"
+    ],
+    "ardCompletion": [
+      "ARD completion certificate",
+      "Proof of ARD fee payment",
+      "Court disposition showing ARD discharge"
+    ],
+    "acquittalDismissal": [
+      "Certified copy of acquittal order or dismissal order",
+      "Proof that case is fully closed"
+    ]
+  },
+  "timelineFactors": [
+    {
+      "factor": "Clean Slate backlog",
+      "impact": "Automatic sealing may take several months due to system processing volume"
+    },
+    {
+      "factor": "Court backlog",
+      "impact": "Petition-based expungements may be delayed 30-60 days due to court schedules"
+    },
+    {
+      "factor": "DA objection",
+      "impact": "If District Attorney objects, hearing will be required and timeline extended"
+    },
+    {
+      "factor": "Incomplete paperwork",
+      "impact": "Petitions with missing information will be rejected and must be refiled"
+    },
+    {
+      "factor": "Multiple counties",
+      "impact": "Each county where charges exist requires separate verification or petition"
+    }
+  ],
+  "appealsProcess": {
+    "description": "If expungement petition is denied",
+    "options": [
+      "Motion for reconsideration within 30 days",
+      "Appeal to Superior Court within 30 days",
+      "Wait and refile if eligibility issues can be resolved"
+    ],
+    "note": "Consult an attorney if your expungement petition is denied"
+  },
+  "countyVariations": {
+    "note": "Pennsylvania has 67 counties, each with a Court of Common Pleas",
+    "filingLocations": "Petitions must be filed in the county where the charges originated",
+    "formVariations": "Some counties have their own expungement petition forms",
+    "feeVariations": "Filing fees vary significantly between counties",
+    "majorCounties": [
+      {
+        "name": "Philadelphia",
+        "characteristics": "Largest court system; over 50% of PA expungements; dedicated expungement unit"
+      },
+      {
+        "name": "Allegheny",
+        "characteristics": "Pittsburgh area; second largest; well-developed expungement procedures"
+      },
+      {
+        "name": "Montgomery",
+        "characteristics": "Suburban Philadelphia; moderate volume; standard procedures"
+      },
+      {
+        "name": "Delaware",
+        "characteristics": "Suburban Philadelphia; moderate volume"
+      }
+    ]
+  },
+  "cleanSlateVerification": {
+    "howToCheck": [
+      {
+        "method": "Pennsylvania State Police",
+        "website": "https://www.psp.pa.gov",
+        "description": "Request criminal history record - sealed records will not appear"
+      },
+      {
+        "method": "Court Records",
+        "description": "Check court docket - sealed cases will not be publicly accessible"
+      },
+      {
+        "method": "PAeDocket",
+        "website": "https://ujsportal.pacourts.us",
+        "description": "Online court records portal - sealed records not visible"
+      }
+    ],
+    "note": "If sealed records still appear, contact the court or PA State Police"
+  }
+}

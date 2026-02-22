@@ -1,0 +1,153 @@
+{
+  "county": "Harrison County",
+  "countySeat": "Biloxi",
+  "population": 204000,
+  "established": 1841,
+  "namedAfter": "President William Henry Harrison",
+  "cities": ["Biloxi", "Gulfport", "D'Iberville", "Pass Christian", "Long Beach", "Harrison County"],
+  "courts": {
+    "circuitCourt": {
+      "district": "2nd Judicial District",
+      "judges": 5,
+      "terms": "4 years",
+      "jurisdiction": ["All felony cases", "Civil cases over $200,000", "Appeals from lower courts"],
+      "locations": [
+        {
+          "name": "Gulfport Courthouse",
+          "address": "1801 23rd Avenue, Gulfport, MS 39501",
+          "phone": "228-865-4000"
+        },
+        {
+          "name": "Biloxi Courthouse",
+          "address": "1708 Main Street, Biloxi, MS 39530",
+          "phone": "228-435-8200"
+        }
+      ],
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "filingFees": {
+        "civil": "$157.00",
+        "appeal": "$150.00"
+      }
+    },
+    "chanceryCourt": {
+      "district": "8th and 16th Chancery Districts",
+      "judges": 3,
+      "jurisdiction": ["Divorce and domestic relations", "Probate and estates", "Real property disputes", "Guardianships"],
+      "location": "1820 23rd Avenue, Gulfport, MS 39501",
+      "phone": "228-865-4000",
+      "filingFees": {
+        "divorce": "$127.00",
+        "probate": "$127.00"
+      }
+    },
+    "familyCourt": {
+      "district": "Harrison County Family Court",
+      "judges": 2,
+      "jurisdiction": ["Divorce", "Child custody", "Child support", "Domestic violence", "Paternity"],
+      "location": "1820 23rd Avenue, Gulfport, MS 39501",
+      "phone": "228-865-4000",
+      "filingFees": {
+        "divorce": "$127.00",
+        "custody": "$127.00"
+      }
+    },
+    "countyCourt": {
+      "judges": 2,
+      "jurisdiction": ["Civil cases up to $200,000", "Misdemeanors", "Preliminary hearings", "Evictions"],
+      "location": "1801 23rd Avenue, Gulfport, MS 39501",
+      "phone": "228-865-4000"
+    },
+    "justiceCourt": {
+      "judges": 2,
+      "jurisdiction": ["Civil cases up to $3,500", "Misdemeanors", "Traffic violations", "Preliminary hearings"],
+      "locations": [
+        {
+          "name": "Gulfport",
+          "address": "1801 23rd Avenue, Gulfport, MS 39501",
+          "phone": "228-865-4000"
+        },
+        {
+          "name": "Biloxi",
+          "address": "1708 Main Street, Biloxi, MS 39530",
+          "phone": "228-435-8200"
+        }
+      ],
+      "filingFees": {
+        "civil": "$57.00",
+        "smallClaims": "$42.00"
+      }
+    }
+  },
+  "municipalCourts": [
+    {
+      "name": "Gulfport Municipal Court",
+      "location": "1908 15th Street, Gulfport, MS 39501",
+      "phone": "228-868-5700",
+      "judges": 2,
+      "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"]
+    },
+    {
+      "name": "Biloxi Municipal Court",
+      "location": "1708 Main Street, Biloxi, MS 39530",
+      "phone": "228-435-8290",
+      "judges": 2,
+      "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"]
+    },
+    {
+      "name": "D'Iberville Municipal Court",
+      "location": "10583 Auto Mall Parkway, D'Iberville, MS 39540",
+      "phone": "228-392-2950",
+      "judges": 1,
+      "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"]
+    },
+    {
+      "name": "Pass Christian Municipal Court",
+      "location": "200 West Scenic Drive, Pass Christian, MS 39571",
+      "phone": "228-452-3306",
+      "judges": 1,
+      "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"]
+    },
+    {
+      "name": "Long Beach Municipal Court",
+      "location": "201 Jeff Davis Avenue, Long Beach, MS 39560",
+      "phone": "228-863-6631",
+      "judges": 1,
+      "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"]
+    }
+  ],
+  "lawEnforcement": {
+    "sheriffsOffice": {
+      "name": "Harrison County Sheriff's Office",
+      "location": "1801 23rd Avenue, Gulfport, MS 39501",
+      "phone": "228-865-7000"
+    },
+    "policeDepartments": [
+      {"name": "Gulfport Police Department", "phone": "228-868-5900"},
+      {"name": "Biloxi Police Department", "phone": "228-435-6100"},
+      {"name": "D'Iberville Police Department", "phone": "228-396-4200"},
+      {"name": "Pass Christian Police Department", "phone": "228-452-3300"},
+      {"name": "Long Beach Police Department", "phone": "228-863-7292"}
+    ]
+  },
+  "specialJurisdictions": {
+    "gamingCommission": {
+      "name": "Mississippi Gaming Commission - Coast Office",
+      "location": "1130 West Park Avenue, Suite D, Ocean Springs, MS 39564",
+      "phone": "228-875-3900",
+      "jurisdiction": "Regulates casino gaming in Harrison, Hancock, and Jackson counties"
+    }
+  },
+  "legalAid": [
+    {
+      "name": "Coastal Legal Services",
+      "address": "12282 Seaway Road, Suite A, Gulfport, MS 39503",
+      "phone": "228-896-1010",
+      "services": ["Civil legal aid for low-income residents"]
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "Harrison County Government",
+    "notes": "Second most populous county. Home to casino gaming industry. Unique family court jurisdiction."
+  }
+}

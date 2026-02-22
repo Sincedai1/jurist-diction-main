@@ -1,0 +1,369 @@
+{
+  "jurisdiction": "Mississippi",
+  "jurisdictionType": "state",
+  "documentType": "court-structure",
+  "name": "Mississippi Court System",
+  "description": "Complete structure of Mississippi courts with jurisdiction, judges, and procedures",
+  "courts": [
+    {
+      "courtName": "Supreme Court of Mississippi",
+      "courtType": "appellate",
+      "level": "highest",
+      "location": "Jackson, MS",
+      "jurisdiction": {
+        "type": "statewide",
+        "description": "Final appellate court for all state matters. Mandatory review of death penalty cases. Discretionary review of Court of Appeals decisions. Original jurisdiction in limited cases."
+      },
+      "judges": {
+        "count": 9,
+        "term": 8,
+        "selection": "Nonpartisan election",
+        "requirements": ["Licensed MS attorney", "At least 10 years legal experience", "Resident of state for 5 years"]
+      },
+      "divisions": ["Civil", "Criminal"],
+      "procedures": {
+        "appeals": "Appeals from Court of Appeals, Circuit Courts, Chancery Courts",
+        "briefsRequired": true,
+        "oralArguments": "Typically granted",
+        "opinions": "Published opinions have precedential value"
+      },
+      "website": "https://courts.ms.gov/",
+      "address": "450 High Street, Jackson, MS 39201"
+    },
+    {
+      "courtName": "Mississippi Court of Appeals",
+      "courtType": "appellate",
+      "level": "intermediate",
+      "location": "Jackson, MS",
+      "jurisdiction": {
+        "type": "statewide",
+        "description": "Intermediate appellate court hearing appeals from trial courts. Cases assigned by Supreme Court. Decisions may be reviewed by Supreme Court."
+      },
+      "judges": {
+        "count": 10,
+        "term": 8,
+        "selection": "Nonpartisan election from 5 districts",
+        "requirements": ["Licensed MS attorney", "At least 10 years legal experience"]
+      },
+      "divisions": ["Civil", "Criminal"],
+      "procedures": {
+        "appeals": "Appeals from Circuit Courts, Chancery Courts, County Courts",
+        "briefsRequired": true,
+        "oralArguments": "Discretionary",
+        "opinions": "Published opinions have precedential value"
+      },
+      "website": "https://courts.ms.gov/",
+      "address": "450 High Street, Jackson, MS 39201"
+    }
+  ],
+  "trialCourts": [
+    {
+      "courtName": "Chancery Court",
+      "courtType": "trial",
+      "level": "circuit",
+      "jurisdiction": {
+        "type": "equity",
+        "matters": [
+          "Divorce and domestic relations",
+          "Child custody and support",
+          "Adoption",
+          "Wills, estates, and probate",
+          "Guardianships and conservatorships",
+          "Real property title disputes",
+          "Trusts",
+          "Mental health commitments",
+          "Partition of property"
+        ],
+        "description": "Court of equity handling domestic relations, probate, and property matters. No jury trials."
+      },
+      "districts": 20,
+      "judgesPerDistrict": "1-4",
+      "judges": {
+        "term": 4,
+        "selection": "Nonpartisan election",
+        "requirements": ["Licensed MS attorney", "Resident of district", "At least 26 years old"]
+      },
+      "procedures": {
+        "juryTrials": false,
+        "appealsTo": "Supreme Court or Court of Appeals"
+      },
+      "districtList": [
+        {"district": 1, "counties": ["Hancock", "Harrison", "Jackson", "Stone", "George", "Pearl River"], "seats": 4},
+        {"district": 2, "counties": ["Forrest", "Lamar", "Marion", "Perry", "Greene", "Wayne", "Jones"], "seats": 3},
+        {"district": 3, "counties": ["Lee", "Pontotoc", "Union", "Chickasaw", "Monroe", "Itawamba", "Prentiss", "Tippah", "Alcorn", "Tishomingo"], "seats": 3},
+        {"district": 4, "counties": ["Lafayette", "Marshall", "Tate", "Desoto", "Panola", "Tallahatchie", "Yalobusha", "Calhoun"], "seats": 3},
+        {"district": 5, "counties": ["Copiah", "Hinds", "Madison", "Rankin", "Simpson", "Smith", "Scott"], "seats": 4},
+        {"district": 6, "counties": ["Adams", "Amite", "Claiborne", "Copiah", "Franklin", "Jefferson", "Lawrence", "Lincoln", "Pike", "Walthall", "Wilkinson"], "seats": 3},
+        {"district": 7, "counties": ["Hinds"], "seats": 4},
+        {"district": 8, "counties": ["Rankin"], "seats": 2},
+        {"district": 9, "counties": ["Lauderdale", "Clarke", "Kemper", "Newton", "Neshoba", "Leake", "Winston", "Noxubee", "Attala"], "seats": 3},
+        {"district": 10, "counties": ["Lowndes", "Clay", "Oktibbeha", "Webster", "Choctaw", "Montgomery", "Carroll", "Grenada"], "seats": 3},
+        {"district": 11, "counties": ["Desoto", "Tate", "Panola"], "seats": 2},
+        {"district": 12, "counties": ["Warren", "Issaquena", "Sharkey", "Yazoo", "Holmes", "Humphreys", "Leflore", "Sunflower", "Washington", "Bolivar", "Coahoma", "Tunica", "Quitman"], "seats": 4},
+        {"district": 13, "counties": ["Covington", "Jefferson Davis", "Lamar", "Marion", "Pearl River"], "seats": 2},
+        {"district": 14, "counties": ["Clarke", "Jasper", "Smith", "Wayne"], "seats": 1},
+        {"district": 15, "counties": ["Lafayette", "Marshall", "Tate", "Desoto", "Panola", "Tallahatchie", "Yalobusha", "Calhoun"], "seats": 3},
+        {"district": 16, "counties": ["Jackson", "George", "Hancock"], "seats": 2},
+        {"district": 17, "counties": ["Forrest", "Jones", "Perry"], "seats": 2},
+        {"district": 18, "counties": ["Leake", "Neshoba", "Newton", "Scott"], "seats": 2},
+        {"district": 19, "counties": ["Greene", "George", "Jackson", "Perry", "Stone", "Wayne"], "seats": 2},
+        {"district": 20, "counties": ["Harrison"], "seats": 3}
+      ]
+    },
+    {
+      "courtName": "Circuit Court",
+      "courtType": "trial",
+      "level": "circuit",
+      "jurisdiction": {
+        "type": "law",
+        "matters": [
+          "All felony criminal cases",
+          "Civil cases over $200,000",
+          "Appeals from County Court",
+          "Appeals from Justice Court",
+          "Appeals from Municipal Court",
+          "Personal injury cases",
+          "Contract disputes",
+          "Medical malpractice",
+          "Wrongful death",
+          "Property damage over $200,000"
+        ],
+        "description": "Court of law handling felonies and major civil cases. Jury trials available."
+      },
+      "districts": 22,
+      "judgesPerDistrict": "1-5",
+      "judges": {
+        "term": 4,
+        "selection": "Nonpartisan election",
+        "requirements": ["Licensed MS attorney", "Resident of district", "At least 26 years old"]
+      },
+      "procedures": {
+        "juryTrials": true,
+        "grandJury": "Required for felony indictments",
+        "appealsTo": "Supreme Court or Court of Appeals"
+      },
+      "districtList": [
+        {"district": 1, "counties": ["Alcorn", "Prentiss", "Tippah", "Tishomingo"], "seats": 2},
+        {"district": 2, "counties": ["Benton", "Calhoun", "Chickasaw", "Marshall", "Tate", "Tippah"], "seats": 3},
+        {"district": 3, "counties": ["Bolivar", "Coahoma", "Quitman", "Sunflower", "Tallahatchie", "Tunica"], "seats": 3},
+        {"district": 4, "counties": ["Claiborne", "Copiah", "Hinds", "Jefferson", "Warren"], "seats": 4},
+        {"district": 5, "counties": ["Attala", "Carroll", "Choctaw", "Grenada", "Montgomery", "Webster", "Winona"], "seats": 2},
+        {"district": 6, "counties": ["Harrison"], "seats": 5},
+        {"district": 7, "counties": ["Hinds"], "seats": 4},
+        {"district": 8, "counties": ["Leake", "Neshoba", "Newton", "Scott"], "seats": 2},
+        {"district": 9, "counties": ["Lafayette", "Marshall", "Panola", "Tate", "Yalobusha"], "seats": 3},
+        {"district": 10, "counties": ["Clarke", "Jasper", "Kemper", "Lauderdale", "Newton", "Scott", "Wayne"], "seats": 3},
+        {"district": 11, "counties": ["Forrest", "Jones", "Perry"], "seats": 3},
+        {"district": 12, "counties": ["Adams", "Amite", "Franklin", "Lincoln", "Pike", "Wilkinson"], "seats": 3},
+        {"district": 13, "counties": ["Greene", "Jackson", "George", "Hancock", "Pearl River", "Stone"], "seats": 3},
+        {"district": 14, "counties": ["Clarke", "Jasper", "Lauderdale"], "seats": 2},
+        {"district": 15, "counties": ["Lamar", "Forrest", "Pearl River", "Marion", "Jefferson Davis"], "seats": 2},
+        {"district": 16, "counties": ["Desoto"], "seats": 3},
+        {"district": 17, "counties": ["Madison", "Rankin"], "seats": 3},
+        {"district": 18, "counties": ["Lee", "Pontotoc", "Union", "Chickasaw", "Monroe", "Itawamba"], "seats": 3},
+        {"district": 19, "counties": ["Lincoln", "Pike", "Walthall"], "seats": 2},
+        {"district": 20, "counties": ["Hinds", "Madison", "Rankin"], "seats": 4},
+        {"district": 21, "counties": ["Holmes", "Humphreys", "Leflore", "Washington", "Yazoo"], "seats": 3},
+        {"district": 22, "counties": ["Lowndes", "Clay", "Oktibbeha", "Noxubee"], "seats": 3}
+      ]
+    },
+    {
+      "courtName": "County Court",
+      "courtType": "trial",
+      "level": "county",
+      "jurisdiction": {
+        "type": "limited",
+        "matters": [
+          "Civil cases up to $200,000",
+          "Misdemeanor criminal cases",
+          "Preliminary hearings for felonies",
+          "Appeals from Justice Court",
+          "Appeals from Municipal Court",
+          "Landlord-tenant (evictions)",
+          "Small claims (up to $3,500)",
+          "Youth Court matters"
+        ],
+        "description": "Limited jurisdiction court for smaller civil cases, misdemeanors, and preliminary felony hearings. Jury trials available."
+      },
+      "counties": 22,
+      "countiesWithCountyCourts": [
+        "Adams", "Bolivar", "Coahoma", "Desoto", "Forrest", "Harrison", "Hinds", "Humphreys",
+        "Jackson", "Jones", "Lafayette", "Lauderdale", "Lee", "Leflore", "Lowndes", "Madison",
+        "Oktibbeha", "Rankin", "Scott", "Warren", "Washington", "Yazoo"
+      ],
+      "judges": {
+        "term": 4,
+        "selection": "Nonpartisan election",
+        "requirements": ["Licensed MS attorney", "Resident of county", "At least 26 years old"]
+      },
+      "procedures": {
+        "juryTrials": true,
+        "appealsTo": "Circuit Court"
+      }
+    },
+    {
+      "courtName": "Justice Court",
+      "courtType": "trial",
+      "level": "county",
+      "jurisdiction": {
+        "type": "limited",
+        "matters": [
+          "Civil cases up to $3,500",
+          "Small claims",
+          "Misdemeanor criminal cases",
+          "Preliminary hearings for felonies",
+          "Traffic violations",
+          "Search warrants",
+          "Arrest warrants",
+          "Bond hearings",
+          "Evictions"
+        ],
+        "description": "Limited jurisdiction court in every county handling small civil cases, misdemeanors, traffic, and preliminary felony hearings."
+      },
+      "judgesPerCounty": "2 per county",
+      "judges": {
+        "term": 4,
+        "selection": "Nonpartisan election",
+        "requirements": ["21 years old", "High school diploma or GED", "Resident of county", "Complete certification training"]
+      },
+      "procedures": {
+        "juryTrials": true,
+        "appealsTo": "County Court (if exists) or Circuit Court"
+      }
+    },
+    {
+      "courtName": "Municipal Court",
+      "courtType": "trial",
+      "level": "municipal",
+      "jurisdiction": {
+        "type": "limited",
+        "matters": [
+          "Municipal ordinance violations",
+          "Traffic violations within city limits",
+          "Misdemeanor crimes within city limits",
+          "Preliminary hearings for felonies",
+          "Search warrants",
+          "Bond hearings"
+        ],
+        "description": "City-level court handling ordinance violations, traffic, and misdemeanors within municipal limits."
+      },
+      "judges": {
+        "term": "Varies by municipality",
+        "selection": "Appointed or elected (varies)",
+        "requirements": ["Licensed MS attorney preferred", "Resident of municipality"]
+      },
+      "procedures": {
+        "juryTrials": false,
+        "appealsTo": "County Court (if exists) or Circuit Court"
+      },
+      "majorCities": [
+        "Jackson", "Gulfport", "Southaven", "Biloxi", "Hattiesburg", "Olive Branch", "Tupelo",
+        "Greenville", "Meridian", "Pearl", "Madison", "Ridgeland", "Starkville", "Flowood",
+        "Ocean Springs", "Clinton", "Brandon", "Columbus", "Oxford", "Horn Lake", "Vicksburg",
+        "Pascagoula", "Canton", "D'Iberville", "Corinth", "Natchez", "Greenwood", "Cleveland"
+      ]
+    },
+    {
+      "courtName": "Youth Court",
+      "courtType": "special",
+      "level": "county",
+      "jurisdiction": {
+        "type": "specialized",
+        "matters": [
+          "Delinquency (crimes by juveniles)",
+          "Child abuse and neglect",
+          "Child in need of supervision (CHINS)",
+          "Termination of parental rights",
+          "Youthful offender cases"
+        ],
+        "description": "Specialized court for matters involving children under 18. Proceedings are confidential."
+      },
+      "judges": {
+        "term": 4,
+        "selection": "Appointed by Governor or elected",
+        "requirements": ["Licensed MS attorney preferred"]
+      },
+      "procedures": {
+        "juryTrials": false,
+        "confidential": true,
+        "appealsTo": "Supreme Court or Court of Appeals"
+      }
+    },
+    {
+      "courtName": "Drug Court",
+      "courtType": "special",
+      "level": "circuit",
+      "jurisdiction": {
+        "type": "specialized",
+        "matters": [
+          "Non-violent drug offenders",
+          "Substance abuse treatment programs",
+          "Intensive supervision",
+          "Recovery support services"
+        ],
+        "description": "Specialized court for non-violent drug offenders focusing on treatment and rehabilitation rather than incarceration."
+      },
+      "judges": "Circuit or County Court judges preside",
+      "procedures": {
+        "juryTrials": false,
+        "programDuration": "12-24 months minimum",
+        "requirements": ["Regular court appearances", "Drug testing", "Treatment programs", "Employment or education"]
+      }
+    },
+    {
+      "courtName": "Family Court",
+      "courtType": "special",
+      "level": "county",
+      "jurisdiction": {
+        "type": "specialized",
+        "matters": [
+          "Divorce",
+          "Child custody",
+          "Child support",
+          "Domestic violence protective orders",
+          "Paternity",
+          "Legitimation"
+        ],
+        "description": "Specialized court for domestic relations. Currently operating in Harrison, Jackson, and Coahoma counties."
+      },
+      "counties": ["Harrison", "Jackson", "Coahoma"],
+      "judges": {
+        "term": 4,
+        "selection": "Nonpartisan election",
+        "requirements": ["Licensed MS attorney"]
+      },
+      "procedures": {
+        "juryTrials": false,
+        "appealsTo": "Supreme Court or Court of Appeals"
+      }
+    }
+  ],
+  "administrative": {
+    "administrativeOffice": "Mississippi Administrative Office of Courts",
+    "address": "450 High Street, Jackson, MS 39201",
+    "phone": "601-359-3629",
+    "website": "https://courts.ms.gov/",
+    "chiefJustice": "Appointed by Supreme Court",
+    "clerksOffice": "Each court has a clerk responsible for maintaining records, filing, and court administration"
+  },
+  "filingInformation": {
+    "fees": {
+      "circuit_civil_filing": "$150-250",
+      "circuit_criminal_filing": "$0 (state prosecution)",
+      "chancery_filing": "$125-200",
+      "county_court_filing": "$75-150",
+      "justice_court_civil": "$50-100",
+      "appeal_filing": "$100-200",
+      "copy_fees": "$0.50-$1.00 per page",
+      "certification": "$5-10 per document"
+    },
+    "electronicFiling": "Mississippi Electronic Courts System (MEC) required for attorneys in most courts",
+    "proHacVice": "Available for out-of-state attorneys with local counsel"
+  },
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "Mississippi Judiciary",
+    "url": "https://courts.ms.gov/",
+    "notes": "Complete court structure including all trial and appellate courts. District assignments subject to redistricting."
+  }
+}

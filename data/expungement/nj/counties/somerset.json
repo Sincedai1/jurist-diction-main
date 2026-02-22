@@ -1,0 +1,152 @@
+{
+  "county": "Somerset",
+  "countySeat": "Somerville",
+  "vicinage": "Vicinage 13",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "superiorCourt": {
+      "name": "Superior Court of New Jersey, Somerset County",
+      "address": "20 North Bridge Street",
+      "city": "Somerville",
+      "state": "NJ",
+      "zip": "08876",
+      "phone": "(908) 231-7100",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "criminalDivision": "Room 100"
+    },
+    "criminalDivision": {
+      "name": "Criminal Division, Somerset County",
+      "address": "20 North Bridge Street, Room 100",
+      "city": "Somerville",
+      "state": "NJ",
+      "zip": "08876",
+      "phone": "(908) 231-7100",
+      "expungementClerk": "Criminal Division Manager's Office"
+    }
+  },
+  "clerkInformation": {
+    "name": "Somerset County Clerk, Superior Court",
+    "address": "20 Grove Street",
+    "city": "Somerville",
+    "state": "NJ",
+    "zip": "08876",
+    "phone": "(908) 231-7000",
+    "website": "https://www.njcourts.gov",
+    "expungementInfo": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "prosecutorOffice": {
+    "office": "Somerset County Prosecutor's Office",
+    "name": "Somerset County Prosecutor",
+    "address": "20 North Bridge Street",
+    "city": "Somerville",
+    "state": "NJ",
+    "zip": "08876",
+    "phone": "(908) 231-7100",
+    "expungementUnit": "Expungement Unit"
+  },
+  "fees": {
+    "filingFee": 75,
+    "certificationFee": 10,
+    "copyFee": 0.50,
+    "notes": "Standard $75 filing fee statewide. Fee waiver available for indigent applicants. Clean Slate automatic expungement is FREE."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Somerset County processes expungements regularly",
+    "verification": "Check status through NJ State Police",
+    "automaticExpungement": "State system automatically processes eligible records",
+    "contactForIssues": "Contact Criminal Division if expunged records still appear"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at Superior Court, Criminal Division",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 3:30 PM",
+    "prosecutorNotification": "Petitioner must serve copy on Somerset County Prosecutor's Office",
+    "prosecutorServiceAddress": "20 North Bridge Street, Somerville, NJ 08876",
+    "responsePeriod": "30 days for prosecutor to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions",
+    "hearingLocation": "Superior Court, Somerville if hearing scheduled",
+    "specialNotes": [
+      "Somerset County includes 21 municipalities",
+      "Somerville is the county seat",
+      "Must serve Prosecutor's Office with copy of petition",
+      "Use certified mail with return receipt for proof of service"
+    ]
+  },
+  "timeline": {
+    "processingTime": "45-90 days for uncontested expungements",
+    "prosecutorResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required",
+    "cleanSlateProcessing": "Automatic - processed by state system"
+  },
+  "forms": {
+    "whereToObtain": "Available at Court Clerk's office or NJ Courts website",
+    "onlineForms": "https://www.njcourts.gov/self-help/expungement",
+    "requiredForms": [
+      "Petition for Expungement (Form A)",
+      "Order for Expungement (Form B)",
+      "Notice of Expungement Order (Form C)"
+    ],
+    "additionalDocuments": [
+      "Certified copy of judgment/disposition",
+      "Proof of payment of fines and costs",
+      "Fee waiver application (if requesting)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Services of New Jersey - Somerset County",
+        "address": "20 Grove Street",
+        "city": "Somerville",
+        "phone": "(908) 231-7000",
+        "website": "https://www.lsnjlaw.org",
+        "services": "Free legal assistance for eligible individuals"
+      },
+      {
+        "name": "Somerset County Bar Association Lawyer Referral",
+        "address": "20 Grove Street",
+        "city": "Somerville",
+        "phone": "(908) 231-0500"
+      }
+    ],
+    "selfHelp": {
+      "name": "Somerset County Law Library",
+      "location": "20 North Bridge Street",
+      "city": "Somerville",
+      "hours": "Monday-Friday 9:00 AM - 4:00 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinics": [
+      {
+        "name": "Somerset County Expungement Clinics",
+        "schedule": "Scheduled periodically through legal aid organizations",
+        "services": "Free legal assistance with expungement paperwork",
+        "contact": "(908) 231-7000"
+      }
+    ],
+    "reentryPrograms": [
+      {
+        "name": "Somerset County Reentry Services",
+        "address": "20 North Bridge Street",
+        "city": "Somerville",
+        "phone": "(908) 231-7100",
+        "services": "Comprehensive reentry services including expungement assistance"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtWebsite": "https://www.njcourts.gov",
+    "statePoliceRecords": "https://www.njsp.org",
+    "caseSearch": "https://www.njcourts.gov/attorneys/case-management",
+    "selfHelp": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "notes": [
+    "Somerset County is an affluent suburban county",
+    "Somerville is the county seat",
+    "Standard $75 filing fee applies (fee waiver available)",
+    "Clean Slate automatic expungement is FREE"
+  ]
+}

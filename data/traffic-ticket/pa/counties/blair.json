@@ -1,0 +1,102 @@
+{
+  "name": "Blair County",
+  "countySeat": "Hollidaysburg",
+  "population": "122,822",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Blair County Magisterial District Courts",
+      "address": "423 Allegheny Street, Hollidaysburg, PA 16648",
+      "phone": "(814) 696-4273",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.blairco.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Blair County",
+      "address": "423 Allegheny Street, Hollidaysburg, PA 16648",
+      "phone": "(814) 696-4273",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Blair County District Attorney's Office",
+    "address": "423 Allegheny Street, Hollidaysburg, PA 16648",
+    "phone": "(814) 693-3050",
+    "trafficDivisionContact": "(814) 693-3050"
+  },
+  "publicDefender": {
+    "office": "Blair County Public Defender",
+    "address": "423 Allegheny Street, Hollidaysburg, PA 16648",
+    "phone": "(814) 693-3070",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Blair County Clerk of Courts",
+    "address": "423 Allegheny Street, Hollidaysburg, PA 16648",
+    "phone": "(814) 696-4273",
+    "website": "https://www.blairco.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Blair County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Altoona Police Department",
+      "address": "1301 12th Avenue, Altoona, PA 16601",
+      "phone": "(814) 949-2420",
+      "recordsRequest": "(814) 949-2420"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Hollidaysburg Station",
+      "address": "1500 2nd Street, Hollidaysburg, PA 16648",
+      "phone": "(814) 696-3100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Blair County",
+    "speedCameras": "Not currently used in Blair County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Altoona Metro Transit (AMTRAN)",
+      "routes": "Bus service in Altoona area",
+      "website": "https://www.amtran.org"
+    }
+  }
+}

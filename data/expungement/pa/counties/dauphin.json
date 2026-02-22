@@ -1,0 +1,48 @@
+{
+  "county": "Dauphin",
+  "countySeat": "Harrisburg",
+  "judicialDistrict": "12th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Dauphin County",
+      "address": "101 Market Street",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip": "17101",
+      "phone": "(717) 780-6500"
+    }
+  },
+  "clerkInformation": {
+    "name": "Dauphin County Clerk of Courts",
+    "address": "101 Market Street",
+    "city": "Harrisburg",
+    "state": "PA",
+    "zip": "17101",
+    "phone": "(717) 780-6500",
+    "website": "https://www.dauphincounty.gov"
+  },
+  "districtAttorney": {
+    "office": "Dauphin County District Attorney's Office",
+    "phone": "(717) 780-6720"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Dauphin County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "MidPenn Legal Services",
+        "phone": "(717) 232-0581"
+      }
+    ]
+  },
+  "notes": [
+    "Dauphin County follows Pennsylvania Clean Slate Act"
+  ]
+}

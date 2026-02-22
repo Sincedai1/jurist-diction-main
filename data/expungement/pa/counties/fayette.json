@@ -1,0 +1,40 @@
+{
+  "county": "Fayette",
+  "countySeat": "Uniontown",
+  "judicialDistrict": "51st Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Fayette County",
+      "address": "61 East Main Street",
+      "city": "Uniontown",
+      "state": "PA",
+      "zip": "15401",
+      "phone": "(724) 430-1200"
+    }
+  },
+  "clerkInformation": {
+    "name": "Fayette County Clerk of Courts",
+    "address": "61 East Main Street",
+    "city": "Uniontown",
+    "state": "PA",
+    "zip": "15401",
+    "phone": "(724) 430-1200",
+    "website": "https://www.co.fayette.pa.us"
+  },
+  "districtAttorney": {
+    "office": "Fayette County District Attorney's Office",
+    "phone": "(724) 430-1220"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Fayette County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Fayette County follows Pennsylvania Clean Slate Act"
+  ]
+}

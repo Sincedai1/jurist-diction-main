@@ -1,0 +1,105 @@
+{
+  "name": "Passaic County",
+  "countySeat": "Paterson",
+  "population": "524,118",
+  "courts": {
+    "municipal": {
+      "name": "Paterson Municipal Court (and other municipal courts)",
+      "address": "77 Ellison St, Paterson, NJ 07505",
+      "phone": "(973) 321-1160",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.patersonnj.gov/municipal-court",
+      "note": "16 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Passaic County Superior Court",
+      "address": "77 Hamilton St, Paterson, NJ 07505",
+      "phone": "(973) 247-8500",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Passaic County Prosecutor's Office",
+    "address": "401 Grand St, Paterson, NJ 07505",
+    "phone": "(973) 881-4800",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Passaic County Public Defender's Office",
+    "address": "77 Hamilton St, Paterson, NJ 07505",
+    "phone": "(973) 247-8500",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Passaic County Clerk",
+    "address": "401 Grand St, Paterson, NJ 07505",
+    "phone": "(973) 881-4400",
+    "website": "https://www.passaiccountynj.org/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Paterson Police Department",
+      "address": "115 Broadway, Paterson, NJ 07505",
+      "phone": "(973) 321-1111"
+    },
+    "countyPolice": {
+      "name": "Passaic County Sheriff's Office",
+      "address": "435 Grand St, Paterson, NJ 07505",
+      "phone": "(973) 881-4450"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and garage parking",
+      "cost": "$5-15"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and train service",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

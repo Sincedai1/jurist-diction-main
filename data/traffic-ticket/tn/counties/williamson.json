@@ -1,0 +1,175 @@
+{
+  "name": "Williamson County",
+  "countySeat": "Franklin",
+  "population": "247,726",
+  "courts": {
+    "generalSessions": {
+      "name": "Williamson County General Sessions Court",
+      "address": "135 4th Ave S, Franklin, TN 37064",
+      "phone": "(615) 790-5407",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.williamsoncounty-tn.gov/115/General-Sessions-Court",
+      "parking": "Free public parking available around courthouse",
+      "publicTransport": "Limited public transit"
+    },
+    "municipal": {
+      "name": "Franklin Municipal Court",
+      "address": "201 2nd Ave S, Franklin, TN 37064",
+      "phone": "(615) 791-3232",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "website": "https://www.franklintn.gov/government/city-court",
+      "note": "Handles city ordinance and traffic violations within Franklin city limits"
+    },
+    "trafficDivision": {
+      "name": "General Sessions Court - Traffic Division",
+      "address": "135 4th Ave S, Franklin, TN 37064",
+      "phone": "(615) 790-5407",
+      "note": "Handles state traffic citations"
+    },
+    "suburbanMunicipal": {
+      "description": "Suburban municipalities have their own courts",
+      "cities": [
+        {
+          "name": "Brentwood City Court",
+          "address": "5211 Maryland Way, Brentwood, TN 37027",
+          "phone": "(615) 371-0060"
+        },
+        {
+          "name": "Spring Hill City Court",
+          "address": "199 Town Center Pkwy, Spring Hill, TN 37174",
+          "phone": "(931) 486-2252"
+        },
+        {
+          "name": "Fairview City Court",
+          "address": "7100 City Center Way, Fairview, TN 37062",
+          "phone": "(615) 799-2470"
+        }
+      ]
+    }
+  },
+  "districtAttorney": {
+    "office": "Williamson County District Attorney's Office",
+    "address": "135 4th Ave S, Franklin, TN 37064",
+    "phone": "(615) 790-5540",
+    "website": "https://www.williamsoncounty-tn.gov/105/District-Attorney"
+  },
+  "publicDefender": {
+    "office": "Williamson County Public Defender's Office",
+    "address": "408 Century Ct, Franklin, TN 37064",
+    "phone": "(615) 790-5400",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Williamson County Circuit Court Clerk",
+    "address": "135 4th Ave S, Franklin, TN 37064",
+    "phone": "(615) 790-5426",
+    "website": "https://www.williamsoncounty-tn.gov/112/Circuit-Court-Clerk"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Generally 10 days from citation date",
+      "process": [
+        "City tickets: Contact Franklin Municipal Court",
+        "County tickets: Contact General Sessions Court",
+        "Enter not guilty plea to receive court date",
+        "File discovery request with court clerk"
+      ],
+      "onlinePayment": "Available through City of Franklin and Williamson County websites",
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Court dates typically 4-6 weeks from arraignment",
+      "continuances": "Contact court clerk at least 48 hours before scheduled date",
+      "noShow": "Failure to appear may result in bench warrant and license suspension"
+    },
+    "diversionProgram": {
+      "name": "Williamson County Pre-Trial Diversion",
+      "eligibility": [
+        "First-time offenders",
+        "No prior diversions",
+        "Eligible misdemeanor traffic offenses"
+      ],
+      "requirements": [
+        "Complete defensive driving course",
+        "Pay program fees and court costs",
+        "Probation period (11 months 29 days typical)"
+      ],
+      "cost": "$200-350",
+      "contact": "District Attorney's Office - (615) 790-5540"
+    },
+    "trafficSchool": {
+      "approvedProviders": [
+        "National Safety Council",
+        "Tennessee-approved online courses",
+        "AAA Tennessee"
+      ],
+      "deadline": "Must complete within 90 days of court order",
+      "cost": "$25-75"
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Franklin Police Department",
+      "address": "900 Columbia Ave, Franklin, TN 37064",
+      "phone": "(615) 794-2513",
+      "recordsRequest": "(615) 550-6813",
+      "website": "https://www.franklintn.gov/government/police"
+    },
+    "highwayPatrol": {
+      "name": "Tennessee Highway Patrol - Williamson County",
+      "address": "5006 Royal Oaks Pt, Franklin, TN 37067",
+      "phone": "(615) 790-5540"
+    },
+    "williamsonCountySheriff": {
+      "name": "Williamson County Sheriff's Office",
+      "address": "408 Century Ct, Franklin, TN 37064",
+      "phone": "(615) 790-5560",
+      "website": "https://www.williamsoncounty-tn.gov/103/Sheriff"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts, tank tops, or hats",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 20 minutes early for security"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones; strictly enforced",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used",
+    "speedCameras": "Not used",
+    "interstateEnforcement": "Heavy enforcement on I-65 through county"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Public parking around downtown Franklin square",
+        "City parking garages"
+      ],
+      "cost": "Free or low cost",
+      "note": "Historic downtown area; plan for walking"
+    },
+    "publicTransit": {
+      "service": "Franklin Transit Authority",
+      "routes": "Limited routes in Franklin",
+      "website": "https://www.franklintransit.org/"
+    }
+  },
+  "additionalResources": {
+    "legalAid": {
+      "name": "Legal Aid Society - Franklin Office",
+      "address": "135 4th Ave S, Franklin, TN 37064",
+      "phone": "(615) 790-5400",
+      "note": "Free legal assistance for qualifying individuals"
+    },
+    "lawyerReferral": {
+      "name": "Williamson County Bar Association",
+      "phone": "(615) 790-5540"
+    }
+  },
+  "economicFactors": {
+    "note": "Williamson County is one of the wealthiest counties in Tennessee",
+    "courtFines": "May be at higher end of typical ranges",
+    "diversionCosts": "Program fees may be higher than other counties"
+  }
+}

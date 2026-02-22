@@ -1,0 +1,42 @@
+{
+  "county": "Clarion",
+  "countySeat": "Clarion",
+  "judicialDistrict": "48th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Clarion County",
+      "address": "515 Main Street",
+      "city": "Clarion",
+      "state": "PA",
+      "zip": "16214",
+      "phone": "(814) 226-4400",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Clarion County Clerk of Courts",
+    "address": "515 Main Street",
+    "city": "Clarion",
+    "state": "PA",
+    "zip": "16214",
+    "phone": "(814) 226-4400",
+    "website": "https://www.co.clarion.pa.us"
+  },
+  "districtAttorney": {
+    "office": "Clarion County District Attorney's Office",
+    "phone": "(814) 226-4420"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Clarion County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Clarion County follows Pennsylvania Clean Slate Act"
+  ]
+}

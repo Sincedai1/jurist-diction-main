@@ -1,0 +1,328 @@
+{
+  "title": "New Jersey Traffic Ticket Defense Procedures",
+  "description": "Step-by-step procedures for contesting traffic tickets in New Jersey",
+  "disclaimer": "This is informational only and not legal advice. Procedures vary by jurisdiction.",
+  "lastUpdated": "2026-02-21",
+  "proceduresByViolation": {
+    "speeding": {
+      "displayName": "Speeding Violation",
+      "severity": "minor_to_moderate",
+      "immediateActions": [
+        "Review ticket for accuracy (date, time, location, speed recorded)",
+        "Note weather and road conditions",
+        "Document any witnesses",
+        "Take photos of signage and road conditions if possible",
+        "Check if mandatory court appearance required (20+ over in 65 zones)"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Radar Calibration Challenge",
+          "description": "Challenge the accuracy of speed measurement device",
+          "steps": [
+            "Request discovery of radar calibration records",
+            "Verify device was calibrated within 5 days of violation (NJ specific requirement)",
+            "Check officer's training certification",
+            "Examine maintenance records"
+          ],
+          "success_factors": ["Outdated calibration", "Missing records", "Untrained officer"]
+        },
+        {
+          "name": "Signage Defense",
+          "description": "Challenge speed limit signage",
+          "steps": [
+            "Photograph all speed limit signs in the area",
+            "Verify signs meet MUTCD standards",
+            "Check if speed limit is properly posted",
+            "Document any obstructed or damaged signs"
+          ],
+          "success_factors": ["Missing signs", "Obstructed visibility", "Non-standard posting"]
+        },
+        {
+          "name": "Plea to Unsafe Driving",
+          "description": "Negotiate plea to 39:4-97.2 (no points)",
+          "steps": [
+            "Request plea conference with prosecutor",
+            "Ask for downgrade to unsafe driving statute",
+            "Pay surcharge ($250-$400) instead of points",
+            "Limited to 2 uses per 5 years"
+          ],
+          "success_factors": ["First or second offense in 5 years", "Prosecutor agrees", "No accident involved"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal (if defense successful)",
+        "Plea to unsafe driving (no points, higher fine)",
+        "Reduced speed (fewer points)",
+        "Guilty with fine and points",
+        "Not guilty verdict"
+      ],
+      "timeline": {
+        "contestDeadline": "Must appear on or before court date on summons",
+        "courtDate": "Listed on ticket or will be mailed",
+        "appealDeadline": "20 days from conviction"
+      },
+      "mandatoryCourtAppearance": {
+        "description": "Court appearance mandatory for certain speeding violations",
+        "thresholds": [
+          "20+ mph over limit in 65 mph zones",
+          "25+ mph over limit in other zones",
+          "All speeding in construction zones with workers present"
+        ]
+      }
+    },
+    "recklessDriving": {
+      "displayName": "Reckless Driving",
+      "severity": "serious",
+      "criminalCharge": false,
+      "mandatoryCourt": true,
+      "immediateActions": [
+        "Document all circumstances of the stop",
+        "Do not admit to reckless behavior",
+        "Identify any witnesses",
+        "Preserve any video evidence (dash cam, surveillance)",
+        "Request officer's dash cam footage"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Lack of Willful Disregard",
+          "description": "Challenge that driving showed willful disregard for safety",
+          "steps": [
+            "Demonstrate driving was reasonable under circumstances",
+            "Show no actual danger was created",
+            "Present witness testimony to safe driving",
+            "Challenge officer's characterization of events"
+          ],
+          "success_factors": ["No actual danger", "Circumstantial necessity", "Witness corroboration"]
+        },
+        {
+          "name": "Plea Downgrade",
+          "description": "Negotiate for lesser charge",
+          "steps": [
+            "Request plea conference",
+            "Ask for downgrade to careless driving (39:4-97)",
+            "Or plea to unsafe driving (39:4-97.2)",
+            "Present mitigating circumstances"
+          ],
+          "success_factors": ["First offense", "No accident", "Clean driving record"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal",
+        "Reduction to careless driving (2 points)",
+        "Reduction to unsafe driving (no points, surcharge)",
+        "Conviction with penalties (5 points)",
+        "License suspension (judge discretion)"
+      ],
+      "recommendation": "Mandatory court appearance - consider consulting an attorney"
+    },
+    "suspendedLicense": {
+      "displayName": "Driving on Suspended License",
+      "severity": "serious",
+      "criminalCharge": true,
+      "mandatoryCourt": true,
+      "immediateActions": [
+        "Verify current license status with NJMVC",
+        "Request driving record from NJMVC",
+        "Determine reason for suspension",
+        "Begin reinstatement process if possible",
+        "Document any notice (or lack thereof) received"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Lack of Knowledge",
+          "description": "Prove you did not know license was suspended",
+          "steps": [
+            "Show NJMVC notice was not received",
+            "Demonstrate address change not updated",
+            "Request proof of mailing from NJMVC",
+            "Document reasonable belief license was valid"
+          ],
+          "success_factors": ["No actual notice", "Address issues", "Administrative error"]
+        },
+        {
+          "name": "Administrative Error",
+          "description": "Prove suspension was in error",
+          "steps": [
+            "Obtain complete driving record",
+            "Identify any errors on record",
+            "Request administrative hearing with MVC",
+            "Document proof of compliance"
+          ],
+          "success_factors": ["Clerical error", "Paid fines not recorded", "Insurance proof not recorded"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal (if license valid or error proven)",
+        "Conviction (disorderly persons offense)",
+        "Fine $500+",
+        "Additional license suspension (6 months to 1 year)",
+        "Insurance surcharge $250/year for 3 years",
+        "Jail time (repeat offenses)"
+      ],
+      "reinstatementSteps": [
+        "Pay all outstanding fines and fees",
+        "Complete any required courses",
+        "Pay restoration fee to NJMVC",
+        "Resolve underlying cause of suspension",
+        "Provide proof of insurance"
+      ]
+    },
+    "noInsurance": {
+      "displayName": "No Insurance",
+      "severity": "serious",
+      "mandatoryCourt": true,
+      "immediateActions": [
+        "Obtain proof of insurance at time of stop if available",
+        "Check if insurance was actually in effect",
+        "Contact insurance company for documentation",
+        "Review insurance policy terms"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Proof of Coverage",
+          "description": "Show insurance was valid at time of stop",
+          "steps": [
+            "Obtain letter from insurance company with coverage dates",
+            "Bring proof to court",
+            "Ensure coverage meets New Jersey minimums"
+          ],
+          "success_factors": ["Valid insurance at time of stop", "Documentation from insurer"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal with proof of insurance",
+        "Conviction with fine $300-$1,000",
+        "9 points on license",
+        "License suspension 1 year (first offense)",
+        "Community service",
+        "Jail time (second offense)"
+      ],
+      "minimumCoverage": {
+        "bodilyInjuryPerPerson": "$15,000",
+        "bodilyInjuryPerAccident": "$30,000",
+        "propertyDamage": "$5,000",
+        "PIP": "$15,000"
+      }
+    },
+    "equipmentViolation": {
+      "displayName": "Equipment Violation",
+      "severity": "minor",
+      "immediateActions": [
+        "Document condition of equipment at time of stop",
+        "Have equipment repaired immediately",
+        "Obtain repair receipt or documentation",
+        "Take photos of repaired equipment"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Prompt Repair",
+          "description": "Show equipment was repaired promptly",
+          "steps": [
+            "Have equipment fixed same or next day",
+            "Obtain detailed repair invoice",
+            "Bring proof to court",
+            "Many jurisdictions dismiss with proof of repair"
+          ],
+          "success_factors": ["Immediate repair", "First offense", "Documentation"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal with proof of repair",
+        "Reduced fine",
+        "Warning only",
+        "Fine payment required"
+      ],
+      "fixItTicket": true
+    }
+  },
+  "generalDefenseTactics": [
+    {
+      "name": "Discovery Request",
+      "description": "Request evidence from prosecution",
+      "items": [
+        "Officer's notes and report",
+        "Calibration records (radar tuning fork logs)",
+        "Training certifications",
+        "Dash cam or body cam footage",
+        "Witness statements"
+      ],
+      "deadlineNote": "File discovery request immediately after entering not guilty plea"
+    },
+    {
+      "name": "Plea Conference",
+      "description": "NJ allows plea negotiations with prosecutor",
+      "options": [
+        "Plea to lesser charge",
+        "Plea to unsafe driving statute (39:4-97.2)",
+        "Points reduction in exchange for higher fine",
+        "Dismissal of some charges in multi-count summons"
+      ],
+      "note": "Plea conference typically held before trial date"
+    },
+    {
+      "name": "Unsafe Driving Statute (39:4-97.2)",
+      "description": "NJ's unique no-points plea option",
+      "details": [
+        "Can be used twice every 5 years",
+        "Results in no points on license",
+        "Includes mandatory surcharge ($250 first, $400 second)",
+        "Third use within 5 years adds 4 points",
+        "May still affect insurance rates"
+      ]
+    }
+  ],
+  "courtTypes": {
+    "municipal": {
+      "description": "Local court handling most traffic matters",
+      "procedures": "Judge decides without jury",
+      "appeal": "20-day right to appeal to Superior Court for trial de novo"
+    },
+    "superior": {
+      "description": "County-level court for appeals and more serious matters",
+      "procedures": "More formal, may have jury trial",
+      "appeal": "Appeal to Appellate Division"
+    }
+  },
+  "trafficSchoolOptions": {
+    "description": "Defensive driving courses can reduce points",
+    "eligibility": [
+      "Approved 6-hour defensive driving course",
+      "2 points deducted from license",
+      "May reduce insurance premiums",
+      "Can only take course once every 5 years for point credit"
+    ],
+    "providers": [
+      "NJMVC-approved defensive driving courses",
+      "Online options available",
+      "AAA New Jersey",
+      "National Safety Council"
+    ]
+  },
+  "newJerseySpecific": {
+    "pointSystem": {
+      "description": "NJ has insurance surcharges in addition to points",
+      "surcharges": {
+        "6-9_points": "$150/year for 3 years",
+        "9-12_points": "$250/year for 3 years",
+        "12+_points": "$300/year for 3 years"
+      },
+      "suspension": "12 points = license suspension"
+    },
+    "mandatoryAppearances": {
+      "description": "NJ requires court appearances for many violations",
+      "violations": [
+        "Reckless driving (39:4-96)",
+        "Driving while suspended (39:3-40)",
+        "No insurance (39:6B-2)",
+        "Speeding 20+ over in 65 zones",
+        "DUI/DWI"
+      ]
+    },
+    "unsafeDrivingStatute": {
+      "description": "39:4-97.2 is NJ's unique plea option",
+      "benefits": "No points on license",
+      "costs": "$250-$400 surcharge plus fine",
+      "limitations": "Only twice per 5 years"
+    }
+  }
+}

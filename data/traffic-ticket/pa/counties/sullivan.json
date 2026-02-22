@@ -1,0 +1,102 @@
+{
+  "name": "Sullivan County",
+  "countySeat": "Laporte",
+  "population": "6,113",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Sullivan County Magisterial District Court",
+      "address": "245 Muncy Street, Laporte, PA 18626",
+      "phone": "(570) 946-7201",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.sullivancounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Sullivan County",
+      "address": "245 Muncy Street, Laporte, PA 18626",
+      "phone": "(570) 946-7201",
+      "note": "Appeals from Magisterial District Court"
+    }
+  },
+  "districtAttorney": {
+    "office": "Sullivan County District Attorney's Office",
+    "address": "245 Muncy Street, Laporte, PA 18626",
+    "phone": "(570) 946-7201",
+    "trafficDivisionContact": "(570) 946-7201"
+  },
+  "publicDefender": {
+    "office": "Sullivan County Public Defender",
+    "address": "245 Muncy Street, Laporte, PA 18626",
+    "phone": "(570) 946-7201",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Sullivan County Clerk of Courts",
+    "address": "245 Muncy Street, Laporte, PA 18626",
+    "phone": "(570) 946-7201",
+    "website": "https://www.sullivancounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Sullivan County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Sullivan County Sheriff's Office",
+      "address": "245 Muncy Street, Laporte, PA 18626",
+      "phone": "(570) 946-7211",
+      "recordsRequest": "(570) 946-7211"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Dushore Station",
+      "address": "108 Turnpike Street, Dushore, PA 18614",
+      "phone": "(570) 928-2400"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Sullivan County",
+    "speedCameras": "Not currently used in Sullivan County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking available"
+    },
+    "publicTransit": {
+      "service": "No public transit available",
+      "routes": "N/A",
+      "website": "N/A"
+    }
+  }
+}

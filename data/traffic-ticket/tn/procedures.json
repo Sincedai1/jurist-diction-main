@@ -1,0 +1,327 @@
+{
+  "title": "Tennessee Traffic Ticket Defense Procedures",
+  "description": "Step-by-step procedures for contesting traffic tickets in Tennessee",
+  "disclaimer": "This is informational only and not legal advice. Procedures vary by jurisdiction.",
+  "lastUpdated": "2026-02-20",
+  "proceduresByViolation": {
+    "speeding": {
+      "displayName": "Speeding Violation",
+      "severity": "minor_to_moderate",
+      "immediateActions": [
+        "Review ticket for accuracy (date, time, location, speed recorded)",
+        "Note weather and road conditions",
+        "Document any witnesses",
+        "Take photos of signage and road conditions if possible",
+        "Request calibration records for speed measurement device"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Calibration Challenge",
+          "description": "Challenge the accuracy of the speed measurement device",
+          "steps": [
+            "Request discovery of radar/lidar calibration records",
+            "Verify device was calibrated within required timeframe",
+            "Check officer's training certification for the device",
+            "Examine maintenance records"
+          ],
+          "success_factors": ["Outdated calibration", "Missing records", "Untrained officer"]
+        },
+        {
+          "name": "Signage Defense",
+          "description": "Challenge speed limit signage",
+          "steps": [
+            "Photograph all speed limit signs in the area",
+            "Verify signs meet MUTCD standards",
+            "Check if speed limit is properly posted",
+            "Document any obstructed or damaged signs"
+          ],
+          "success_factors": ["Missing signs", "Obstructed visibility", "Non-standard posting"]
+        },
+        {
+          "name": "Necessity Defense",
+          "description": "Argue speeding was necessary for safety",
+          "steps": [
+            "Document emergency circumstances",
+            "Obtain witness statements",
+            "Provide medical or emergency documentation if applicable"
+          ],
+          "success_factors": ["Documented emergency", "Credible witnesses", "Medical necessity"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal (if defense successful)",
+        "Reduced charge (plea negotiation)",
+        "Guilty with fine and points",
+        "Diversion program (if eligible)",
+        "Traffic school option"
+      ],
+      "timeline": {
+        "contestDeadline": "Usually 7-14 days from ticket date",
+        "courtDate": "Typically 30-60 days from request",
+        "appealDeadline": "10-30 days from judgment depending on court"
+      }
+    },
+    "recklessDriving": {
+      "displayName": "Reckless Driving",
+      "severity": "serious",
+      "criminalCharge": true,
+      "immediateActions": [
+        "Document all circumstances of the stop",
+        "Do not admit to reckless behavior",
+        "Identify any witnesses",
+        "Preserve any video evidence (dash cam, surveillance)",
+        "Request officer's dash cam footage"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Lack of Willful Disregard",
+          "description": "Challenge that driving showed willful disregard for safety",
+          "steps": [
+            "Demonstrate driving was reasonable under circumstances",
+            "Show no actual danger was created",
+            "Present witness testimony to safe driving",
+            "Challenge officer's characterization of events"
+          ],
+          "success_factors": ["No actual danger", "Circumstantial necessity", "Witness corroboration"]
+        },
+        {
+          "name": "Emergency Circumstances",
+          "description": "Argue driving was justified by emergency",
+          "steps": [
+            "Document emergency situation",
+            "Obtain medical records if health-related",
+            "Provide witness statements",
+            "Show no reasonable alternative existed"
+          ],
+          "success_factors": ["Documented emergency", "No alternative", "Proportionate response"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal",
+        "Reduction to lesser offense (improper driving)",
+        "Conviction with penalties",
+        "Probation with conditions",
+        "License suspension"
+      ],
+      "recommendation": "Consider consulting an attorney due to criminal nature",
+      "timeline": {
+        "arrainmentDeadline": "Per court summons",
+        "discoveryRequest": "File within 10 days of arraignment",
+        "trialDate": "Set at arraignment"
+      }
+    },
+    "suspendedLicense": {
+      "displayName": "Driving on Suspended License",
+      "severity": "moderate_to_serious",
+      "immediateActions": [
+        "Verify current license status with DOS",
+        "Request driving record from Tennessee DOS",
+        "Determine reason for suspension",
+        "Begin reinstatement process if possible",
+        "Document any notice (or lack thereof) received"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Lack of Knowledge",
+          "description": "Prove you did not know license was suspended",
+          "steps": [
+            "Show DOS notice was not received",
+            "Demonstrate address change not updated properly",
+            "Request proof of mailing from DOS",
+            "Document reasonable belief license was valid"
+          ],
+          "success_factors": ["No actual notice", "Address issues", "Administrative error"]
+        },
+        {
+          "name": "Administrative Error",
+          "description": "Prove suspension was in error",
+          "steps": [
+            "Obtain complete driving record",
+            "Identify any errors on record",
+            "Request administrative hearing",
+            "Document proof of compliance with original requirements"
+          ],
+          "success_factors": ["Clerical error", "Paid fines not recorded", "Insurance proof not recorded"]
+        },
+        {
+          "name": "Emergency Necessity",
+          "description": "Driving was necessary in emergency",
+          "steps": [
+            "Document emergency circumstances",
+            "Show no reasonable alternative existed",
+            "Provide medical documentation if applicable"
+          ],
+          "success_factors": ["Medical emergency", "No alternatives", "Proportionate action"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal (if license valid or error proven)",
+        "Conviction with fine",
+        "Extended suspension period",
+        "Probation",
+        "Jail time (repeat offenses)"
+      ],
+      "reinstatementSteps": [
+        "Pay all outstanding fines and fees",
+        "Complete any required courses (DUI school, etc.)",
+        "Provide proof of insurance (SR-22 if required)",
+        "Pay reinstatement fee",
+        "Resolve underlying cause of suspension"
+      ],
+      "timeline": {
+        "reinstatementTime": "Varies by reason for suspension"
+      }
+    },
+    "noInsurance": {
+      "displayName": "No Proof of Insurance",
+      "severity": "minor_to_moderate",
+      "immediateActions": [
+        "Obtain proof of insurance at time of stop if available",
+        "Check if insurance was actually in effect",
+        "Contact insurance company for documentation",
+        "Review insurance policy terms"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Proof of Coverage",
+          "description": "Show insurance was valid at time of stop",
+          "steps": [
+            "Obtain letter from insurance company with coverage dates",
+            "Bring proof to court or submit before deadline",
+            "Ensure coverage meets Tennessee minimums"
+          ],
+          "success_factors": ["Valid insurance at time of stop", "Documentation from insurer"]
+        },
+        {
+          "name": "Brief Lapse",
+          "description": "Show any lapse was brief and unintentional",
+          "steps": [
+            "Document timeline of coverage",
+            "Show immediate remediation",
+            "Demonstrate good faith effort to maintain coverage"
+          ],
+          "success_factors": ["Very brief lapse", "Immediate correction", "First offense"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal with proof of insurance",
+        "Fine only",
+        "License suspension if not resolved",
+        "SR-22 filing requirement"
+      ],
+      "minimumCoverage": {
+        "bodilyInjuryPerPerson": "$25,000",
+        "bodilyInjuryPerAccident": "$50,000",
+        "propertyDamage": "$15,000"
+      }
+    },
+    "equipmentViolation": {
+      "displayName": "Equipment Violation",
+      "severity": "minor",
+      "immediateActions": [
+        "Document condition of equipment at time of stop",
+        "Have equipment repaired immediately",
+        "Obtain repair receipt or documentation",
+        "Take photos of repaired equipment"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Prompt Repair",
+          "description": "Show equipment was repaired promptly",
+          "steps": [
+            "Have equipment fixed same or next day",
+            "Obtain detailed repair invoice",
+            "Bring proof to court",
+            "Many jurisdictions dismiss with proof of repair"
+          ],
+          "success_factors": ["Immediate repair", "First offense", "Documentation"]
+        },
+        {
+          "name": "No Knowledge",
+          "description": "Driver was unaware of defect",
+          "steps": [
+            "Demonstrate defect was not obvious",
+            "Show reasonable maintenance practices",
+            "Document recent vehicle inspection if applicable"
+          ],
+          "success_factors": ["Hidden defect", "Regular maintenance", "Recent inspection passed"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal with proof of repair",
+        "Reduced fine",
+        "Warning only",
+        "Fine payment required"
+      ],
+      "fixItTicket": true
+    }
+  },
+  "generalDefenseTactics": [
+    {
+      "name": "Discovery Request",
+      "description": "Request evidence from prosecution",
+      "items": [
+        "Officer's notes and report",
+        "Calibration records",
+        "Training certifications",
+        "Dash cam or body cam footage",
+        "Witness statements"
+      ],
+      "deadlineNote": "File discovery request immediately after arraignment"
+    },
+    {
+      "name": "Officer No-Show",
+      "description": "If officer fails to appear, case may be dismissed",
+      "considerations": [
+        "Not guaranteed - judge may reschedule",
+        "More common in smaller jurisdictions",
+        "Cannot rely on this strategy alone"
+      ]
+    },
+    {
+      "name": "Plea Negotiation",
+      "description": "Negotiate for reduced charge",
+      "options": [
+        "Reduction to non-moving violation",
+        "Reduction to lesser offense",
+        "Diversion program",
+        "Traffic school in lieu of points"
+      ]
+    }
+  ],
+  "courtTypes": {
+    "generalSessions": {
+      "description": "County-level court handling most traffic cases",
+      "procedures": "Less formal, judge decides without jury",
+      "appeal": "May appeal to Circuit Court for de novo trial"
+    },
+    "municipal": {
+      "description": "City-level court for violations within city limits",
+      "procedures": "Varies by municipality",
+      "appeal": "Appeal procedures vary by city"
+    },
+    "juvenile": {
+      "description": "For defendants under 18",
+      "procedures": "Closed proceedings, focus on rehabilitation"
+    }
+  },
+  "trafficSchoolOptions": {
+    "description": "Traffic school may reduce or eliminate points",
+    "eligibility": [
+      "First or second offense in 5 years",
+      "Violation does not involve accident with injury",
+      "Not eligible for DUI or reckless driving",
+      "Court approval required"
+    ],
+    "benefits": [
+      "Points reduced or not assessed",
+      "Ticket may be dismissed",
+      "Insurance premiums may not increase"
+    ],
+    "providers": [
+      "Tennessee-approved defensive driving courses",
+      "Online options available",
+      "4-8 hour courses typical"
+    ]
+  }
+}

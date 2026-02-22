@@ -1,0 +1,105 @@
+{
+  "name": "Morris County",
+  "countySeat": "Morristown",
+  "population": "509,285",
+  "courts": {
+    "municipal": {
+      "name": "Morristown Municipal Court (and other municipal courts)",
+      "address": "200 South St, Morristown, NJ 07960",
+      "phone": "(973) 267-1970",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.townofmorristown.com/municipal-court",
+      "note": "39 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Morris County Superior Court",
+      "address": "56 Washington St, Morristown, NJ 07960",
+      "phone": "(973) 656-4300",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Morris County Prosecutor's Office",
+    "address": "56 Washington St, Morristown, NJ 07960",
+    "phone": "(973) 285-6200",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Morris County Public Defender's Office",
+    "address": "56 Washington St, Morristown, NJ 07960",
+    "phone": "(973) 656-4300",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Morris County Clerk",
+    "address": "10 Court St, Morristown, NJ 07960",
+    "phone": "(973) 285-6120",
+    "website": "https://www.morriscountyclerk.org/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Morristown Police Department",
+      "address": "200 South St, Morristown, NJ 07960",
+      "phone": "(973) 538-2200"
+    },
+    "countyPolice": {
+      "name": "Morris County Sheriff's Office",
+      "address": "56 Washington St, Morristown, NJ 07960",
+      "phone": "(973) 285-6600"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and garage parking",
+      "cost": "$5-15"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and train including Morris & Essex Line",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

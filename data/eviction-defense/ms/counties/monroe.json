@@ -1,0 +1,130 @@
+{
+  "county": "Monroe",
+  "countySeat": "Aberdeen",
+  "population": 35000,
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This is informational only. Contact the court directly for current procedures.",
+  "court": {
+    "name": "Monroe County Court / Justice Court",
+    "division": "Civil Division",
+    "address": {
+      "countyCourt": "Aberdeen Courthouse, Aberdeen, MS",
+      "justiceCourt": "Aberdeen Courthouse, Aberdeen, MS"
+    },
+    "phone": "(662) 889-1000",
+    "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+    "parking": "Street parking and nearby lots"
+  },
+  "clerkOffice": {
+    "name": "Monroe County Circuit Clerk",
+    "address": "Aberdeen Courthouse, Aberdeen, MS",
+    "phone": "(662) 889-1400"
+  },
+  "filingProcedures": {
+    "unlawfulDetainer": {
+      "filingLocation": "County Court or Justice Court",
+      "filingFee": "$75-150 (varies by court, subject to change)",
+      "methods": [
+        "In person at clerk's office"
+      ],
+      "requiredDocuments": [
+        "Unlawful Detainer complaint",
+        "Copy of lease (if written)",
+        "Copy of 3-day or 30-day notice",
+        "Affidavit of service of notice"
+      ],
+      "serviceOfProcess": {
+        "methods": [
+          "Sheriff's Office",
+          "Private process server",
+          "Certified mail"
+        ],
+        "sheriffFee": "Approximately $25-50",
+        "timeline": "Must be served at least 14 days before hearing"
+      }
+    },
+    "answer": {
+      "filingLocation": "Same court where unlawful detainer was filed",
+      "filingFee": "None for initial answer",
+      "deadline": "Before hearing date",
+      "recommended": "File at least 3 business days before hearing"
+    }
+  },
+  "hearingProcedures": {
+    "location": "Check summons for courtroom",
+    "schedule": {
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "times": "9:00 AM typically; check summons"
+    },
+    "checkIn": {
+      "description": "Check docket posted at courtroom",
+      "arrivalTime": "At least 20 minutes before scheduled time"
+    },
+    "continuances": {
+      "policy": "May be granted for good cause",
+      "method": "Request from judge at hearing",
+      "limit": "Usually 2-4 weeks"
+    }
+  },
+  "timeline": {
+    "noticeToHearing": "14-21 days after unlawful detainer filed",
+    "judgmentToWrit": "5 days after judgment (appeal period)",
+    "writToEviction": "24-48 hours after writ issued"
+  },
+  "appealProcedures": {
+    "court": "Monroe County Circuit Court",
+    "deadline": "5 calendar days from judgment",
+    "bondAmount": "Judgment amount plus costs plus estimated rent",
+    "filingLocation": "Court where judgment was entered",
+    "hearingTimeline": "30-60 days for Circuit Court setting"
+  },
+  "legalAidResources": [
+    {
+      "name": "Mississippi Center for Legal Services - Aberdeen",
+      "address": "Downtown Aberdeen, MS",
+      "phone": "(662) 889-3000",
+      "hours": "Monday-Friday 8:30 AM - 5:00 PM",
+      "eligibility": "Income-qualified tenants",
+      "services": [
+        "Eviction defense",
+        "Housing counseling",
+        "Court representation"
+      ],
+      "intake": "Call for intake appointment"
+    }
+  ],
+  "emergencyResources": {
+    "rentalAssistance": [
+      {
+        "name": "Monroe County Human Services",
+        "phone": "(662) 889-3100",
+        "services": "Emergency assistance (when funding available)"
+      }
+    ],
+    "shelters": [
+      {
+        "name": "Local Emergency Shelter - Aberdeen",
+        "phone": "(662) 889-3200",
+        "services": "Emergency shelter services"
+      }
+    ]
+  },
+  "specialNotes": [
+    "3-day notice for non-payment is very short - act immediately",
+    "Only 5 days to appeal - do not delay",
+    "Physical eviction can happen within 24-48 hours after writ",
+    "Contact legal aid as soon as you receive notice"
+  ],
+  "proceduralTips": [
+    "Contact legal aid as soon as you receive notice",
+    "For non-payment, pay rent within 3 days if possible",
+    "Bring copies of all documents to court",
+    "Arrive early and dress appropriately for court"
+  ]
+}

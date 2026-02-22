@@ -1,0 +1,102 @@
+{
+  "name": "Clarion County",
+  "countySeat": "Clarion",
+  "population": "38,914",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Clarion County Magisterial District Courts",
+      "address": "515 Main Street, Clarion, PA 16214",
+      "phone": "(814) 226-4400",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.co.clarion.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Clarion County",
+      "address": "515 Main Street, Clarion, PA 16214",
+      "phone": "(814) 226-4400",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Clarion County District Attorney's Office",
+    "address": "515 Main Street, Clarion, PA 16214",
+    "phone": "(814) 226-4420",
+    "trafficDivisionContact": "(814) 226-4420"
+  },
+  "publicDefender": {
+    "office": "Clarion County Public Defender",
+    "address": "515 Main Street, Clarion, PA 16214",
+    "phone": "(814) 226-4430",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Clarion County Clerk of Courts",
+    "address": "515 Main Street, Clarion, PA 16214",
+    "phone": "(814) 226-4400",
+    "website": "https://www.co.clarion.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Clarion County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Clarion Borough Police Department",
+      "address": "700 Main Street, Clarion, PA 16214",
+      "phone": "(814) 226-6400",
+      "recordsRequest": "(814) 226-6400"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Clarion Station",
+      "address": "212 Mayfield Road, Clarion, PA 16214",
+      "phone": "(814) 226-2930"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Clarion County",
+    "speedCameras": "Not currently used in Clarion County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Limited public transit",
+      "routes": "No fixed route service",
+      "website": "N/A"
+    }
+  }
+}

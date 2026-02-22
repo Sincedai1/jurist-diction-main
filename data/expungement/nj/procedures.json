@@ -1,0 +1,312 @@
+{
+  "jurisdiction": "New Jersey",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice. Consult a licensed attorney for legal guidance.",
+  "procedures": {
+    "cleanSlateAutomatic": {
+      "name": "Clean Slate Automatic Expungement",
+      "statute": "N.J.S.A. 2C:52-5.1",
+      "description": "New Jersey's automatic expungement process - no petition required for eligible records",
+      "eligibilityCriteria": [
+        "10-year crime-free period from most recent conviction, fine payment, or sentence completion",
+        "No new convictions during the 10-year waiting period",
+        "Offense is not one of the excluded offenses",
+        "All court obligations satisfied"
+      ],
+      "waitingPeriod": "10 years",
+      "process": [
+        "State Police automatically identifies eligible records",
+        "System verifies 10-year crime-free period",
+        "Records are automatically expunged",
+        "Individual may verify through State Police"
+      ],
+      "timeline": "Automatic - processing on rolling basis",
+      "fees": "FREE - no cost",
+      "noActionRequired": true,
+      "checkStatusUrl": "https://www.njsp.org"
+    },
+    "indictableOffense": {
+      "name": "Indictable Offense (Felony) Expungement",
+      "statute": "N.J.S.A. 2C:52-2",
+      "description": "Petition-based expungement for indictable offenses",
+      "eligibilityCriteria": [
+        "Conviction for eligible non-excluded indictable offense",
+        "10-year waiting period completed (5 years for early pathway)",
+        "No subsequent convictions during waiting period",
+        "All fines, restitution, and court costs paid",
+        "No pending criminal charges",
+        "No more than one indictable conviction (for early pathway)"
+      ],
+      "ineligibleOffenses": [
+        "Criminal homicide",
+        "Kidnapping",
+        "Sexual assault",
+        "Robbery",
+        "Arson",
+        "Child pornography",
+        "Patriot Act offenses",
+        "Perjury",
+        "Official misconduct",
+        "Drug distribution/manufacturing"
+      ],
+      "waitingPeriod": {
+        "standard": "10 years",
+        "earlyPathway": "5 years (single indictable, compelling need)",
+        "drugCourtGraduate": "Upon completion"
+      },
+      "process": [
+        "Verify waiting period has passed",
+        "Obtain criminal record from NJ State Police",
+        "Complete Petition for Expungement (Form A)",
+        "Complete Order for Expungement (Form B)",
+        "Complete Notice of Expungement Order (Form C)",
+        "File with Superior Court in county where arrest occurred",
+        "Serve County Prosecutor, Attorney General, State Police",
+        "Wait 30 days for prosecutor response",
+        "Attend hearing if contested"
+      ],
+      "timeline": "60-120 days typical",
+      "fees": "$75 filing fee (may be waived for indigent)"
+    },
+    "disorderlyPersons": {
+      "name": "Disorderly Persons Offense Expungement",
+      "statute": "N.J.S.A. 2C:52-3",
+      "description": "Expungement for disorderly persons and petty disorderly persons offenses (misdemeanor-level)",
+      "eligibilityCriteria": [
+        "Conviction for eligible disorderly persons offense",
+        "5-year waiting period completed (4 years for early pathway)",
+        "No subsequent convictions during waiting period",
+        "All fines and court costs paid",
+        "No pending criminal charges"
+      ],
+      "ineligibleOffenses": [
+        "Domestic violence offenses (certain)",
+        "Criminal contempt in domestic violence case"
+      ],
+      "waitingPeriod": {
+        "standard": "5 years",
+        "earlyPathway": "4 years (single offense, compelling need)"
+      },
+      "process": [
+        "Verify waiting period has passed",
+        "Obtain criminal record",
+        "Complete Petition for Expungement",
+        "File with Superior Court",
+        "Serve required parties",
+        "Wait for response period",
+        "Attend hearing if required"
+      ],
+      "timeline": "45-90 days typical",
+      "fees": "$75 filing fee (may be waived)"
+    },
+    "municipalOrdinance": {
+      "name": "Municipal Ordinance Violation Expungement",
+      "statute": "N.J.S.A. 2C:52-4",
+      "description": "Expungement for municipal ordinance convictions",
+      "eligibilityCriteria": [
+        "Conviction for municipal ordinance violation",
+        "2-year waiting period completed",
+        "No subsequent convictions during waiting period",
+        "All fines paid"
+      ],
+      "waitingPeriod": "2 years",
+      "process": [
+        "Verify 2-year waiting period has passed",
+        "Obtain record of conviction",
+        "Complete expungement petition",
+        "File with Superior Court (not Municipal Court)",
+        "Serve required parties"
+      ],
+      "timeline": "30-60 days typical",
+      "fees": "$75 filing fee (may be waived)"
+    },
+    "arrestNoConviction": {
+      "name": "Arrest Without Conviction Expungement",
+      "statute": "N.J.S.A. 2C:52-6",
+      "description": "Expungement for arrests that did not result in conviction",
+      "eligibilityCriteria": [
+        "Arrest with no conviction entered",
+        "Charges dismissed (NOT as part of plea bargain)",
+        "Acquittal at trial",
+        "Grand jury no-bill (refused to indict)",
+        "Charges not filed within statute of limitations"
+      ],
+      "waitingPeriod": "6 months after disposition",
+      "process": [
+        "Verify case disposition shows no conviction",
+        "Obtain proof of dismissal or acquittal",
+        "Complete expungement petition",
+        "File with Superior Court",
+        "Serve required parties"
+      ],
+      "timeline": "30-60 days typical",
+      "fees": "$75 filing fee (may be waived)",
+      "note": "Does NOT apply to charges dismissed as part of plea bargain"
+    },
+    "youngDrugOffender": {
+      "name": "Young Drug Offender Expungement",
+      "statute": "N.J.S.A. 2C:52-5",
+      "description": "Special expungement for young drug offenders",
+      "eligibilityCriteria": [
+        "Under 21 years old at time of offense",
+        "Drug possession offense only (no distribution)",
+        "No prior drug convictions",
+        "No other criminal convictions on record"
+      ],
+      "waitingPeriod": "1 year from discharge",
+      "process": [
+        "Verify age at time of offense (under 21)",
+        "Obtain proof of discharge from probation/sentence",
+        "Complete expungement petition",
+        "File with Superior Court"
+      ],
+      "timeline": "30-60 days typical",
+      "fees": "$75 filing fee (may be waived)"
+    },
+    "drugCourtGraduate": {
+      "name": "Drug Court Graduate Expungement",
+      "statute": "N.J.S.A. 2C:52-2(b)",
+      "description": "Immediate expungement pathway for drug court graduates",
+      "eligibilityCriteria": [
+        "Successfully completed drug court program",
+        "No new criminal charges",
+        "All program requirements satisfied"
+      ],
+      "waitingPeriod": "Upon successful completion of drug court",
+      "process": [
+        "Obtain proof of drug court completion",
+        "Complete expungement petition",
+        "File with Superior Court",
+        "Expedited processing available"
+      ],
+      "timeline": "30-60 days after completion",
+      "fees": "$75 filing fee (may be waived)",
+      "note": "Special provision for drug court graduates - no waiting period"
+    }
+  },
+  "checklist": {
+    "cleanSlateVerification": [
+      "New Jersey State Police criminal record check",
+      "Court records verification",
+      "Confirmation of 10-year crime-free period"
+    ],
+    "petitionBased": [
+      "Complete copy of criminal record from NJ State Police",
+      "Certified copy of judgment/disposition",
+      "Proof of sentence completion",
+      "Proof of payment of all fines, costs, and restitution",
+      "Valid government-issued photo ID",
+      "Completed petition forms (A, B, C)",
+      "Filing fee ($75) or fee waiver application"
+    ],
+    "indictableOffense": [
+      "Verification of single indictable conviction (for early pathway)",
+      "Documentation of compelling circumstances (for early pathway)"
+    ],
+    "arrestNoConviction": [
+      "Certified copy of dismissal or acquittal order",
+      "Proof that dismissal was NOT part of plea bargain"
+    ]
+  },
+  "timelineFactors": [
+    {
+      "factor": "Court backlog",
+      "impact": "May add 30-60 days to processing time"
+    },
+    {
+      "factor": "Prosecutor objection",
+      "impact": "Requires hearing and may extend timeline significantly"
+    },
+    {
+      "factor": "Incomplete paperwork",
+      "impact": "Petitions with missing information will be rejected"
+    },
+    {
+      "factor": "Multiple counties",
+      "impact": "Each county requires separate petition if arrests occurred in multiple counties"
+    },
+    {
+      "factor": "Clean Slate processing",
+      "impact": "Automatic expungements processed on rolling basis; may take several months for verification"
+    }
+  ],
+  "appealsProcess": {
+    "description": "If expungement petition is denied",
+    "options": [
+      "Motion for reconsideration within 20 days",
+      "Appeal to Appellate Division within 45 days",
+      "Wait and refile if eligibility issues can be resolved"
+    ],
+    "note": "Consult an attorney if your expungement is denied"
+  },
+  "countyVariations": {
+    "note": "New Jersey has 21 counties (called vicinages for judicial purposes)",
+    "filingLocations": "Petitions must be filed in Superior Court of the county where arrest occurred",
+    "formAvailability": "Standard forms used statewide",
+    "feeStructure": "$75 filing fee statewide",
+    "majorVicinages": [
+      {
+        "name": "Essex",
+        "countySeat": "Newark",
+        "characteristics": "Largest vicinage; significant volume"
+      },
+      {
+        "name": "Hudson",
+        "countySeat": "Jersey City",
+        "characteristics": "High volume; urban"
+      },
+      {
+        "name": "Bergen",
+        "countySeat": "Hackensack",
+        "characteristics": "Most populous county"
+      },
+      {
+        "name": "Middlesex",
+        "countySeat": "New Brunswick",
+        "characteristics": "Central Jersey; moderate volume"
+      }
+    ]
+  },
+  "cleanSlateVerification": {
+    "howToCheck": [
+      {
+        "method": "New Jersey State Police",
+        "website": "https://www.njsp.org",
+        "description": "Request criminal history record - expunged records will not appear"
+      },
+      {
+        "method": "NJ Courts Online",
+        "website": "https://www.njcourts.gov",
+        "description": "Case search - expunged cases not publicly accessible"
+      }
+    ],
+    "note": "If expunged records still appear, contact the court or NJ State Police"
+  },
+  "serviceRequirements": {
+    "partiesToServe": [
+      "County Prosecutor's Office",
+      "New Jersey Attorney General",
+      "New Jersey State Police",
+      "Municipal Court (if municipal ordinance)",
+      "Any other law enforcement agency involved"
+    ],
+    "method": "Certified mail with return receipt or personal service",
+    "proofRequired": "Proof of service must be filed with court"
+  },
+  "formsGuide": {
+    "formA": {
+      "name": "Petition for Expungement",
+      "purpose": "Primary petition form requesting expungement"
+    },
+    "formB": {
+      "name": "Order for Expungement",
+      "purpose": "Proposed order for judge to sign if expungement granted"
+    },
+    "formC": {
+      "name": "Notice of Expungement Order",
+      "purpose": "Notice to be sent to all relevant agencies after order is signed"
+    },
+    "whereToObtain": "NJ Courts website or Superior Court Clerk's office",
+    "onlineForms": "https://www.njcourts.gov/self-help/expungement"
+  }
+}

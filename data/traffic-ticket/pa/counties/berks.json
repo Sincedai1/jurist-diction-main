@@ -1,0 +1,102 @@
+{
+  "name": "Berks County",
+  "countySeat": "Reading",
+  "population": "428,849",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Berks County Magisterial District Courts",
+      "address": "633 Court Street, Reading, PA 19601",
+      "phone": "(610) 478-6200",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.co.berks.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Berks County",
+      "address": "633 Court Street, Reading, PA 19601",
+      "phone": "(610) 478-6200",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Berks County District Attorney's Office",
+    "address": "633 Court Street, Reading, PA 19601",
+    "phone": "(610) 478-7171",
+    "trafficDivisionContact": "(610) 478-7171"
+  },
+  "publicDefender": {
+    "office": "Berks County Public Defender",
+    "address": "633 Court Street, Reading, PA 19601",
+    "phone": "(610) 478-6520",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Berks County Clerk of Courts",
+    "address": "633 Court Street, Reading, PA 19601",
+    "phone": "(610) 478-6200",
+    "website": "https://www.co.berks.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Berks County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Reading Police Department",
+      "address": "4th and Walnut Streets, Reading, PA 19601",
+      "phone": "(610) 655-6116",
+      "recordsRequest": "(610) 655-6116"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Reading Station",
+      "address": "600 Kenhorst Plaza, Reading, PA 19607",
+      "phone": "(610) 378-4011"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Berks County",
+    "speedCameras": "Not currently used in Berks County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-10 for court appearance",
+      "note": "Paid parking in downtown Reading"
+    },
+    "publicTransit": {
+      "service": "Berks Area Regional Transportation Authority (BARTA)",
+      "routes": "Bus service throughout Reading area",
+      "website": "https://www.barta.org"
+    }
+  }
+}

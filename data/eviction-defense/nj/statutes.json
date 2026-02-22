@@ -1,0 +1,477 @@
+{
+  "jurisdiction": "New Jersey",
+  "lastUpdated": "2026-02-21",
+  "title": "New Jersey Landlord-Tenant Law Reference",
+  "disclaimer": "This is informational only and does not constitute legal advice. Consult a licensed attorney for legal guidance.",
+  "tenantProtectionRating": "STRONGEST IN THE UNITED STATES",
+  "tenantProtectionHighlights": [
+    "Only state requiring 'good cause' for most evictions",
+    "Anti-Eviction Act provides comprehensive tenant protections",
+    "Tenants cannot be evicted simply because lease expires",
+    "Strong habitability protections",
+    "Extensive anti-retaliation provisions",
+    "Special protections for seniors and disabled tenants"
+  ],
+  "statutes": {
+    "antiEvictionAct": {
+      "name": "Anti-Eviction Act",
+      "code": "N.J.S.A. 2A:18-61.1 et seq.",
+      "appliesTo": "All residential tenancies in New Jersey",
+      "summary": "New Jersey has the strongest tenant protections in the United States. Landlords must have 'good cause' to evict.",
+      "goodCauseRequired": {
+        "description": "Landlord MUST prove one of the statutory grounds to evict",
+        "importance": "This is a CRITICAL protection - lease expiration alone is NOT grounds for eviction"
+      },
+      "statutoryGrounds": {
+        "ground1": {
+          "number": 1,
+          "title": "Disorderly Conduct",
+          "description": "Tenant has been disorderly, making excessive noise, or disturbing other tenants",
+          "noticeRequired": "None specified - court action required"
+        },
+        "ground2": {
+          "number": 2,
+          "title": "Damage to Property",
+          "description": "Tenant has willfully or grossly negligently damaged the premises",
+          "noticeRequired": "Notice to cease for second offense"
+        },
+        "ground3": {
+          "number": 3,
+          "title": "Health/Safety Violation",
+          "description": "Tenant's conduct is a health or safety hazard to others",
+          "noticeRequired": "Notice to cease"
+        },
+        "ground4": {
+          "number": 4,
+          "title": "Habitual Late Payment",
+          "description": "Tenant habitually and substantially fails to pay rent on time",
+          "noticeRequired": "Notice to cease required AFTER repeated late payments documented",
+          "keyPoints": [
+            "Must be habitual - not just occasional",
+            "Landlord must have accepted late payments previously",
+            "Notice to cease gives tenant chance to correct"
+          ]
+        },
+        "ground5": {
+          "number": 5,
+          "title": "Criminal Activity",
+          "description": "Tenant convicted of drug offense on or near premises",
+          "noticeRequired": "3-day notice after conviction"
+        },
+        "ground6": {
+          "number": 6,
+          "title": "Drug Activity",
+          "description": "Tenant is using premises for drug manufacturing or distribution",
+          "noticeRequired": "None - immediate court action"
+        },
+        "ground7": {
+          "number": 7,
+          "title": "Violating Lease After Notice",
+          "description": "Tenant violated lease terms, given notice to cease, and continues violation",
+          "noticeRequired": "Notice to cease THEN notice to quit",
+          "process": [
+            "Step 1: Notice to Cease - describing violation",
+            "Step 2: If violation continues, Notice to Quit",
+            "Step 3: Then file for eviction"
+          ]
+        },
+        "ground8": {
+          "number": 8,
+          "title": "Owner Move-In (Owner-Occupied)",
+          "description": "For owner-occupied 2-3 family homes only - owner wants to move in",
+          "noticeRequired": "2 months notice",
+          "restrictions": "Must genuinely intend to occupy; strong penalties for bad faith"
+        },
+        "ground9": {
+          "number": 9,
+          "title": "Condo Conversion - Active Senior/Disabled",
+          "description": "Condo conversion where tenant is senior or disabled",
+          "noticeRequired": "3 years notice for protected tenants",
+          "protectedClasses": [
+            "Age 62 or older",
+            "Disabled persons"
+          ]
+        },
+        "ground10": {
+          "number": 10,
+          "title": "Condo Conversion - Other Tenants",
+          "description": "Condo conversion for other tenants",
+          "noticeRequired": "3 years notice"
+        },
+        "ground11": {
+          "number": 11,
+          "title": "Removing Permanently from Rental Market",
+          "description": "Landlord intends to permanently stop renting the unit",
+          "noticeRequired": "18 months notice",
+          "restrictions": "Must genuinely intend to remove from market"
+        },
+        "ground12": {
+          "number": 12,
+          "title": "Renovation/Demolition",
+          "description": "Landlord intends to substantially renovate or demolish",
+          "noticeRequired": "18 months notice for substantial renovation",
+          "requirements": "Must have permits and genuine intent"
+        },
+        "ground13": {
+          "number": 13,
+          "title": "Non-Payment of Rent",
+          "description": "Tenant failed to pay rent when due",
+          "noticeRequired": "30 days notice (or shorter per lease)",
+          "keyPoints": [
+            "Most common eviction ground",
+            "30-day notice standard",
+            "Tenant can pay and stop eviction anytime before judgment"
+          ]
+        }
+      },
+      "sections": {
+        "2A:18-61.1": {
+          "title": "Good Cause Required",
+          "summary": "No judgment for possession shall be entered except on one or more of the grounds specified"
+        },
+        "2A:18-61.2": {
+          "title": "Notice Requirements",
+          "summary": "Specifies notice periods required for each ground"
+        },
+        "2A:18-61.3": {
+          "title": "Protected Tenants",
+          "summary": "Additional protections for seniors, disabled, and long-term tenants"
+        },
+        "2A:18-61.11": {
+          "title": "Penalties for Wrongful Eviction",
+          "summary": "Civil penalties for eviction in violation of the Act"
+        }
+      }
+    },
+    "truthInRenting": {
+      "name": "Truth in Renting Act",
+      "code": "N.J.S.A. 46:8-43 et seq.",
+      "summary": "Requires landlords to provide tenants with information about their rights",
+      "requirements": [
+        "Landlord must provide Truth in Renting statement to tenant",
+        "Must be given at lease signing",
+        "Must be in English and Spanish if requested",
+        "Failure to provide may affect eviction proceedings"
+      ],
+      "importance": "FAILURE TO PROVIDE TRUTH IN RENTING STATEMENT MAY DELAY EVICTION"
+    },
+    "securityDeposits": {
+      "name": "Security Deposit Law",
+      "code": "N.J.S.A. 46:8-19 et seq.",
+      "summary": "Strict rules governing security deposits",
+      "keyPoints": [
+        "Must be deposited in NJ bank within 30 days",
+        "Must pay interest at rate set by state",
+        "Must return within 30 days of move-out",
+        "Must provide written itemization of deductions",
+        "Wrongful withholding = 2x deposit plus attorney fees",
+        "Failure to properly handle = tenant may apply rent to deposit"
+      ],
+      "tenantRemedy": {
+        "description": "If landlord violates security deposit law, tenant can use deposit as rent",
+        "citation": "N.J.S.A. 46:8-22"
+      }
+    },
+    "impliedWarranty": {
+      "name": "Implied Warranty of Habitability",
+      "citation": "Marini v. Ireland, 56 N.J. 130 (1970)",
+      "summary": "New Jersey has strong implied warranty of habitability",
+      "requirements": [
+        "Weatherproof and watertight",
+        "Plumbing and heating in working order",
+        "Hot and cold running water",
+        "Electric lighting in working order",
+        "Working appliances if provided",
+        "Safe structural components",
+        "Adequate ventilation",
+        "Free from pest infestation"
+      ],
+      "tenantRemedies": [
+        "Withhold rent (after proper notice)",
+        "Repair and deduct",
+        "Terminate lease",
+        "Sue for damages and rent abatement"
+      ]
+    },
+    "selfHelpEviction": {
+      "name": "Self-Help Eviction Prohibition",
+      "code": "N.J.S.A. 2A:18-53 et seq.",
+      "summary": "Self-help evictions are STRICTLY PROHIBITED in New Jersey",
+      "prohibitedActions": [
+        "Changing locks without court order",
+        "Removing doors or windows",
+        "Shutting off utilities (water, electric, gas)",
+        "Removing tenant's belongings",
+        "Threatening or harassing tenant",
+        "Using force to remove tenant"
+      ],
+      "remedies": [
+        "Civil action for damages",
+        "Recovery of actual damages",
+        "Punitive damages possible",
+        "Attorney fees available",
+        "Criminal charges possible"
+      ],
+      "penalty": "Wrongful eviction can result in significant monetary damages and criminal liability"
+    },
+    "retaliatoryEviction": {
+      "name": "Anti-Retaliation Protection",
+      "code": "N.J.S.A. 2A:42-10.10 et seq.",
+      "summary": "Strong protections against retaliatory eviction",
+      "protectedActivities": [
+        "Complaining about housing code violations",
+        "Reporting health or safety violations",
+        "Filing complaint with government agency",
+        "Joining or organizing tenant unions",
+        "Exercising rights under lease or law",
+        "Withholding rent for habitability issues"
+      ],
+      "presumption": "Rebuttable presumption of retaliation if eviction within 90 days of protected activity",
+      "remedies": "Tenant may recover damages, attorney fees, and obtain injunction"
+    },
+    "noticePeriods": {
+      "name": "Required Notice Periods",
+      "summary": "Notice periods required under New Jersey law",
+      "periods": {
+        "nonpayment": {
+          "days": 30,
+          "type": "Notice to Cease and Quit",
+          "notes": "Standard is 30 days; lease may specify shorter (not less than 7 days)",
+          "mustInclude": [
+            "Amount of rent owed",
+            "Demand for payment",
+            "Date by which payment must be made",
+            "Statement that failure to pay may result in eviction"
+          ]
+        },
+        "leaseViolation": {
+          "type": "Notice to Cease + Notice to Quit",
+          "notes": "Two-step process required for most violations",
+          "process": [
+            "Step 1: Notice to Cease - describing violation and demanding it stop",
+            "Step 2: If violation continues, Notice to Quit (giving time to vacate)",
+            "Step 3: Then file for eviction"
+          ]
+        },
+        "habitualLatePayment": {
+          "type": "Notice to Cease",
+          "notes": "Must document repeated late payments before serving notice"
+        },
+        "ownerMoveIn": {
+          "days": 60,
+          "type": "Notice to Quit",
+          "notes": "For owner-occupied 2-3 family homes only"
+        },
+        "condoConversion": {
+          "days": 1095,
+          "years": 3,
+          "type": "Notice to Quit",
+          "notes": "3 years notice required for condo conversion",
+          "seniorProtected": "Additional protections for seniors and disabled"
+        }
+      }
+    },
+    "courtSystem": {
+      "name": "New Jersey Court System for Landlord-Tenant",
+      "summary": "Special Civil Part handles eviction cases",
+      "courts": {
+        "specialCivilPart": {
+          "name": "Superior Court - Special Civil Part",
+          "description": "Landlord-Tenant section handles all eviction cases",
+          "jurisdiction": "All residential eviction cases",
+          "procedures": [
+            "Complaint filed by landlord",
+            "Court date typically within 2-3 weeks",
+            "Both parties present evidence",
+            "Informal but legal procedures",
+            "Appeal to Appellate Division available"
+          ]
+        }
+      }
+    },
+    "seniorDisabledProtection": {
+      "name": "Senior and Disabled Tenant Protection Act",
+      "code": "N.J.S.A. 2A:18-61.40 et seq.",
+      "summary": "Additional protections for seniors and disabled tenants",
+      "protectedClasses": [
+        "Age 62 or older",
+        "Disabled persons receiving Social Security disability"
+      ],
+      "protections": [
+        "Extended notice periods for condo conversions (3 years)",
+        "Right to continue tenancy in converted buildings",
+        "Special protections against eviction for sale of property"
+      ]
+    }
+  },
+  "defenseStrategies": {
+    "nonpayment": {
+      "name": "Non-Payment of Rent",
+      "defenses": [
+        {
+          "defense": "Improper Notice",
+          "description": "Landlord failed to provide required 30-day written notice",
+          "citation": "N.J.S.A. 2A:18-61.2",
+          "howToRaise": "File answer alleging insufficient notice; request dismissal"
+        },
+        {
+          "defense": "Payment Made",
+          "description": "All rent due was paid within the notice period",
+          "citation": "N.J.S.A. 2A:18-61.2",
+          "howToRaise": "Provide receipts showing payment before deadline - STOPS EVICTION"
+        },
+        {
+          "defense": "Breach of Warranty of Habitability",
+          "description": "Premises not maintained in habitable condition",
+          "citation": "Marini v. Ireland, 56 N.J. 130 (1970)",
+          "howToRaise": "Document conditions; show landlord was notified; may justify rent withholding or abatement",
+          "strength": "STRONG DEFENSE"
+        },
+        {
+          "defense": "Truth in Renting Violation",
+          "description": "Landlord failed to provide Truth in Renting statement",
+          "citation": "N.J.S.A. 46:8-45",
+          "howToRaise": "Show landlord did not provide required disclosure; may delay eviction"
+        },
+        {
+          "defense": "Security Deposit Violation",
+          "description": "Landlord violated security deposit law - tenant can apply deposit to rent",
+          "citation": "N.J.S.A. 46:8-22",
+          "howToRaise": "Prove security deposit violation; use as rent credit",
+          "strength": "STRONG DEFENSE"
+        },
+        {
+          "defense": "Acceptance of Partial Payment",
+          "description": "Landlord accepted partial payment after notice, waiving right to evict",
+          "citation": "Common law",
+          "howToRaise": "Show acceptance of payment after notice was served"
+        },
+        {
+          "defense": "Retaliation",
+          "description": "Eviction filed in response to tenant exercising legal rights",
+          "citation": "N.J.S.A. 2A:42-10.10",
+          "howToRaise": "Show timing between protected activity and eviction filing",
+          "strength": "STRONG DEFENSE - 90-day presumption"
+        },
+        {
+          "defense": "Discrimination",
+          "description": "Eviction based on protected class",
+          "citation": "N.J. Law Against Discrimination",
+          "howToRaise": "Show discriminatory intent or effect"
+        }
+      ]
+    },
+    "leaseViolation": {
+      "name": "Lease Violation / Ground 7",
+      "defenses": [
+        {
+          "defense": "No Notice to Cease",
+          "description": "Landlord failed to provide Notice to Cease before Notice to Quit",
+          "citation": "N.J.S.A. 2A:18-61.1(c)",
+          "howToRaise": "Show required two-step notice process not followed",
+          "strength": "STRONG DEFENSE - mandatory procedure"
+        },
+        {
+          "defense": "Violation Cured",
+          "description": "Violation was corrected after Notice to Cease",
+          "citation": "N.J.S.A. 2A:18-61.1(c)",
+          "howToRaise": "Document compliance after notice"
+        },
+        {
+          "defense": "No Actual Violation",
+          "description": "Alleged conduct does not violate lease terms",
+          "citation": "Contract law",
+          "howToRaise": "Review lease terms; present evidence disproving violation"
+        },
+        {
+          "defense": "Selective Enforcement",
+          "description": "Landlord enforces provision against tenant but not others",
+          "citation": "Equitable principles",
+          "howToRaise": "Document inconsistent enforcement"
+        }
+      ]
+    },
+    "noCause": {
+      "name": "Eviction Without Good Cause",
+      "defenses": [
+        {
+          "defense": "No Good Cause Stated",
+          "description": "Landlord must allege one of the statutory grounds - lease expiration is NOT enough",
+          "citation": "N.J.S.A. 2A:18-61.1",
+          "howToRaise": "Challenge complaint for failure to state good cause",
+          "strength": "CRITICAL DEFENSE - case should be dismissed"
+        },
+        {
+          "defense": "Improper Ground",
+          "description": "The ground alleged does not apply to this situation",
+          "citation": "N.J.S.A. 2A:18-61.1",
+          "howToRaise": "Show the facts don't match the statutory ground"
+        }
+      ]
+    },
+    "ownerMoveIn": {
+      "name": "Owner Move-In (Ground 8)",
+      "defenses": [
+        {
+          "defense": "Not Owner-Occupied Building",
+          "description": "Building does not qualify as owner-occupied 2-3 family home",
+          "citation": "N.J.S.A. 2A:18-61.1(l)",
+          "howToRaise": "Show building is larger than 3 units or not owner-occupied"
+        },
+        {
+          "defense": "Bad Faith",
+          "description": "Landlord does not genuinely intend to occupy unit",
+          "citation": "N.J.S.A. 2A:18-61.1(l)",
+          "howToRaise": "Show landlord's history or intent to re-rent"
+        },
+        {
+          "defense": "Improper Notice",
+          "description": "2-month notice not properly given",
+          "citation": "N.J.S.A. 2A:18-61.2",
+          "howToRaise": "Challenge notice timing and content"
+        }
+      ]
+    }
+  },
+  "resources": {
+    "legalAid": {
+      "statewide": {
+        "name": "Legal Services of New Jersey",
+        "website": "https://www.lsnjlaw.org",
+        "phone": "1-888-576-5529"
+      },
+      "essex": {
+        "name": "Legal Services of New Jersey - Essex Region",
+        "address": "60 Evergreen Place, Suite 400, East Orange, NJ 07018",
+        "phone": "973-643-6600",
+        "website": "https://www.lsnj.org"
+      },
+      "hudson": {
+        "name": "Legal Services of New Jersey - Hudson Region",
+        "address": "404-410 37th Street, Union City, NJ 07087",
+        "phone": "201-216-5777",
+        "website": "https://www.lsnj.org"
+      }
+    },
+    "tenantOrganizations": {
+      "statewide": {
+        "name": "NJ Tenant Organization",
+        "website": "https://www.njto.org",
+        "description": "Statewide tenant advocacy and education"
+      }
+    },
+    "courtSystems": {
+      "general": "Superior Court, Special Civil Part - Landlord/Tenant Section",
+      "appeals": "Appellate Division of Superior Court"
+    },
+    "tenantProtectionHighlights": [
+      "ONLY state requiring 'good cause' for eviction",
+      "Lease expiration is NOT grounds for eviction",
+      "90-day presumption of retaliation",
+      "3-year notice for condo conversion",
+      "Strong senior and disabled protections",
+      "Security deposit violations = use deposit as rent",
+      "Self-help evictions strictly prohibited"
+    ]
+  }
+}

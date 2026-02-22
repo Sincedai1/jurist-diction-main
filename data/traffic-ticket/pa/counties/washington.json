@@ -1,0 +1,102 @@
+{
+  "name": "Washington County",
+  "countySeat": "Washington",
+  "population": "207,820",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Washington County Magisterial District Courts",
+      "address": "1 South Main Street, Washington, PA 15301",
+      "phone": "(724) 228-6700",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.co.washington.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Washington County",
+      "address": "1 South Main Street, Washington, PA 15301",
+      "phone": "(724) 228-6700",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Washington County District Attorney's Office",
+    "address": "1 South Main Street, Washington, PA 15301",
+    "phone": "(724) 228-6710",
+    "trafficDivisionContact": "(724) 228-6710"
+  },
+  "publicDefender": {
+    "office": "Washington County Public Defender",
+    "address": "1 South Main Street, Washington, PA 15301",
+    "phone": "(724) 228-6720",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Washington County Clerk of Courts",
+    "address": "1 South Main Street, Washington, PA 15301",
+    "phone": "(724) 228-6700",
+    "website": "https://www.co.washington.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Washington County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Washington City Police Department",
+      "address": "55 West Maiden Street, Washington, PA 15301",
+      "phone": "(724) 223-4220",
+      "recordsRequest": "(724) 223-4220"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Washington Station",
+      "address": "100 West Beau Street, Washington, PA 15301",
+      "phone": "(724) 223-5200"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Washington County",
+    "speedCameras": "Not currently used in Washington County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-10 for court appearance",
+      "note": "Paid parking in downtown Washington"
+    },
+    "publicTransit": {
+      "service": "Washington City Transit",
+      "routes": "Bus service in Washington area",
+      "website": "https://www.washingtoncitytransit.com"
+    }
+  }
+}

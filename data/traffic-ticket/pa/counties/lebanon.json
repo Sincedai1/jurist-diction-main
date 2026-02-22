@@ -1,0 +1,102 @@
+{
+  "name": "Lebanon County",
+  "countySeat": "Lebanon",
+  "population": "141,841",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Lebanon County Magisterial District Courts",
+      "address": "400 South 8th Street, Lebanon, PA 17042",
+      "phone": "(717) 228-4430",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.lebanoncounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Lebanon County",
+      "address": "400 South 8th Street, Lebanon, PA 17042",
+      "phone": "(717) 228-4430",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Lebanon County District Attorney's Office",
+    "address": "400 South 8th Street, Lebanon, PA 17042",
+    "phone": "(717) 228-4440",
+    "trafficDivisionContact": "(717) 228-4440"
+  },
+  "publicDefender": {
+    "office": "Lebanon County Public Defender",
+    "address": "400 South 8th Street, Lebanon, PA 17042",
+    "phone": "(717) 228-4450",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Lebanon County Clerk of Courts",
+    "address": "400 South 8th Street, Lebanon, PA 17042",
+    "phone": "(717) 228-4430",
+    "website": "https://www.lebanoncounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Lebanon County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Lebanon City Police Department",
+      "address": "36 Cumberland Street, Lebanon, PA 17042",
+      "phone": "(717) 272-6611",
+      "recordsRequest": "(717) 272-6611"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Lebanon Station",
+      "address": "1765 South 5th Avenue, Lebanon, PA 17042",
+      "phone": "(717) 274-2031"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Lebanon County",
+    "speedCameras": "Not currently used in Lebanon County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Lebanon Transit",
+      "routes": "Bus service in Lebanon area",
+      "website": "https://www.lebanontransit.org"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Wyoming County",
+  "countySeat": "Tunkhannock",
+  "population": "26,976",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Wyoming County Magisterial District Court",
+      "address": "1 Courthouse Square, Tunkhannock, PA 18657",
+      "phone": "(570) 836-3200",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.wyomingcountypa.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Wyoming County",
+      "address": "1 Courthouse Square, Tunkhannock, PA 18657",
+      "phone": "(570) 836-3200",
+      "note": "Appeals from Magisterial District Court"
+    }
+  },
+  "districtAttorney": {
+    "office": "Wyoming County District Attorney's Office",
+    "address": "1 Courthouse Square, Tunkhannock, PA 18657",
+    "phone": "(570) 836-3200",
+    "trafficDivisionContact": "(570) 836-3200"
+  },
+  "publicDefender": {
+    "office": "Wyoming County Public Defender",
+    "address": "1 Courthouse Square, Tunkhannock, PA 18657",
+    "phone": "(570) 836-3200",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Wyoming County Clerk of Courts",
+    "address": "1 Courthouse Square, Tunkhannock, PA 18657",
+    "phone": "(570) 836-3200",
+    "website": "https://www.wyomingcountypa.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Wyoming County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Tunkhannock Police Department",
+      "address": "129 West Tioga Street, Tunkhannock, PA 18657",
+      "phone": "(570) 836-2111",
+      "recordsRequest": "(570) 836-2111"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Tunkhannock Station",
+      "address": "2289 SR 6, Tunkhannock, PA 18657",
+      "phone": "(570) 836-2141"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Wyoming County",
+    "speedCameras": "Not currently used in Wyoming County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking available"
+    },
+    "publicTransit": {
+      "service": "Wyoming County Transit",
+      "routes": "Shared ride service",
+      "website": "https://www.wyomingcountytransit.com"
+    }
+  }
+}

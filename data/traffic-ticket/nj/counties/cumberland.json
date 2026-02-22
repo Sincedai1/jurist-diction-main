@@ -1,0 +1,105 @@
+{
+  "name": "Cumberland County",
+  "countySeat": "Bridgeton",
+  "population": "154,152",
+  "courts": {
+    "municipal": {
+      "name": "Bridgeton Municipal Court (and other municipal courts)",
+      "address": "330 Fayette St, Bridgeton, NJ 08302",
+      "phone": "(856) 453-3184",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.bridgetoncity.com/municipal-court",
+      "note": "14 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Cumberland County Superior Court",
+      "address": "60 W Broad St, Bridgeton, NJ 08302",
+      "phone": "(856) 453-4800",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Cumberland County Prosecutor's Office",
+    "address": "115 N Pearl St, Bridgeton, NJ 08302",
+    "phone": "(856) 453-0486",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Cumberland County Public Defender's Office",
+    "address": "60 W Broad St, Bridgeton, NJ 08302",
+    "phone": "(856) 453-4800",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Cumberland County Clerk",
+    "address": "60 W Broad St, Bridgeton, NJ 08302",
+    "phone": "(856) 453-4860",
+    "website": "https://www.cumberlandcountynj.gov/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Bridgeton Police Department",
+      "address": "330 Fayette St, Bridgeton, NJ 08302",
+      "phone": "(856) 451-0033"
+    },
+    "countyPolice": {
+      "name": "Cumberland County Sheriff's Office",
+      "address": "220 N Laurel St, Bridgeton, NJ 08302",
+      "phone": "(856) 451-4449"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop A",
+      "phone": "(609) 861-2400"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and lot parking",
+      "cost": "$5-10"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Limited bus service",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

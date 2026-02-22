@@ -1,0 +1,102 @@
+{
+  "name": "Lackawanna County",
+  "countySeat": "Scranton",
+  "population": "214,391",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Lackawanna County Magisterial District Courts",
+      "address": "200 North Washington Avenue, Scranton, PA 18503",
+      "phone": "(570) 963-6500",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.lackawannacounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Lackawanna County",
+      "address": "200 North Washington Avenue, Scranton, PA 18503",
+      "phone": "(570) 963-6500",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Lackawanna County District Attorney's Office",
+    "address": "200 North Washington Avenue, Scranton, PA 18503",
+    "phone": "(570) 963-6600",
+    "trafficDivisionContact": "(570) 963-6600"
+  },
+  "publicDefender": {
+    "office": "Lackawanna County Public Defender",
+    "address": "200 North Washington Avenue, Scranton, PA 18503",
+    "phone": "(570) 963-6700",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Lackawanna County Clerk of Courts",
+    "address": "200 North Washington Avenue, Scranton, PA 18503",
+    "phone": "(570) 963-6500",
+    "website": "https://www.lackawannacounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Lackawanna County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Scranton Police Department",
+      "address": "100 South Washington Avenue, Scranton, PA 18503",
+      "phone": "(570) 348-4130",
+      "recordsRequest": "(570) 348-4130"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Dunmore Station",
+      "address": "3701萧萧萧萧萧Road, Dunmore, PA 18512",
+      "phone": "(570) 963-3151"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Lackawanna County",
+    "speedCameras": "Not currently used in Lackawanna County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-10 for court appearance",
+      "note": "Paid parking in downtown Scranton"
+    },
+    "publicTransit": {
+      "service": "County of Lackawanna Transit System (COLTS)",
+      "routes": "Bus service throughout Lackawanna County",
+      "website": "https://www.coltsbus.com"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Crawford County",
+  "countySeat": "Meadville",
+  "population": "84,025",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Crawford County Magisterial District Courts",
+      "address": "903 Diamond Park Square, Meadville, PA 16335",
+      "phone": "(814) 724-8500",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.crawfordcountypa.net",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Crawford County",
+      "address": "903 Diamond Park Square, Meadville, PA 16335",
+      "phone": "(814) 724-8500",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Crawford County District Attorney's Office",
+    "address": "903 Diamond Park Square, Meadville, PA 16335",
+    "phone": "(814) 724-8520",
+    "trafficDivisionContact": "(814) 724-8520"
+  },
+  "publicDefender": {
+    "office": "Crawford County Public Defender",
+    "address": "903 Diamond Park Square, Meadville, PA 16335",
+    "phone": "(814) 724-8530",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Crawford County Clerk of Courts",
+    "address": "903 Diamond Park Square, Meadville, PA 16335",
+    "phone": "(814) 724-8500",
+    "website": "https://www.crawfordcountypa.net"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Crawford County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Meadville Police Department",
+      "address": "984 Water Street, Meadville, PA 16335",
+      "phone": "(814) 724-6144",
+      "recordsRequest": "(814) 724-6144"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Meadville Station",
+      "address": "15984 Conneaut Lake Road, Meadville, PA 16335",
+      "phone": "(814) 332-6111"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Crawford County",
+    "speedCameras": "Not currently used in Crawford County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": " Crawford Area Transportation Authority (CATA)",
+      "routes": "Bus service in Meadville area",
+      "website": "https://www.catabus.org"
+    }
+  }
+}

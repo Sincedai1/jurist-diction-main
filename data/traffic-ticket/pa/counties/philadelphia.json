@@ -1,0 +1,117 @@
+{
+  "name": "Philadelphia County",
+  "countySeat": "Philadelphia",
+  "population": "1,603,797",
+  "note": "Philadelphia is a consolidated city-county (Philadelphia County merged with City of Philadelphia)",
+  "courts": {
+    "municipal": {
+      "name": "Philadelphia Municipal Court - Traffic Division",
+      "address": "1401 John F. Kennedy Blvd, Philadelphia, PA 19102",
+      "phone": "(215) 686-1600",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://courts.phila.gov/",
+      "parking": "Various paid parking lots and meters in Center City",
+      "publicTransport": "SEPTA Market-Frankford Line to 15th Street Station"
+    },
+    "trafficDivision": {
+      "name": "Traffic Division Window",
+      "location": "Room 160, City Hall Annex",
+      "phone": "(215) 686-1600",
+      "note": "Handles traffic citation payments and scheduling"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Philadelphia County",
+      "address": "1320 Arch St, Philadelphia, PA 19107",
+      "phone": "(215) 580-6600",
+      "note": "Appeals from Municipal Court traffic cases"
+    }
+  },
+  "districtAttorney": {
+    "office": "Philadelphia District Attorney's Office",
+    "address": "3 S Penn Square, Philadelphia, PA 19102",
+    "phone": "(215) 686-8000",
+    "trafficDivisionContact": "(215) 686-8000"
+  },
+  "publicDefender": {
+    "office": "Defender Association of Philadelphia",
+    "address": "1441 Sansom St, Philadelphia, PA 19102",
+    "phone": "(215) 568-3190",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "First Judicial District Clerk of Courts",
+    "address": "1320 Arch St, Philadelphia, PA 19107",
+    "phone": "(215) 580-6600",
+    "website": "https://courts.phila.gov/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must respond by court date on citation",
+      "process": [
+        "Plead not guilty by mailing ticket with collateral or appearing in person",
+        "Hearing date will be scheduled",
+        "Bring all evidence and witnesses to hearing",
+        "Officer must appear for conviction"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically scheduled 4-8 weeks out",
+      "continuances": "Request must be made in writing before hearing date",
+      "noShow": "Failure to appear results in default judgment and possible license suspension"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "Philadelphia does not offer traditional traffic diversion programs"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "Not available as part of plea bargain in PA",
+      "providers": [
+        "PennDOT-approved defensive driving courses"
+      ]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Philadelphia Police Department",
+      "address": "750 Race St, Philadelphia, PA 19106",
+      "phone": "(215) 686-1776",
+      "recordsRequest": "(215) 686-3480",
+      "website": "https://www.phillypolice.com/"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Philadelphia Barracks",
+      "address": "2841 Southampton Rd, Philadelphia, PA 19154",
+      "phone": "(215) 698-0119"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts, tank tops, hats, or flip-flops",
+    "electronics": "Cell phones must be silenced; no recording devices",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 30 minutes early to clear security"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Civil violations only - does not add points",
+    "speedCameras": "Not currently used in Philadelphia"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Various Center City parking garages",
+        "Metered street parking",
+        "SEPTA parking lots at suburban stations"
+      ],
+      "cost": "$8-25 for court appearance",
+      "note": "Center City parking is expensive; consider public transit"
+    },
+    "publicTransit": {
+      "service": "SEPTA (Southeastern Pennsylvania Transportation Authority)",
+      "routes": "Market-Frankford Line, Broad Street Line, Regional Rail",
+      "website": "https://www.septa.org/"
+    }
+  }
+}

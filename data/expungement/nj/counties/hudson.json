@@ -1,0 +1,167 @@
+{
+  "county": "Hudson",
+  "countySeat": "Jersey City",
+  "vicinage": "Vicinage 5",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "superiorCourt": {
+      "name": "Superior Court of New Jersey, Hudson County",
+      "address": "595 Newark Avenue",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07306",
+      "phone": "(201) 217-5100",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "criminalDivision": "Room 102"
+    },
+    "criminalDivision": {
+      "name": "Criminal Division, Hudson County",
+      "address": "595 Newark Avenue, Room 102",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07306",
+      "phone": "(201) 217-5100",
+      "expungementClerk": "Criminal Division Manager's Office"
+    }
+  },
+  "clerkInformation": {
+    "name": "Hudson County Clerk, Superior Court",
+    "address": "595 Newark Avenue",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07306",
+    "phone": "(201) 795-6300",
+    "website": "https://www.njcourts.gov",
+    "expungementInfo": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "prosecutorOffice": {
+    "office": "Hudson County Prosecutor's Office",
+    "name": "Hudson County Prosecutor",
+    "address": "595 Newark Avenue",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07306",
+    "phone": "(201) 915-1300",
+    "expungementUnit": "Expungement Unit"
+  },
+  "fees": {
+    "filingFee": 75,
+    "certificationFee": 10,
+    "copyFee": 0.50,
+    "notes": "Standard $75 filing fee statewide. Fee waiver available for indigent applicants. Clean Slate automatic expungement is FREE."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Hudson County processes significant expungements due to urban population",
+    "verification": "Check status through NJ State Police",
+    "automaticExpungement": "State system automatically processes eligible records",
+    "contactForIssues": "Contact Criminal Division if expunged records still appear"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at Superior Court, Criminal Division, Room 102",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 3:30 PM",
+    "prosecutorNotification": "Petitioner must serve copy on Hudson County Prosecutor's Office",
+    "prosecutorServiceAddress": "595 Newark Avenue, Jersey City, NJ 07306",
+    "responsePeriod": "30 days for prosecutor to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions",
+    "hearingLocation": "Superior Court, Newark Avenue if hearing scheduled",
+    "specialNotes": [
+      "Hudson County includes Jersey City, Hoboken, Bayonne",
+      "Must serve Prosecutor's Office with copy of petition",
+      "Use certified mail with return receipt for proof of service",
+      "Close proximity to NYC may affect residency verification"
+    ]
+  },
+  "timeline": {
+    "processingTime": "45-90 days for uncontested expungements",
+    "prosecutorResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required",
+    "cleanSlateProcessing": "Automatic - processed by state system"
+  },
+  "forms": {
+    "whereToObtain": "Available at Court Clerk's office or NJ Courts website",
+    "onlineForms": "https://www.njcourts.gov/self-help/expungement",
+    "requiredForms": [
+      "Petition for Expungement (Form A)",
+      "Order for Expungement (Form B)",
+      "Notice of Expungement Order (Form C)"
+    ],
+    "additionalDocuments": [
+      "Certified copy of judgment/disposition",
+      "Proof of payment of fines and costs",
+      "Fee waiver application (if requesting)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Services of New Jersey - Hudson County",
+        "address": "601 Journal Square",
+        "city": "Jersey City",
+        "phone": "(201) 792-6363",
+        "website": "https://www.lsnjlaw.org",
+        "services": "Free legal assistance for eligible individuals"
+      },
+      {
+        "name": "Hudson County Bar Association Lawyer Referral",
+        "address": "583 Newark Avenue",
+        "city": "Jersey City",
+        "phone": "(201) 798-4727"
+      },
+      {
+        "name": "Seton Hall Law School Clinic",
+        "address": "One Newark Center",
+        "city": "Newark",
+        "phone": "(973) 642-8871",
+        "note": "Serves Hudson County residents"
+      }
+    ],
+    "selfHelp": {
+      "name": "Hudson County Law Library",
+      "location": "595 Newark Avenue",
+      "city": "Jersey City",
+      "hours": "Monday-Friday 9:00 AM - 4:00 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinics": [
+      {
+        "name": "Hudson County Expungement Clinics",
+        "schedule": "Scheduled periodically through legal aid organizations",
+        "services": "Free legal assistance with expungement paperwork",
+        "contact": "(201) 792-6363"
+      }
+    ],
+    "reentryPrograms": [
+      {
+        "name": "Hudson County Reentry Services",
+        "address": "595 Newark Avenue",
+        "city": "Jersey City",
+        "phone": "(201) 217-5100",
+        "services": "Comprehensive reentry services including expungement assistance"
+      },
+      {
+        "name": "Jersey City Employment & Training",
+        "address": "438 Summit Avenue",
+        "city": "Jersey City",
+        "phone": "(201) 547-6921",
+        "services": "Employment services for justice-involved individuals"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtWebsite": "https://www.njcourts.gov",
+    "statePoliceRecords": "https://www.njsp.org",
+    "caseSearch": "https://www.njcourts.gov/attorneys/case-management",
+    "selfHelp": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "notes": [
+    "Hudson County includes Jersey City (county seat), Hoboken, Bayonne, Union City",
+    "Proximity to New York City - many residents work in NYC",
+    "Standard $75 filing fee applies (fee waiver available)",
+    "Clean Slate automatic expungement is FREE",
+    "Well-developed legal aid network in the county"
+  ]
+}

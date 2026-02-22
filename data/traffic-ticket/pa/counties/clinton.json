@@ -1,0 +1,102 @@
+{
+  "name": "Clinton County",
+  "countySeat": "Lock Haven",
+  "population": "39,238",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Clinton County Magisterial District Courts",
+      "address": "2 E Church Street, Lock Haven, PA 17745",
+      "phone": "(570) 893-4010",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.clintoncountypa.com",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Clinton County",
+      "address": "2 E Church Street, Lock Haven, PA 17745",
+      "phone": "(570) 893-4010",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Clinton County District Attorney's Office",
+    "address": "2 E Church Street, Lock Haven, PA 17745",
+    "phone": "(570) 893-4020",
+    "trafficDivisionContact": "(570) 893-4020"
+  },
+  "publicDefender": {
+    "office": "Clinton County Public Defender",
+    "address": "2 E Church Street, Lock Haven, PA 17745",
+    "phone": "(570) 893-4030",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Clinton County Clerk of Courts",
+    "address": "2 E Church Street, Lock Haven, PA 17745",
+    "phone": "(570) 893-4010",
+    "website": "https://www.clintoncountypa.com"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Clinton County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Lock Haven Police Department",
+      "address": "20 East Church Street, Lock Haven, PA 17745",
+      "phone": "(570) 893-5911",
+      "recordsRequest": "(570) 893-5911"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Lamar Station",
+      "address": "485 Jacksonville Road, Lock Haven, PA 17745",
+      "phone": "(570) 726-6000"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Clinton County",
+    "speedCameras": "Not currently used in Clinton County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "River Valley Transit",
+      "routes": "Bus service in Lycoming and Clinton Counties",
+      "website": "https://www.rivervalleytransit.com"
+    }
+  }
+}

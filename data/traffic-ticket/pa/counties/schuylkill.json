@@ -1,0 +1,102 @@
+{
+  "name": "Schuylkill County",
+  "countySeat": "Pottsville",
+  "population": "142,067",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Schuylkill County Magisterial District Courts",
+      "address": "401 North 2nd Street, Pottsville, PA 17901",
+      "phone": "(570) 628-1100",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.co.schuylkill.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Schuylkill County",
+      "address": "401 North 2nd Street, Pottsville, PA 17901",
+      "phone": "(570) 628-1100",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Schuylkill County District Attorney's Office",
+    "address": "401 North 2nd Street, Pottsville, PA 17901",
+    "phone": "(570) 628-1110",
+    "trafficDivisionContact": "(570) 628-1110"
+  },
+  "publicDefender": {
+    "office": "Schuylkill County Public Defender",
+    "address": "401 North 2nd Street, Pottsville, PA 17901",
+    "phone": "(570) 628-1120",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Schuylkill County Clerk of Courts",
+    "address": "401 North 2nd Street, Pottsville, PA 17901",
+    "phone": "(570) 628-1100",
+    "website": "https://www.co.schuylkill.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Schuylkill County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Pottsville Police Department",
+      "address": "214 West Centre Street, Pottsville, PA 17901",
+      "phone": "(570) 622-1234",
+      "recordsRequest": "(570) 622-1234"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Schuylkill Haven Station",
+      "address": "90 Fegal Road, Schuylkill Haven, PA 17972",
+      "phone": "(570) 739-1330"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Schuylkill County",
+    "speedCameras": "Not currently used in Schuylkill County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Schuylkill Transportation System (STS)",
+      "routes": "Bus service throughout Schuylkill County",
+      "website": "https://www.go2sts.com"
+    }
+  }
+}

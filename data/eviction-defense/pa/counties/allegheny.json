@@ -1,0 +1,180 @@
+{
+  "county": "Allegheny",
+  "countySeat": "Pittsburgh",
+  "population": "1.2 million",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This is informational only. Contact the court directly for current procedures.",
+  "court": {
+    "name": "Allegheny County Magisterial District Courts",
+    "division": "Multiple district locations",
+    "address": "Various locations throughout Allegheny County",
+    "phone": "412-350-5400 (District Court Administration)",
+    "website": "https://www.alleghenycounty.us/courts/district-attorney/index.aspx",
+    "hours": "Varies by location - typically Monday-Friday 8:30 AM - 4:30 PM",
+    "parking": "Street parking and nearby lots; public transit available"
+  },
+  "clerkOffice": {
+    "name": "Magisterial District Court Clerk (by district)",
+    "address": "Contact specific district court location",
+    "phone": "412-350-5400",
+    "website": "https://www.alleghenycounty.us/courts/"
+  },
+  "filingProcedures": {
+    "landlordTenantComplaint": {
+      "filingLocation": "Magisterial District Court where property is located",
+      "filingFee": "$107.13 (subject to change)",
+      "methods": ["In person at district court", "Some e-filing available"],
+      "requiredDocuments": [
+        "Landlord-Tenant Complaint form",
+        "Copy of lease (if written)",
+        "Copy of 10-day or 15-day notice",
+        "Proof of service of notice"
+      ],
+      "serviceOfProcess": {
+        "methods": ["Sheriff's Office", "Private process server", "Certified mail"],
+        "sheriffFee": "Approximately $30-50",
+        "timeline": "Typically 7-10 days before hearing"
+      }
+    },
+    "answer": {
+      "filingLocation": "Same Magisterial District Court",
+      "filingFee": "None for initial answer",
+      "deadline": "Before hearing date",
+      "recommended": "File at least 3 business days before hearing"
+    }
+  },
+  "hearingProcedures": {
+    "location": "Magisterial District Court for your area",
+    "schedule": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "times": "Varies by district - typically 9:00 AM or 1:00 PM dockets"
+    },
+    "checkIn": {
+      "description": "Check in with court clerk upon arrival",
+      "arrivalTime": "At least 15-20 minutes before scheduled time"
+    },
+    "continuances": {
+      "policy": "First continuance may be granted by request",
+      "method": "Request from magistrate at hearing",
+      "limit": "Up to 30 days typically"
+    }
+  },
+  "timeline": {
+    "noticeToHearing": "7-15 days after complaint filed",
+    "judgmentToOrder": "11 days after judgment (appeal period)",
+    "orderToEviction": "Order executed by constable after 11th day"
+  },
+  "appealProcedures": {
+    "court": "Allegheny County Court of Common Pleas",
+    "deadline": "30 calendar days from judgment",
+    "bondAmount": "Judgment amount plus costs plus estimated rent",
+    "filingLocation": "Magisterial District Court where judgment was entered",
+    "hearingTimeline": "60-120 days for Common Pleas setting"
+  },
+  "magisterialDistricts": {
+    "note": "Allegheny County has multiple Magisterial District Courts",
+    "pittsburgh": [
+      {
+        "district": "05-2-02",
+        "name": "Magisterial District Court 05-2-02",
+        "location": "Downtown Pittsburgh",
+        "address": "440 Ross Street, Room 4040, Pittsburgh, PA 15219",
+        "phone": "412-350-3220"
+      },
+      {
+        "district": "05-2-03",
+        "name": "Magisterial District Court 05-2-03",
+        "location": "East End",
+        "address": "5908 Baum Boulevard, Pittsburgh, PA 15206",
+        "phone": "412-665-3650"
+      },
+      {
+        "district": "05-2-04",
+        "name": "Magisterial District Court 05-2-04",
+        "location": "North Side",
+        "address": "5106 Second Avenue, Pittsburgh, PA 15224",
+        "phone": "412-621-5000"
+      }
+    ],
+    "suburban": "Contact District Court Administration at 412-350-5400 for suburban locations"
+  },
+  "legalAidResources": [
+    {
+      "name": "Neighborhood Legal Services Association (NLSA)",
+      "address": "925 Penn Avenue, Suite 600, Pittsburgh, PA 15222",
+      "phone": "412-255-6700",
+      "hours": "Monday-Friday 8:30 AM - 5:00 PM",
+      "eligibility": "Income-qualified tenants",
+      "services": ["Eviction defense", "Housing counseling", "Court representation", "Tenant rights education"],
+      "website": "https://www.nlsa.us",
+      "intake": "Call for intake appointment or walk-in hours"
+    },
+    {
+      "name": "Southwestern Pennsylvania Legal Aid (SPLA)",
+      "address": "Multiple locations",
+      "phone": "1-800-245-4016",
+      "services": ["Eviction defense", "Housing issues"],
+      "website": "https://www.swpa-legalaid.org"
+    },
+    {
+      "name": "University of Pittsburgh School of Law - Clinical Programs",
+      "address": "3900 Forbes Avenue, Pittsburgh, PA 15260",
+      "phone": "412-648-1300",
+      "services": ["Law student representation under supervision"],
+      "eligibility": "Income-qualified"
+    }
+  ],
+  "emergencyResources": {
+    "rentalAssistance": [
+      {
+        "name": "Allegheny County Emergency Rental Assistance",
+        "phone": "412-350-4630",
+        "services": "Emergency rental assistance (when funding available)",
+        "website": "https://www.alleghenycounty.us/Human-Services/"
+      },
+      {
+        "name": "DHS Homeless Assistance Program",
+        "phone": "412-350-5700",
+        "services": "Emergency shelter, rental assistance, housing navigation"
+      },
+      {
+        "name": "Action Housing",
+        "phone": "412-281-2102",
+        "services": "Housing assistance programs"
+      }
+    ],
+    "shelters": [
+      {
+        "name": "Allegheny County Emergency Shelter",
+        "phone": "412-471-5115 (2-1-1)",
+        "services": "24/7 shelter hotline"
+      },
+      {
+        "name": "Community Human Services",
+        "phone": "412-683-6770",
+        "services": "Emergency shelter, housing services"
+      },
+      {
+        "name": "Salvation Army Pittsburgh",
+        "phone": "412-394-4800",
+        "services": "Emergency shelter, family services"
+      }
+    ]
+  },
+  "specialNotes": [
+    "Allegheny County has over 40 Magisterial District Courts",
+    "Your case is heard at the district court covering your property location",
+    "Contact District Court Administration if unsure which court serves your area",
+    "Pittsburgh has some additional tenant protections beyond state law",
+    "NLSA provides excellent free legal services for income-eligible tenants",
+    "Some district courts offer evening hours - check with your local court"
+  ],
+  "proceduralTips": [
+    "Find your correct Magisterial District Court before filing or appearing",
+    "Arrive early to navigate parking and building security",
+    "Bring copies of all documents for judge and opposing party",
+    "Organize evidence chronologically",
+    "Contact NLSA early in the process for legal assistance",
+    "Ask court clerk for procedural questions"
+  ]
+}

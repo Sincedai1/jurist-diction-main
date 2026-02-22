@@ -1,0 +1,130 @@
+{
+  "name": "Carter County",
+  "countySeat": "Elizabethton",
+  "population": "56761",
+  "courts": {
+    "generalSessions": {
+      "name": "Carter County General Sessions Court",
+      "address": "Elizabethton Courthouse, Elizabethton, TN",
+      "phone": "(423) XXX-XXXX",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "Contact Elizabethton County Clerk",
+      "judges": [
+        "Contact court for current judge information"
+      ],
+      "parking": "Public parking available at courthouse",
+      "publicTransport": "Limited public transit - check local routes"
+    },
+    "municipal": {
+      "name": "Elizabethton Municipal Court",
+      "address": "Elizabethton City Hall, Elizabethton, TN",
+      "phone": "(423) XXX-XXXX",
+      "hours": "Contact court for hours",
+      "note": "Handles city ordinance violations and traffic citations within city limits"
+    }
+  },
+  "districtAttorney": {
+    "office": "Carter County District Attorney's Office",
+    "address": "Elizabethton, TN",
+    "phone": "(423) XXX-XXXX",
+    "trafficDivisionContact": "(423) XXX-XXXX"
+  },
+  "publicDefender": {
+    "office": "Carter County Public Defender's Office",
+    "address": "Elizabethton, TN",
+    "phone": "(423) XXX-XXXX",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Carter County Circuit Court Clerk",
+    "address": "Elizabethton Courthouse, Elizabethton, TN",
+    "phone": "(423) XXX-XXXX",
+    "website": "Contact county clerk"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Check citation for appearance deadline (typically 7-14 days)",
+      "process": [
+        "Contact court clerk to enter not guilty plea",
+        "Court date will be assigned",
+        "File discovery requests through court clerk"
+      ],
+      "paymentOptions": [
+        "Contact court for payment options"
+      ]
+    },
+    "courtDates": {
+      "scheduling": "Court dates typically scheduled 4-6 weeks out",
+      "continuances": "Contact court clerk at least 48 hours before court date",
+      "noShow": "Failure to appear may result in bench warrant and license suspension"
+    },
+    "diversionProgram": {
+      "name": "Carter County Traffic Diversion Program",
+      "eligibility": [
+        "First-time traffic offenders",
+        "No prior diversions in past 5 years",
+        "Violation not involving DUI, reckless driving, or accident with injury"
+      ],
+      "requirements": [
+        "Complete defensive driving course",
+        "Pay court costs and program fee",
+        "Stay violation-free during probation period"
+      ],
+      "cost": "$100-300 depending on offense",
+      "contact": "Contact Elizabethton Court Clerk"
+    },
+    "trafficSchool": {
+      "approvedProviders": [
+        "Tennessee-approved online defensive driving courses",
+        "National Safety Council Tennessee Chapter"
+      ],
+      "deadline": "Must complete within 90 days of court order",
+      "cost": "$25-75 depending on provider"
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Carter County Sheriff's Office",
+      "address": "Elizabethton, TN",
+      "phone": "(423) XXX-XXXX",
+      "recordsRequest": "(423) XXX-XXXX"
+    },
+    "highwayPatrol": {
+      "name": "Tennessee Highway Patrol - 1st District",
+      "phone": "Contact THP district office"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended; no shorts, tank tops, or hats",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 30 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Varies by municipality",
+    "speedCameras": "Contact local court for current policy"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Courthouse parking area"
+      ],
+      "cost": "Usually free at county courthouses",
+      "note": "Arrive early for parking"
+    },
+    "publicTransit": {
+      "service": "Limited in rural areas",
+      "note": "Check local transit options"
+    }
+  },
+  "additionalResources": {
+    "legalAid": {
+      "name": "Legal Aid of East Tennessee - Johnson City",
+      "address": "211 E Watauga Ave, Johnson City, TN",
+      "phone": "(423) 928-5252",
+      "website": "https://www.laet.org"
+    }
+  }
+}

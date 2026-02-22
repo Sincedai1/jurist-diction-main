@@ -1,0 +1,42 @@
+{
+  "county": "Cambria",
+  "countySeat": "Ebensburg",
+  "judicialDistrict": "25th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Cambria County",
+      "address": "200 South Center Street",
+      "city": "Ebensburg",
+      "state": "PA",
+      "zip": "15931",
+      "phone": "(814) 472-1400",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Cambria County Clerk of Courts",
+    "address": "200 South Center Street",
+    "city": "Ebensburg",
+    "state": "PA",
+    "zip": "15931",
+    "phone": "(814) 472-1400",
+    "website": "https://www.cambriacountypa.gov"
+  },
+  "districtAttorney": {
+    "office": "Cambria County District Attorney's Office",
+    "phone": "(814) 472-1480"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Cambria County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Cambria County follows Pennsylvania Clean Slate Act"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "county": "Hinds County",
+  "countySeat": "Jackson",
+  "population": 215000,
+  "established": 1821,
+  "namedAfter": "General Thomas Hinds",
+  "courts": {
+    "circuitCourt": {
+      "district": "7th Judicial District",
+      "judges": 4,
+      "terms": "4 years",
+      "jurisdiction": ["All felony cases", "Civil cases over $200,000", "Appeals from lower courts"],
+      "location": "Hinds County Courthouse, 407 East Pascagoula Street, Jackson, MS 39205",
+      "phone": "601-968-6500",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "clerk": "Circuit Clerk's Office",
+      "filingFees": {
+        "civil": "$157.00",
+        "criminal": "N/A (State prosecution)",
+        "appeal": "$150.00"
+      }
+    },
+    "chanceryCourt": {
+      "district": "5th and 7th Chancery Districts",
+      "judges": 4,
+      "terms": "4 years",
+      "jurisdiction": ["Divorce and domestic relations", "Probate and estates", "Real property disputes", "Guardianships"],
+      "location": "Hinds County Chancery Court Building, 316 South President Street, Jackson, MS 39201",
+      "phone": "601-968-6565",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "clerk": "Chancery Clerk's Office",
+      "filingFees": {
+        "divorce": "$127.00",
+        "probate": "$127.00",
+        "guardianship": "$127.00"
+      }
+    },
+    "countyCourt": {
+      "judges": 3,
+      "terms": "4 years",
+      "jurisdiction": ["Civil cases up to $200,000", "Misdemeanors", "Preliminary hearings", "Evictions"],
+      "location": "Hinds County Courthouse, 407 East Pascagoula Street, Jackson, MS 39205",
+      "phone": "601-968-6500",
+      "filingFees": {
+        "civil": "$97.00",
+        "smallClaims": "$62.00"
+      }
+    },
+    "justiceCourt": {
+      "judges": 2,
+      "terms": "4 years",
+      "jurisdiction": ["Civil cases up to $3,500", "Misdemeanors", "Traffic violations", "Preliminary hearings"],
+      "location": "Hinds County Justice Court, 415 East Pascagoula Street, Jackson, MS 39205",
+      "phone": "601-968-6618",
+      "filingFees": {
+        "civil": "$57.00",
+        "smallClaims": "$42.00"
+      }
+    },
+    "youthCourt": {
+      "judges": 2,
+      "jurisdiction": ["Juvenile delinquency", "Child abuse/neglect", "CHINS"],
+      "location": "Hinds County Youth Court, 415 East Pascagoula Street, Jackson, MS 39205",
+      "phone": "601-968-6625",
+      "confidential": true
+    },
+    "drugCourt": {
+      "type": "Adult Felony Drug Court",
+      "jurisdiction": ["Non-violent drug offenders"],
+      "location": "Hinds County Courthouse",
+      "phone": "601-968-6500",
+      "programDuration": "12-24 months"
+    }
+  },
+  "municipalCourts": [
+    {
+      "name": "Jackson Municipal Court",
+      "location": "325 South President Street, Jackson, MS 39205",
+      "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"],
+      "phone": "601-960-1880",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "judges": 3
+    },
+    {
+      "name": "Byram Municipal Court",
+      "location": "5901 Terry Road, Byram, MS 39272",
+      "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"],
+      "phone": "601-373-7340",
+      "judges": 1
+    },
+    {
+      "name": "Clinton Municipal Court",
+      "location": "2003 Main Street, Clinton, MS 39056",
+      "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"],
+      "phone": "601-924-2222",
+      "judges": 1
+    },
+    {
+      "name": "Raymond Municipal Court",
+      "location": "100 Main Street, Raymond, MS 39154",
+      "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"],
+      "phone": "601-857-8440",
+      "judges": 1
+    },
+    {
+      "name": "Terry Municipal Court",
+      "location": "210 West Cunningham Avenue, Terry, MS 39170",
+      "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"],
+      "phone": "601-878-5830",
+      "judges": 1
+    }
+  ],
+  "lawEnforcement": {
+    "sheriffsOffice": {
+      "name": "Hinds County Sheriff's Office",
+      "location": "407 East Pascagoula Street, Jackson, MS 39205",
+      "phone": "601-974-2900",
+      "services": ["Patrol", "Investigations", "Jail operations", "Court security", "Process service"]
+    },
+    "policeDepartments": [
+      {
+        "name": "Jackson Police Department",
+        "location": "327 East Pascagoula Street, Jackson, MS 39205",
+        "phone": "601-960-1234",
+        "emergency": "911"
+      },
+      {
+        "name": "Clinton Police Department",
+        "location": "201 Main Street, Clinton, MS 39056",
+        "phone": "601-924-5252"
+      },
+      {
+        "name": "Byram Police Department",
+        "location": "5901 Terry Road, Byram, MS 39272",
+        "phone": "601-373-7581"
+      }
+    ]
+  },
+  "legalAid": [
+    {
+      "name": "Mississippi Center for Legal Services",
+      "address": "5384 Executive Place, Jackson, MS 39206",
+      "phone": "601-948-3794",
+      "services": ["Civil legal aid for low-income residents"],
+      "eligibility": "Income below 200% of federal poverty level"
+    },
+    {
+      "name": "Mississippi Volunteer Lawyers Project",
+      "address": "5384 Executive Place, Jackson, MS 39206",
+      "phone": "601-960-9573",
+      "services": ["Pro bono legal representation"],
+      "eligibility": "Income-eligible clients"
+    }
+  ],
+  "districtAttorney": {
+    "name": "Hinds County District Attorney's Office",
+    "location": "407 East Pascagoula Street, Jackson, MS 39205",
+    "phone": "601-968-6688",
+    "jurisdiction": "All felony prosecutions in Hinds County"
+  },
+  "publicDefender": {
+    "name": "Hinds County Public Defender's Office",
+    "location": "407 East Pascagoula Street, Jackson, MS 39205",
+    "phone": "601-968-6677",
+    "services": "Criminal defense for indigent defendants"
+  },
+  "detentionFacilities": [
+    {
+      "name": "Hinds County Detention Center - Raymond",
+      "location": "1207 East Main Street, Raymond, MS 39154",
+      "phone": "601-857-4800",
+      "type": "Adult detention"
+    },
+    {
+      "name": "Hinds County Penal Farm",
+      "location": "3900 Highway 80 West, Jackson, MS 39204",
+      "phone": "601-968-6680",
+      "type": "Work camp/trustee program"
+    },
+    {
+      "name": "Henley-Young Juvenile Justice Center",
+      "location": "900 East Woodrow Wilson Drive, Jackson, MS 39204",
+      "phone": "601-359-4490",
+      "type": "Juvenile detention"
+    }
+  ],
+  "recording": {
+    "realPropertyRecords": {
+      "office": "Chancery Clerk's Office",
+      "location": "316 South President Street, Jackson, MS 39201",
+      "phone": "601-968-6565",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "recordingFees": {
+        "firstPage": "$10.00",
+        "additionalPages": "$2.00 per page",
+        "recordingDeed": "$15.00 minimum"
+      }
+    }
+  },
+  "usefulForms": [
+    {
+      "form": "Eviction Complaint",
+      "court": "County Court",
+      "filingFee": "$97.00",
+      "service": "Sheriff's service required"
+    },
+    {
+      "form": "Divorce Complaint",
+      "court": "Chancery Court",
+      "filingFee": "$127.00",
+      "service": "Sheriff's service or waiver"
+    },
+    {
+      "form": "Small Claims Affidavit",
+      "court": "Justice Court",
+      "filingFee": "$42.00",
+      "service": "Sheriff's service required"
+    },
+    {
+      "form": "Name Change Petition",
+      "court": "Chancery Court",
+      "filingFee": "$127.00",
+      "publication": "Required in newspaper"
+    }
+  ],
+  "websites": {
+    "county": "https://www.hindscountyms.com/",
+    "courts": "https://courts.ms.gov/",
+    "eFiling": "https://www.mec.ms.gov/",
+    "sheriff": "https://www.hindscountyms.com/sheriff"
+  },
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "Hinds County Government",
+    "notes": "Most populous county in Mississippi. State capital located here. Largest court system in the state."
+  }
+}

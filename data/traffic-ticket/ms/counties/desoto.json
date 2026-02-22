@@ -1,0 +1,120 @@
+{
+  "name": "DeSoto County",
+  "countySeat": "Hernando",
+  "population": "185,976",
+  "courts": {
+    "justice": {
+      "name": "DeSoto County Justice Court",
+      "address": "2535 Highway 51 S, Hernando, MS 38632",
+      "phone": "(662) 429-1398",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "website": "https://www.desotocountyms.gov/",
+      "note": "Handles county traffic offenses"
+    },
+    "municipal": {
+      "name": "Various Municipal Courts",
+      "note": "Southaven, Olive Branch, Hernando have their own courts",
+      "southaven": {
+        "name": "Southaven Municipal Court",
+        "address": "8710 Northwest Dr, Southaven, MS 38671",
+        "phone": "(662) 342-0108"
+      },
+      "oliveBranch": {
+        "name": "Olive Branch Municipal Court",
+        "address": "9200 Pigeon Roost Rd, Olive Branch, MS 38654",
+        "phone": "(662) 895-4221"
+      }
+    },
+    "county": {
+      "name": "DeSoto County Court",
+      "address": "2535 Highway 51 S, Hernando, MS 38632",
+      "phone": "(662) 429-1398",
+      "note": "Appeals and more serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "DeSoto County District Attorney's Office",
+    "address": "2535 Highway 51 S, Hernando, MS 38632",
+    "phone": "(662) 429-1398"
+  },
+  "publicDefender": {
+    "office": "DeSoto County Public Defender",
+    "address": "2535 Highway 51 S, Hernando, MS 38632",
+    "phone": "(662) 429-1398",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "DeSoto County Circuit Clerk",
+    "address": "2535 Highway 51 S, Hernando, MS 38632",
+    "phone": "(662) 429-1398",
+    "website": "https://www.desotocountyms.gov/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear or pay by court date",
+      "process": [
+        "Enter not guilty plea",
+        "Trial date assigned",
+        "Present evidence at trial",
+        "Officer must appear"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "3-6 weeks typical",
+      "continuances": "Request through court clerk",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "diversionProgram": {
+      "available": true,
+      "eligibility": "First-time offenders with minor violations"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "May be offered to reduce charges",
+      "providers": ["MS DPS-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "DeSoto County Sheriff's Office",
+      "address": "311 W South St, Hernando, MS 38632",
+      "phone": "(662) 429-1470"
+    },
+    "southaven": {
+      "name": "Southaven Police Department",
+      "address": "8630 Northwest Dr, Southaven, MS 38671",
+      "phone": "(662) 393-8652"
+    },
+    "oliveBranch": {
+      "name": "Olive Branch Police Department",
+      "address": "9200 Pigeon Roost Rd, Olive Branch, MS 38654",
+      "phone": "(662) 895-4111"
+    },
+    "highwayPatrol": {
+      "name": "Mississippi Highway Patrol - Troop M",
+      "phone": "(662) 429-9121"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "memphisArea": "Part of Memphis metro area - increased enforcement"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Free parking at courthouse",
+      "cost": "Free"
+    },
+    "publicTransit": {
+      "service": "Limited public transit",
+      "note": "Most transportation by personal vehicle"
+    }
+  }
+}

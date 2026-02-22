@@ -1,0 +1,102 @@
+{
+  "name": "Luzerne County",
+  "countySeat": "Wilkes-Barre",
+  "population": "319,419",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Luzerne County Magisterial District Courts",
+      "address": "200 North River Street, Wilkes-Barre, PA 18711",
+      "phone": "(570) 825-1500",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.luzernecounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Luzerne County",
+      "address": "200 North River Street, Wilkes-Barre, PA 18711",
+      "phone": "(570) 825-1500",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Luzerne County District Attorney's Office",
+    "address": "200 North River Street, Wilkes-Barre, PA 18711",
+    "phone": "(570) 825-1600",
+    "trafficDivisionContact": "(570) 825-1600"
+  },
+  "publicDefender": {
+    "office": "Luzerne County Public Defender",
+    "address": "200 North River Street, Wilkes-Barre, PA 18711",
+    "phone": "(570) 825-1700",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Luzerne County Clerk of Courts",
+    "address": "200 North River Street, Wilkes-Barre, PA 18711",
+    "phone": "(570) 825-1500",
+    "website": "https://www.luzernecounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Luzerne County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Wilkes-Barre City Police Department",
+      "address": "15 North Washington Street, Wilkes-Barre, PA 18701",
+      "phone": "(570) 208-4200",
+      "recordsRequest": "(570) 208-4200"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Wyoming Station",
+      "address": "400 East 4th Street, Wyoming, PA 18644",
+      "phone": "(570) 693-2900"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Luzerne County",
+    "speedCameras": "Not currently used in Luzerne County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-10 for court appearance",
+      "note": "Paid parking in downtown Wilkes-Barre"
+    },
+    "publicTransit": {
+      "service": "Luzerne County Transportation Authority (LCTA)",
+      "routes": "Bus service throughout Luzerne County",
+      "website": "https://www.lctabus.com"
+    }
+  }
+}

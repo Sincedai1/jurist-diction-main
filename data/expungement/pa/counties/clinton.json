@@ -1,0 +1,42 @@
+{
+  "county": "Clinton",
+  "countySeat": "Lock Haven",
+  "judicialDistrict": "54th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Clinton County",
+      "address": "2 East Church Street",
+      "city": "Lock Haven",
+      "state": "PA",
+      "zip": "17745",
+      "phone": "(570) 893-4010",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Clinton County Clerk of Courts",
+    "address": "2 East Church Street",
+    "city": "Lock Haven",
+    "state": "PA",
+    "zip": "17745",
+    "phone": "(570) 893-4010",
+    "website": "https://www.clintoncountypa.com"
+  },
+  "districtAttorney": {
+    "office": "Clinton County District Attorney's Office",
+    "phone": "(570) 893-4020"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Clinton County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Clinton County follows Pennsylvania Clean Slate Act"
+  ]
+}

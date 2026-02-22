@@ -1,0 +1,106 @@
+{
+  "name": "Warren County",
+  "countySeat": "Belvidere",
+  "population": "109,632",
+  "courts": {
+    "municipal": {
+      "name": "Belvidere Municipal Court (and other municipal courts)",
+      "address": "414 2nd St, Belvidere, NJ 07823",
+      "phone": "(908) 475-4166",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.belviderenj.org/municipal-court",
+      "note": "22 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Warren County Superior Court",
+      "address": "413 2nd St, Belvidere, NJ 07823",
+      "phone": "(908) 475-4700",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Warren County Prosecutor's Office",
+    "address": "413 2nd St, Belvidere, NJ 07823",
+    "phone": "(908) 475-6275",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Warren County Public Defender's Office",
+    "address": "413 2nd St, Belvidere, NJ 07823",
+    "phone": "(908) 475-4700",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Warren County Clerk",
+    "address": "413 2nd St, Belvidere, NJ 07823",
+    "phone": "(908) 475-6511",
+    "website": "https://www.warrencountyclerk.com/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Belvidere Police Department",
+      "address": "414 2nd St, Belvidere, NJ 07823",
+      "phone": "(908) 475-2414"
+    },
+    "countyPolice": {
+      "name": "Warren County Sheriff's Office",
+      "address": "413 2nd St, Belvidere, NJ 07823",
+      "phone": "(908) 475-6300"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses",
+    "ruralRoads": "Extra caution on rural roads near Delaware River"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street parking",
+      "cost": "$3-5"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Limited bus service",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

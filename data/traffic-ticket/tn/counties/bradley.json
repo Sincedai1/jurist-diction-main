@@ -1,0 +1,130 @@
+{
+  "name": "Bradley County",
+  "countySeat": "Cleveland",
+  "population": "108820",
+  "courts": {
+    "generalSessions": {
+      "name": "Bradley County General Sessions Court",
+      "address": "Cleveland Courthouse, Cleveland, TN",
+      "phone": "(423) XXX-XXXX",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "Contact Cleveland County Clerk",
+      "judges": [
+        "Contact court for current judge information"
+      ],
+      "parking": "Public parking available at courthouse",
+      "publicTransport": "Limited public transit - check local routes"
+    },
+    "municipal": {
+      "name": "Cleveland Municipal Court",
+      "address": "Cleveland City Hall, Cleveland, TN",
+      "phone": "(423) XXX-XXXX",
+      "hours": "Contact court for hours",
+      "note": "Handles city ordinance violations and traffic citations within city limits"
+    }
+  },
+  "districtAttorney": {
+    "office": "Bradley County District Attorney's Office",
+    "address": "Cleveland, TN",
+    "phone": "(423) XXX-XXXX",
+    "trafficDivisionContact": "(423) XXX-XXXX"
+  },
+  "publicDefender": {
+    "office": "Bradley County Public Defender's Office",
+    "address": "Cleveland, TN",
+    "phone": "(423) XXX-XXXX",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Bradley County Circuit Court Clerk",
+    "address": "Cleveland Courthouse, Cleveland, TN",
+    "phone": "(423) XXX-XXXX",
+    "website": "Contact county clerk"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Check citation for appearance deadline (typically 7-14 days)",
+      "process": [
+        "Contact court clerk to enter not guilty plea",
+        "Court date will be assigned",
+        "File discovery requests through court clerk"
+      ],
+      "paymentOptions": [
+        "Contact court for payment options"
+      ]
+    },
+    "courtDates": {
+      "scheduling": "Court dates typically scheduled 4-6 weeks out",
+      "continuances": "Contact court clerk at least 48 hours before court date",
+      "noShow": "Failure to appear may result in bench warrant and license suspension"
+    },
+    "diversionProgram": {
+      "name": "Bradley County Traffic Diversion Program",
+      "eligibility": [
+        "First-time traffic offenders",
+        "No prior diversions in past 5 years",
+        "Violation not involving DUI, reckless driving, or accident with injury"
+      ],
+      "requirements": [
+        "Complete defensive driving course",
+        "Pay court costs and program fee",
+        "Stay violation-free during probation period"
+      ],
+      "cost": "$100-300 depending on offense",
+      "contact": "Contact Cleveland Court Clerk"
+    },
+    "trafficSchool": {
+      "approvedProviders": [
+        "Tennessee-approved online defensive driving courses",
+        "National Safety Council Tennessee Chapter"
+      ],
+      "deadline": "Must complete within 90 days of court order",
+      "cost": "$25-75 depending on provider"
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Bradley County Sheriff's Office",
+      "address": "Cleveland, TN",
+      "phone": "(423) XXX-XXXX",
+      "recordsRequest": "(423) XXX-XXXX"
+    },
+    "highwayPatrol": {
+      "name": "Tennessee Highway Patrol - 10 District",
+      "phone": "Contact THP district office"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended; no shorts, tank tops, or hats",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 30 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Varies by municipality",
+    "speedCameras": "Contact local court for current policy"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Courthouse parking area"
+      ],
+      "cost": "Usually free at county courthouses",
+      "note": "Arrive early for parking"
+    },
+    "publicTransit": {
+      "service": "Limited in rural areas",
+      "note": "Check local transit options"
+    }
+  },
+  "additionalResources": {
+    "legalAid": {
+      "name": "Legal Aid of East Tennessee - Knoxville",
+      "address": "502 S Gay St, Knoxville, TN",
+      "phone": "(865) 637-0484",
+      "website": "https://www.laet.org"
+    }
+  }
+}

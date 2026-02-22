@@ -1,0 +1,143 @@
+{
+  "county": "Shelby",
+  "countySeat": "Memphis",
+  "judicialDistrict": "30th Judicial District",
+  "lastUpdated": "2026-02-20",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "criminalCourt": {
+      "name": "Shelby County Criminal Court",
+      "address": "201 Poplar Avenue",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38103",
+      "phone": "(901) 222-3400",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "divisions": [
+        "Criminal Court Division I",
+        "Criminal Court Division II",
+        "Criminal Court Division III",
+        "Criminal Court Division IV",
+        "Criminal Court Division V",
+        "Criminal Court Division VI",
+        "Criminal Court Division VII",
+        "Criminal Court Division VIII",
+        "Criminal Court Division IX",
+        "Criminal Court Division X"
+      ]
+    },
+    "generalSessions": {
+      "name": "Shelby County General Sessions Court",
+      "address": "201 Poplar Avenue",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38103",
+      "phone": "(901) 222-3350",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Shelby County Circuit Court Clerk",
+    "address": "140 Adams Avenue",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38103",
+    "phone": "(901) 222-3800",
+    "email": "circuit.clerk@shelbycountytn.gov",
+    "expungementInfo": "https://www.shelbycountytn.gov/224/Circuit-Court-Clerk"
+  },
+  "districtAttorney": {
+    "office": "Shelby County District Attorney's Office",
+    "name": "District Attorney General",
+    "address": "201 Poplar Avenue, Suite 301",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38103",
+    "phone": "(901) 222-1300"
+  },
+  "fees": {
+    "filingFee": 0,
+    "administrativeFee": 25,
+    "certificationFee": 5,
+    "copyFee": 0.50,
+    "notes": "Shelby County charges a $25 administrative processing fee for expungements. State fees were eliminated in 2024."
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at the Circuit Court Clerk's office, Room 303",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 3:30 PM",
+    "daNotification": "Petitioner must serve a copy of the petition on the District Attorney's office",
+    "daServiceAddress": "201 Poplar Avenue, Suite 301, Memphis, TN 38103",
+    "hearingRequired": "Hearings may be required for felony expungements; misdemeanors often processed without hearing",
+    "hearingLocation": "If hearing required, will be at the appropriate Criminal Court division",
+    "specialNotes": [
+      "Shelby County requires proof of DA service",
+      "Filing receipt must be obtained",
+      "Multiple charges require separate petitions"
+    ]
+  },
+  "timeline": {
+    "processingTime": "45-60 days for uncontested expungements",
+    "daResponsePeriod": "30 days",
+    "hearingNotice": "3-4 weeks advance notice if hearing required"
+  },
+  "forms": {
+    "whereToObtain": "Available at Clerk's office or online",
+    "onlineForms": "https://www.shelbycountytn.gov/224/Circuit-Court-Clerk",
+    "requiredForms": [
+      "Petition for Expungement",
+      "Order of Expungement",
+      "Certificate of Service (proof of DA service)"
+    ],
+    "additionalForms": [
+      "Affidavit of Indigency (if requesting fee waiver)",
+      "Verification of Payment of Court Costs"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Memphis Area Legal Services",
+        "address": "22 North Front Street",
+        "city": "Memphis",
+        "phone": "(901) 523-8822",
+        "website": "https://www.memphislegalservices.org"
+      },
+      {
+        "name": "Shelby County Bar Association Lawyer Referral",
+        "phone": "(901) 527-3573"
+      },
+      {
+        "name": "University of Memphis Legal Clinic",
+        "address": "3715 Central Avenue",
+        "city": "Memphis",
+        "phone": "(901) 678-2421"
+      }
+    ],
+    "selfHelp": {
+      "name": "Shelby County Law Library",
+      "location": "201 Poplar Avenue, Room 402",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinic": {
+      "schedule": "Third Saturday of each month",
+      "time": "10:00 AM - 2:00 PM",
+      "location": "Benjamin L. Hooks Central Library",
+      "services": "Free legal assistance with expungement paperwork"
+    },
+    "reentryProgram": {
+      "name": "Shelby County Office of Reentry",
+      "address": "1362 E. E.H. Crump Boulevard",
+      "city": "Memphis",
+      "phone": "(901) 222-2900",
+      "services": "Comprehensive reentry services including expungement assistance"
+    }
+  },
+  "notes": [
+    "Shelby County is Tennessee's largest county by population",
+    "Processing times may be longer due to volume",
+    "Recommend using certified mail for DA service to have proof of delivery"
+  ]
+}

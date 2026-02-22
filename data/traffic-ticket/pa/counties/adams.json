@@ -1,0 +1,102 @@
+{
+  "name": "Adams County",
+  "countySeat": "Gettysburg",
+  "population": "103,852",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Adams County Magisterial District Courts",
+      "address": "111 Baltimore Street, Gettysburg, PA 17325",
+      "phone": "(717) 334-6781",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.adamscounty.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Adams County",
+      "address": "111 Baltimore Street, Gettysburg, PA 17325",
+      "phone": "(717) 334-6781",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Adams County District Attorney's Office",
+    "address": "111 Baltimore Street, Gettysburg, PA 17325",
+    "phone": "(717) 337-9820",
+    "trafficDivisionContact": "(717) 337-9820"
+  },
+  "publicDefender": {
+    "office": "Adams County Public Defender",
+    "address": "111 Baltimore Street, Gettysburg, PA 17325",
+    "phone": "(717) 334-6781",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Adams County Clerk of Courts",
+    "address": "111 Baltimore Street, Gettysburg, PA 17325",
+    "phone": "(717) 334-6781",
+    "website": "https://www.adamscounty.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Adams County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Gettysburg Police Department",
+      "address": "35 York Street, Gettysburg, PA 17325",
+      "phone": "(717) 334-1168",
+      "recordsRequest": "(717) 334-1168"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Gettysburg Station",
+      "address": "1100 Biglerville Road, Gettysburg, PA 17325",
+      "phone": "(717) 334-4446"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Adams County",
+    "speedCameras": "Not currently used in Adams County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse", "Public parking lots"],
+      "cost": "Free to $5 for court appearance",
+      "note": "Limited parking in downtown Gettysburg"
+    },
+    "publicTransit": {
+      "service": "Limited public transit",
+      "routes": "Actransit buses",
+      "website": "https://www.actransit.org"
+    }
+  }
+}

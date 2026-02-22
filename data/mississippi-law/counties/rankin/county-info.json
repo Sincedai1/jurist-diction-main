@@ -1,0 +1,101 @@
+{
+  "county": "Rankin County",
+  "countySeat": "Brandon",
+  "population": 157000,
+  "established": 1828,
+  "namedAfter": "Christopher Rankin",
+  "cities": ["Brandon", "Flowood", "Pearl", "Ridgeland", "Richland", "Pelahatchie", "Florence"],
+  "courts": {
+    "circuitCourt": {
+      "district": "20th Judicial District",
+      "counties": ["Rankin"],
+      "judges": 2,
+      "location": "100 East Government Street, Suite 100, Brandon, MS 39042",
+      "phone": "601-825-1471",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "jurisdiction": ["All felony cases", "Civil cases over $200,000", "Appeals from lower courts"],
+      "filingFees": {"civil": "$157.00", "appeal": "$150.00"}
+    },
+    "chanceryCourt": {
+      "district": "8th Chancery District",
+      "judges": 2,
+      "location": "100 East Government Street, Suite 200, Brandon, MS 39042",
+      "phone": "601-825-1463",
+      "jurisdiction": ["Divorce and domestic relations", "Probate and estates", "Real property disputes", "Guardianships"],
+      "filingFees": {"divorce": "$127.00", "probate": "$127.00"}
+    },
+    "countyCourt": {
+      "judges": 1,
+      "location": "100 East Government Street, Brandon, MS 39042",
+      "phone": "601-825-1471",
+      "jurisdiction": ["Civil cases up to $200,000", "Misdemeanors", "Preliminary hearings", "Evictions", "Youth Court"],
+      "filingFees": {"civil": "$97.00", "smallClaims": "$62.00"}
+    },
+    "justiceCourt": {
+      "judges": 2,
+      "location": "100 East Government Street, Brandon, MS 39042",
+      "phone": "601-825-1471",
+      "jurisdiction": ["Civil cases up to $3,500", "Misdemeanors", "Traffic violations", "Preliminary hearings"],
+      "filingFees": {"civil": "$57.00", "smallClaims": "$42.00"}
+    },
+    "youthCourt": {
+      "judge": "County Court Judge",
+      "location": "100 East Government Street, Brandon, MS 39042",
+      "jurisdiction": ["Juvenile delinquency", "Child abuse/neglect", "CHINS"],
+      "confidential": true
+    },
+    "drugCourt": {
+      "type": "Adult Felony Drug Court",
+      "location": "100 East Government Street, Brandon, MS 39042",
+      "phone": "601-825-1471",
+      "programDuration": "12-24 months"
+    }
+  },
+  "municipalCourts": [
+    {"name": "Brandon Municipal Court", "phone": "601-825-5022", "judges": 1},
+    {"name": "Flowood Municipal Court", "phone": "601-936-0747", "judges": 1},
+    {"name": "Pearl Municipal Court", "phone": "601-932-3525", "judges": 2},
+    {"name": "Ridgeland Municipal Court", "phone": "601-856-7113", "judges": 1},
+    {"name": "Richland Municipal Court", "phone": "601-932-3100", "judges": 1},
+    {"name": "Florence Municipal Court", "phone": "601-845-6282", "judges": 1}
+  ],
+  "lawEnforcement": {
+    "sheriffsOffice": {"name": "Rankin County Sheriff's Office", "phone": "601-825-1480", "location": "221 Timber Street, Brandon, MS 39042"},
+    "policeDepartments": [
+      {"name": "Brandon Police Department", "phone": "601-825-7225"},
+      {"name": "Flowood Police Department", "phone": "601-932-5400"},
+      {"name": "Pearl Police Department", "phone": "601-939-7000"},
+      {"name": "Ridgeland Police Department", "phone": "601-856-2121"},
+      {"name": "Richland Police Department", "phone": "601-932-3100"}
+    ]
+  },
+  "detentionFacilities": {
+    "name": "Rankin County Jail",
+    "location": "221 Timber Street, Brandon, MS 39042",
+    "phone": "601-825-1480"
+  },
+  "districtAttorney": {
+    "name": "Rankin County District Attorney's Office",
+    "location": "100 East Government Street, Brandon, MS 39042",
+    "phone": "601-825-1468"
+  },
+  "publicDefender": {
+    "name": "Rankin County Public Defender",
+    "phone": "601-825-1475"
+  },
+  "realPropertyRecords": {
+    "office": "Chancery Clerk",
+    "location": "100 East Government Street, Suite 200, Brandon, MS 39042",
+    "phone": "601-825-1463",
+    "recordingFees": {"firstPage": "$10.00", "additionalPages": "$2.00"}
+  },
+  "websites": {
+    "county": "https://www.rankincounty.org/",
+    "sheriff": "https://www.rankincounty.org/sheriff"
+  },
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "Rankin County Government",
+    "notes": "Fastest growing county in Mississippi. Part of Jackson metropolitan area."
+  }
+}

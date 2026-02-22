@@ -1,0 +1,48 @@
+{
+  "county": "Cumberland",
+  "countySeat": "Carlisle",
+  "judicialDistrict": "50th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Cumberland County",
+      "address": "1 Courthouse Square",
+      "city": "Carlisle",
+      "state": "PA",
+      "zip": "17013",
+      "phone": "(717) 240-6300"
+    }
+  },
+  "clerkInformation": {
+    "name": "Cumberland County Clerk of Courts",
+    "address": "1 Courthouse Square",
+    "city": "Carlisle",
+    "state": "PA",
+    "zip": "17013",
+    "phone": "(717) 240-6300",
+    "website": "https://www.ccpa.net"
+  },
+  "districtAttorney": {
+    "office": "Cumberland County District Attorney's Office",
+    "phone": "(717) 240-6320"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Cumberland County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "MidPenn Legal Services",
+        "phone": "(717) 232-0581"
+      }
+    ]
+  },
+  "notes": [
+    "Cumberland County follows Pennsylvania Clean Slate Act"
+  ]
+}

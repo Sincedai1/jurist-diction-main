@@ -1,0 +1,152 @@
+{
+  "county": "Morris",
+  "countySeat": "Morristown",
+  "vicinage": "Vicinage 10",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "superiorCourt": {
+      "name": "Superior Court of New Jersey, Morris County",
+      "address": "56 Washington Street",
+      "city": "Morristown",
+      "state": "NJ",
+      "zip": "07960",
+      "phone": "(973) 656-4300",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "criminalDivision": "Room 100"
+    },
+    "criminalDivision": {
+      "name": "Criminal Division, Morris County",
+      "address": "56 Washington Street, Room 100",
+      "city": "Morristown",
+      "state": "NJ",
+      "zip": "07960",
+      "phone": "(973) 656-4300",
+      "expungementClerk": "Criminal Division Manager's Office"
+    }
+  },
+  "clerkInformation": {
+    "name": "Morris County Clerk, Superior Court",
+    "address": "10 Court Street",
+    "city": "Morristown",
+    "state": "NJ",
+    "zip": "07960",
+    "phone": "(973) 285-6120",
+    "website": "https://www.njcourts.gov",
+    "expungementInfo": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "prosecutorOffice": {
+    "office": "Morris County Prosecutor's Office",
+    "name": "Morris County Prosecutor",
+    "address": "56 Washington Street",
+    "city": "Morristown",
+    "state": "NJ",
+    "zip": "07960",
+    "phone": "(973) 285-6200",
+    "expungementUnit": "Expungement Unit"
+  },
+  "fees": {
+    "filingFee": 75,
+    "certificationFee": 10,
+    "copyFee": 0.50,
+    "notes": "Standard $75 filing fee statewide. Fee waiver available for indigent applicants. Clean Slate automatic expungement is FREE."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Morris County processes expungements regularly",
+    "verification": "Check status through NJ State Police",
+    "automaticExpungement": "State system automatically processes eligible records",
+    "contactForIssues": "Contact Criminal Division if expunged records still appear"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at Superior Court, Criminal Division",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 3:30 PM",
+    "prosecutorNotification": "Petitioner must serve copy on Morris County Prosecutor's Office",
+    "prosecutorServiceAddress": "56 Washington Street, Morristown, NJ 07960",
+    "responsePeriod": "30 days for prosecutor to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions",
+    "hearingLocation": "Superior Court, Morristown if hearing scheduled",
+    "specialNotes": [
+      "Morris County includes 39 municipalities",
+      "Morristown is the county seat",
+      "Must serve Prosecutor's Office with copy of petition",
+      "Use certified mail with return receipt for proof of service"
+    ]
+  },
+  "timeline": {
+    "processingTime": "45-90 days for uncontested expungements",
+    "prosecutorResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required",
+    "cleanSlateProcessing": "Automatic - processed by state system"
+  },
+  "forms": {
+    "whereToObtain": "Available at Court Clerk's office or NJ Courts website",
+    "onlineForms": "https://www.njcourts.gov/self-help/expungement",
+    "requiredForms": [
+      "Petition for Expungement (Form A)",
+      "Order for Expungement (Form B)",
+      "Notice of Expungement Order (Form C)"
+    ],
+    "additionalDocuments": [
+      "Certified copy of judgment/disposition",
+      "Proof of payment of fines and costs",
+      "Fee waiver application (if requesting)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Services of New Jersey - Morris County",
+        "address": "56 Washington Street",
+        "city": "Morristown",
+        "phone": "(973) 285-6200",
+        "website": "https://www.lsnjlaw.org",
+        "services": "Free legal assistance for eligible individuals"
+      },
+      {
+        "name": "Morris County Bar Association Lawyer Referral",
+        "address": "10 Court Street",
+        "city": "Morristown",
+        "phone": "(973) 267-6444"
+      }
+    ],
+    "selfHelp": {
+      "name": "Morris County Law Library",
+      "location": "56 Washington Street",
+      "city": "Morristown",
+      "hours": "Monday-Friday 9:00 AM - 4:00 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinics": [
+      {
+        "name": "Morris County Expungement Clinics",
+        "schedule": "Scheduled periodically through legal aid organizations",
+        "services": "Free legal assistance with expungement paperwork",
+        "contact": "(973) 285-6200"
+      }
+    ],
+    "reentryPrograms": [
+      {
+        "name": "Morris County Reentry Services",
+        "address": "56 Washington Street",
+        "city": "Morristown",
+        "phone": "(973) 656-4300",
+        "services": "Comprehensive reentry services including expungement assistance"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtWebsite": "https://www.njcourts.gov",
+    "statePoliceRecords": "https://www.njsp.org",
+    "caseSearch": "https://www.njcourts.gov/attorneys/case-management",
+    "selfHelp": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "notes": [
+    "Morris County is an affluent suburban county",
+    "Morristown is the county seat",
+    "Standard $75 filing fee applies (fee waiver available)",
+    "Clean Slate automatic expungement is FREE"
+  ]
+}

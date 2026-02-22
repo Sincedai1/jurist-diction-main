@@ -1,0 +1,102 @@
+{
+  "name": "Indiana County",
+  "countySeat": "Indiana",
+  "population": "84,610",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Indiana County Magisterial District Courts",
+      "address": "827 Water Street, Indiana, PA 15701",
+      "phone": "(724) 465-3810",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.indianacounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Indiana County",
+      "address": "827 Water Street, Indiana, PA 15701",
+      "phone": "(724) 465-3810",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Indiana County District Attorney's Office",
+    "address": "827 Water Street, Indiana, PA 15701",
+    "phone": "(724) 465-3820",
+    "trafficDivisionContact": "(724) 465-3820"
+  },
+  "publicDefender": {
+    "office": "Indiana County Public Defender",
+    "address": "827 Water Street, Indiana, PA 15701",
+    "phone": "(724) 465-3830",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Indiana County Clerk of Courts",
+    "address": "827 Water Street, Indiana, PA 15701",
+    "phone": "(724) 465-3810",
+    "website": "https://www.indianacounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Indiana County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Indiana Police Department",
+      "address": "45 South 6th Street, Indiana, PA 15701",
+      "phone": "(724) 349-2121",
+      "recordsRequest": "(724) 349-2121"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Indiana Station",
+      "address": "1001 Indiana Springs Road, Indiana, PA 15701",
+      "phone": "(724) 357-1960"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Indiana County",
+    "speedCameras": "Not currently used in Indiana County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse", "Public parking lots"],
+      "cost": "Free to $5 for court appearance",
+      "note": "Parking generally available"
+    },
+    "publicTransit": {
+      "service": "Indiana County Transit Authority (ICTA)",
+      "routes": "Bus service throughout county",
+      "website": "https://www.indianacountytransit.com"
+    }
+  }
+}

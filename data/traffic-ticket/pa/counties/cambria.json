@@ -1,0 +1,102 @@
+{
+  "name": "Cambria County",
+  "countySeat": "Ebensburg",
+  "population": "133,472",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Cambria County Magisterial District Courts",
+      "address": "200 South Center Street, Ebensburg, PA 15931",
+      "phone": "(814) 472-1400",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.cambriacountypa.gov",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Cambria County",
+      "address": "200 South Center Street, Ebensburg, PA 15931",
+      "phone": "(814) 472-1400",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Cambria County District Attorney's Office",
+    "address": "200 South Center Street, Ebensburg, PA 15931",
+    "phone": "(814) 472-1480",
+    "trafficDivisionContact": "(814) 472-1480"
+  },
+  "publicDefender": {
+    "office": "Cambria County Public Defender",
+    "address": "200 South Center Street, Ebensburg, PA 15931",
+    "phone": "(814) 472-1490",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Cambria County Clerk of Courts",
+    "address": "200 South Center Street, Ebensburg, PA 15931",
+    "phone": "(814) 472-1400",
+    "website": "https://www.cambriacountypa.gov"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Cambria County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Ebensburg Police Department",
+      "address": "100 West High Street, Ebensburg, PA 15931",
+      "phone": "(814) 472-8200",
+      "recordsRequest": "(814) 472-8200"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Ebensburg Station",
+      "address": "279 Municipal Road, Ebensburg, PA 15931",
+      "phone": "(814) 472-8200"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Cambria County",
+    "speedCameras": "Not currently used in Cambria County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Cambria County Transit Authority (CamTran)",
+      "routes": "Bus service in Johnstown area",
+      "website": "https://www.camtranbus.com"
+    }
+  }
+}

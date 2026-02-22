@@ -1,0 +1,40 @@
+{
+  "county": "Columbia",
+  "countySeat": "Bloomsburg",
+  "judicialDistrict": "26th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Columbia County",
+      "address": "35 West Main Street",
+      "city": "Bloomsburg",
+      "state": "PA",
+      "zip": "17815",
+      "phone": "(570) 389-5600"
+    }
+  },
+  "clerkInformation": {
+    "name": "Columbia County Clerk of Courts",
+    "address": "35 West Main Street",
+    "city": "Bloomsburg",
+    "state": "PA",
+    "zip": "17815",
+    "phone": "(570) 389-5600",
+    "website": "https://www.columbiapa.org"
+  },
+  "districtAttorney": {
+    "office": "Columbia County District Attorney's Office",
+    "phone": "(570) 389-5620"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Columbia County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Columbia County follows Pennsylvania Clean Slate Act"
+  ]
+}

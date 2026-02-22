@@ -1,0 +1,102 @@
+{
+  "name": "Columbia County",
+  "countySeat": "Bloomsburg",
+  "population": "64,285",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Columbia County Magisterial District Courts",
+      "address": "35 West Main Street, Bloomsburg, PA 17815",
+      "phone": "(570) 389-5600",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.columbiapa.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Columbia County",
+      "address": "35 West Main Street, Bloomsburg, PA 17815",
+      "phone": "(570) 389-5600",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Columbia County District Attorney's Office",
+    "address": "35 West Main Street, Bloomsburg, PA 17815",
+    "phone": "(570) 389-5620",
+    "trafficDivisionContact": "(570) 389-5620"
+  },
+  "publicDefender": {
+    "office": "Columbia County Public Defender",
+    "address": "35 West Main Street, Bloomsburg, PA 17815",
+    "phone": "(570) 389-5630",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Columbia County Clerk of Courts",
+    "address": "35 West Main Street, Bloomsburg, PA 17815",
+    "phone": "(570) 389-5600",
+    "website": "https://www.columbiapa.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Columbia County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Bloomsburg Police Department",
+      "address": "19 East Main Street, Bloomsburg, PA 17815",
+      "phone": "(570) 784-6779",
+      "recordsRequest": "(570) 784-6779"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Bloomsburg Station",
+      "address": "40 Creek Road, Bloomsburg, PA 17815",
+      "phone": "(570) 387-4300"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Columbia County",
+    "speedCameras": "Not currently used in Columbia County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Columbia County Transportation",
+      "routes": "Shared ride service",
+      "website": "https://www.columbiacountytransit.com"
+    }
+  }
+}

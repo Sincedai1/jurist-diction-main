@@ -1,0 +1,106 @@
+{
+  "name": "Salem County",
+  "countySeat": "Salem",
+  "population": "64,837",
+  "courts": {
+    "municipal": {
+      "name": "Salem Municipal Court (and other municipal courts)",
+      "address": "17 Market St, Salem, NJ 08079",
+      "phone": "(856) 935-0307",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.salemcitynj.com/municipal-court",
+      "note": "15 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Salem County Superior Court",
+      "address": "92 Market St, Salem, NJ 08079",
+      "phone": "(856) 935-3800",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Salem County Prosecutor's Office",
+    "address": "92 Market St, Salem, NJ 08079",
+    "phone": "(856) 935-3800",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Salem County Public Defender's Office",
+    "address": "92 Market St, Salem, NJ 08079",
+    "phone": "(856) 935-3800",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Salem County Clerk",
+    "address": "110 Fifth St, Salem, NJ 08079",
+    "phone": "(856) 935-7510",
+    "website": "https://www.salemcountyclerk.org/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Salem City Police Department",
+      "address": "17 Market St, Salem, NJ 08079",
+      "phone": "(856) 935-0101"
+    },
+    "countyPolice": {
+      "name": "Salem County Sheriff's Office",
+      "address": "92 Market St, Salem, NJ 08079",
+      "phone": "(856) 935-7510"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop A",
+      "phone": "(609) 861-2400"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses",
+    "ruralAreas": "Extra caution on rural roads"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street parking",
+      "cost": "$3-5"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Limited bus service",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

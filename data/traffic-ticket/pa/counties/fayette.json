@@ -1,0 +1,102 @@
+{
+  "name": "Fayette County",
+  "countySeat": "Uniontown",
+  "population": "128,804",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Fayette County Magisterial District Courts",
+      "address": "61 East Main Street, Uniontown, PA 15401",
+      "phone": "(724) 430-1200",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.co.fayette.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Fayette County",
+      "address": "61 East Main Street, Uniontown, PA 15401",
+      "phone": "(724) 430-1200",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Fayette County District Attorney's Office",
+    "address": "61 East Main Street, Uniontown, PA 15401",
+    "phone": "(724) 430-1220",
+    "trafficDivisionContact": "(724) 430-1220"
+  },
+  "publicDefender": {
+    "office": "Fayette County Public Defender",
+    "address": "61 East Main Street, Uniontown, PA 15401",
+    "phone": "(724) 430-1230",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Fayette County Clerk of Courts",
+    "address": "61 East Main Street, Uniontown, PA 15401",
+    "phone": "(724) 430-1200",
+    "website": "https://www.co.fayette.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Fayette County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Uniontown Police Department",
+      "address": "20 North Gallatin Avenue, Uniontown, PA 15401",
+      "phone": "(724) 439-2331",
+      "recordsRequest": "(724) 439-2331"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Uniontown Station",
+      "address": "3040 McClellandtown Road, Uniontown, PA 15401",
+      "phone": "(724) 439-7111"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Fayette County",
+    "speedCameras": "Not currently used in Fayette County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Fayette Area Coordinated Transportation (FACT)",
+      "routes": "Bus service throughout county",
+      "website": "https://www.factbus.com"
+    }
+  }
+}

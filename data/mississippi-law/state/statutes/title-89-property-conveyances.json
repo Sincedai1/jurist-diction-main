@@ -1,0 +1,317 @@
+{
+  "jurisdiction": "Mississippi",
+  "jurisdictionType": "state",
+  "title": "89",
+  "name": "Property and Conveyances",
+  "description": "Mississippi Property Code - Real property, landlord-tenant, and conveyances",
+  "chapters": [
+    {
+      "chapterNumber": "1",
+      "chapterName": "General Provisions",
+      "sections": [
+        {
+          "citation": "§ 89-1-1",
+          "text": "Estates in land defined. Estates in land are: (a) Estates in fee simple; (b) Estates for life; (c) Estates for years; (d) Estates at will; (e) Estates at sufferance. Estates may be held in severalty, in joint tenancy, in common, or in community.",
+          "summary": "Estates in land: Fee simple, life estates, estates for years, at will, at sufferance. May be held in severalty, joint tenancy, tenancy in common, or community",
+          "keywords": ["estates", "fee simple", "life estate", "joint tenancy", "tenancy in common"],
+          "amendments": [],
+          "relatedSections": ["§ 89-1-3", "§ 89-1-5"]
+        },
+        {
+          "citation": "§ 89-1-5",
+          "text": "Conveyances; requirements. No estate of freehold or for a term of more than one year may be created, granted, assigned, or surrendered unless by deed or will. All conveyances of real property must be in writing, signed by the grantor, and acknowledged or proved.",
+          "summary": "Conveyances: Freehold estates and terms over 1 year require deed or will. Must be in writing, signed by grantor, and acknowledged or proved",
+          "keywords": ["conveyance", "deed", "writing requirement", "acknowledgment"],
+          "amendments": [],
+          "relatedSections": ["§ 89-1-1", "§ 89-5-1"]
+        },
+        {
+          "citation": "§ 89-1-7",
+          "text": "Statute of limitations for real property actions. Actions for recovery of real property must be brought within: (a) Ten (10) years if the plaintiff was seized of the estate; (b) Seven (7) years if under color of title; (c) Three (3) years for rent or damages.",
+          "summary": "Real property statute of limitations: Recovery of property - 10 years (seized of estate), 7 years (color of title). Rent/damages - 3 years",
+          "keywords": ["statute of limitations", "real property", "recovery", "color of title"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-1-1", "§ 89-1-5"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "3",
+      "chapterName": "Landlord and Tenant - Residential",
+      "sections": [
+        {
+          "citation": "§ 89-8-1",
+          "text": "Short title. This chapter may be cited as the Mississippi Residential Landlord and Tenant Act.",
+          "summary": "This is the Mississippi Residential Landlord and Tenant Act governing residential rental properties",
+          "keywords": ["landlord-tenant", "residential", "Mississippi"],
+          "amendments": [],
+          "relatedSections": ["§ 89-8-3", "§ 89-8-5"]
+        },
+        {
+          "citation": "§ 89-8-3",
+          "text": "Definitions. As used in this chapter: (a) 'Landlord' means the owner, lessor, or sublessor of the dwelling unit. (b) 'Tenant' means a person entitled under a rental agreement to occupy a dwelling unit. (c) 'Dwelling unit' means a structure or part of a structure used as a home, residence, or sleeping place. (d) 'Rental agreement' means all agreements embodying terms and conditions concerning the use and occupancy of a dwelling unit.",
+          "summary": "Definitions: Landlord = owner/lessor. Tenant = person entitled to occupy. Dwelling unit = home/residence. Rental agreement = terms of occupancy",
+          "keywords": ["definitions", "landlord", "tenant", "dwelling unit", "rental agreement"],
+          "amendments": [],
+          "relatedSections": ["§ 89-8-1", "§ 89-8-5"]
+        },
+        {
+          "citation": "§ 89-8-5",
+          "text": "Terms and conditions of rental agreement. (1) The landlord and tenant may include in the rental agreement terms and conditions not prohibited by law including: (a) Rent amount and due date; (b) Duration of tenancy; (c) Security deposit terms; (d) Pet policies; (e) Utility responsibilities. (2) No rental agreement may waive tenant rights under this chapter.",
+          "summary": "Rental agreement terms: May include rent, duration, security deposit, pets, utilities. Cannot waive tenant rights under this chapter",
+          "keywords": ["rental agreement", "terms", "security deposit", "pet policy", "tenant rights"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-8-3", "§ 89-8-7"]
+        },
+        {
+          "citation": "§ 89-8-7",
+          "text": "Security deposits; maximum; return. (1) A landlord may require a security deposit not to exceed one (1) month's rent. (2) The landlord shall return the security deposit within forty-five (45) days after termination of the tenancy. (3) The landlord may deduct from the deposit: (a) Unpaid rent; (b) Damages beyond normal wear and tear; (c) Unpaid utility charges. (4) The landlord shall provide an itemized list of deductions.",
+          "summary": "Security deposit: Maximum = 1 month rent. Must return within 45 days. Deductions allowed for unpaid rent, damages beyond wear and tear, unpaid utilities. Must itemize deductions",
+          "keywords": ["security deposit", "45 days", "itemized list", "wear and tear", "deductions"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-8-5", "§ 89-8-9"]
+        },
+        {
+          "citation": "§ 89-8-9",
+          "text": "Landlord's duty to maintain premises. The landlord shall: (a) Comply with applicable building and housing codes; (b) Make all repairs and do whatever is necessary to keep the premises in a fit and habitable condition; (c) Keep all common areas in a clean and safe condition; (d) Maintain electrical, plumbing, sanitary, heating, and air conditioning systems in good working order; (e) Provide and maintain trash receptacles.",
+          "summary": "Landlord duties: Comply with building codes, make repairs, keep common areas clean/safe, maintain electrical/plumbing/heating/AC, provide trash receptacles",
+          "keywords": ["landlord duties", "habitability", "repairs", "common areas", "building codes"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-8-7", "§ 89-8-11"]
+        },
+        {
+          "citation": "§ 89-8-11",
+          "text": "Tenant's duty to maintain premises. The tenant shall: (a) Comply with obligations of building and housing codes; (b) Keep the premises as clean and safe as the condition permits; (c) Dispose of trash in a clean and safe manner; (d) Keep plumbing fixtures clean and sanitary; (e) Use electrical, plumbing, and HVAC systems reasonably; (f) Not deliberately or negligently destroy, deface, or damage premises; (g) Not disturb neighbors' peaceful enjoyment.",
+          "summary": "Tenant duties: Comply with codes, keep premises clean/safe, dispose of trash, keep plumbing clean, use systems reasonably, no damage, no disturbance",
+          "keywords": ["tenant duties", "clean premises", "no damage", "quiet enjoyment", "proper use"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-8-9", "§ 89-8-13"]
+        },
+        {
+          "citation": "§ 89-8-13",
+          "text": "Landlord's right of access. (1) The landlord may enter the dwelling unit: (a) In case of emergency; (b) With tenant consent; (c) To make repairs, decorations, or improvements with 24 hours notice; (d) To show unit to prospective tenants or purchasers with 24 hours notice. (2) The landlord shall not abuse the right of access or harass the tenant.",
+          "summary": "Landlord access: Emergency, tenant consent, or 24 hours notice for repairs/showing. Cannot abuse access rights or harass tenant",
+          "keywords": ["landlord access", "24 hours notice", "emergency", "repairs", "showing unit"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-8-9", "§ 89-8-11"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "5",
+      "chapterName": "Eviction Procedures",
+      "sections": [
+        {
+          "citation": "§ 89-8-15",
+          "text": "Grounds for eviction. A landlord may terminate the rental agreement and evict the tenant for: (a) Nonpayment of rent; (b) Breach of rental agreement; (c) Damage to premises beyond normal wear and tear; (d) Disorderly conduct disturbing neighbors; (e) Illegal activity on premises; (f) Violation of pet policy; (g) Unauthorized occupants; (h) Expiration of lease term.",
+          "summary": "Eviction grounds: Nonpayment, breach of agreement, excessive damage, disorderly conduct, illegal activity, pet violations, unauthorized occupants, lease expiration",
+          "keywords": ["eviction grounds", "nonpayment", "breach", "illegal activity", "disorderly conduct"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-8-17", "§ 89-8-19"]
+        },
+        {
+          "citation": "§ 89-8-17",
+          "text": "Notice to quit; requirements. (1) For nonpayment of rent: 3 days' notice to pay or vacate. (2) For breach of lease: 30 days' notice to cure or vacate. (3) For illegal activity or disorderly conduct: 3 days' notice to vacate. (4) For expiration of lease term: Notice period equal to rental payment period. (5) All notices must be in writing and served on the tenant.",
+          "summary": "Notice to quit: Nonpayment = 3 days. Breach = 30 days to cure. Illegal activity = 3 days. Lease expiration = rental period notice. All notices must be written and served",
+          "keywords": ["notice to quit", "3 day notice", "30 day notice", "written notice", "service"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-8-15", "§ 89-8-19"]
+        },
+        {
+          "citation": "§ 89-8-19",
+          "text": "Unlawful detainer action; procedure. (1) If the tenant fails to vacate after notice, the landlord may file an unlawful detainer action in the county court. (2) The summons shall require the tenant to appear within five (5) days. (3) The tenant may file an answer within five (5) days of service. (4) Trial shall be held within ten (10) days of answer filing. (5) Judgment for possession shall be entered within five (5) days of trial.",
+          "summary": "Unlawful detainer: Filed in county court after notice expires. Tenant has 5 days to appear, 5 days to answer. Trial within 10 days. Judgment within 5 days",
+          "keywords": ["unlawful detainer", "eviction lawsuit", "county court", "5 days", "possession judgment"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 89-8-15", "§ 89-8-17", "§ 89-8-21"]
+        },
+        {
+          "citation": "§ 89-8-21",
+          "text": "Writ of possession; execution. (1) Upon judgment for the landlord, the court shall issue a writ of possession. (2) The writ shall be executed by the sheriff within forty-eight (48) hours of issuance. (3) The sheriff shall remove the tenant and deliver possession to the landlord. (4) The landlord shall not use self-help to remove tenant or property.",
+          "summary": "Writ of possession: Issued after judgment. Sheriff executes within 48 hours, removes tenant, delivers possession to landlord. Self-help eviction prohibited",
+          "keywords": ["writ of possession", "sheriff", "48 hours", "self-help prohibited", "removal"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-8-19", "§ 89-8-23"]
+        },
+        {
+          "citation": "§ 89-8-23",
+          "text": "Prohibited landlord actions. A landlord shall not: (a) Willfully diminish services to the tenant; (b) Interrupt or cause interruption of utilities; (c) Change locks without providing new keys; (d) Remove doors, windows, or locks; (e) Use or threaten force to make tenant leave; (f) Seize tenant property without legal process. Violations subject the landlord to actual damages, punitive damages, and attorney's fees.",
+          "summary": "Prohibited actions: Diminishing services, interrupting utilities, changing locks, removing doors/windows, using force, seizing property without process. Penalties: actual damages, punitive damages, attorney fees",
+          "keywords": ["prohibited actions", "self-help", "utilities", "lock change", "damages", "attorney fees"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-8-19", "§ 89-8-21"]
+        },
+        {
+          "citation": "§ 89-8-25",
+          "text": "Tenant's right to quiet enjoyment. The tenant has a right to exclusive possession and quiet enjoyment of the premises. The landlord may not interfere with this right except as provided in this chapter for access or emergencies.",
+          "summary": "Quiet enjoyment: Tenant has right to exclusive possession without landlord interference, except for lawful access and emergencies",
+          "keywords": ["quiet enjoyment", "exclusive possession", "interference", "tenant rights"],
+          "amendments": [],
+          "relatedSections": ["§ 89-8-9", "§ 89-8-11", "§ 89-8-13"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "7",
+      "chapterName": "Security Deposits",
+      "sections": [
+        {
+          "citation": "§ 89-8-27",
+          "text": "Security deposit; escrow requirements. (1) All security deposits shall be deposited in an escrow account in a financial institution doing business in Mississippi. (2) The landlord shall not commingle security deposits with personal funds. (3) The landlord shall provide the tenant with written notice of the escrow account location.",
+          "summary": "Security deposit escrow: Must be in Mississippi financial institution. Cannot commingle with personal funds. Must notify tenant of account location",
+          "keywords": ["security deposit", "escrow", "financial institution", "no commingling", "notice"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-8-7", "§ 89-8-29"]
+        },
+        {
+          "citation": "§ 89-8-29",
+          "text": "Failure to return security deposit; penalty. If the landlord wrongfully fails to return the security deposit within forty-five (45) days, the tenant may recover: (a) The full amount of the deposit; (b) A penalty of up to two hundred dollars ($200); (c) Court costs; (d) Reasonable attorney's fees. The landlord must prove by a preponderance of evidence that deductions were reasonable.",
+          "summary": "Failure to return deposit: Tenant may recover full deposit, $200 penalty, court costs, attorney fees. Landlord has burden to prove deductions were reasonable",
+          "keywords": ["security deposit", "penalty", "attorney fees", "burden of proof", "45 days"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-8-7", "§ 89-8-27"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "9",
+      "chapterName": "Habndlord's Remedies",
+      "sections": [
+        {
+          "citation": "§ 89-8-31",
+          "text": "Damages for breach by tenant. If the tenant breaches the rental agreement, the landlord may recover: (a) Unpaid rent; (b) Reasonable costs of re-renting including advertising; (c) Costs of cleaning and repairs beyond normal wear and tear; (d) The difference between rent due and rent collected from a new tenant for the lease term; (e) Court costs and attorney's fees.",
+          "summary": "Landlord damages for tenant breach: Unpaid rent, re-rental costs, cleaning/repairs, rent differential, court costs, attorney fees",
+          "keywords": ["damages", "breach", "unpaid rent", "re-rental costs", "attorney fees"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-8-15", "§ 89-8-17"]
+        },
+        {
+          "citation": "§ 89-8-33",
+          "text": "Landlord's duty to mitigate damages. Upon abandonment or early termination by the tenant, the landlord has a duty to make reasonable efforts to re-let the premises. The landlord may not recover damages that could have been avoided by reasonable mitigation efforts.",
+          "summary": "Mitigation: Landlord must make reasonable effort to re-let after abandonment/early termination. Cannot recover avoidable damages",
+          "keywords": ["mitigation", "re-let", "abandonment", "early termination", "reasonable efforts"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-8-31", "§ 89-8-15"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "11",
+      "chapterName": "Tenant's Remedies",
+      "sections": [
+        {
+          "citation": "§ 89-8-35",
+          "text": "Tenant's remedies for landlord's breach. If the landlord fails to comply with the rental agreement or duties under this chapter, the tenant may: (a) Recover actual damages; (b) Withhold rent after giving 30 days' written notice and opportunity to cure; (c) Terminate the rental agreement on 30 days' notice; (d) Recover attorney's fees and costs.",
+          "summary": "Tenant remedies for landlord breach: Actual damages, rent withholding after 30 days notice, termination on 30 days notice, attorney fees and costs",
+          "keywords": ["tenant remedies", "actual damages", "rent withholding", "termination", "attorney fees"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-8-9", "§ 89-8-11", "§ 89-8-37"]
+        },
+        {
+          "citation": "§ 89-8-37",
+          "text": "Repair and deduct remedy. If the landlord fails to make repairs required by law or the rental agreement within thirty (30) days after written notice, the tenant may: (a) Hire a contractor to make the repair; (b) Deduct the cost from rent; (c) The deduction may not exceed one (1) month's rent. This remedy may not be used more than once in any twelve (12) month period.",
+          "summary": "Repair and deduct: After 30 days notice of needed repair, tenant may hire contractor and deduct cost from rent. Deduction limited to 1 month rent. Once per 12 months",
+          "keywords": ["repair and deduct", "30 days notice", "one month rent", "contractor"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-8-9", "§ 89-8-35"]
+        },
+        {
+          "citation": "§ 89-8-39",
+          "text": "Constructive eviction. If the landlord's breach substantially deprives the tenant of the benefit of the rental agreement, the tenant may treat the rental agreement as terminated and vacate the premises. The tenant must vacate within a reasonable time after the breach or lose the right to claim constructive eviction.",
+          "summary": "Constructive eviction: If landlord breach substantially deprives tenant of benefit, tenant may terminate and vacate. Must vacate within reasonable time or lose right",
+          "keywords": ["constructive eviction", "substantial deprivation", "termination", "vacate"],
+          "amendments": [],
+          "relatedSections": ["§ 89-8-35", "§ 89-8-37"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "13",
+      "chapterName": "Mobile Home Landlord-Tenant",
+      "sections": [
+        {
+          "citation": "§ 89-8-41",
+          "text": "Application to mobile homes. The provisions of this chapter apply to mobile home spaces rented in mobile home parks. Additional requirements apply to mobile home tenancies including: (a) Written lease requirement for terms exceeding twelve (12) months; (b) Special notice requirements for park closures; (c) Tenant's right to sell mobile home in place.",
+          "summary": "Mobile home parks: Chapter applies to rental of mobile home spaces. Requires written lease for 12+ months. Special notice for park closures. Right to sell home in place",
+          "keywords": ["mobile home", "mobile home park", "written lease", "park closure", "sale in place"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-8-3", "§ 89-8-5"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "15",
+      "chapterName": "Fair Housing",
+      "sections": [
+        {
+          "citation": "§ 89-8-43",
+          "text": "Discrimination prohibited. It shall be unlawful to discriminate in any aspect of residential real estate transactions based on: (a) Race; (b) Color; (c) Religion; (d) Sex; (e) National origin; (f) Familial status; (g) Disability. This prohibition applies to sale, rental, and financing of dwellings.",
+          "summary": "Fair housing: Discrimination prohibited based on race, color, religion, sex, national origin, familial status, or disability in sale, rental, and financing",
+          "keywords": ["fair housing", "discrimination", "protected classes", "race", "disability", "familial status"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-8-1", "§ 89-8-3"]
+        },
+        {
+          "citation": "§ 89-8-45",
+          "text": "Discriminatory practices defined. Discriminatory practices include: (a) Refusing to sell or rent after a bona fide offer; (b) Discriminating in terms, conditions, or services; (c) Making, printing, or publishing discriminatory advertisements; (d) Falsely denying availability; (e) Blockbusting; (f) Steering; (g) Discriminatory lending practices.",
+          "summary": "Discriminatory practices: Refusing to sell/rent, discriminatory terms, discriminatory ads, false denial of availability, blockbusting, steering, discriminatory lending",
+          "keywords": ["discriminatory practices", "refusal", "advertising", "blockbusting", "steering", "lending"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-8-43", "§ 89-8-47"]
+        },
+        {
+          "citation": "§ 89-8-47",
+          "text": "Exemptions. The fair housing provisions do not apply to: (a) Sale or rental of single-family homes sold or rented by owner without a broker, if owner owns three or fewer homes; (b) Dwelling units in buildings with four or fewer units where owner resides; (c) Religious organizations limiting occupancy to members; (d) Private clubs; (e) Housing for older persons.",
+          "summary": "Fair housing exemptions: Owner-occupied single family (3 or fewer), owner-occupied 4-unit buildings, religious organizations, private clubs, senior housing",
+          "keywords": ["exemptions", "owner-occupied", "religious organization", "senior housing", "private club"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-8-43", "§ 89-8-45"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "17",
+      "chapterName": "Deeds and Conveyances",
+      "sections": [
+        {
+          "citation": "§ 89-5-1",
+          "text": "Deed requirements. A valid deed shall contain: (a) Name of grantor and grantee; (b) Consideration; (c) Legal description of the property; (d) Words of conveyance; (e) Signature of grantor; (f) Acknowledgment before a notary public or other authorized officer.",
+          "summary": "Deed requirements: Grantor/grantee names, consideration, legal description, words of conveyance, grantor signature, notary acknowledgment",
+          "keywords": ["deed", "grantor", "grantee", "legal description", "consideration", "notary"],
+          "amendments": [],
+          "relatedSections": ["§ 89-5-3", "§ 89-5-5"]
+        },
+        {
+          "citation": "§ 89-5-3",
+          "text": "Types of deeds. (1) Warranty deed: Grantor covenants with grantee that grantor has good title and will defend against all claims. (2) Special warranty deed: Grantor covenants only against claims arising during grantor's ownership. (3) Quitclaim deed: Grantor conveys whatever interest grantor has without warranties.",
+          "summary": "Deed types: Warranty deed (full covenants), special warranty deed (covenants only during grantor's ownership), quitclaim deed (no warranties)",
+          "keywords": ["warranty deed", "special warranty", "quitclaim", "covenants", "title"],
+          "amendments": [],
+          "relatedSections": ["§ 89-5-1", "§ 89-5-5"]
+        },
+        {
+          "citation": "§ 89-5-5",
+          "text": "Recording of deeds. (1) All deeds and conveyances of real property shall be recorded in the office of the chancery clerk of the county where the property is located. (2) Recording is constructive notice to all persons. (3) Unrecorded deeds are valid between parties but void against subsequent purchasers for value without notice.",
+          "summary": "Recording: Deeds recorded in chancery clerk's office of county where property located. Recording = constructive notice. Unrecorded deeds valid between parties but void against good faith purchasers",
+          "keywords": ["recording", "chancery clerk", "constructive notice", "bona fide purchaser"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 89-5-1", "§ 89-5-3", "§ 89-5-7"]
+        },
+        {
+          "citation": "§ 89-5-7",
+          "text": "Chain of title; examination. (1) A chain of title search shall be conducted before conveyance to verify ownership and encumbrances. (2) Title insurance is available to protect against defects in title. (3) A title examination typically covers a period of at least forty (40) years.",
+          "summary": "Title examination: Chain of title search before conveyance. Title insurance available. Search period typically 40+ years",
+          "keywords": ["chain of title", "title examination", "title insurance", "encumbrances"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 89-5-1", "§ 89-5-3", "§ 89-5-5"]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "Mississippi Code of 1972",
+    "url": "http://www.legislature.ms.gov/",
+    "notes": "Complete property and landlord-tenant code covering residential tenancies, eviction procedures, security deposits, remedies, and conveyances."
+  }
+}

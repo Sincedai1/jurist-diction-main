@@ -1,0 +1,286 @@
+{
+  "title": "Tennessee Traffic Code Statutes (TCA Title 55)",
+  "description": "Key Tennessee Code Annotated traffic statutes for defense packet generation",
+  "disclaimer": "This is informational only and not legal advice. Statutes may have been amended. Always verify current law.",
+  "lastUpdated": "2026-02-20",
+  "statutes": {
+    "speeding": {
+      "code": "TCA 55-8-152",
+      "title": "Speed limitations",
+      "description": "Establishes speed limits on Tennessee highways and roads",
+      "defensePoints": [
+        "Calibration of speed measurement device",
+        "Officer training and certification",
+        "Road conditions at time of violation",
+        "Signage visibility and placement",
+        "Speed limit posting requirements"
+      ],
+      "relatedStatutes": [
+        "TCA 55-8-153 (Prima facie evidence)",
+        "TCA 55-8-154 (Decreased speed)",
+        "TCA 55-8-155 (Minimum speed)"
+      ],
+      "points": {
+        "1-15_over": 1,
+        "16-25_over": 3,
+        "26-35_over": 4,
+        "36+_over": 5
+      },
+      "typicalFine": "50-200+ depending on speed and location"
+    },
+    "recklessDriving": {
+      "code": "TCA 55-10-205",
+      "title": "Reckless driving",
+      "description": "Operating a vehicle with willful disregard for safety",
+      "defensePoints": [
+        "Lack of willful or wanton conduct",
+        "Emergency circumstances",
+        "Road conditions necessitating actions",
+        "Witness testimony to actual driving",
+        "Definition of 'willful disregard'"
+      ],
+      "classification": "Class B Misdemeanor",
+      "penalties": {
+        "maxJail": "6 months",
+        "maxFine": "$500",
+        "licenseSuspension": "Possible"
+      },
+      "points": 6,
+      "typicalFine": "100-500"
+    },
+    "suspendedLicense": {
+      "code": "TCA 55-50-504",
+      "title": "Driving while license suspended, revoked, or cancelled",
+      "description": "Operating a vehicle with a suspended, revoked, or cancelled license",
+      "defensePoints": [
+        "Knowledge of suspension (or lack thereof)",
+        "Administrative error",
+        "Proper notice not received",
+        "Compliance with reinstatement requirements",
+        "Emergency circumstances"
+      ],
+      "classification": {
+        "first_offense": "Class C Misdemeanor",
+        "second_offense": "Class B Misdemeanor"
+      },
+      "penalties": {
+        "first_offense": {
+          "maxJail": "30 days",
+          "maxFine": "$50"
+        },
+        "second_offense": {
+          "maxJail": "6 months",
+          "maxFine": "$500"
+        }
+      },
+      "points": 0,
+      "typicalFine": "50-500",
+      "relatedStatutes": [
+        "TCA 55-50-501 (Grounds for suspension)",
+        "TCA 55-50-502 (Revocation)",
+        "TCA 55-50-507 (Reinstatement)"
+      ]
+    },
+    "noInsurance": {
+      "code": "TCA 55-12-139",
+      "title": "Failure to maintain financial responsibility",
+      "description": "Operating a vehicle without required liability insurance",
+      "defensePoints": [
+        "Proof of coverage at time of stop",
+        "Insurance lapse was brief and unintentional",
+        "Vehicle was not being operated",
+        "Rental vehicle coverage",
+        "Administrative error by insurance company"
+      ],
+      "classification": "Class C Misdemeanor",
+      "penalties": {
+        "maxFine": "$100 (first offense)",
+        "licenseSuspension": "Possible if proof not provided"
+      },
+      "points": 0,
+      "typicalFine": "100-300",
+      "requirements": {
+        "minimum_coverage": {
+          "bodily_injury_per_person": "$25,000",
+          "bodily_injury_per_accident": "$50,000",
+          "property_damage": "$15,000"
+        }
+      }
+    },
+    "improperLaneChange": {
+      "code": "TCA 55-8-129",
+      "title": "Lane changes",
+      "description": "Requirements for safe lane changes and passing",
+      "defensePoints": [
+        "Lane change was made safely",
+        "Signal was given as required",
+        "Visibility and road conditions",
+        "Necessity of maneuver",
+        "Witness testimony"
+      ],
+      "points": 3,
+      "typicalFine": "50-150"
+    },
+    "failureToYield": {
+      "code": "TCA 55-8-128",
+      "title": "Yielding right-of-way",
+      "description": "Requirements for yielding right-of-way in various situations",
+      "defensePoints": [
+        "Right-of-way was not actually required",
+        "Other driver was not in hazardous proximity",
+        "Emergency circumstances",
+        "Traffic signal confusion",
+        "Witness testimony"
+      ],
+      "points": {
+        "general": 3,
+        "to_emergency_vehicle": 4,
+        "resulting_in_accident": 4
+      },
+      "typicalFine": "50-200"
+    },
+    "followingTooClose": {
+      "code": "TCA 55-8-124",
+      "title": "Following too closely",
+      "description": "Requirements for maintaining safe following distance",
+      "defensePoints": [
+        "Distance was reasonable for conditions",
+        "Other vehicle made sudden stop",
+        "Weather and road conditions",
+        "Traffic flow considerations",
+        "No accident occurred"
+      ],
+      "points": 3,
+      "typicalFine": "50-150"
+    },
+    "failureToSignal": {
+      "code": "TCA 55-8-143",
+      "title": "Signals required",
+      "description": "Requirements for turn and stop signals",
+      "defensePoints": [
+        "Signal was given but not observed",
+        "Signal mechanism malfunction",
+        "Turn was not required in that location",
+        "Other drivers were aware of intentions",
+        "Mechanical failure documentation"
+      ],
+      "points": 2,
+      "typicalFine": "25-75"
+    },
+    "runningRedLight": {
+      "code": "TCA 55-8-110",
+      "title": "Traffic signals",
+      "description": "Requirements for obeying traffic signals",
+      "defensePoints": [
+        "Light was yellow when entering intersection",
+        "Signal timing malfunction",
+        "Emergency circumstances",
+        "Visibility issues (sun glare, etc.)",
+        "Camera calibration (if applicable)"
+      ],
+      "points": 4,
+      "typicalFine": "100-250"
+    },
+    "stopSign": {
+      "code": "TCA 55-8-149",
+      "title": "Stop signs and yield signs",
+      "description": "Requirements for stopping at stop signs",
+      "defensePoints": [
+        "Complete stop was made",
+        "Stop sign visibility",
+        "Sign not properly posted",
+        "Rolling stop sufficient for safety",
+        "Officer's view obstructed"
+      ],
+      "points": 4,
+      "typicalFine": "75-200"
+    },
+    "expiredRegistration": {
+      "code": "TCA 55-4-104",
+      "title": "Display of registration plates",
+      "description": "Requirements for current vehicle registration",
+      "defensePoints": [
+        "Registration was current (documentation error)",
+        "Mailed renewal not received",
+        "Brief expiration period",
+        "Newly purchased vehicle",
+        "Administrative delay"
+      ],
+      "points": 0,
+      "typicalFine": "25-100"
+    },
+    "equipmentViolation": {
+      "code": "Various",
+      "title": "Equipment violations",
+      "description": "Various equipment-related violations",
+      "subcategories": {
+        "headlights": {
+          "code": "TCA 55-9-401",
+          "points": 0,
+          "fine": "25-75"
+        },
+        "taillights": {
+          "code": "TCA 55-9-402",
+          "points": 0,
+          "fine": "25-75"
+        },
+        "brakeLights": {
+          "code": "TCA 55-9-403",
+          "points": 0,
+          "fine": "25-75"
+        },
+        "windshield": {
+          "code": "TCA 55-9-201",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "muffler": {
+          "code": "TCA 55-9-101",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "tint": {
+          "code": "TCA 55-9-101",
+          "points": 0,
+          "fine": "50-150"
+        }
+      },
+      "defensePoints": [
+        "Equipment was functioning at time of stop",
+        "Defect was unknown to driver",
+        "Immediate repair documentation",
+        "Manufacturer defect",
+        "Modification was legal at installation"
+      ]
+    }
+  },
+  "pointSystem": {
+    "description": "Tennessee Point System for Moving Violations",
+    "suspensionThresholds": {
+      "12_points_in_12_months": "Suspension notice issued",
+      "accumulation_process": "Points remain on record for 2 years from date of violation"
+    },
+    "consequences": {
+      "8-11_points": "Warning letter from DOS",
+      "12+_points": "Scheduled hearing for possible suspension"
+    }
+  },
+  "generalProcedures": {
+    "contestTimeline": "Generally must contest within 7-30 days depending on jurisdiction",
+    "courtOptions": [
+      "Pay the fine (admission of guilt)",
+      "Request court hearing",
+      "Request defensive driving course",
+      "Request diversion (if eligible)"
+    ],
+    "diversionEligibility": {
+      "general": "First-time offenders with minor violations may be eligible",
+      "requirements": [
+        "No prior traffic diversions in past 5 years",
+        "Violation must be eligible (not DUI, reckless driving)",
+        "Must complete traffic school",
+        "Must pay court costs"
+      ]
+    }
+  }
+}

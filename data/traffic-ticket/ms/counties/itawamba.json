@@ -1,0 +1,124 @@
+{
+  "name": "Itawamba County",
+  "countySeat": "Fulton",
+  "population": 23500,
+  "courts": {
+    "justice": {
+      "name": "Itawamba County Justice Court",
+      "address": "Fulton Courthouse, Fulton, MS",
+      "phone": "(662) 267-1000",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "note": "Handles traffic offenses and misdemeanors"
+    },
+    "municipal": {
+      "name": "Fulton Municipal Court",
+      "address": "Fulton City Hall, Fulton, MS",
+      "phone": "(662) 267-1100",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "note": "Handles city of Fulton traffic violations"
+    },
+    "county": {
+      "name": "Itawamba County Court",
+      "address": "Fulton Courthouse, Fulton, MS",
+      "phone": "(662) 267-1000",
+      "note": "Appeals and more serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Itawamba County District Attorney's Office",
+    "address": "Fulton Courthouse, Fulton, MS",
+    "phone": "(662) 267-1200",
+    "trafficDivisionContact": "(662) 267-1200"
+  },
+  "publicDefender": {
+    "office": "Itawamba County Public Defender",
+    "address": "Fulton Courthouse, Fulton, MS",
+    "phone": "(662) 267-1300",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Itawamba County Circuit Clerk",
+    "address": "Fulton Courthouse, Fulton, MS",
+    "phone": "(662) 267-1400"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear or pay by court date on citation",
+      "process": [
+        "Enter not guilty plea at court window or by mail",
+        "Trial date will be set",
+        "Present evidence at trial",
+        "Officer must appear for conviction"
+      ],
+      "paymentOptions": [
+        "In person",
+        "Mail"
+      ]
+    },
+    "courtDates": {
+      "scheduling": "Typically 4-8 weeks from plea",
+      "continuances": "Request through court clerk",
+      "noShow": "Failure to appear may result in bench warrant"
+    },
+    "diversionProgram": {
+      "available": true,
+      "eligibility": [
+        "First-time offenders",
+        "Minor violations only",
+        "Court approval required"
+      ],
+      "benefits": "Dismissal upon completion"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "May be offered to reduce or dismiss charges",
+      "providers": [
+        "MS DPS-approved defensive driving courses",
+        "Various online options"
+      ]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Fulton Police Department",
+      "address": "Fulton City Hall, Fulton, MS",
+      "phone": "(662) 267-2000",
+      "recordsRequest": "(662) 267-2010"
+    },
+    "countySheriff": {
+      "name": "Itawamba County Sheriff's Office",
+      "address": "Fulton Courthouse, Fulton, MS",
+      "phone": "(662) 267-2100"
+    },
+    "highwayPatrol": {
+      "name": "Mississippi Highway Patrol",
+      "address": "Contact local troop headquarters",
+      "phone": "(662) 267-2200"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts or tank tops",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "mandatoryAppearances": "Required for reckless driving, DUI, driving suspended"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Street parking around courthouse",
+        "Public parking lots"
+      ],
+      "cost": "Free-$5"
+    },
+    "publicTransit": {
+      "service": "Limited public transit",
+      "routes": "Check local transit authority",
+      "note": "Rural counties may have no public transit"
+    }
+  }
+}

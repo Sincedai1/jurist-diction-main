@@ -1,0 +1,102 @@
+{
+  "name": "Cumberland County",
+  "countySeat": "Carlisle",
+  "population": "259,469",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Cumberland County Magisterial District Courts",
+      "address": "1 Courthouse Square, Carlisle, PA 17013",
+      "phone": "(717) 240-6300",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.ccpa.net",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Cumberland County",
+      "address": "1 Courthouse Square, Carlisle, PA 17013",
+      "phone": "(717) 240-6300",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Cumberland County District Attorney's Office",
+    "address": "1 Courthouse Square, Carlisle, PA 17013",
+    "phone": "(717) 240-6320",
+    "trafficDivisionContact": "(717) 240-6320"
+  },
+  "publicDefender": {
+    "office": "Cumberland County Public Defender",
+    "address": "1 Courthouse Square, Carlisle, PA 17013",
+    "phone": "(717) 240-6330",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Cumberland County Clerk of Courts",
+    "address": "1 Courthouse Square, Carlisle, PA 17013",
+    "phone": "(717) 240-6300",
+    "website": "https://www.ccpa.net"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Cumberland County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Carlisle Police Department",
+      "address": "240 West Louther Street, Carlisle, PA 17013",
+      "phone": "(717) 243-2913",
+      "recordsRequest": "(717) 243-2913"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Carlisle Station",
+      "address": "2950 Newville Road, Carlisle, PA 17013",
+      "phone": "(717) 249-2121"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Cumberland County",
+    "speedCameras": "Not currently used in Cumberland County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse", "Public parking lots"],
+      "cost": "Free to $5 for court appearance",
+      "note": "Parking generally available"
+    },
+    "publicTransit": {
+      "service": "CAT (Capital Area Transit)",
+      "routes": "Bus service to Harrisburg area",
+      "website": "https://www.cattransit.org"
+    }
+  }
+}

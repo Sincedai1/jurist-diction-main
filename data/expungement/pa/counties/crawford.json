@@ -1,0 +1,40 @@
+{
+  "county": "Crawford",
+  "countySeat": "Meadville",
+  "judicialDistrict": "47th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Crawford County",
+      "address": "903 Diamond Park Square",
+      "city": "Meadville",
+      "state": "PA",
+      "zip": "16335",
+      "phone": "(814) 724-8500"
+    }
+  },
+  "clerkInformation": {
+    "name": "Crawford County Clerk of Courts",
+    "address": "903 Diamond Park Square",
+    "city": "Meadville",
+    "state": "PA",
+    "zip": "16335",
+    "phone": "(814) 724-8500",
+    "website": "https://www.crawfordcountypa.net"
+  },
+  "districtAttorney": {
+    "office": "Crawford County District Attorney's Office",
+    "phone": "(814) 724-8520"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Crawford County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Crawford County follows Pennsylvania Clean Slate Act"
+  ]
+}

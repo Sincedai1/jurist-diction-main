@@ -1,0 +1,210 @@
+{
+  "city": "Jackson",
+  "county": "Hinds",
+  "population": 149000,
+  "incorporated": 1822,
+  "governmentType": "Mayor-Council",
+  "municipalCode": {
+    "title1": {
+      "name": "General Provisions",
+      "sections": [
+        {"section": "1-1", "name": "Short title", "description": "This code shall be known as the Code of Ordinances, City of Jackson, Mississippi"},
+        {"section": "1-2", "name": "Definitions", "description": "General definitions applicable throughout the code"},
+        {"section": "1-3", "name": "General penalty", "description": "Violation of any provision not otherwise specified: fine up to $1,000 and/or 90 days imprisonment"}
+      ]
+    },
+    "title3": {
+      "name": "Administration",
+      "sections": [
+        {"section": "3-1", "name": "Mayor", "description": "Chief executive officer of the city, elected at-large for 4-year term"},
+        {"section": "3-2", "name": "City Council", "description": "Seven members elected from wards for 4-year terms"},
+        {"section": "3-3", "name": "City departments", "description": "Police, Fire, Public Works, Planning, Parks and Recreation, Health, Legal"}
+      ]
+    },
+    "title5": {
+      "name": "Business Licenses and Regulations",
+      "sections": [
+        {"section": "5-1", "name": "Business license required", "description": "No person shall conduct any business without first obtaining a license"},
+        {"section": "5-2", "name": "License fees", "description": "Fees vary by business type, from $50 to $5,000 annually"},
+        {"section": "5-3", "name": "Alcoholic beverages", "description": "Special permits required for sale of alcohol. Hours: 10 AM - 10 PM Sunday-Thursday, 10 AM - Midnight Friday-Saturday"},
+        {"section": "5-4", "name": "Food establishments", "description": "Health permits required. Inspections conducted quarterly"},
+        {"section": "5-5", "name": "Tobacco retailers", "description": "License required. No sales to persons under 21"},
+        {"section": "5-6", "name": "Pawnbrokers", "description": "Special license required. Daily reporting of transactions to police"}
+      ]
+    },
+    "title7": {
+      "name": "Traffic and Vehicles",
+      "sections": [
+        {"section": "7-1", "name": "Speed limits", "description": "School zones: 15 MPH. Residential: 25 MPH. Business districts: 30 MPH. Highways: as posted"},
+        {"section": "7-2", "name": "Parking regulations", "description": "Metered parking downtown: $0.50-$1.00/hour. Handicap violations: $150 fine. No overnight parking on residential streets without permit"},
+        {"section": "7-3", "name": "Towing", "description": "Unauthorized vehicles may be towed from private property. Maximum tow fee: $125"},
+        {"section": "7-4", "name": "Abandoned vehicles", "description": "Vehicles left on public streets over 72 hours may be impounded"},
+        {"section": "7-5", "name": "Traffic violations", "description": "Fines range from $25 to $500. Court appearance required for serious violations"}
+      ]
+    },
+    "title9": {
+      "name": "Public Peace and Safety",
+      "sections": [
+        {"section": "9-1", "name": "Disorderly conduct", "description": "Disturbing the peace, fighting, public intoxication. Fine: $100-$500, up to 90 days"},
+        {"section": "9-2", "name": "Noise ordinance", "description": "Residential: 55 decibels daytime, 45 nighttime. Commercial: 65 daytime, 55 nighttime. Violation: $100-$500"},
+        {"section": "9-3", "name": "Curfew", "description": "Minors under 17: 11 PM - 6 AM Sunday-Thursday, Midnight - 6 AM Friday-Saturday. Exceptions for work, school, emergency"},
+        {"section": "9-4", "name": "Public intoxication", "description": "Being intoxicated in public place. Fine: $50-$500, up to 30 days"},
+        {"section": "9-5", "name": "Open container", "description": "No open alcoholic beverage containers in public places or vehicles. Fine: $100-$500"},
+        {"section": "9-6", "name": "Loitering", "description": "Remaining in public place for unlawful purpose. Fine: $50-$200"}
+      ]
+    },
+    "title11": {
+      "name": "Public Health and Sanitation",
+      "sections": [
+        {"section": "11-1", "name": "Garbage collection", "description": "Mandatory weekly pickup. Containers must be at curb by 7 AM on collection day"},
+        {"section": "11-2", "name": "Illegal dumping", "description": "Fine: $500-$2,500. May include cleanup costs"},
+        {"section": "11-3", "name": "Rodent control", "description": "Property owners must maintain rat-free premises"},
+        {"section": "11-4", "name": "Weed control", "description": "Grass over 12 inches declared nuisance. City may cut and lien property"},
+        {"section": "11-5", "name": "Smoking restrictions", "description": "No smoking in public buildings, restaurants, workplaces within 25 feet of entrances"}
+      ]
+    },
+    "title13": {
+      "name": "Buildings and Construction",
+      "sections": [
+        {"section": "13-1", "name": "Building permits", "description": "Required for new construction, additions over $500, electrical, plumbing, HVAC work. Fees based on project value"},
+        {"section": "13-2", "name": "Inspections", "description": "Required for foundation, framing, electrical, plumbing, final occupancy"},
+        {"section": "13-3", "name": "Building codes", "description": "Adopts International Building Code with local amendments"},
+        {"section": "13-4", "name": "Unsafe structures", "description": "City may condemn and order demolition of dangerous buildings"},
+        {"section": "13-5", "name": "Contractor licensing", "description": "General contractors must be licensed by city. Bond required"}
+      ]
+    },
+    "title15": {
+      "name": "Zoning and Land Use",
+      "sections": [
+        {"section": "15-1", "name": "Zoning districts", "description": "R-1 (single family), R-2 (two family), R-3 (multi-family), C-1 (neighborhood commercial), C-2 (general commercial), I-1 (light industrial), I-2 (heavy industrial)"},
+        {"section": "15-2", "name": "Setback requirements", "description": "R-1: Front 25 feet, sides 8 feet, rear 20 feet. Varies by district"},
+        {"section": "15-3", "name": "Height restrictions", "description": "Residential: 35 feet. Commercial: varies by district, up to unlimited in downtown"},
+        {"section": "15-4", "name": "Signs", "description": "Permit required. Size limits by district. No billboards in residential areas"},
+        {"section": "15-5", "name": "Variances", "description": "Board of Adjustment may grant variances upon showing hardship"},
+        {"section": "15-6", "name": "Home occupations", "description": "Permitted with restrictions on employees, signage, traffic, noise"}
+      ]
+    },
+    "title17": {
+      "name": "Housing and Property Maintenance",
+      "sections": [
+        {"section": "17-1", "name": "Minimum housing standards", "description": "All dwellings must have adequate sanitation, heating, ventilation, electrical systems"},
+        {"section": "17-2", "name": "Rental registration", "description": "All rental properties must be registered annually. Inspection fee: $50 per unit"},
+        {"section": "17-3", "name": "Lead paint", "description": "Disclosure required for pre-1978 housing. Remediation required if hazard exists"},
+        {"section": "17-4", "name": "Vacant buildings", "description": "Registration required for vacant properties over 60 days. Fee: $250 annually"},
+        {"section": "17-5", "name": "Nuisance abatement", "description": "Code violations subject to fines, liens, and abatement by city"}
+      ]
+    },
+    "title19": {
+      "name": "Animals",
+      "sections": [
+        {"section": "19-1", "name": "Leash law", "description": "Dogs must be leashed when off owner's property. Violation: $50-$200"},
+        {"section": "19-2", "name": "Animal license", "description": "Dogs and cats must be licensed annually. Fee: $5 spayed/neutered, $25 intact"},
+        {"section": "19-3", "name": "Dangerous dogs", "description": "Special registration and containment requirements. Insurance required: $100,000"},
+        {"section": "19-4", "name": "Limit on animals", "description": "Maximum 4 dogs or cats per household without kennel license"},
+        {"section": "19-5", "name": "Cruelty to animals", "description": "Fine: $500-$2,500, up to 6 months imprisonment"}
+      ]
+    },
+    "title21": {
+      "name": "Parks and Recreation",
+      "sections": [
+        {"section": "21-1", "name": "Park hours", "description": "6 AM - 10 PM unless otherwise posted"},
+        {"section": "21-2", "name": "Prohibited activities", "description": "No alcohol, glass containers, motorized vehicles off roads, hunting, fireworks without permit"},
+        {"section": "21-3", "name": "Pavilion reservations", "description": "Available for private events. Fee: $50-$200 depending on size and amenities"}
+      ]
+    },
+    "title23": {
+      "name": "Utilities",
+      "sections": [
+        {"section": "23-1", "name": "Water and sewer", "description": "Municipal water and sewer service. Rates based on usage. Connection fees apply"},
+        {"section": "23-2", "name": "Stormwater", "description": "Stormwater utility fee: $3-$10/month based on impervious surface"},
+        {"section": "23-3", "name": "Solid waste", "description": "Weekly garbage and recycling collection. Fee included in utility bill"}
+      ]
+    },
+    "title25": {
+      "name": "Taxation",
+      "sections": [
+        {"section": "25-1", "name": "Ad valorem tax", "description": "Property tax rate set annually by City Council. Current rate: 38.64 mills for city services"},
+        {"section": "25-2", "name": "Sales tax", "description": "State sales tax 7%. Additional 1% restaurant tax for tourism promotion"},
+        {"section": "25-3", "name": "Hotel/motel tax", "description": "Additional 3% tax on hotel and motel stays"},
+        {"section": "25-4", "name": "Business personal property", "description": "Taxable at same rate as real property. Annual filing required"}
+      ]
+    }
+  },
+  "municipalCourt": {
+    "name": "Jackson Municipal Court",
+    "location": "325 South President Street, Jackson, MS 39205",
+    "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+    "judges": 3,
+    "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors occurring within city limits", "Preliminary hearings for felonies"],
+    "procedures": {
+      "arraignment": "Required for all violations",
+      "trial": "Bench trial (no jury in municipal court)",
+      "appealsTo": "County Court",
+      "paymentOptions": "Online, mail, or in person"
+    },
+    "fines": {
+      "speeding": "$75-$250",
+      "runningRedLight": "$125",
+      "noSeatBelt": "$25",
+      "disorderlyConduct": "$100-$500",
+      "publicIntoxication": "$50-$500",
+      "openContainer": "$100-$500"
+    },
+    "phone": "601-960-1880",
+    "website": "https://www.jacksonms.gov/city-clerk/municipal-court/"
+  },
+  "policeDepartment": {
+    "name": "Jackson Police Department",
+    "headquarters": "327 East Pascagoula Street, Jackson, MS 39205",
+    "phone": "601-960-1234",
+    "emergency": "911",
+    "nonEmergency": "601-960-1234",
+    "precincts": [
+      {"name": "North Precinct", "address": "555 West Woodrow Wilson Avenue", "phone": "601-960-1000"},
+      {"name": "South Precinct", "address": "2555 South Gallatin Street", "phone": "601-960-1100"},
+      {"name": "East Precinct", "address": "2926 East Mill Street", "phone": "601-960-1200"},
+      {"name": "West Precinct", "address": "2925 Mayes Street", "phone": "601-960-1300"}
+    ]
+  },
+  "fireDepartment": {
+    "name": "Jackson Fire Department",
+    "headquarters": "555 South President Street, Jackson, MS 39205",
+    "phone": "601-960-1400",
+    "emergency": "911",
+    "stations": 19,
+    "services": ["Fire suppression", "Emergency medical services", "Rescue", "Hazmat response"]
+  },
+  "planningAndZoning": {
+    "department": "Department of Planning and Development",
+    "address": "219 South President Street, Jackson, MS 39205",
+    "phone": "601-960-1168",
+    "services": ["Zoning verification", "Building permits", "Plan review", "Code enforcement"]
+  },
+  "contactInformation": {
+    "cityHall": {
+      "address": "219 South President Street, Jackson, MS 39205",
+      "phone": "601-960-1000",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM"
+    },
+    "cityClerk": {
+      "address": "219 South President Street, Jackson, MS 39205",
+      "phone": "601-960-1060",
+      "services": ["Public records requests", "Business licenses", "Boards and commissions"]
+    },
+    "mayor": {
+      "office": "Mayor's Office, City Hall",
+      "phone": "601-960-1075"
+    }
+  },
+  "websites": {
+    "city": "https://www.jacksonms.gov/",
+    "municipalCourt": "https://www.jacksonms.gov/city-clerk/municipal-court/",
+    "police": "https://www.jacksonms.gov/police-department/",
+    "fire": "https://www.jacksonms.gov/fire-department/"
+  },
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "City of Jackson, Mississippi",
+    "notes": "State capital and most populous city in Mississippi. Full-service municipal government with comprehensive code enforcement."
+  }
+}

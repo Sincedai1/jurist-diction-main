@@ -1,0 +1,50 @@
+{
+  "county": "Chester",
+  "countySeat": "West Chester",
+  "judicialDistrict": "15th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Chester County",
+      "address": "2 North High Street",
+      "city": "West Chester",
+      "state": "PA",
+      "zip": "19380",
+      "phone": "(610) 344-6400",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Chester County Clerk of Courts",
+    "address": "2 North High Street",
+    "city": "West Chester",
+    "state": "PA",
+    "zip": "19380",
+    "phone": "(610) 344-6400",
+    "website": "https://www.chesco.org"
+  },
+  "districtAttorney": {
+    "office": "Chester County District Attorney's Office",
+    "phone": "(610) 344-6800"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Chester County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Aid of Southeastern Pennsylvania",
+        "phone": "(610) 431-6300"
+      }
+    ]
+  },
+  "notes": [
+    "Chester County follows Pennsylvania Clean Slate Act"
+  ]
+}

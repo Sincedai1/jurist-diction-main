@@ -1,0 +1,48 @@
+{
+  "county": "Delaware",
+  "countySeat": "Media",
+  "judicialDistrict": "32nd Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Delaware County",
+      "address": "201 West Front Street",
+      "city": "Media",
+      "state": "PA",
+      "zip": "19063",
+      "phone": "(610) 891-4000"
+    }
+  },
+  "clerkInformation": {
+    "name": "Delaware County Clerk of Courts",
+    "address": "201 West Front Street",
+    "city": "Media",
+    "state": "PA",
+    "zip": "19063",
+    "phone": "(610) 891-4000",
+    "website": "https://www.delcopa.gov"
+  },
+  "districtAttorney": {
+    "office": "Delaware County District Attorney's Office",
+    "phone": "(610) 891-4100"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Delaware County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Aid of Southeastern Pennsylvania",
+        "phone": "(610) 566-5310"
+      }
+    ]
+  },
+  "notes": [
+    "Delaware County follows Pennsylvania Clean Slate Act"
+  ]
+}

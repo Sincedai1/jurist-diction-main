@@ -1,0 +1,134 @@
+{
+  "county": "Knox",
+  "countySeat": "Knoxville",
+  "judicialDistrict": "6th Judicial District",
+  "lastUpdated": "2026-02-20",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "criminalCourt": {
+      "name": "Knox County Criminal Court",
+      "address": "300 Main Street",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37902",
+      "phone": "(865) 215-2442",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "divisions": [
+        "Criminal Court Division I",
+        "Criminal Court Division II",
+        "Criminal Court Division III"
+      ]
+    },
+    "generalSessions": {
+      "name": "Knox County General Sessions Court",
+      "address": "300 Main Street",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37902",
+      "phone": "(865) 215-2462",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Knox County Circuit Court Clerk",
+    "address": "300 Main Street, Suite 115",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37902",
+    "phone": "(865) 215-2400",
+    "email": "circuitcourt@knoxcounty.org",
+    "expungementInfo": "https://www.knoxcounty.org/circuitcourt/"
+  },
+  "districtAttorney": {
+    "office": "Knox County District Attorney's Office",
+    "name": "District Attorney General",
+    "address": "300 Main Street, Suite 300",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37902",
+    "phone": "(865) 215-2401"
+  },
+  "fees": {
+    "filingFee": 0,
+    "administrativeFee": 15,
+    "certificationFee": 5,
+    "copyFee": 0.25,
+    "notes": "Knox County charges a $15 administrative processing fee for expungements. State fees were eliminated in 2024."
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at the Circuit Court Clerk's office, Room 115",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 4:00 PM",
+    "daNotification": "Clerk's office will forward copy to DA; petitioner may need to confirm service",
+    "hearingRequired": "Hearings typically not required for misdemeanors; felonies may require hearing",
+    "hearingLocation": "If hearing required, will be at Criminal Court",
+    "specialNotes": [
+      "Knox County has an efficient electronic filing system",
+      "Walk-in filings accepted",
+      "Recommend calling ahead for complex cases"
+    ]
+  },
+  "timeline": {
+    "processingTime": "30-45 days for uncontested expungements",
+    "daResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required"
+  },
+  "forms": {
+    "whereToObtain": "Available at Clerk's office or online",
+    "onlineForms": "https://www.knoxcounty.org/circuitcourt/forms.php",
+    "requiredForms": [
+      "Petition for Expungement",
+      "Order of Expungement"
+    ],
+    "additionalForms": [
+      "Affidavit of Indigency (if requesting fee waiver)",
+      "Certificate of Court Costs Paid"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Aid of East Tennessee",
+        "address": "502 South Gay Street",
+        "city": "Knoxville",
+        "phone": "(865) 637-0484",
+        "website": "https://www.laet.org"
+      },
+      {
+        "name": "Knoxville Bar Association Lawyer Referral",
+        "phone": "(865) 522-1010"
+      },
+      {
+        "name": "University of Tennessee Legal Clinic",
+        "address": "1505 W. Cumberland Avenue",
+        "city": "Knoxville",
+        "phone": "(865) 974-2331"
+      }
+    ],
+    "selfHelp": {
+      "name": "Knox County Law Library",
+      "location": "City County Building, 4th Floor",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "services": "Legal research, form samples, computer access"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinic": {
+      "schedule": "Second Tuesday of each month",
+      "time": "5:30 PM - 7:30 PM",
+      "location": "Lawson McGhee Library",
+      "services": "Free legal assistance with expungement paperwork"
+    },
+    "reentryProgram": {
+      "name": "Knox County Office of Community Corrections",
+      "address": "1151 Dorothy Kelly Place",
+      "city": "Knoxville",
+      "phone": "(865) 215-5300",
+      "services": "Reentry services including expungement assistance"
+    }
+  },
+  "notes": [
+    "Knox County has a relatively efficient expungement process",
+    "Clerk's office staff can answer procedural questions",
+    "Self-help resources available at the law library"
+  ]
+}

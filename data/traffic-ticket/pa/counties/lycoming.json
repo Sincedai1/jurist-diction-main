@@ -1,0 +1,102 @@
+{
+  "name": "Lycoming County",
+  "countySeat": "Williamsport",
+  "population": "113,921",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Lycoming County Magisterial District Courts",
+      "address": "48 West Third Street, Williamsport, PA 17701",
+      "phone": "(570) 327-2200",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.lycomingcounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Lycoming County",
+      "address": "48 West Third Street, Williamsport, PA 17701",
+      "phone": "(570) 327-2200",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Lycoming County District Attorney's Office",
+    "address": "48 West Third Street, Williamsport, PA 17701",
+    "phone": "(570) 327-2210",
+    "trafficDivisionContact": "(570) 327-2210"
+  },
+  "publicDefender": {
+    "office": "Lycoming County Public Defender",
+    "address": "48 West Third Street, Williamsport, PA 17701",
+    "phone": "(570) 327-2220",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Lycoming County Clerk of Courts",
+    "address": "48 West Third Street, Williamsport, PA 17701",
+    "phone": "(570) 327-2200",
+    "website": "https://www.lycomingcounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Lycoming County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Williamsport Bureau of Police",
+      "address": "245 West Third Street, Williamsport, PA 17701",
+      "phone": "(570) 327-7560",
+      "recordsRequest": "(570) 327-7560"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Montoursville Station",
+      "address": "85 North Academy Street, Montoursville, PA 17754",
+      "phone": "(570) 368-5700"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Lycoming County",
+    "speedCameras": "Not currently used in Lycoming County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse", "Public parking lots"],
+      "cost": "Free to $5 for court appearance",
+      "note": "Parking generally available"
+    },
+    "publicTransit": {
+      "service": "River Valley Transit",
+      "routes": "Bus service in Lycoming County",
+      "website": "https://www.rivervalleytransit.com"
+    }
+  }
+}

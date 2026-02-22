@@ -1,0 +1,102 @@
+{
+  "name": "Butler County",
+  "countySeat": "Butler",
+  "population": "188,981",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Butler County Magisterial District Courts",
+      "address": "124 West Diamond Street, Butler, PA 16001",
+      "phone": "(724) 284-5200",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.co.butler.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Butler County",
+      "address": "124 West Diamond Street, Butler, PA 16001",
+      "phone": "(724) 284-5200",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Butler County District Attorney's Office",
+    "address": "124 West Diamond Street, Butler, PA 16001",
+    "phone": "(724) 284-5220",
+    "trafficDivisionContact": "(724) 284-5220"
+  },
+  "publicDefender": {
+    "office": "Butler County Public Defender",
+    "address": "124 West Diamond Street, Butler, PA 16001",
+    "phone": "(724) 284-5240",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Butler County Clerk of Courts",
+    "address": "124 West Diamond Street, Butler, PA 16001",
+    "phone": "(724) 284-5200",
+    "website": "https://www.co.butler.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Butler County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Butler City Police Department",
+      "address": "124 West Diamond Street, Butler, PA 16001",
+      "phone": "(724) 287-2585",
+      "recordsRequest": "(724) 287-2585"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Butler Station",
+      "address": "1000 Ridge Avenue, Butler, PA 16001",
+      "phone": "(724) 284-8100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Butler County",
+    "speedCameras": "Not currently used in Butler County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse", "Public parking lots"],
+      "cost": "Free to $5 for court appearance",
+      "note": "Parking generally available"
+    },
+    "publicTransit": {
+      "service": "Butler Transit Authority",
+      "routes": "Bus service in Butler area",
+      "website": "https://www.butlertransit.com"
+    }
+  }
+}

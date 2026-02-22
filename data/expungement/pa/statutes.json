@@ -1,0 +1,388 @@
+{
+  "jurisdiction": "Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice. Consult a licensed attorney for legal guidance.",
+  "cleanSlate": {
+    "enabled": true,
+    "name": "Pennsylvania Clean Slate Law",
+    "statute": "18 Pa.C.S.  9122",
+    "yearEnacted": 2018,
+    "expansionYear": 2023,
+    "description": "Pennsylvania's Clean Slate law provides automatic sealing of certain criminal records without requiring individuals to file a petition. The 2023 expansion significantly broadened eligibility.",
+    "automaticSealing": {
+      "eligibleOffenses": [
+        "Non-conviction records (acquittals, dismissals)",
+        "Summary offenses after 5 years",
+        "Misdemeanor convictions after 10 years",
+        "Certain non-violent felony convictions (2023 expansion)"
+      ],
+      "processTime": "The automated system processes records on a rolling basis",
+      "checkStatus": "https://www.courts.phila.gov",
+      "note": "Automatic sealing occurs without any action required by the individual"
+    },
+    "automaticSealingCriteria": {
+      "noConvictions": "Immediately upon dismissal or acquittal",
+      "summaryOffenses": "5 years from conviction or final discharge",
+      "misdemeanors": "10 years from final discharge of sentence",
+      "nonViolentFelonies": "10 years from final discharge (2023 expansion)"
+    }
+  },
+  "primaryStatutes": [
+    {
+      "code": "18 Pa.C.S.  9122",
+      "title": "Expungement and Clean Slate Law",
+      "description": "Primary statute governing both petition-based expungement and automatic record sealing in Pennsylvania",
+      "sections": {
+        "a": {
+          "code": "18 Pa.C.S.  9122(a)",
+          "description": "General provisions for expungement",
+          "eligibility": [
+            "Individuals who have been acquitted",
+            "Cases that have been dismissed",
+            "Successful completion of ARD (Accelerated Rehabilitative Disposition)",
+            "Summary offenses after 5 years with no further convictions"
+          ]
+        },
+        "b1": {
+          "code": "18 Pa.C.S.  9122(b)(1)",
+          "description": "Clean Slate automatic sealing for non-convictions",
+          "eligibility": [
+            "Not guilty verdicts",
+            "Dismissed charges",
+            "Nolle prosequi (prosecutor drops charges)",
+            "Cases where charges were withdrawn"
+          ],
+          "timing": "Automatic - no waiting period for sealing"
+        },
+        "b2": {
+          "code": "18 Pa.C.S.  9122(b)(2)",
+          "description": "Clean Slate automatic sealing for summary convictions",
+          "eligibility": [
+            "Summary offense convictions",
+            "5-year waiting period completed",
+            "No subsequent arrests during waiting period"
+          ],
+          "timing": "5 years from final discharge"
+        },
+        "b3": {
+          "code": "18 Pa.C.S.  9122(b)(3)",
+          "description": "Clean Slate automatic sealing for misdemeanor convictions",
+          "eligibility": [
+            "Qualifying misdemeanor convictions",
+            "10-year waiting period completed",
+            "No subsequent arrests during waiting period",
+            "All court obligations satisfied"
+          ],
+          "timing": "10 years from final discharge"
+        },
+        "b3_1": {
+          "code": "18 Pa.C.S.  9122(b)(3.1)",
+          "description": "Clean Slate automatic sealing for certain felony convictions (2023 expansion)",
+          "eligibility": [
+            "Non-violent felony convictions",
+            "10-year waiting period completed",
+            "No subsequent arrests during waiting period",
+            "All court obligations satisfied"
+          ],
+          "exclusions": [
+            "Crimes requiring registration under Megan's Law",
+            "Crimes against children",
+            "Sexual offenses",
+            "Firearm-related offenses"
+          ],
+          "timing": "10 years from final discharge"
+        },
+        "c": {
+          "code": "18 Pa.C.S.  9122(c)",
+          "description": "Petition-based expungement for convictions",
+          "eligibility": [
+            "Summary offenses after 5 years",
+            "ARD completion",
+            "Underage drinking convictions under certain conditions",
+            "Victims of human trafficking (post-conviction relief)"
+          ],
+          "note": "Petition-based expungement is separate from Clean Slate automatic sealing"
+        }
+      }
+    },
+    {
+      "code": "18 Pa.C.S.  9122.1",
+      "title": "Limited Access Records",
+      "description": "Defines records that have been sealed but remain accessible to certain parties",
+      "accessibleTo": [
+        "Law enforcement agencies",
+        "Courts",
+        "Certain licensing agencies",
+        "Employers requiring FBI background checks",
+        "Child welfare agencies"
+      ]
+    }
+  ],
+  "waitingPeriods": {
+    "automaticSealing": {
+      "nonConviction": {
+        "period": "Immediate",
+        "description": "Automatic sealing upon acquittal, dismissal, or withdrawal of charges"
+      },
+      "summaryOffense": {
+        "period": "5 years",
+        "description": "Five years from conviction or final discharge, whichever is later",
+        "condition": "No subsequent arrests during the waiting period"
+      },
+      "misdemeanor": {
+        "period": "10 years",
+        "description": "Ten years from final discharge of sentence",
+        "condition": "No subsequent arrests during the waiting period"
+      },
+      "nonViolentFelony": {
+        "period": "10 years",
+        "description": "Ten years from final discharge of sentence (2023 expansion)",
+        "condition": "No subsequent arrests during the waiting period"
+      }
+    },
+    "petitionBased": {
+      "ardCompletion": {
+        "period": "Upon completion",
+        "description": "May petition for expungement upon successful ARD completion"
+      },
+      "underageDrinking": {
+        "period": "Upon turning 21",
+        "description": "May petition after turning 21 if conviction was for underage drinking",
+        "condition": "No other convictions during the period"
+      }
+    }
+  },
+  "ineligibleOffenses": {
+    "cleanSlateExclusions": [
+      "Murder or voluntary manslaughter",
+      "Rape, sexual assault, or involuntary deviate sexual intercourse",
+      "Aggravated assault with a deadly weapon",
+      "Kidnapping or false imprisonment",
+      "Robbery",
+      "Arson",
+      "Any offense requiring registration as a sex offender",
+      "Crimes against children",
+      "Domestic violence with a weapon",
+      "Firearms not to be carried without a license",
+      "DUI (ineligible for automatic sealing, may petition in limited circumstances)"
+    ],
+    "petitionExclusions": [
+      "Most misdemeanor and felony convictions require Clean Slate",
+      "Petition-based expungement limited to specific categories"
+    ]
+  },
+  "eligibleOffenses": {
+    "automaticSealing": {
+      "nonConvictions": {
+        "description": "All charges resulting in acquittal, dismissal, nolle prosequi, or withdrawal",
+        "examples": [
+          "Any charge dismissed before trial",
+          "Not guilty verdict",
+          "Charges withdrawn by prosecutor",
+          "Preliminary hearing discharge"
+        ]
+      },
+      "summaryOffenses": {
+        "description": "Summary offenses become automatically sealed after 5 years",
+        "examples": [
+          "Disorderly conduct",
+          "Public drunkenness",
+          "Retail theft (first offense, under $150)",
+          "Harassment",
+          "Criminal mischief (minor)"
+        ]
+      },
+      "misdemeanors": {
+        "description": "Qualifying misdemeanors sealed after 10 years",
+        "examples": [
+          "Simple assault (non-domestic, no weapon)",
+          "Theft by unlawful taking",
+          "Receiving stolen property",
+          "Bad checks",
+          "Fraud (non-violent)",
+          "Drug possession (simple possession)",
+          "Trespassing",
+          "Criminal mischief"
+        ]
+      },
+      "nonViolentFelonies": {
+        "description": "Certain non-violent felonies sealed after 10 years (2023 expansion)",
+        "examples": [
+          "Theft by unlawful taking (felony level)",
+          "Receiving stolen property (felony level)",
+          "Burglary (non-dwelling)",
+          "Certain fraud offenses",
+          "Drug possession (felony amount)"
+        ]
+      }
+    },
+    "petitionBased": {
+      "ardProgram": {
+        "description": "ARD completions may be petitioned for expungement",
+        "examples": [
+          "DUI ARD completion",
+          "Drug ARD completion",
+          "Summary ARD completion"
+        ]
+      },
+      "specialCategories": {
+        "description": "Special petition-based categories",
+        "examples": [
+          "Underage drinking (after age 21)",
+          "Human trafficking victim convictions",
+          "Identity theft victim convictions"
+        ]
+      }
+    }
+  },
+  "effects": {
+    "sealing": {
+      "description": "Clean Slate provides record SEALING, not complete expungement",
+      "does": [
+        "Removes record from public view",
+        "Removes from most employer background checks",
+        "Allows you to legally deny the conviction on most job applications",
+        "Removes from standard court records search",
+        "Removes from Pennsylvania State Police public records"
+      ],
+      "doesNot": [
+        "Remove records from law enforcement databases",
+        "Remove from FBI database",
+        "Remove from federal databases",
+        "Allow denial in certain regulated professions",
+        "Allow denial for jobs requiring FBI background checks",
+        "Remove records accessible to courts for sentencing"
+      ]
+    },
+    "expungement": {
+      "description": "Full expungement destroys the record completely",
+      "availability": "Limited to ARD completions, acquittals, and special categories"
+    }
+  },
+  "fees": {
+    "cleanSlate": {
+      "amount": 0,
+      "description": "Clean Slate automatic sealing is FREE - no filing or administrative fees"
+    },
+    "petitionExpungement": {
+      "filingFee": {
+        "range": "$0 - $150",
+        "description": "Filing fees vary by county",
+        "note": "Fees may be waived for indigent petitioners"
+      },
+      "administrativeFees": {
+        "range": "$0 - $50",
+        "description": "Additional administrative fees may apply"
+      }
+    }
+  },
+  "requiredForms": {
+    "petition": [
+      "Petition for Expungement (varies by county)",
+      "Order of Expungement",
+      "Certified copy of disposition",
+      "Pennsylvania State Police criminal record (if required)"
+    ],
+    "cleanSlate": {
+      "required": "None - automatic process",
+      "checkStatus": "Contact Pennsylvania State Police or court clerk"
+    }
+  },
+  "process": {
+    "cleanSlateAutomatic": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Automatic Processing",
+          "description": "The court system automatically identifies eligible records"
+        },
+        {
+          "step": 2,
+          "title": "Verification",
+          "description": "System verifies 5 or 10-year waiting period and no subsequent arrests"
+        },
+        {
+          "step": 3,
+          "title": "Sealing",
+          "description": "Records are sealed automatically without any action required"
+        },
+        {
+          "step": 4,
+          "title": "Confirmation",
+          "description": "Individual may verify sealing through PA State Police or court records"
+        }
+      ],
+      "note": "No petition or filing required for Clean Slate automatic sealing"
+    },
+    "petitionBased": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determine Eligibility",
+          "description": "Verify your case qualifies for petition-based expungement",
+          "requirements": [
+            "ARD completion certificate",
+            "Acquittal or dismissal documentation",
+            "Underage drinking - age verification"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Obtain Criminal Records",
+          "description": "Get a copy of your Pennsylvania criminal record",
+          "where": "Pennsylvania State Police Central Repository",
+          "website": "https://www.psp.pa.gov"
+        },
+        {
+          "step": 3,
+          "title": "Complete Petition Forms",
+          "description": "Fill out county-specific expungement petition forms",
+          "requirements": [
+            "Complete petition form",
+            "Attach required documentation",
+            "Include certified copies of disposition"
+          ]
+        },
+        {
+          "step": 4,
+          "title": "File with Court",
+          "description": "Submit petition to the Court of Common Pleas",
+          "requirements": [
+            "File in county where charged",
+            "Pay filing fee (or request waiver)",
+            "Get file-stamped copies"
+          ]
+        },
+        {
+          "step": 5,
+          "title": "Serve District Attorney",
+          "description": "Provide notice to the District Attorney",
+          "requirements": [
+            "DA has 30 days to object",
+            "Some counties handle this automatically"
+          ]
+        },
+        {
+          "step": 6,
+          "title": "Attend Hearing (if required)",
+          "description": "Some petitions require a hearing",
+          "note": "Uncontested petitions often granted without hearing"
+        },
+        {
+          "step": 7,
+          "title": "Obtain Order",
+          "description": "Receive certified copies of expungement order",
+          "nextSteps": "Court notifies relevant agencies"
+        }
+      ]
+    }
+  },
+  "cleanSlateHighlights": [
+    "Pennsylvania was the FIRST state to pass automatic Clean Slate legislation (2018)",
+    "Over 30 million records sealed in the first three years",
+    "2023 expansion made PA law one of the most comprehensive in the nation",
+    "No cost to individuals - completely free automatic process",
+    "Includes certain non-violent felonies (rare in other states)",
+    "Process is automatic - no lawyer or paperwork required"
+  ]
+}

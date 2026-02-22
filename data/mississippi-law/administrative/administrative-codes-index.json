@@ -1,0 +1,256 @@
+{
+  "jurisdiction": "Mississippi",
+  "jurisdictionType": "state",
+  "documentType": "administrative-codes-index",
+  "name": "Mississippi Administrative Code Index",
+  "description": "Complete index of Mississippi administrative regulations by agency",
+  "agencies": [
+    {
+      "agencyName": "Mississippi Department of Health",
+      "abbreviation": "MSDH",
+      "divisions": [
+        {
+          "division": "Public Health",
+          "regulations": [
+            {"title": "Food Service Sanitation", "code": "15-1", "description": "Regulations for restaurants, food trucks, and food service establishments"},
+            {"title": "On-Site Wastewater", "code": "15-2", "description": "Septic system permitting and regulations"},
+            {"title": "Public Water Systems", "code": "15-3", "description": "Drinking water quality standards and monitoring"},
+            {"title": "Child Care Facilities", "code": "15-4", "description": "Licensing and operation standards for daycares"},
+            {"title": "Hospital Licensure", "code": "15-5", "description": "Hospital certification and inspection requirements"},
+            {"title": "Nursing Facilities", "code": "15-6", "description": "Nursing home regulations"},
+            {"title": "Vital Records", "code": "15-7", "description": "Birth and death certificate procedures"}
+          ]
+        },
+        {
+          "division": "Environmental Health",
+          "regulations": [
+            {"title": "Lead Poisoning Prevention", "code": "15-8", "description": "Lead screening and abatement requirements"},
+            {"title": "Radiological Health", "code": "15-9", "description": "X-ray and radiation equipment regulations"},
+            {"title": "Tattoo and Body Piercing", "code": "15-10", "description": "Permitting and sanitation standards"}
+          ]
+        }
+      ],
+      "address": "570 East Woodrow Wilson Drive, Jackson, MS 39215",
+      "phone": "601-576-7400",
+      "website": "https://msdh.ms.gov/"
+    },
+    {
+      "agencyName": "Mississippi Department of Education",
+      "abbreviation": "MDE",
+      "divisions": [
+        {
+          "division": "K-12 Education",
+          "regulations": [
+            {"title": "Accreditation Standards", "code": "22-1", "description": "School district accreditation requirements"},
+            {"title": "Teacher Licensure", "code": "22-2", "description": "Educator certification requirements"},
+            {"title": "Special Education", "code": "22-3", "description": "IDEA implementation and services"},
+            {"title": "School Safety", "code": "22-4", "description": "Safety plans and emergency procedures"},
+            {"title": "Student Attendance", "code": "22-5", "description": "Compulsory attendance and truancy"},
+            {"title": "School Nutrition", "code": "22-6", "description": "Federal meal program requirements"}
+          ]
+        }
+      ],
+      "address": "359 North West Street, Jackson, MS 39205",
+      "phone": "601-359-3513",
+      "website": "https://mdek12.org/"
+    },
+    {
+      "agencyName": "Mississippi Department of Revenue",
+      "abbreviation": "DOR",
+      "divisions": [
+        {
+          "division": "Tax Administration",
+          "regulations": [
+            {"title": "Income Tax", "code": "35-1", "description": "Individual and corporate income tax rules"},
+            {"title": "Sales and Use Tax", "code": "35-2", "description": "Sales tax collection and remittance"},
+            {"title": "Property Tax", "code": "35-3", "description": "Ad valorem tax assessment procedures"},
+            {"title": "Motor Vehicle Titling", "code": "35-4", "description": "Vehicle title and registration"},
+            {"title": "Withholding Tax", "code": "35-5", "description": "Employer withholding requirements"},
+            {"title": "Tobacco Tax", "code": "35-6", "description": "Cigarette and tobacco product taxation"},
+            {"title": "Alcoholic Beverage Tax", "code": "35-7", "description": "Alcohol taxation and control"}
+          ]
+        }
+      ],
+      "address": "1577 Spring Ridge Road, Flowood, MS 39232",
+      "phone": "601-923-7000",
+      "website": "https://www.dor.ms.gov/"
+    },
+    {
+      "agencyName": "Mississippi Department of Transportation",
+      "abbreviation": "MDOT",
+      "divisions": [
+        {
+          "division": "Highway Safety",
+          "regulations": [
+            {"title": "Commercial Drivers", "code": "41-1", "description": "CDL requirements and testing"},
+            {"title": "Vehicle Size and Weight", "code": "41-2", "description": "Truck weight limits and permits"},
+            {"title": "Oversize/Overweight Permits", "code": "41-3", "description": "Special hauling permits"},
+            {"title": "Work Zone Safety", "code": "41-4", "description": "Construction zone traffic control"}
+          ]
+        },
+        {
+          "division": "Right of Way",
+          "regulations": [
+            {"title": "Outdoor Advertising", "code": "41-5", "description": "Billboard regulations along highways"},
+            {"title": "Utility Accommodation", "code": "41-6", "description": "Utility lines in highway right-of-way"},
+            {"title": "Encroachments", "code": "41-7", "description": "Permits for highway access"}
+          ]
+        }
+      ],
+      "address": "401 North West Street, Jackson, MS 39201",
+      "phone": "601-359-7000",
+      "website": "https://www.mdot.ms.gov/"
+    },
+    {
+      "agencyName": "Mississippi Department of Environmental Quality",
+      "abbreviation": "MDEQ",
+      "divisions": [
+        {
+          "division": "Water Quality",
+          "regulations": [
+            {"title": "NPDES Permits", "code": "45-1", "description": "Water discharge permitting"},
+            {"title": "Stormwater Management", "code": "45-2", "description": "Construction and industrial stormwater permits"},
+            {"title": "Wetlands", "code": "45-3", "description": "Wetland protection and mitigation"},
+            {"title": "Underground Storage Tanks", "code": "45-4", "description": "UST registration and monitoring"}
+          ]
+        },
+        {
+          "division": "Air Quality",
+          "regulations": [
+            {"title": "Air Emission Permits", "code": "45-5", "description": "Industrial air quality permits"},
+            {"title": "Open Burning", "code": "45-6", "description": "Restrictions on outdoor burning"},
+            {"title": "Vehicle Emissions", "code": "45-7", "description": "Vehicle inspection requirements (where applicable)"}
+          ]
+        },
+        {
+          "division": "Solid Waste",
+          "regulations": [
+            {"title": "Landfill Permits", "code": "45-8", "description": "Solid waste facility permitting"},
+            {"title": "Hazardous Waste", "code": "45-9", "description": "Hazardous waste management"},
+            {"title": "Asbestos", "code": "45-10", "description": "Asbestos abatement requirements"}
+          ]
+        }
+      ],
+      "address": "515 East Amite Street, Jackson, MS 39201",
+      "phone": "601-961-5171",
+      "website": "https://www.mdeq.ms.gov/"
+    },
+    {
+      "agencyName": "Mississippi Gaming Commission",
+      "abbreviation": "MGC",
+      "divisions": [
+        {
+          "division": "Gaming Regulation",
+          "regulations": [
+            {"title": "Casino Licensing", "code": "51-1", "description": "Gaming license requirements"},
+            {"title": "Table Games", "code": "51-2", "description": "Table game rules and procedures"},
+            {"title": "Slot Machines", "code": "51-3", "description": "Slot machine technical standards"},
+            {"title": "Sports Betting", "code": "51-4", "description": "Sports wagering regulations"},
+            {"title": "Employee Licensing", "code": "51-5", "description": "Gaming employee permits"},
+            {"title": "Internal Controls", "code": "51-6", "description": "Casino accounting and controls"}
+          ]
+        }
+      ],
+      "address": "620 North Street, Suite 200, Jackson, MS 39202",
+      "phone": "601-576-3800",
+      "website": "https://www.mgc.ms.gov/"
+    },
+    {
+      "agencyName": "Mississippi Department of Insurance",
+      "abbreviation": "MID",
+      "divisions": [
+        {
+          "division": "Insurance Regulation",
+          "regulations": [
+            {"title": "Auto Insurance", "code": "55-1", "description": "Automobile insurance requirements"},
+            {"title": "Homeowners Insurance", "code": "55-2", "description": "Residential property insurance"},
+            {"title": "Health Insurance", "code": "55-3", "description": "Individual and group health coverage"},
+            {"title": "Workers Compensation", "code": "55-4", "description": "Workers comp coverage requirements"},
+            {"title": "Agent Licensing", "code": "55-5", "description": "Insurance producer licensing"},
+            {"title": "Premium Rates", "code": "55-6", "description": "Rate filing requirements"}
+          ]
+        }
+      ],
+      "address": "1001 Sunrise Park, Suite 100, Ridgeland, MS 39157",
+      "phone": "601-359-3569",
+      "website": "https://www.mid.ms.gov/"
+    },
+    {
+      "agencyName": "Mississippi Board of Medical Licensure",
+      "abbreviation": "MSBML",
+      "divisions": [
+        {
+          "division": "Professional Licensing",
+          "regulations": [
+            {"title": "Physician Licensure", "code": "61-1", "description": "Medical doctor licensing requirements"},
+            {"title": "Physician Assistants", "code": "61-2", "description": "PA licensing and supervision"},
+            {"title": "Telemedicine", "code": "61-3", "description": "Telehealth practice standards"},
+            {"title": "Prescribing Practices", "code": "61-4", "description": "Controlled substance prescribing"},
+            {"title": "Disciplinary Actions", "code": "61-5", "description": "License revocation and suspension"}
+          ]
+        }
+      ],
+      "address": "1860 Chadwick Drive, Suite 100, Ridgeland, MS 39157",
+      "phone": "601-987-3079",
+      "website": "https://www.msbml.ms.gov/"
+    },
+    {
+      "agencyName": "Mississippi Bar",
+      "abbreviation": "MSBAR",
+      "divisions": [
+        {
+          "division": "Attorney Regulation",
+          "regulations": [
+            {"title": "Bar Admission", "code": "65-1", "description": "Bar exam and admission requirements"},
+            {"title": "Continuing Legal Education", "code": "65-2", "description": "CLE requirements for attorneys"},
+            {"title": "Professional Conduct", "code": "65-3", "description": "Rules of professional responsibility"},
+            {"title": "Trust Accounts", "code": "65-4", "description": "Client trust account requirements"},
+            {"title": "Disciplinary Procedure", "code": "65-5", "description": "Attorney discipline process"}
+          ]
+        }
+      ],
+      "address": "643 North State Street, Jackson, MS 39202",
+      "phone": "601-355-5504",
+      "website": "https://www.msbar.org/"
+    },
+    {
+      "agencyName": "Mississippi Real Estate Commission",
+      "abbreviation": "MREC",
+      "divisions": [
+        {
+          "division": "Real Estate Licensing",
+          "regulations": [
+            {"title": "Broker Licensure", "code": "67-1", "description": "Real estate broker requirements"},
+            {"title": "Salesperson Licensure", "code": "67-2", "description": "Real estate agent licensing"},
+            {"title": "Property Management", "code": "67-3", "description": "Property manager licensing"},
+            {"title": "Continuing Education", "code": "67-4", "description": "CE requirements for licensees"},
+            {"title": "Trust Account", "code": "67-5", "description": "Earnest money handling"},
+            {"title": "Advertising", "code": "67-6", "description": "Real estate advertising rules"}
+          ]
+        }
+      ],
+      "address": "433 Market Street, Flowood, MS 39232",
+      "phone": "601-321-6970",
+      "website": "https://www.mrec.state.ms.us/"
+    }
+  ],
+  "professionalLicensingBoards": [
+    {"name": "Mississippi Board of Nursing", "phone": "601-957-6300", "licenses": ["RN", "LPN", "NP", "CNA"]},
+    {"name": "Mississippi Board of Pharmacy", "phone": "601-899-8500", "licenses": ["Pharmacist", "Pharmacy Technician"]},
+    {"name": "Mississippi Board of Dental Examiners", "phone": "601-944-1300", "licenses": ["Dentist", "Dental Hygienist"]},
+    {"name": "Mississippi Board of Architecture", "phone": "601-359-3026", "licenses": ["Architect"]},
+    {"name": "Mississippi Board of Professional Engineers", "phone": "601-359-6160", "licenses": ["Professional Engineer"]},
+    {"name": "Mississippi Board of Public Accountancy", "phone": "601-354-7320", "licenses": ["CPA"]},
+    {"name": "Mississippi Bar", "phone": "601-355-5504", "licenses": ["Attorney"]},
+    {"name": "Mississippi Real Estate Commission", "phone": "601-321-6970", "licenses": ["Broker", "Salesperson"]},
+    {"name": "Mississippi Contractor Licensing Board", "phone": "601-354-6161", "licenses": ["Commercial Contractor", "Residential Builder"]},
+    {"name": "Mississippi Board of Cosmetology", "phone": "601-359-6880", "licenses": ["Cosmetologist", "Barber", "Esthetician"]},
+    {"name": "Mississippi Auctioneers Commission", "phone": "601-354-1100", "licenses": ["Auctioneer"]}
+  ],
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "Mississippi Secretary of State, Administrative Code",
+    "url": "https://www.sos.ms.gov/administrative-code",
+    "notes": "Index of all state agency regulations. Contact individual agencies for specific rule details."
+  }
+}

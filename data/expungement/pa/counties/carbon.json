@@ -1,0 +1,42 @@
+{
+  "county": "Carbon",
+  "countySeat": "Jim Thorpe",
+  "judicialDistrict": "56th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Carbon County",
+      "address": "44 Susquehanna Street",
+      "city": "Jim Thorpe",
+      "state": "PA",
+      "zip": "18229",
+      "phone": "(570) 325-2712",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Carbon County Clerk of Courts",
+    "address": "44 Susquehanna Street",
+    "city": "Jim Thorpe",
+    "state": "PA",
+    "zip": "18229",
+    "phone": "(570) 325-2712",
+    "website": "https://www.carboncounty.com"
+  },
+  "districtAttorney": {
+    "office": "Carbon County District Attorney's Office",
+    "phone": "(570) 325-2720"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Carbon County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Carbon County follows Pennsylvania Clean Slate Act"
+  ]
+}

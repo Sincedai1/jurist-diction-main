@@ -1,0 +1,395 @@
+{
+  "jurisdiction": "Mississippi",
+  "jurisdictionType": "state",
+  "title": "99",
+  "name": "Criminal Procedure",
+  "description": "Mississippi Criminal Procedure Code - Courts, trials, sentencing, and appeals",
+  "chapters": [
+    {
+      "chapterNumber": "1",
+      "chapterName": "General Provisions",
+      "sections": [
+        {
+          "citation": "§ 99-1-1",
+          "text": "Jurisdiction of criminal offenses. Circuit courts have exclusive jurisdiction over all felonies. Justice courts have jurisdiction over misdemeanors and preliminary hearings for felonies. Municipal courts have jurisdiction over ordinance violations within municipal limits.",
+          "summary": "Jurisdiction: Circuit courts handle felonies exclusively. Justice courts handle misdemeanors and felony preliminary hearings. Municipal courts handle city ordinance violations",
+          "keywords": ["jurisdiction", "circuit court", "justice court", "municipal court", "felony", "misdemeanor"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 9-7-1", "§ 99-1-3"]
+        },
+        {
+          "citation": "§ 99-1-3",
+          "text": "Statute of limitations for criminal offenses. (1) No person shall be prosecuted for any offense unless prosecution is commenced within two (2) years for misdemeanors. (2) For felonies, prosecution must commence within the following periods: (a) Capital murder: no limitation; (b) Rape, sexual battery, child abuse: no limitation if DNA evidence; (c) Other felonies: within five (5) years. (3) For offenses against children under 18, limitations period begins at victim's 18th birthday.",
+          "summary": "Statute of limitations: Misdemeanors - 2 years. Felonies - generally 5 years. Capital murder, rape, child abuse with DNA - no limitation. Child victims - clock starts at age 18",
+          "keywords": ["statute of limitations", "prosecution", "time limit", "capital murder", "child victims"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 99-1-1", "§ 99-1-5"]
+        },
+        {
+          "citation": "§ 99-1-5",
+          "text": "Venue of criminal prosecutions. Criminal prosecutions shall be brought in the county where the offense was committed. If offense committed in multiple counties, venue lies in any county where an element occurred.",
+          "summary": "Venue: Criminal cases filed in county where offense occurred. Multi-county offenses may be filed in any county where an element took place",
+          "keywords": ["venue", "county", "jurisdiction", "where offense committed"],
+          "amendments": [],
+          "relatedSections": ["§ 99-1-1", "§ 99-3-1"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "3",
+      "chapterName": "Arrest and Bail",
+      "sections": [
+        {
+          "citation": "§ 99-3-1",
+          "text": "Time of making arrest. An arrest may be made on any day and at any time of the day or night.",
+          "summary": "Arrests may be made at any time, day or night, on any day",
+          "keywords": ["arrest", "timing", "authority"],
+          "amendments": [],
+          "relatedSections": ["§ 99-3-7", "§ 99-3-13"]
+        },
+        {
+          "citation": "§ 99-3-7",
+          "text": "Arrest by peace officer without warrant. A peace officer may arrest without warrant: (a) For a public offense committed in his presence; (b) When offender is attempting to escape; (c) For a felony not committed in presence when officer has reasonable grounds; (d) On a warrant communicated by another officer; (e) For domestic violence when probable cause exists.",
+          "summary": "Warrantless arrest: Peace officers may arrest for offenses in their presence, attempted escape, felonies with reasonable grounds, communicated warrants, and domestic violence with probable cause",
+          "keywords": ["arrest", "warrantless", "peace officer", "probable cause", "domestic violence"],
+          "amendments": ["2019"],
+          "relatedSections": ["§ 99-3-1", "§ 99-3-13"]
+        },
+        {
+          "citation": "§ 99-3-13",
+          "text": "Manner of making arrest. An arrest is made by actual restraint of the person or by submission to custody. The person arrested shall be informed of the cause of arrest except when in actual commission of offense or when pursued immediately after escape.",
+          "summary": "Arrest procedure: Physical restraint or submission to custody. Officer must inform arrestee of cause of arrest except during commission of offense or hot pursuit",
+          "keywords": ["arrest", "restraint", "custody", "notice"],
+          "amendments": [],
+          "relatedSections": ["§ 99-3-1", "§ 99-3-7"]
+        },
+        {
+          "citation": "§ 99-5-1",
+          "text": "Right to bail. All persons shall be bailable before conviction, except for capital offenses where the proof is evident or presumption great, and except where the person is accused of a felony while on bail for another felony.",
+          "summary": "Right to bail: All persons bailable before conviction. Exception: capital offenses with strong evidence, or felony while on bail for another felony",
+          "keywords": ["bail", "right to bail", "capital offense", "pretrial release"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 99-5-5", "§ 99-5-13"]
+        },
+        {
+          "citation": "§ 99-5-5",
+          "text": "Amount of bail; factors. In fixing bail, the court shall consider: (a) Nature and circumstances of the offense; (b) Weight of evidence; (c) Defendant's family ties, employment, financial resources, and character; (d) Length of residence in community; (e) Prior criminal record; (f) Record of appearance at court proceedings; (g) Any flight risk; (h) Danger to community if released.",
+          "summary": "Bail factors: nature of offense, evidence, family ties, employment, financial resources, character, residence length, criminal history, court appearance record, flight risk, danger to community",
+          "keywords": ["bail", "factors", "flight risk", "danger to community", "release"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 99-5-1", "§ 99-5-13"]
+        },
+        {
+          "citation": "§ 99-5-13",
+          "text": "Bail bond; conditions; forfeiture. (1) Bail may be secured by cash deposit, surety bond, or property bond. (2) The bail bond shall be forfeited if the defendant fails to appear as required. (3) The court may order conditions of release including: (a) No contact with victims or witnesses; (b) Travel restrictions; (c) Electronic monitoring; (d) Drug/alcohol testing; (e) House arrest.",
+          "summary": "Bail types: cash, surety, or property bond. Forfeiture for failure to appear. Conditions may include no-contact orders, travel restrictions, electronic monitoring, drug testing, house arrest",
+          "keywords": ["bail bond", "cash bond", "surety", "forfeiture", "release conditions"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 99-5-1", "§ 99-5-5"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "5",
+      "chapterName": "Initial Appearance and Preliminary Hearing",
+      "sections": [
+        {
+          "citation": "§ 99-7-1",
+          "text": "Initial appearance before judicial officer. A person arrested shall be taken before a judicial officer without unnecessary delay and in no event more than forty-eight (48) hours after arrest. The judicial officer shall: (a) Inform the defendant of the charges; (b) Advise of the right to remain silent; (c) Advise of the right to counsel; (d) Set bail if appropriate.",
+          "summary": "Initial appearance: Must occur within 48 hours of arrest. Judicial officer informs of charges, advises of right to remain silent, right to counsel, and sets bail",
+          "keywords": ["initial appearance", "48 hours", "right to counsel", "right to remain silent", "bail"],
+          "amendments": ["2018"],
+          "relatedSections": ["§ 99-7-3", "§ 99-7-9"]
+        },
+        {
+          "citation": "§ 99-7-3",
+          "text": "Appointment of counsel. Any person charged with an offense punishable by imprisonment who is indigent shall have counsel appointed. The court shall appoint counsel at or before the initial appearance if the defendant requests or indicates inability to afford counsel.",
+          "summary": "Right to appointed counsel: Indigent defendants facing potential imprisonment have right to appointed counsel at or before initial appearance",
+          "keywords": ["right to counsel", "appointed counsel", "indigent", "public defender"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 99-7-1", "§ 99-15-1"]
+        },
+        {
+          "citation": "§ 99-7-9",
+          "text": "Preliminary hearing; when required; purpose. Any person charged with a felony not indicted shall be entitled to a preliminary hearing within fourteen (14) days of initial appearance if in custody, or within thirty (30) days if released. The purpose is to determine whether probable cause exists to believe a felony has been committed and the defendant committed it.",
+          "summary": "Preliminary hearing: Required for felony charges before indictment. In custody: within 14 days. Released: within 30 days. Determines probable cause",
+          "keywords": ["preliminary hearing", "probable cause", "felony", "indictment"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 99-7-1", "§ 99-17-1"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "7",
+      "chapterName": "Grand Jury and Indictment",
+      "sections": [
+        {
+          "citation": "§ 99-17-1",
+          "text": "Grand jury; composition; qualifications. Each circuit court shall have a grand jury composed of not fewer than fifteen (15) nor more than twenty-five (25) members. Jurors must be qualified electors of the county, at least twenty-one (21) years old, of good moral character, and sound judgment.",
+          "summary": "Grand jury: 15-25 members serving circuit court. Members must be qualified electors, 21+ years old, of good moral character and sound judgment",
+          "keywords": ["grand jury", "composition", "qualifications", "circuit court"],
+          "amendments": ["2019"],
+          "relatedSections": ["§ 99-17-3", "§ 99-17-5"]
+        },
+        {
+          "citation": "§ 99-17-3",
+          "text": "Indictment; requisites. An indictment shall be in writing, signed by the district attorney, and shall state: (a) The name of the court; (b) The title of the action; (c) The name of the defendant; (d) That the defendant committed a public offense; (e) The time and place of the offense; (f) The facts constituting the offense in ordinary language.",
+          "summary": "Indictment requirements: Written, signed by DA, stating court name, action title, defendant name, offense charged, time/place of offense, facts in ordinary language",
+          "keywords": ["indictment", "requirements", "district attorney", "elements"],
+          "amendments": [],
+          "relatedSections": ["§ 99-17-1", "§ 99-17-5"]
+        },
+        {
+          "citation": "§ 99-17-5",
+          "text": "Indictment; amendment. An indictment may be amended at any time before verdict or finding to correct errors of form or substance. The defendant shall be given reasonable time to respond to amendments changing the offense charged.",
+          "summary": "Indictment amendment: May be amended before verdict to correct form or substance errors. Defendant must have reasonable time to respond to substantive changes",
+          "keywords": ["indictment", "amendment", "form", "substance"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 99-17-1", "§ 99-17-3"]
+        },
+        {
+          "citation": "§ 99-17-7",
+          "text": "Plea agreements; procedure. (1) The prosecution and defense may engage in plea discussions. (2) The court may accept or reject a plea agreement. (3) Before accepting a guilty plea, the court shall: (a) Address the defendant personally and determine the plea is voluntary; (b) Inform the defendant of the right to remain silent; (c) Inform the defendant of maximum and minimum possible sentences; (d) Inform the defendant of the right to trial by jury.",
+          "summary": "Plea agreements: Prosecution and defense may negotiate. Court may accept or reject. Before accepting guilty plea, court must ensure it is voluntary and inform defendant of rights and penalties",
+          "keywords": ["plea agreement", "guilty plea", "voluntary", "rights advisement"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 99-17-5", "§ 99-19-1"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "9",
+      "chapterName": "Trial",
+      "sections": [
+        {
+          "citation": "§ 99-19-1",
+          "text": "Arraignment; plea. (1) The defendant shall be arraigned by reading the indictment to him and calling on him to plead. (2) The defendant may plead: (a) Guilty; (b) Not guilty; (c) Not guilty by reason of insanity; (d) Nolo contendere (with court consent). (3) If defendant refuses to plead, a plea of not guilty shall be entered.",
+          "summary": "Arraignment: Indictment read to defendant who must plead guilty, not guilty, not guilty by reason of insanity, or nolo contendere (with consent). Refusal = not guilty plea",
+          "keywords": ["arraignment", "plea", "guilty", "not guilty", "insanity"],
+          "amendments": [],
+          "relatedSections": ["§ 99-17-3", "§ 99-19-3"]
+        },
+        {
+          "citation": "§ 99-19-3",
+          "text": "Right to speedy trial. (1) Any person charged with a crime shall be brought to trial within two hundred seventy (270) days of arraignment. (2) If not tried within this period, the charge shall be dismissed with prejudice. (3) Delays caused by the defendant or defense counsel shall be excluded from the 270-day calculation.",
+          "summary": "Speedy trial: Trial must begin within 270 days of arraignment. Failure = dismissal with prejudice. Delays caused by defendant/defense excluded from calculation",
+          "keywords": ["speedy trial", "270 days", "dismissal", "excluded time"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 99-19-1", "§ 99-1-3"]
+        },
+        {
+          "citation": "§ 99-19-5",
+          "text": "Jury trial; composition; verdict. (1) The defendant in a felony case has the right to a jury of twelve (12) persons. (2) The defendant in a misdemeanor case has the right to a jury of six (6) persons. (3) A unanimous verdict is required in all criminal cases. (4) The parties may stipulate to a jury of fewer than twelve in felony cases or six in misdemeanor cases.",
+          "summary": "Jury trial: Felonies - 12 jurors, misdemeanors - 6 jurors. Unanimous verdict required in all criminal cases. Parties may stipulate to smaller jury",
+          "keywords": ["jury trial", "unanimous", "felony", "misdemeanor", "twelve jurors"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 99-19-1", "§ 99-19-7"]
+        },
+        {
+          "citation": "§ 99-19-7",
+          "text": "Discovery; inspection of evidence. (1) Upon written motion, the prosecution shall permit the defense to inspect and copy: (a) Any relevant written or recorded statements of the defendant; (b) Defendant's criminal record; (c) Books, papers, documents, photographs, or tangible objects material to the defense; (d) Any results of scientific tests; (e) Any reports or examinations material to the defense. (2) The defense shall provide reciprocal discovery upon request.",
+          "summary": "Discovery: Prosecution must disclose defendant statements, criminal record, documents, photos, tangible objects, scientific tests, and reports. Reciprocal discovery applies to defense",
+          "keywords": ["discovery", "inspection", "disclosure", "reciprocal", "exculpatory evidence"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 99-19-5", "§ 99-19-9"]
+        },
+        {
+          "citation": "§ 99-19-9",
+          "text": "Witnesses; sequestration. The court may order witnesses sequestered so they cannot hear other witnesses' testimony. Parties and their investigating officers are not subject to sequestration.",
+          "summary": "Witness sequestration: Court may order witnesses excluded from courtroom during other testimony. Parties and investigating officers not subject to sequestration",
+          "keywords": ["sequestration", "witnesses", "exclusion", "rule on witnesses"],
+          "amendments": [],
+          "relatedSections": ["§ 99-19-5", "§ 99-19-7"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "11",
+      "chapterName": "Sentencing",
+      "sections": [
+        {
+          "citation": "§ 99-19-17",
+          "text": "Sentencing; time for; presentence report. (1) Sentence shall be pronounced without unreasonable delay. (2) In felony cases, the court may order a presentence investigation report containing: (a) Defendant's criminal history; (b) Financial condition; (c) Social history; (d) Employment history; (e) Mental and physical health; (f) Victim impact statements; (g) Sentencing recommendations.",
+          "summary": "Sentencing timing: Pronounced without unreasonable delay. Felony cases may have presentence report including criminal history, finances, social/employment history, health, victim impact, recommendations",
+          "keywords": ["sentencing", "presentence report", "victim impact", "criminal history"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 99-19-19", "§ 99-19-21"]
+        },
+        {
+          "citation": "§ 99-19-19",
+          "text": "Habitual offenders; enhanced sentence. (1) Any person convicted of a felony who has been convicted twice previously of felonies and sentenced to separate terms of one (1) year or more shall be sentenced to the maximum term for the current offense without eligibility for parole or probation. (2) If the current felony is punishable by life imprisonment or death, the sentence shall be life imprisonment without parole.",
+          "summary": "Habitual offender: Two prior felony convictions with 1+ year sentences = maximum sentence for current offense without parole/probation. If current offense carries life/death = life without parole",
+          "keywords": ["habitual offender", "enhanced sentence", "no parole", "prior felonies"],
+          "amendments": ["2018"],
+          "relatedSections": ["§ 99-19-17", "§ 99-19-21"]
+        },
+        {
+          "citation": "§ 99-19-21",
+          "text": "Violent habitual offenders; penalty. Any person convicted of a violent felony who has been convicted twice previously of violent felonies shall be sentenced to life imprisonment without parole.",
+          "summary": "Violent habitual offender: Two prior violent felony convictions + current violent felony = life without parole",
+          "keywords": ["violent habitual", "life without parole", "violent felony"],
+          "amendments": ["2019"],
+          "relatedSections": ["§ 99-19-19", "§ 99-19-17"]
+        },
+        {
+          "citation": "§ 99-19-23",
+          "text": "Concurrent and consecutive sentences. (1) When multiple sentences are imposed, the court shall specify whether they run concurrently or consecutively. (2) Unless otherwise specified, sentences shall run concurrently. (3) The court may order consecutive sentences for offenses arising from separate incidents or when required by statute.",
+          "summary": "Multiple sentences: Court specifies concurrent or consecutive. Default is concurrent. Consecutive may be ordered for separate incidents or when required by statute",
+          "keywords": ["concurrent", "consecutive", "multiple sentences", "sentencing"],
+          "amendments": [],
+          "relatedSections": ["§ 99-19-17", "§ 99-19-19"]
+        },
+        {
+          "citation": "§ 99-19-25",
+          "text": "Restitution; when required. (1) The court shall order the defendant to make restitution to the victim for actual damages unless clear and compelling reasons exist not to do so. (2) Restitution may include: (a) Medical expenses; (b) Property damage or loss; (c) Lost wages; (d) Rehabilitation expenses; (e) Funeral expenses. (3) A restitution order has the same effect as a civil judgment.",
+          "summary": "Restitution: Court shall order defendant to pay victim for actual damages unless compelling reasons exist. Includes medical, property, lost wages, rehabilitation, funeral. Has effect of civil judgment",
+          "keywords": ["restitution", "victim compensation", "damages", "civil judgment"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 99-19-17", "§ 99-37-1"]
+        },
+        {
+          "citation": "§ 99-19-27",
+          "text": "Fines; when imposed; amount. (1) The court may impose a fine in addition to imprisonment unless the statute specifies a mandatory fine. (2) The fine shall not exceed the maximum authorized by statute. (3) In determining the amount, the court shall consider the defendant's financial resources and the burden on dependents.",
+          "keywords": ["fines", "sentencing", "financial resources", "dependents"],
+          "summary": "Fines: Court may impose fine in addition to imprisonment. Cannot exceed statutory maximum. Court considers defendant's finances and burden on dependents",
+          "amendments": [],
+          "relatedSections": ["§ 99-19-17", "§ 99-19-25"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "13",
+      "chapterName": "Capital Punishment",
+      "sections": [
+        {
+          "citation": "§ 99-19-101",
+          "text": "Death penalty; when authorized. The death penalty may be imposed only for capital murder. Before imposition, the court shall conduct a separate sentencing proceeding to determine whether the death penalty is justified. The prosecution must prove beyond a reasonable doubt the existence of at least one statutory aggravating circumstance.",
+          "summary": "Death penalty: Only for capital murder. Requires separate sentencing proceeding. Prosecution must prove at least one aggravating circumstance beyond reasonable doubt",
+          "keywords": ["death penalty", "capital murder", "sentencing proceeding", "aggravating circumstances"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 99-19-103", "§ 99-19-105", "§ 97-3-23"]
+        },
+        {
+          "citation": "§ 99-19-103",
+          "text": "Aggravating circumstances. The following are statutory aggravating circumstances: (a) The capital offense was committed by a person under sentence of imprisonment; (b) The defendant was previously convicted of a capital offense or offense involving violence; (c) The capital offense was committed for pecuniary gain; (d) The capital offense was committed to disrupt lawful government functions; (e) The capital offense was committed against a peace officer, fireman, or public official; (f) The capital offense was committed during rape, arson, robbery, or burglary; (g) The capital offense was committed for hire; (h) The capital offense was especially heinous, atrocious, or cruel; (i) The defendant knowingly created great risk of death to many persons; (j) The capital offense was committed during kidnaping or aircraft piracy; (k) The capital offense was committed during child abuse.",
+          "summary": "Aggravating circumstances: Under sentence of imprisonment, prior violent felony, pecuniary gain, disrupting government, against peace officer/fireman/public official, during rape/arson/robbery/burglary, for hire, especially heinous, great risk to many persons, during kidnapping/aircraft piracy, during child abuse",
+          "keywords": ["aggravating circumstances", "death penalty", "heinous", "prior felony"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 99-19-101", "§ 99-19-105"]
+        },
+        {
+          "citation": "§ 99-19-105",
+          "text": "Mitigating circumstances. The following are mitigating circumstances to be considered: (a) The defendant has no significant criminal history; (b) The capital offense was committed while under extreme mental or emotional disturbance; (c) The victim consented to the criminal conduct; (d) The defendant was an accomplice with minor participation; (e) The defendant acted under extreme duress or substantial domination; (f) The defendant's capacity was impaired; (g) The age of the defendant at the time of the crime; (h) Any other circumstance that mitigates against imposition of the death sentence.",
+          "summary": "Mitigating circumstances: No significant criminal history, extreme mental/emotional disturbance, victim consent, minor accomplice participation, extreme duress, impaired capacity, age, any other mitigating factor",
+          "keywords": ["mitigating circumstances", "death penalty", "mental disturbance", "duress", "age"],
+          "amendments": [],
+          "relatedSections": ["§ 99-19-101", "§ 99-19-103"]
+        },
+        {
+          "citation": "§ 99-19-107",
+          "text": "Automatic appeal; review by Supreme Court. (1) Any sentence of death shall be automatically appealed to the Mississippi Supreme Court. (2) The Supreme Court shall review: (a) Whether the sentence was imposed under the influence of passion, prejudice, or arbitrary factors; (b) Whether the evidence supports the finding of aggravating circumstances; (c) Whether the sentence is excessive or disproportionate to similar cases; (d) Any errors assigned.",
+          "summary": "Death sentence appeal: Automatically appealed to MS Supreme Court. Reviews for passion/prejudice, evidentiary support for aggravating circumstances, proportionality, and assigned errors",
+          "keywords": ["automatic appeal", "Supreme Court", "death penalty", "proportionality review"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 99-19-101", "§ 99-19-103", "§ 99-19-105"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "15",
+      "chapterName": "Appeals",
+      "sections": [
+        {
+          "citation": "§ 99-35-1",
+          "text": "Appeal as matter of right. Any person convicted of a criminal offense in a circuit court may appeal to the Mississippi Supreme Court as a matter of right. The appeal must be filed within thirty (30) days of entry of judgment.",
+          "summary": "Appeal right: Criminal convictions in circuit court may be appealed to MS Supreme Court as matter of right. Must be filed within 30 days of judgment",
+          "keywords": ["appeal", "right to appeal", "Supreme Court", "30 days"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 99-35-3", "§ 99-35-5"]
+        },
+        {
+          "citation": "§ 99-35-3",
+          "text": "Record on appeal. The record on appeal shall consist of: (a) The indictment; (b) All pleadings, motions, and orders; (c) A transcript of proceedings; (d) All exhibits admitted into evidence; (e) The verdict and judgment.",
+          "summary": "Appeal record: Indictment, pleadings, motions, orders, transcript, exhibits, verdict, and judgment",
+          "keywords": ["appeal", "record", "transcript", "exhibits"],
+          "amendments": [],
+          "relatedSections": ["§ 99-35-1", "§ 99-35-5"]
+        },
+        {
+          "citation": "§ 99-35-5",
+          "text": "Stay of execution pending appeal. Execution of sentence shall be stayed upon filing of notice of appeal and posting of appeal bond if the defendant is not under sentence for a felony. The bond shall be conditioned on prosecution of the appeal.",
+          "summary": "Stay of sentence: Filing notice of appeal and posting appeal bond stays sentence execution. Exception: defendant already under felony sentence. Bond conditions include prosecution of appeal",
+          "keywords": ["stay", "appeal", "appeal bond", "execution of sentence"],
+          "amendments": ["2019"],
+          "relatedSections": ["§ 99-35-1", "§ 99-35-3"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "17",
+      "chapterName": "Post-Conviction Relief",
+      "sections": [
+        {
+          "citation": "§ 99-39-1",
+          "text": "Post-conviction relief; grounds. Any person convicted of a crime may seek post-conviction relief based on: (a) Constitutional violations; (b) Lack of jurisdiction; (c) Sentence exceeding maximum authorized by law; (d) Material evidence suppressed by prosecution; (e) New evidence of actual innocence; (f) Ineffective assistance of counsel; (g) Unconstitutional statute.",
+          "summary": "Post-conviction relief grounds: Constitutional violations, lack of jurisdiction, excessive sentence, suppressed evidence, new evidence of innocence, ineffective assistance, unconstitutional statute",
+          "keywords": ["post-conviction relief", "constitutional violation", "ineffective assistance", "actual innocence"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 99-39-5", "§ 99-39-7"]
+        },
+        {
+          "citation": "§ 99-39-5",
+          "text": "Time limitations. A motion for post-conviction relief shall be filed within three (3) years after entry of judgment. Exceptions apply for: (a) Newly discovered evidence; (b) Intervening constitutional decisions; (c) Fundamental constitutional rights not previously raised.",
+          "summary": "PCR time limit: Must be filed within 3 years of judgment. Exceptions for newly discovered evidence, intervening constitutional decisions, and fundamental rights not previously raised",
+          "keywords": ["post-conviction relief", "time limit", "3 years", "newly discovered evidence"],
+          "amendments": [],
+          "relatedSections": ["§ 99-39-1", "§ 99-39-7"]
+        },
+        {
+          "citation": "§ 99-39-7",
+          "text": "Procedural bars. Post-conviction relief is not available if: (a) The issue was previously litigated; (b) The issue could have been raised on appeal; (c) The waiver was knowing and intelligent; (d) The motion is successive unless new grounds exist. Exception for claims of actual innocence supported by new evidence.",
+          "summary": "PCR procedural bars: Previously litigated issues, waived appellate issues, knowing waiver, successive motions. Exception: actual innocence with new evidence",
+          "keywords": ["procedural bar", "successive motion", "waiver", "actual innocence"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 99-39-1", "§ 99-39-5"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "19",
+      "chapterName": "Expungement",
+      "sections": [
+        {
+          "citation": "§ 99-19-71",
+          "text": "Expungement of misdemeanor convictions. (1) Any person convicted of a misdemeanor may petition for expungement after five (5) years from completion of sentence. (2) Expunged records shall be physically and electronically destroyed. (3) After expungement, the person may deny the existence of the conviction.",
+          "summary": "Misdemeanor expungement: Petition allowed 5 years after sentence completion. Records destroyed. Person may deny conviction exists",
+          "keywords": ["expungement", "misdemeanor", "5 years", "record destruction"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 99-19-73", "§ 99-19-75"]
+        },
+        {
+          "citation": "§ 99-19-73",
+          "text": "Expungement of felony convictions; limited circumstances. (1) Felony convictions may be expunged only for: (a) First offense simple possession of controlled substance; (b) First offense bad check offenses; (c) First offense false pretense under $1,000. (2) Petition may be filed five (5) years after completion of sentence. (3) Expungement not available for violent felonies, sex offenses, or felonies involving minors.",
+          "summary": "Felony expungement: Only first offense drug possession, bad checks, false pretense under $1,000. 5-year waiting period. Not available for violent felonies, sex offenses, crimes involving minors",
+          "keywords": ["expungement", "felony", "first offense", "violent felony exception"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 99-19-71", "§ 99-19-75"]
+        },
+        {
+          "citation": "§ 99-19-75",
+          "text": "Expungement of arrest records. (1) A person arrested but not convicted may petition for expungement of arrest records. (2) The petition must be filed within three (3) years of arrest. (3) Expungement shall be granted unless the court finds good cause to deny. (4) Expunged arrest records shall be destroyed.",
+          "summary": "Arrest record expungement: Available for arrests without conviction. Petition within 3 years. Granted unless good cause to deny. Records destroyed",
+          "keywords": ["expungement", "arrest record", "not convicted", "3 years"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 99-19-71", "§ 99-19-73"]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "Mississippi Code of 1972",
+    "url": "http://www.legislature.ms.gov/",
+    "notes": "Complete criminal procedure code covering arrest through post-conviction relief. Cross-referenced with Title 97 (Crimes)."
+  }
+}

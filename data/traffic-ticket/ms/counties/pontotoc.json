@@ -1,0 +1,124 @@
+{
+  "name": "Pontotoc County",
+  "countySeat": "Pontotoc",
+  "population": 32000,
+  "courts": {
+    "justice": {
+      "name": "Pontotoc County Justice Court",
+      "address": "Pontotoc Courthouse, Pontotoc, MS",
+      "phone": "(662) 515-1000",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "note": "Handles traffic offenses and misdemeanors"
+    },
+    "municipal": {
+      "name": "Pontotoc Municipal Court",
+      "address": "Pontotoc City Hall, Pontotoc, MS",
+      "phone": "(662) 515-1100",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "note": "Handles city of Pontotoc traffic violations"
+    },
+    "county": {
+      "name": "Pontotoc County Court",
+      "address": "Pontotoc Courthouse, Pontotoc, MS",
+      "phone": "(662) 515-1000",
+      "note": "Appeals and more serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Pontotoc County District Attorney's Office",
+    "address": "Pontotoc Courthouse, Pontotoc, MS",
+    "phone": "(662) 515-1200",
+    "trafficDivisionContact": "(662) 515-1200"
+  },
+  "publicDefender": {
+    "office": "Pontotoc County Public Defender",
+    "address": "Pontotoc Courthouse, Pontotoc, MS",
+    "phone": "(662) 515-1300",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Pontotoc County Circuit Clerk",
+    "address": "Pontotoc Courthouse, Pontotoc, MS",
+    "phone": "(662) 515-1400"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear or pay by court date on citation",
+      "process": [
+        "Enter not guilty plea at court window or by mail",
+        "Trial date will be set",
+        "Present evidence at trial",
+        "Officer must appear for conviction"
+      ],
+      "paymentOptions": [
+        "In person",
+        "Mail"
+      ]
+    },
+    "courtDates": {
+      "scheduling": "Typically 4-8 weeks from plea",
+      "continuances": "Request through court clerk",
+      "noShow": "Failure to appear may result in bench warrant"
+    },
+    "diversionProgram": {
+      "available": true,
+      "eligibility": [
+        "First-time offenders",
+        "Minor violations only",
+        "Court approval required"
+      ],
+      "benefits": "Dismissal upon completion"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "May be offered to reduce or dismiss charges",
+      "providers": [
+        "MS DPS-approved defensive driving courses",
+        "Various online options"
+      ]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Pontotoc Police Department",
+      "address": "Pontotoc City Hall, Pontotoc, MS",
+      "phone": "(662) 515-2000",
+      "recordsRequest": "(662) 515-2010"
+    },
+    "countySheriff": {
+      "name": "Pontotoc County Sheriff's Office",
+      "address": "Pontotoc Courthouse, Pontotoc, MS",
+      "phone": "(662) 515-2100"
+    },
+    "highwayPatrol": {
+      "name": "Mississippi Highway Patrol",
+      "address": "Contact local troop headquarters",
+      "phone": "(662) 515-2200"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts or tank tops",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "mandatoryAppearances": "Required for reckless driving, DUI, driving suspended"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Street parking around courthouse",
+        "Public parking lots"
+      ],
+      "cost": "Free-$5"
+    },
+    "publicTransit": {
+      "service": "Limited public transit",
+      "routes": "Check local transit authority",
+      "note": "Rural counties may have no public transit"
+    }
+  }
+}

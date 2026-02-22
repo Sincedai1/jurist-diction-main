@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Legal Information Packets | Jurist Diction</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <style>
+    .packets-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 24px;
+      padding: 24px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .packet-card {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      overflow: hidden;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .packet-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    }
+
+    .packet-header {
+      padding: 24px;
+      background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%);
+      color: white;
+    }
+
+    .packet-header h3 {
+      margin: 0 0 8px 0;
+      font-size: 20px;
+    }
+
+    .packet-header .states {
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    .packet-body {
+      padding: 24px;
+    }
+
+    .packet-body p {
+      color: #666;
+      margin: 0 0 16px 0;
+      line-height: 1.6;
+    }
+
+    .packet-features {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 24px 0;
+    }
+
+    .packet-features li {
+      padding: 8px 0;
+      border-bottom: 1px solid #eee;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .packet-features li:last-child {
+      border-bottom: none;
+    }
+
+    .packet-features .check {
+      color: #38a169;
+    }
+
+    .packet-price {
+      font-size: 24px;
+      font-weight: bold;
+      color: #1a365d;
+      margin-bottom: 16px;
+    }
+
+    .packet-price .discount {
+      font-size: 14px;
+      color: #38a169;
+      font-weight: normal;
+    }
+
+    .btn-generate {
+      width: 100%;
+      padding: 14px;
+      background: #1a365d;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .btn-generate:hover {
+      background: #2c5282;
+    }
+
+    .btn-generate:disabled {
+      background: #ccc;
+      cursor: not-allowed;
+    }
+
+    .state-selector {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+
+    .state-btn {
+      padding: 8px 16px;
+      background: #f0f4f8;
+      border: 1px solid #ddd;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .state-btn:hover {
+      background: #e2e8f0;
+    }
+
+    .state-btn.active {
+      background: #1a365d;
+      color: white;
+      border-color: #1a365d;
+    }
+
+    .subscription-banner {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 24px;
+      text-align: center;
+      margin-bottom: 24px;
+    }
+
+    .subscription-banner h2 {
+      margin: 0 0 8px 0;
+    }
+
+    .subscription-banner p {
+      margin: 0;
+      opacity: 0.9;
+    }
+
+    .tier-badge {
+      display: inline-block;
+      padding: 4px 12px;
+      background: #d0b665;
+      color: #1a365d;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+
+    .tier-badge.professional {
+      background: #38a169;
+      color: white;
+    }
+
+    .tier-badge.firm {
+      background: #1a365d;
+      color: #d0b665;
+    }
+
+    .coming-soon {
+      opacity: 0.6;
+    }
+
+    .coming-soon .packet-header {
+      background: #666;
+    }
+
+    .coming-soon .btn-generate {
+      background: #999;
+    }
+
+    @media (max-width: 768px) {
+      .packets-grid {
+        padding: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="logo">Jurist<span>Diction</span></div>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/tools">Tools</a>
+      <a href="/packets" class="active">Packets</a>
+      <a href="/subscribe">Subscribe</a>
+    </nav>
+  </header>
+
+  <div class="subscription-banner">
+    <h2>🎯 Hyper-Local Legal Information Packets</h2>
+    <p>713 counties across 4 states • TN • PA • NJ • MS</p>
+  </div>
+
+  <div class="packets-grid">
+
+    <!-- Traffic Ticket Defense -->
+    <div class="packet-card">
+      <div class="packet-header">
+        <span class="tier-badge professional">PROFESSIONAL</span>
+        <h3>🚗 Traffic Ticket Defense</h3>
+        <div class="states">TN • PA • NJ • MS • 265 Counties</div>
+      </div>
+      <div class="packet-body">
+        <p>Generate a personalized traffic ticket defense information packet with state-specific procedures, court contacts, and defense strategies.</p>
+        <ul class="packet-features">
+          <li><span class="check">✓</span> 12 violation types covered</li>
+          <li><span class="check">✓</span> State-specific point calculations</li>
+          <li><span class="check">✓</span> County court information</li>
+          <li><span class="check">✓</span> NJ Unsafe Driving plea option</li>
+        </ul>
+        <div class="packet-price">
+          $9.99 <span class="discount">25% off with Pro</span>
+        </div>
+        <button class="btn-generate" onclick="location.href='/packets/traffic-ticket.html'">
+          Generate Packet
+        </button>
+      </div>
+    </div>
+
+    <!-- Expungement -->
+    <div class="packet-card">
+      <div class="packet-header">
+        <span class="tier-badge professional">PROFESSIONAL</span>
+        <h3>📋 Expungement</h3>
+        <div class="states">TN • PA • NJ • Clean Slate Laws</div>
+      </div>
+      <div class="packet-body">
+        <p>Check expungement eligibility and generate packets for Pennsylvania and New Jersey Clean Slate automatic expungement.</p>
+        <ul class="packet-features">
+          <li><span class="check">✓</span> PA Clean Slate (2018)</li>
+          <li><span class="check">✓</span> NJ Clean Slate (2019)</li>
+          <li><span class="check">✓</span> Eligibility analysis</li>
+          <li><span class="check">✓</span> County filing procedures</li>
+        </ul>
+        <div class="packet-price">
+          $19.99 <span class="discount">25% off with Pro</span>
+        </div>
+        <button class="btn-generate" onclick="location.href='/packets/expungement.html'">
+          Check Eligibility
+        </button>
+      </div>
+    </div>
+
+    <!-- Eviction Defense -->
+    <div class="packet-card">
+      <div class="packet-header">
+        <span class="tier-badge professional">PROFESSIONAL</span>
+        <h3>🏠 Eviction Defense</h3>
+        <div class="states">TN • PA • NJ • MS • Strongest Protections</div>
+      </div>
+      <div class="packet-body">
+        <p>Generate eviction defense packets with state-specific protections, including NJ's Anti-Eviction Act (strongest in US).</p>
+        <ul class="packet-features">
+          <li><span class="check">✓</span> NJ Anti-Eviction Act protections</li>
+          <li><span class="check">✓</span> Good cause requirement</li>
+          <li><span class="check">✓</span> Defense strategy prioritization</li>
+          <li><span class="check">✓</span> MS 3-day notice warnings</li>
+        </ul>
+        <div class="packet-price">
+          $14.99 <span class="discount">25% off with Pro</span>
+        </div>
+        <button class="btn-generate" onclick="location.href='/packets/eviction-defense.html'">
+          Generate Defense
+        </button>
+      </div>
+    </div>
+
+    <!-- DL Reinstatement -->
+    <div class="packet-card">
+      <div class="packet-header">
+        <span class="tier-badge">BASIC</span>
+        <h3>🚦 Driver's License Reinstatement</h3>
+        <div class="states">Tennessee Only</div>
+      </div>
+      <div class="packet-body">
+        <p>Generate Tennessee driver's license reinstatement packets for financial responsibility, DUI, and points suspensions.</p>
+        <ul class="packet-features">
+          <li><span class="check">✓</span> Financial responsibility</li>
+          <li><span class="check">✓</span> DUI-related suspensions</li>
+          <li><span class="check">✓</span> Points accumulation</li>
+          <li><span class="check">✓</span> County-specific procedures</li>
+        </ul>
+        <div class="packet-price">
+          $9.99 <span class="discount">10% off with Basic</span>
+        </div>
+        <button class="btn-generate" onclick="location.href='/packets/dl-reinstatement.html'">
+          Generate Packet
+        </button>
+      </div>
+    </div>
+
+    <!-- Foreclosure Prevention -->
+    <div class="packet-card">
+      <div class="packet-header">
+        <span class="tier-badge">BASIC</span>
+        <h3>🏡 Foreclosure Prevention</h3>
+        <div class="states">Tennessee Only</div>
+      </div>
+      <div class="packet-body">
+        <p>Generate foreclosure prevention information packets for Tennessee residents facing foreclosure proceedings.</p>
+        <ul class="packet-features">
+          <li><span class="check">✓</span> Pre-notice stage actions</li>
+          <li><span class="check">✓</span> Notice received response</li>
+          <li><span class="check">✓</span> Sale scheduled defenses</li>
+          <li><span class="check">✓</span> Post-sale recovery</li>
+        </ul>
+        <div class="packet-price">
+          $14.99 <span class="discount">10% off with Basic</span>
+        </div>
+        <button class="btn-generate" onclick="location.href='/packets/foreclosure.html'">
+          Generate Packet
+        </button>
+      </div>
+    </div>
+
+    <!-- Mississippi Law -->
+    <div class="packet-card">
+      <div class="packet-header">
+        <span class="tier-badge firm">FIRM</span>
+        <h3>⚖️ Mississippi Law Structure</h3>
+        <div class="states">Complete MS Code Access</div>
+      </div>
+      <div class="packet-body">
+        <p>Access comprehensive Mississippi legal data structure including statutes, court hierarchy, and 82 county templates.</p>
+        <ul class="packet-features">
+          <li><span class="check">✓</span> 4 statute titles loaded</li>
+          <li><span class="check">✓</span> 82 county directories</li>
+          <li><span class="check">✓</span> Complete court hierarchy</li>
+          <li><span class="check">✓</span> Municipal ordinances</li>
+        </ul>
+        <div class="packet-price">
+          Firm Subscription Only
+        </div>
+        <button class="btn-generate" onclick="location.href='/subscribe?tier=firm'">
+          Upgrade to Firm
+        </button>
+      </div>
+    </div>
+
+  </div>
+
+  <div style="max-width: 1400px; margin: 0 auto; padding: 24px;">
+    <div style="background: #f0fff4; border: 1px solid #9ae6b4; border-radius: 8px; padding: 24px;">
+      <h3 style="margin: 0 0 16px 0; color: #276749;">📊 Coverage Statistics</h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px;">
+        <div>
+          <strong>Tennessee</strong>
+          <div>95 counties • 285 templates</div>
+        </div>
+        <div>
+          <strong>Pennsylvania</strong>
+          <div>67 counties • 201 templates</div>
+        </div>
+        <div>
+          <strong>New Jersey</strong>
+          <div>21 counties • 63 templates</div>
+        </div>
+        <div>
+          <strong>Mississippi</strong>
+          <div>82 counties • 164 templates</div>
+        </div>
+      </div>
+      <p style="margin: 16px 0 0 0; color: #666;">
+        <strong>Total:</strong> 713 county templates across 4 states
+      </p>
+    </div>
+  </div>
+
+  <footer style="text-align: center; padding: 24px; background: #f8f9fa; margin-top: 24px;">
+    <p style="color: #666; margin: 0;">
+      ⚠️ All packets provide INFORMATION ONLY, NOT legal advice. Consult a licensed attorney for advice specific to your situation.
+    </p>
+  </footer>
+</body>
+</html>

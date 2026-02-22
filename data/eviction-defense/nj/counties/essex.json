@@ -1,0 +1,163 @@
+{
+  "county": "Essex",
+  "countySeat": "Newark",
+  "population": "850,000",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This is informational only. Contact the court directly for current procedures.",
+  "court": {
+    "name": "Essex County Superior Court - Special Civil Part",
+    "division": "Landlord-Tenant",
+    "address": "50 West Market Street, 4th Floor, Newark, NJ 07102",
+    "phone": "973-693-5710",
+    "website": "https://www.njcourts.gov/courts/cumberland/essex.html",
+    "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+    "parking": "Street parking and nearby garages; accessible by NJ Transit"
+  },
+  "clerkOffice": {
+    "name": "Special Civil Part Clerk's Office",
+    "address": "50 West Market Street, 4th Floor, Newark, NJ 07102",
+    "phone": "973-693-5710",
+    "website": "https://www.njcourts.gov"
+  },
+  "filingProcedures": {
+    "complaintForPossession": {
+      "filingLocation": "Special Civil Part Clerk's Office, 4th Floor",
+      "filingFee": "$50 (subject to change)",
+      "methods": ["In person", "E-filing available through NJ Courts"],
+      "requiredDocuments": [
+        "Complaint for Possession",
+        "Copy of lease (if written)",
+        "Copy of notice served on tenant",
+        "Certification of service of notice"
+      ],
+      "serviceOfProcess": {
+        "methods": ["Court officer", "Private process server", "Certified and regular mail"],
+        "timeline": "At least 10 days before trial date"
+      }
+    },
+    "answer": {
+      "filingLocation": "Same as complaint",
+      "filingFee": "None for tenant answer",
+      "deadline": "Before hearing date (can be filed at hearing)",
+      "recommended": "File at least 3 business days before hearing"
+    }
+  },
+  "hearingProcedures": {
+    "location": "50 West Market Street, Newark",
+    "schedule": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "times": "9:00 AM and 1:00 PM dockets typically"
+    },
+    "checkIn": {
+      "description": "Check docket in hallway; find your courtroom",
+      "arrivalTime": "At least 30 minutes before scheduled time"
+    },
+    "continuances": {
+      "policy": "May be granted for good cause",
+      "method": "Request from judge at hearing or motion",
+      "limit": "Usually 2-4 weeks"
+    }
+  },
+  "timeline": {
+    "noticeToHearing": "2-3 weeks after complaint filed",
+    "judgmentToWarrant": "3 business days after judgment",
+    "warrantToEviction": "Usually within 7-14 days after warrant"
+  },
+  "rightToCounsel": {
+    "newarkProgram": {
+      "name": "Newark Right to Counsel Program",
+      "description": "Free legal representation for income-eligible tenants facing eviction",
+      "eligibility": "Low-income tenants in Newark",
+      "incomeThreshold": "200% of federal poverty guideline",
+      "howToApply": [
+        "Contact Legal Services of New Jersey: 1-888-576-5529",
+        "Call Newark Tenant Hotline",
+        "Ask at court for referral"
+      ]
+    }
+  },
+  "legalAidResources": [
+    {
+      "name": "Legal Services of New Jersey - Essex Region",
+      "address": "60 Evergreen Place, Suite 400, East Orange, NJ 07018",
+      "phone": "973-643-6600",
+      "hours": "Monday-Friday 8:30 AM - 5:00 PM",
+      "eligibility": "Income-qualified tenants",
+      "services": ["Eviction defense", "Housing counseling", "Court representation", "Tenant rights education"],
+      "website": "https://www.lsnj.org",
+      "intake": "Call for intake appointment"
+    },
+    {
+      "name": "Northeast New Jersey Legal Services",
+      "address": "Various locations in Essex County",
+      "phone": "973-643-6600",
+      "services": ["Eviction defense", "Housing issues"],
+      "website": "https://www.lsnj.org"
+    },
+    {
+      "name": "Rutgers Law School - Civil Justice Clinic",
+      "address": "123 Washington Street, Newark, NJ 07102",
+      "phone": "973-353-5687",
+      "services": ["Law student representation under supervision"],
+      "eligibility": "Income-qualified"
+    },
+    {
+      "name": "Seton Hall Law School - Center for Social Justice",
+      "address": "One Newark Center, Newark, NJ 07102",
+      "phone": "973-642-8170",
+      "services": ["Housing clinic", "Eviction defense"],
+      "eligibility": "Income-qualified"
+    }
+  ],
+  "emergencyResources": {
+    "rentalAssistance": [
+      {
+        "name": "Essex County Division of Housing",
+        "phone": "973-621-4500",
+        "services": "Emergency rental assistance (when funding available)"
+      },
+      {
+        "name": "Newark Department of Health & Community Wellness",
+        "phone": "973-733-4311",
+        "services": "Housing assistance programs"
+      },
+      {
+        "name": "NJ Department of Community Affairs",
+        "phone": "609-292-4080",
+        "services": "State rental assistance programs"
+      }
+    ],
+    "shelters": [
+      {
+        "name": "Covenant House New Jersey",
+        "phone": "973-621-1110",
+        "services": "Youth shelter (18-21)"
+      },
+      {
+        "name": "YMCA of Newark",
+        "phone": "973-624-8900",
+        "services": "Emergency housing"
+      },
+      {
+        "name": "Salvation Army - Newark",
+        "phone": "973-623-5959",
+        "services": "Emergency shelter, family services"
+      }
+    ]
+  },
+  "specialNotes": [
+    "Newark has the Right to Counsel program for income-eligible tenants",
+    "Strongest tenant protections in the nation apply",
+    "Good cause required for ALL evictions",
+    "Spanish and Portuguese interpreters available",
+    "Court is accessible by NJ Transit (Newark Penn Station)",
+    "Security screening required at building entrance"
+  ],
+  "proceduralTips": [
+    "Apply for legal aid as soon as you receive notice",
+    "Payment of ALL rent before judgment stops eviction",
+    "Bring all documentation organized and ready",
+    "Arrive early to find parking and navigate building",
+    "Know your rights under the Anti-Eviction Act"
+  ]
+}

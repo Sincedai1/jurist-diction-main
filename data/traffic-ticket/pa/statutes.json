@@ -1,0 +1,309 @@
+{
+  "title": "Pennsylvania Vehicle Code Statutes (75 Pa.C.S.)",
+  "description": "Key Pennsylvania Consolidated Statutes traffic provisions for defense packet generation",
+  "disclaimer": "This is informational only and not legal advice. Statutes may have been amended. Always verify current law.",
+  "lastUpdated": "2026-02-21",
+  "statutes": {
+    "speeding": {
+      "code": "75 Pa.C.S. 3362",
+      "title": "Maximum speed limits",
+      "description": "Establishes maximum speed limits on Pennsylvania highways and roads",
+      "defensePoints": [
+        "Calibration of speed measurement device (SPMDEE requirements)",
+        "Officer training and certification",
+        "Road conditions at time of violation",
+        "Signage visibility and placement",
+        "Speed limit posting requirements per 75 Pa.C.S. 3363"
+      ],
+      "relatedStatutes": [
+        "75 Pa.C.S. 3361 (Driving vehicle at safe speed)",
+        "75 Pa.C.S. 3363 (Alteration of maximum limits)",
+        "75 Pa.C.S. 3365 (Speed timing devices)"
+      ],
+      "points": {
+        "1-5_over": 2,
+        "6-10_over": 3,
+        "11-15_over": 3,
+        "16-25_over": 4,
+        "26-30_over": 5,
+        "31+_over": 5
+      },
+      "typicalFine": "35-200+ depending on speed and location (plus $92.50 in fees)"
+    },
+    "recklessDriving": {
+      "code": "75 Pa.C.S. 3736",
+      "title": "Reckless driving",
+      "description": "Operating a vehicle in willful or wanton disregard of safety",
+      "defensePoints": [
+        "Lack of willful or wanton conduct",
+        "Emergency circumstances",
+        "Road conditions necessitating actions",
+        "Witness testimony to actual driving",
+        "Definition of 'willful disregard'"
+      ],
+      "classification": "Summary Offense",
+      "penalties": {
+        "maxJail": "90 days",
+        "maxFine": "$200 (plus costs)",
+        "licenseSuspension": "6-month suspension for second or subsequent offense"
+      },
+      "points": 3,
+      "typicalFine": "200-500 (with costs)"
+    },
+    "carelessDriving": {
+      "code": "75 Pa.C.S. 3714",
+      "title": "Careless driving",
+      "description": "Driving in careless disregard of safety of persons or property",
+      "defensePoints": [
+        "Driving was reasonable under circumstances",
+        "No actual danger was created",
+        "Weather or road conditions",
+        "Witness testimony"
+      ],
+      "classification": "Summary Offense",
+      "points": 3,
+      "typicalFine": "150-300"
+    },
+    "suspendedLicense": {
+      "code": "75 Pa.C.S. 1543",
+      "title": "Driving while operating privilege is suspended or revoked",
+      "description": "Operating a vehicle with a suspended, revoked, or cancelled license",
+      "defensePoints": [
+        "Knowledge of suspension (or lack thereof)",
+        "Administrative error",
+        "Proper notice not received",
+        "Compliance with reinstatement requirements",
+        "Emergency circumstances"
+      ],
+      "classification": {
+        "first_offense": "Summary Offense",
+        "second_offense": "Summary Offense (mandatory minimum)",
+        "DUI_related": "Misdemeanor"
+      },
+      "penalties": {
+        "first_offense": {
+          "maxJail": "6 months",
+          "maxFine": "$500",
+          "additional_suspension": "1 year"
+        },
+        "second_offense": {
+          "minJail": "30 days",
+          "maxFine": "$1,000"
+        },
+        "DUI_related": {
+          "minJail": "60-90 days",
+          "fine": "$500-5,000"
+        }
+      },
+      "points": 0,
+      "typicalFine": "200-1,000+"
+    },
+    "noInsurance": {
+      "code": "75 Pa.C.S. 1786",
+      "title": "Required financial responsibility",
+      "description": "Operating a vehicle without required liability insurance",
+      "defensePoints": [
+        "Proof of coverage at time of stop",
+        "Insurance lapse was brief and unintentional",
+        "Vehicle was not being operated",
+        "Administrative error by insurance company"
+      ],
+      "classification": "Summary Offense",
+      "penalties": {
+        "minFine": "$300",
+        "licenseSuspension": "3 months (first offense)"
+      },
+      "points": 0,
+      "typicalFine": "300-500",
+      "requirements": {
+        "minimum_coverage": {
+          "bodily_injury_per_person": "$15,000",
+          "bodily_injury_per_accident": "$30,000",
+          "property_damage": "$5,000",
+          "combined_single_limit": "$35,000"
+        }
+      }
+    },
+    "improperLaneChange": {
+      "code": "75 Pa.C.S. 3309",
+      "title": "Driving on roadways laned for traffic",
+      "description": "Requirements for safe lane changes and passing",
+      "defensePoints": [
+        "Lane change was made safely",
+        "Signal was given as required",
+        "Visibility and road conditions",
+        "Necessity of maneuver",
+        "Witness testimony"
+      ],
+      "points": 3,
+      "typicalFine": "50-150"
+    },
+    "failureToYield": {
+      "code": "75 Pa.C.S. 3323",
+      "title": "Yield right-of-way",
+      "description": "Requirements for yielding right-of-way in various situations",
+      "defensePoints": [
+        "Right-of-way was not actually required",
+        "Other driver was not in hazardous proximity",
+        "Emergency circumstances",
+        "Traffic signal confusion",
+        "Witness testimony"
+      ],
+      "points": 3,
+      "typicalFine": "50-150"
+    },
+    "followingTooClose": {
+      "code": "75 Pa.C.S. 3310",
+      "title": "Following too closely",
+      "description": "Requirements for maintaining safe following distance",
+      "defensePoints": [
+        "Distance was reasonable for conditions",
+        "Other vehicle made sudden stop",
+        "Weather and road conditions",
+        "Traffic flow considerations",
+        "No accident occurred"
+      ],
+      "points": 3,
+      "typicalFine": "50-150"
+    },
+    "failureToSignal": {
+      "code": "75 Pa.C.S. 3334",
+      "title": "Signals by hand and arm or signal lamps",
+      "description": "Requirements for turn and stop signals",
+      "defensePoints": [
+        "Signal was given but not observed",
+        "Signal mechanism malfunction",
+        "Turn was not required in that location",
+        "Other drivers were aware of intentions",
+        "Mechanical failure documentation"
+      ],
+      "points": 3,
+      "typicalFine": "25-100"
+    },
+    "runningRedLight": {
+      "code": "75 Pa.C.S. 3112",
+      "title": "Traffic-control signals",
+      "description": "Requirements for obeying traffic signals",
+      "defensePoints": [
+        "Light was yellow when entering intersection",
+        "Signal timing malfunction",
+        "Emergency circumstances",
+        "Visibility issues (sun glare, etc.)",
+        "Camera calibration (if applicable)"
+      ],
+      "points": 3,
+      "typicalFine": "100-250"
+    },
+    "stopSign": {
+      "code": "75 Pa.C.S. 3323",
+      "title": "Stop signs and yield signs",
+      "description": "Requirements for stopping at stop signs",
+      "defensePoints": [
+        "Complete stop was made",
+        "Stop sign visibility",
+        "Sign not properly posted",
+        "Officer's view obstructed"
+      ],
+      "points": 3,
+      "typicalFine": "75-200"
+    },
+    "expiredRegistration": {
+      "code": "75 Pa.C.S. 1301",
+      "title": "Registration and certificate of title required",
+      "description": "Requirements for current vehicle registration",
+      "defensePoints": [
+        "Registration was current (documentation error)",
+        "Mailed renewal not received",
+        "Brief expiration period",
+        "Newly purchased vehicle",
+        "Administrative delay"
+      ],
+      "points": 0,
+      "typicalFine": "25-100"
+    },
+    "equipmentViolation": {
+      "code": "Various - Chapter 45",
+      "title": "Equipment violations",
+      "description": "Various equipment-related violations under Chapter 45",
+      "subcategories": {
+        "headlights": {
+          "code": "75 Pa.C.S. 4302",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "taillights": {
+          "code": "75 Pa.C.S. 4303",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "brakeLights": {
+          "code": "75 Pa.C.S. 4304",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "windshield": {
+          "code": "75 Pa.C.S. 4524",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "muffler": {
+          "code": "75 Pa.C.S. 4521",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "tint": {
+          "code": "75 Pa.C.S. 4524(e)",
+          "points": 0,
+          "fine": "50-150"
+        },
+        "inspection": {
+          "code": "75 Pa.C.S. 4703",
+          "points": 0,
+          "fine": "25-100"
+        }
+      },
+      "defensePoints": [
+        "Equipment was functioning at time of stop",
+        "Defect was unknown to driver",
+        "Immediate repair documentation",
+        "Manufacturer defect"
+      ]
+    }
+  },
+  "pointSystem": {
+    "description": "Pennsylvania Point System for Moving Violations",
+    "suspensionThresholds": {
+      "6_points": "Written warning and special examination may be required",
+      "6_points_second": "Departmental hearing required",
+      "11+_points": "License suspension (5 days per point over 10)"
+    },
+    "consequences": {
+      "first_suspension": "5 days per point over 10",
+      "second_suspension": "10 days per point over 10",
+      "third_suspension": "1 year revocation"
+    },
+    "pointReduction": {
+      "description": "Points are removed at rate of 3 per year for safe driving",
+      "safeDrivingPeriod": "12 consecutive months with no violations"
+    }
+  },
+  "generalProcedures": {
+    "contestTimeline": "Generally must respond within 10 days",
+    "courtOptions": [
+      "Pay the fine (admission of guilt)",
+      "Request hearing in court",
+      "Request traffic school (if eligible)",
+      "Plead not guilty and request trial"
+    ],
+    "diversionEligibility": {
+      "general": "Pennsylvania does not offer traditional diversion programs for traffic violations",
+      "note": "Some counties may offer accelerated rehabilitative disposition (ARD) for more serious offenses",
+      "requirements": [
+        "First-time offenders",
+        "Approval by district attorney",
+        "Not available for standard traffic violations"
+      ]
+    },
+    "trafficSchoolNote": "Pennsylvania does not offer traffic school to reduce points on plea bargaining - only by court order after conviction"
+  }
+}

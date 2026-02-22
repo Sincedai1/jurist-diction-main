@@ -1,0 +1,172 @@
+{
+  "name": "Rutherford County",
+  "countySeat": "Murfreesboro",
+  "population": "341,486",
+  "courts": {
+    "generalSessions": {
+      "name": "Rutherford County General Sessions Court",
+      "address": "116 W Lytle St, Murfreesboro, TN 37130",
+      "phone": "(615) 898-7812",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.rutherfordcountytn.gov/general-sessions/",
+      "parking": "Free public parking available",
+      "publicTransport": "Rover public transit available"
+    },
+    "municipal": {
+      "name": "Murfreesboro City Court",
+      "address": "111 W Vine St, Murfreesboro, TN 37130",
+      "phone": "(615) 848-2550",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.murfreesborotn.gov/173/City-Court",
+      "note": "Handles city ordinance and traffic violations within Murfreesboro city limits"
+    },
+    "trafficDivision": {
+      "name": "General Sessions Court - Traffic Division",
+      "address": "116 W Lytle St, Murfreesboro, TN 37130",
+      "phone": "(615) 898-7812",
+      "note": "Handles state traffic citations"
+    },
+    "suburbanMunicipal": {
+      "description": "Suburban municipalities have their own courts",
+      "cities": [
+        {
+          "name": "Smyrna City Court",
+          "address": "315 S Lowry St, Smyrna, TN 37167",
+          "phone": "(615) 459-9742"
+        },
+        {
+          "name": "La Vergne City Court",
+          "address": "5093 Murfreesboro Rd, La Vergne, TN 37086",
+          "phone": "(615) 793-6295"
+        }
+      ]
+    }
+  },
+  "districtAttorney": {
+    "office": "Rutherford County District Attorney's Office",
+    "address": "20 N Public Sq, Murfreesboro, TN 37130",
+    "phone": "(615) 898-7910",
+    "website": "https://www.rutherfordcountytn.gov/da/"
+  },
+  "publicDefender": {
+    "office": "Rutherford County Public Defender's Office",
+    "address": "303 N Church St, Murfreesboro, TN 37130",
+    "phone": "(615) 898-7850",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Rutherford County Circuit Court Clerk",
+    "address": "20 N Public Sq, Murfreesboro, TN 37130",
+    "phone": "(615) 898-7800",
+    "website": "https://www.rutherfordcountytn.gov/circuit-court/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Generally 10 days from citation date",
+      "process": [
+        "City tickets: Contact Murfreesboro City Court",
+        "County tickets: Contact General Sessions Court",
+        "Enter not guilty plea to receive court date",
+        "File discovery request with court clerk"
+      ],
+      "onlinePayment": "Available through City of Murfreesboro and Rutherford County websites",
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Court dates typically 4-6 weeks from arraignment",
+      "continuances": "Contact court clerk at least 48 hours before scheduled date",
+      "noShow": "Failure to appear may result in bench warrant and license suspension"
+    },
+    "diversionProgram": {
+      "name": "Rutherford County Judicial Diversion",
+      "eligibility": [
+        "First-time offenders",
+        "No prior diversions",
+        "Eligible misdemeanor traffic offenses"
+      ],
+      "requirements": [
+        "Complete defensive driving course",
+        "Pay program fees and court costs",
+        "Probation period (11 months 29 days typical)"
+      ],
+      "cost": "$150-250",
+      "contact": "District Attorney's Office - (615) 898-7910"
+    },
+    "trafficSchool": {
+      "approvedProviders": [
+        "National Safety Council",
+        "Tennessee-approved online courses"
+      ],
+      "deadline": "Must complete within 90 days of court order",
+      "cost": "$25-75"
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Murfreesboro Police Department",
+      "address": "1004 N Highland Ave, Murfreesboro, TN 37130",
+      "phone": "(615) 849-2670",
+      "recordsRequest": "(615) 849-2673",
+      "website": "https://www.murfreesborotn.gov/173/Police"
+    },
+    "highwayPatrol": {
+      "name": "Tennessee Highway Patrol - Murfreesboro District",
+      "address": "1643 Old Fort Pkwy, Murfreesboro, TN 37129",
+      "phone": "(615) 898-7900"
+    },
+    "rutherfordCountySheriff": {
+      "name": "Rutherford County Sheriff's Office",
+      "address": "940 New Salem Hwy, Murfreesboro, TN 37129",
+      "phone": "(615) 898-7770",
+      "website": "https://www.rutherfordcountytn.gov/sheriff/"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts or tank tops",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used",
+    "speedCameras": "Not used",
+    "universityArea": "MTSU area has additional traffic enforcement"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Public parking around square",
+        "City parking lots"
+      ],
+      "cost": "Free or low cost",
+      "note": "Generally easier parking than major metros"
+    },
+    "publicTransit": {
+      "service": "Rover Public Transportation",
+      "routes": "Limited routes in Murfreesboro",
+      "website": "https://www.murfreesborotn.gov/181/Transportation"
+    }
+  },
+  "additionalResources": {
+    "legalAid": {
+      "name": "Legal Aid Society - Murfreesboro Office",
+      "address": "113 W Burton St, Murfreesboro, TN 37130",
+      "phone": "(615) 895-8996",
+      "note": "Free legal assistance for qualifying individuals"
+    },
+    "lawyerReferral": {
+      "name": "Rutherford County Bar Association",
+      "phone": "(615) 896-0088"
+    }
+  },
+  "universityConsiderations": {
+    "name": "Middle Tennessee State University (MTSU)",
+    "note": "Campus traffic violations handled separately",
+    "campusPolice": {
+      "name": "MTSU Police Department",
+      "phone": "(615) 898-2424"
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "county": "Harrison",
+  "countySeat": "Biloxi",
+  "population": "210,000",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This is informational only. Contact the court directly for current procedures.",
+  "court": {
+    "name": "Harrison County Justice Court",
+    "division": "Civil Division",
+    "address": {
+      "justiceCourt": "730 Dr. Martin Luther King Jr. Boulevard, Biloxi, MS 39530",
+      "annex": "15309 Denny Road, Gulfport, MS 39503"
+    },
+    "phone": "228-865-4122",
+    "website": "https://www.co.harrison.ms.us",
+    "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+    "parking": "Free parking available at courthouse"
+  },
+  "clerkOffice": {
+    "name": "Harrison County Justice Court Clerk",
+    "address": "730 Dr. Martin Luther King Jr. Boulevard, Biloxi, MS 39530",
+    "phone": "228-865-4122",
+    "website": "https://www.co.harrison.ms.us"
+  },
+  "filingProcedures": {
+    "unlawfulDetainer": {
+      "filingLocation": "Justice Court Clerk's Office",
+      "filingFee": "$85 (subject to change)",
+      "methods": ["In person at clerk's office"],
+      "requiredDocuments": [
+        "Unlawful Detainer complaint",
+        "Copy of lease (if written)",
+        "Copy of 3-day or 30-day notice",
+        "Affidavit of service of notice"
+      ],
+      "serviceOfProcess": {
+        "methods": ["Sheriff's Office", "Private process server", "Certified mail"],
+        "sheriffFee": "Approximately $30-50",
+        "timeline": "Must be served at least 14 days before hearing"
+      }
+    },
+    "answer": {
+      "filingLocation": "Justice Court Clerk's Office",
+      "filingFee": "None for initial answer",
+      "deadline": "Before hearing date",
+      "recommended": "File at least 3 business days before hearing"
+    }
+  },
+  "hearingProcedures": {
+    "location": "Harrison County Justice Court",
+    "schedule": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "times": "9:00 AM typically; check summons"
+    },
+    "checkIn": {
+      "description": "Check in with court clerk upon arrival",
+      "arrivalTime": "At least 15-20 minutes before scheduled time"
+    },
+    "continuances": {
+      "policy": "May be granted for good cause",
+      "method": "Request from judge at hearing",
+      "limit": "Usually 2-4 weeks"
+    }
+  },
+  "timeline": {
+    "noticeToHearing": "14-21 days after unlawful detainer filed",
+    "judgmentToWrit": "5 days after judgment (appeal period)",
+    "writToEviction": "24-48 hours after writ issued"
+  },
+  "appealProcedures": {
+    "court": "Harrison County Circuit Court",
+    "deadline": "5 calendar days from judgment",
+    "bondAmount": "Judgment amount plus costs plus estimated rent",
+    "filingLocation": "Justice Court where judgment was entered",
+    "hearingTimeline": "30-60 days for Circuit Court setting"
+  },
+  "legalAidResources": [
+    {
+      "name": "Mississippi Center for Legal Services - Gulfport",
+      "address": "1845 23rd Avenue, Gulfport, MS 39501",
+      "phone": "228-863-9227",
+      "hours": "Monday-Friday 8:30 AM - 5:00 PM",
+      "eligibility": "Income-qualified tenants",
+      "services": ["Eviction defense", "Housing counseling", "Court representation", "Tenant rights education"],
+      "website": "https://www.mslegalservices.org",
+      "intake": "Call for intake appointment"
+    },
+    {
+      "name": "Mississippi Center for Justice - Gulf Coast Office",
+      "address": "1921 22nd Avenue, Suite 200, Gulfport, MS 39501",
+      "phone": "228-863-0020",
+      "services": ["Civil legal services", "Housing advocacy"],
+      "website": "https://www.mscenterforjustice.org"
+    },
+    {
+      "name": "Coastal Women for Change",
+      "address": "2608 12th Street, Gulfport, MS 39501",
+      "phone": "228-867-9110",
+      "services": ["Community resources and referrals"]
+    }
+  ],
+  "emergencyResources": {
+    "rentalAssistance": [
+      {
+        "name": "Harrison County Human Services",
+        "phone": "228-865-4125",
+        "services": "Emergency assistance (when funding available)"
+      },
+      {
+        "name": "Catholic Charities - Gulfport",
+        "phone": "228-863-8943",
+        "services": "Emergency rental assistance"
+      },
+      {
+        "name": "Salvation Army - Gulfport",
+        "phone": "228-896-4035",
+        "services": "Emergency assistance"
+      }
+    ],
+    "shelters": [
+      {
+        "name": "Back Bay Mission",
+        "phone": "228-432-0300",
+        "services": "Emergency shelter, day center"
+      },
+      {
+        "name": "Wings of Grace Rescue Mission",
+        "phone": "228-206-4220",
+        "services": "Men's shelter"
+      },
+      {
+        "name": "Gulf Coast Women's Center",
+        "phone": "228-436-3800",
+        "services": "Domestic violence shelter"
+      },
+      {
+        "name": "Salvation Army - Biloxi",
+        "phone": "228-374-8301",
+        "services": "Family shelter, emergency services"
+      }
+    ]
+  },
+  "specialNotes": [
+    "3-day notice for non-payment is very short - act immediately",
+    "Only 5 days to appeal - do not delay",
+    "Physical eviction can happen within 24-48 hours after writ",
+    "Gulf Coast courts may have different schedules during hurricane season",
+    "Legal aid available but may have waiting list"
+  ],
+  "proceduralTips": [
+    "Contact legal aid as soon as you receive notice",
+    "For non-payment, pay rent within 3 days if possible",
+    "Bring copies of all documents to court",
+    "Dress appropriately for court",
+    "Arrive early to check in with clerk"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Trousdale County",
+  "countySeat": "Hartsville",
+  "population": "11696",
+  "courts": {
+    "generalSessions": {
+      "name": "Trousdale County General Sessions Court",
+      "address": "Hartsville Courthouse, Hartsville, TN",
+      "phone": "(615) XXX-XXXX",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "Contact Hartsville County Clerk",
+      "judges": [
+        "Contact court for current judge information"
+      ],
+      "parking": "Public parking available at courthouse",
+      "publicTransport": "Limited public transit - check local routes"
+    }
+  },
+  "districtAttorney": {
+    "office": "Trousdale County District Attorney's Office",
+    "address": "Hartsville, TN",
+    "phone": "(615) XXX-XXXX",
+    "trafficDivisionContact": "(615) XXX-XXXX"
+  },
+  "publicDefender": {
+    "office": "Trousdale County Public Defender's Office",
+    "address": "Hartsville, TN",
+    "phone": "(615) XXX-XXXX",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Trousdale County Circuit Court Clerk",
+    "address": "Hartsville Courthouse, Hartsville, TN",
+    "phone": "(615) XXX-XXXX",
+    "website": "Contact county clerk"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Check citation for appearance deadline (typically 7-14 days)",
+      "process": [
+        "Contact court clerk to enter not guilty plea",
+        "Court date will be assigned",
+        "File discovery requests through court clerk"
+      ],
+      "paymentOptions": [
+        "Contact court for payment options"
+      ]
+    },
+    "courtDates": {
+      "scheduling": "Court dates typically scheduled 4-6 weeks out",
+      "continuances": "Contact court clerk at least 48 hours before court date",
+      "noShow": "Failure to appear may result in bench warrant and license suspension"
+    },
+    "diversionProgram": {
+      "name": "Trousdale County Traffic Diversion Program",
+      "eligibility": [
+        "First-time traffic offenders",
+        "No prior diversions in past 5 years",
+        "Violation not involving DUI, reckless driving, or accident with injury"
+      ],
+      "requirements": [
+        "Complete defensive driving course",
+        "Pay court costs and program fee",
+        "Stay violation-free during probation period"
+      ],
+      "cost": "$100-300 depending on offense",
+      "contact": "Contact Hartsville Court Clerk"
+    },
+    "trafficSchool": {
+      "approvedProviders": [
+        "Tennessee-approved online defensive driving courses",
+        "National Safety Council Tennessee Chapter"
+      ],
+      "deadline": "Must complete within 90 days of court order",
+      "cost": "$25-75 depending on provider"
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Trousdale County Sheriff's Office",
+      "address": "Hartsville, TN",
+      "phone": "(615) XXX-XXXX",
+      "recordsRequest": "(615) XXX-XXXX"
+    },
+    "highwayPatrol": {
+      "name": "Tennessee Highway Patrol - 15 District",
+      "phone": "Contact THP district office"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended; no shorts, tank tops, or hats",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 30 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Varies by municipality",
+    "speedCameras": "Contact local court for current policy"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Courthouse parking area"
+      ],
+      "cost": "Usually free at county courthouses",
+      "note": "Arrive early for parking"
+    },
+    "publicTransit": {
+      "service": "Limited in rural areas",
+      "note": "Check local transit options"
+    }
+  },
+  "additionalResources": {
+    "legalAid": {
+      "name": "Legal Aid Society of Middle Tennessee",
+      "address": "211 2nd Ave N, Nashville, TN",
+      "phone": "(615) 244-6610",
+      "website": "https://www.las.org"
+    }
+  }
+}

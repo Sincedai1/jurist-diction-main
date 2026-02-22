@@ -1,0 +1,105 @@
+{
+  "name": "Camden County",
+  "countySeat": "Camden",
+  "population": "523,485",
+  "courts": {
+    "municipal": {
+      "name": "Camden Municipal Court (and other municipal courts)",
+      "address": "520 Market St, Camden, NJ 08102",
+      "phone": "(856) 757-7300",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.ci.camden.nj.us/municipal-court",
+      "note": "37 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Camden County Superior Court",
+      "address": "101 Park Blvd, Camden, NJ 08103",
+      "phone": "(856) 650-9100",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Camden County Prosecutor's Office",
+    "address": "101 Park Blvd, Camden, NJ 08103",
+    "phone": "(856) 225-8500",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Camden County Public Defender's Office",
+    "address": "101 Park Blvd, Camden, NJ 08103",
+    "phone": "(856) 225-7275",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Camden County Clerk",
+    "address": "520 Market St, Camden, NJ 08102",
+    "phone": "(856) 225-7301",
+    "website": "https://www.camdencounty.com/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Camden Police Department",
+      "address": "800 Federal St, Camden, NJ 08103",
+      "phone": "(856) 757-7400"
+    },
+    "countyPolice": {
+      "name": "Camden County Sheriff's Office",
+      "address": "101 Park Blvd, Camden, NJ 08103",
+      "phone": "(856) 225-8500"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop A",
+      "phone": "(609) 861-2400"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and lot parking",
+      "cost": "$5-15"
+    },
+    "publicTransit": {
+      "service": "NJ Transit and PATCO",
+      "routes": "Bus, River Line, and PATCO to Philadelphia",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

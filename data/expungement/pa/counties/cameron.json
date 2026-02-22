@@ -1,0 +1,42 @@
+{
+  "county": "Cameron",
+  "countySeat": "Emporium",
+  "judicialDistrict": "59th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Cameron County",
+      "address": "20 East 5th Street",
+      "city": "Emporium",
+      "state": "PA",
+      "zip": "15834",
+      "phone": "(814) 486-0427",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Cameron County Clerk of Courts",
+    "address": "20 East 5th Street",
+    "city": "Emporium",
+    "state": "PA",
+    "zip": "15834",
+    "phone": "(814) 486-0427",
+    "website": "https://www.cameroncountypa.com"
+  },
+  "districtAttorney": {
+    "office": "Cameron County District Attorney's Office",
+    "phone": "(814) 486-0427"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Cameron County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Cameron County follows Pennsylvania Clean Slate Act"
+  ]
+}

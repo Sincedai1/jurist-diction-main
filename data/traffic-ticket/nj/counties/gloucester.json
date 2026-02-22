@@ -1,0 +1,105 @@
+{
+  "name": "Gloucester County",
+  "countySeat": "Woodbury",
+  "population": "302,294",
+  "courts": {
+    "municipal": {
+      "name": "Woodbury Municipal Court (and other municipal courts)",
+      "address": "25 S Broad St, Woodbury, NJ 08096",
+      "phone": "(856) 845-1300",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.woodbury.nj.us/municipal-court",
+      "note": "24 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Gloucester County Superior Court",
+      "address": "70 Hunter St, Woodbury, NJ 08096",
+      "phone": "(856) 853-3200",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Gloucester County Prosecutor's Office",
+    "address": "70 Hunter St, Woodbury, NJ 08096",
+    "phone": "(856) 853-3220",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Gloucester County Public Defender's Office",
+    "address": "70 Hunter St, Woodbury, NJ 08096",
+    "phone": "(856) 853-3200",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Gloucester County Clerk",
+    "address": "1 N Broad St, Woodbury, NJ 08096",
+    "phone": "(856) 853-3230",
+    "website": "https://www.gloucestercountynj.gov/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Woodbury Police Department",
+      "address": "25 S Broad St, Woodbury, NJ 08096",
+      "phone": "(856) 845-1300"
+    },
+    "countyPolice": {
+      "name": "Gloucester County Sheriff's Office",
+      "address": "70 Hunter St, Woodbury, NJ 08096",
+      "phone": "(856) 853-3226"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop A",
+      "phone": "(609) 861-2400"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and lot parking",
+      "cost": "$5-10"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus service to Philadelphia",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

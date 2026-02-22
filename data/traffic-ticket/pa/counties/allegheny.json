@@ -1,0 +1,112 @@
+{
+  "name": "Allegheny County",
+  "countySeat": "Pittsburgh",
+  "population": "1,250,578",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Allegheny County Magisterial District Courts",
+      "address": "Various locations throughout county",
+      "phone": "(412) 350-5400",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM (varies by office)",
+      "website": "https://www.alleghenycounty.us/courts/magisterial-district-courts/index.aspx",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Allegheny County",
+      "address": "436 Grant St, Pittsburgh, PA 15219",
+      "phone": "(412) 350-5400",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Allegheny County District Attorney's Office",
+    "address": "436 Grant St #401, Pittsburgh, PA 15219",
+    "phone": "(412) 350-4400",
+    "trafficDivisionContact": "(412) 350-4400"
+  },
+  "publicDefender": {
+    "office": "Allegheny County Public Defender",
+    "address": "436 Grant St, Pittsburgh, PA 15219",
+    "phone": "(412) 350-4200",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Allegheny County Clerk of Courts",
+    "address": "436 Grant St, Pittsburgh, PA 15219",
+    "phone": "(412) 350-5400",
+    "website": "https://www.alleghenycounty.us/courts/index.aspx"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation (check ticket for specific deadline)",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Allegheny County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": [
+        "PennDOT-approved defensive driving courses"
+      ]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Pittsburgh Bureau of Police",
+      "address": "1203 Western Ave, Pittsburgh, PA 15233",
+      "phone": "(412) 323-7141",
+      "recordsRequest": "(412) 323-7200"
+    },
+    "alleghenyCountyPolice": {
+      "name": "Allegheny County Police Department",
+      "address": "506 First Ave, Pittsburgh, PA 15219",
+      "phone": "(412) 473-1200"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Pittsburgh Station",
+      "address": "2800 Horseshoe Dr, Pittsburgh, PA 15212",
+      "phone": "(412) 787-2000"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Allegheny County",
+    "speedCameras": "Not currently used in Allegheny County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Downtown Pittsburgh parking garages",
+        "Metered street parking"
+      ],
+      "cost": "$5-15 for court appearance",
+      "note": "Allow time for parking in downtown area"
+    },
+    "publicTransit": {
+      "service": "Port Authority of Allegheny County (PAT)",
+      "routes": "Bus and light rail service",
+      "website": "https://www.ridepat.org/"
+    }
+  }
+}

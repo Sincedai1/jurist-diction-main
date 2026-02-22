@@ -1,0 +1,166 @@
+{
+  "county": "Essex",
+  "countySeat": "Newark",
+  "vicinage": "Vicinage 5",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "superiorCourt": {
+      "name": "Superior Court of New Jersey, Essex County",
+      "address": "50 West Market Street",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07102",
+      "phone": "(973) 693-5710",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "criminalDivision": "Room 201"
+    },
+    "criminalDivision": {
+      "name": "Criminal Division, Essex County",
+      "address": "50 West Market Street, Room 201",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07102",
+      "phone": "(973) 693-5710",
+      "expungementClerk": "Criminal Division Manager's Office"
+    }
+  },
+  "clerkInformation": {
+    "name": "Essex County Clerk, Superior Court",
+    "address": "50 West Market Street",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 621-4900",
+    "website": "https://www.njcourts.gov",
+    "expungementInfo": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "prosecutorOffice": {
+    "office": "Essex County Prosecutor's Office",
+    "name": "Essex County Prosecutor",
+    "address": "50 West Market Street",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07102",
+    "phone": "(973) 621-4700",
+    "expungementUnit": "Expungement Unit"
+  },
+  "fees": {
+    "filingFee": 75,
+    "certificationFee": 10,
+    "copyFee": 0.50,
+    "notes": "Standard $75 filing fee statewide. Fee waiver available for indigent applicants. Clean Slate automatic expungement is FREE."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Essex County processes a significant portion of NJ expungements",
+    "verification": "Check status through NJ State Police",
+    "automaticExpungement": "State system automatically processes eligible records",
+    "contactForIssues": "Contact Criminal Division if expunged records still appear"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at Superior Court, Criminal Division, Room 201",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 3:30 PM",
+    "prosecutorNotification": "Petitioner must serve copy on Essex County Prosecutor's Office",
+    "prosecutorServiceAddress": "50 West Market Street, Newark, NJ 07102",
+    "responsePeriod": "30 days for prosecutor to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions",
+    "hearingLocation": "Superior Court, Market Street if hearing scheduled",
+    "specialNotes": [
+      "Essex County has high volume of expungements",
+      "Must serve Prosecutor's Office with copy of petition",
+      "Use certified mail with return receipt for proof of service",
+      "Drug Court graduates may receive expedited processing"
+    ]
+  },
+  "timeline": {
+    "processingTime": "60-90 days for uncontested expungements",
+    "prosecutorResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required",
+    "cleanSlateProcessing": "Automatic - processed by state system"
+  },
+  "forms": {
+    "whereToObtain": "Available at Court Clerk's office or NJ Courts website",
+    "onlineForms": "https://www.njcourts.gov/self-help/expungement",
+    "requiredForms": [
+      "Petition for Expungement (Form A)",
+      "Order for Expungement (Form B)",
+      "Notice of Expungement Order (Form C)"
+    ],
+    "additionalDocuments": [
+      "Certified copy of judgment/disposition",
+      "Proof of payment of fines and costs",
+      "Fee waiver application (if requesting)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Services of New Jersey - Newark",
+        "address": "60 Evergreen Place, Suite 300",
+        "city": "East Orange",
+        "phone": "(973) 624-4500",
+        "website": "https://www.lsnjlaw.org",
+        "services": "Free legal assistance for eligible individuals"
+      },
+      {
+        "name": "Essex County Bar Association Lawyer Referral",
+        "address": "60 Evergreen Place",
+        "city": "East Orange",
+        "phone": "(973) 622-6200"
+      },
+      {
+        "name": "Rutgers Law School - Newark Clinic",
+        "address": "123 Washington Street",
+        "city": "Newark",
+        "phone": "(973) 353-5687"
+      }
+    ],
+    "selfHelp": {
+      "name": "Essex County Law Library",
+      "location": "50 West Market Street",
+      "city": "Newark",
+      "hours": "Monday-Friday 9:00 AM - 4:00 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinics": [
+      {
+        "name": "LSNJ Expungement Clinics",
+        "schedule": "Scheduled periodically",
+        "services": "Free legal assistance with expungement paperwork",
+        "contact": "(973) 624-4500"
+      }
+    ],
+    "reentryPrograms": [
+      {
+        "name": "Essex County Reentry Services",
+        "address": "50 West Market Street",
+        "city": "Newark",
+        "phone": "(973) 621-4900",
+        "services": "Comprehensive reentry services including expungement assistance"
+      },
+      {
+        "name": "NJ Reentry Corporation - Newark",
+        "address": "31 Clinton Street",
+        "city": "Newark",
+        "phone": "(973) 494-6770",
+        "services": "Reentry services and expungement help"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtWebsite": "https://www.njcourts.gov",
+    "statePoliceRecords": "https://www.njsp.org",
+    "caseSearch": "https://www.njcourts.gov/attorneys/case-management",
+    "selfHelp": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "notes": [
+    "Essex County is New Jersey's most populous county for criminal cases",
+    "Newark is the county seat and largest city",
+    "Standard $75 filing fee applies (fee waiver available)",
+    "Clean Slate automatic expungement is FREE",
+    "High volume court - processing may take slightly longer"
+  ]
+}

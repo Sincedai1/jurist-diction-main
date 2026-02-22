@@ -1,0 +1,71 @@
+{
+  "county": "Bucks",
+  "countySeat": "Doylestown",
+  "population": "646,538",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This is informational only. Contact the court directly for current procedures.",
+  "court": {
+    "name": "Court of Common Pleas of Bucks County",
+    "division": "Civil Division",
+    "address": "100 North Main Street, Doylestown, PA 18901",
+    "phone": "(215) 348-6000",
+    "website": "https://www.buckscounty.gov",
+    "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+  },
+  "clerkOffice": {
+    "name": "Prothonotary's Office",
+    "address": "100 North Main Street, Doylestown, PA 18901",
+    "phone": "(215) 348-6100"
+  },
+  "filingProcedures": {
+    "landlordTenantComplaint": {
+      "filingLocation": "Prothonotary's Office",
+      "filingFee": "$100-150 (subject to change)",
+      "methods": ["In person", "Mail"],
+      "requiredDocuments": [
+        "Landlord-Tenant Complaint form",
+        "Copy of lease (if written)",
+        "Copy of notice to vacate",
+        "Proof of service of notice"
+      ],
+      "serviceOfProcess": {
+        "methods": ["Sheriff's Office", "Private process server", "Certified mail"],
+        "timeline": "Typically 10 days before hearing"
+      }
+    },
+    "answer": {
+      "filingLocation": "Same as complaint",
+      "filingFee": "None for initial answer",
+      "deadline": "Before hearing date"
+    }
+  },
+  "hearingProcedures": {
+    "location": "Courthouse",
+    "continuances": {
+      "policy": "Request from judge at hearing",
+      "limit": "Up to 30 days typically"
+    }
+  },
+  "timeline": {
+    "noticeToHearing": "10-20 days after complaint filed",
+    "judgmentToEviction": "Order executed by landlord with sheriff"
+  },
+  "appealProcedures": {
+    "court": "Court of Common Pleas",
+    "deadline": "30 calendar days from judgment",
+    "bondAmount": "Judgment amount plus costs plus 3 months rent"
+  },
+  "legalAidResources": [
+    {
+      "name": "Bucks County Legal Aid",
+      "address": "100 N Main Street, Doylestown, PA 18901",
+      "phone": "(215) 781-6400",
+      "services": ["Eviction defense", "Housing counseling"],
+      "website": "https://www.buckslegal.org"
+    }
+  ],
+  "specialNotes": [
+    "Bucks County is a suburban county with moderate legal aid resources",
+    "Check with Prothonotary for current filing fees"
+  ]
+}

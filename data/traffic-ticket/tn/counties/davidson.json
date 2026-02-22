@@ -1,0 +1,135 @@
+{
+  "name": "Davidson County",
+  "countySeat": "Nashville",
+  "population": "715,884",
+  "courts": {
+    "generalSessions": {
+      "name": "Davidson County General Sessions Court",
+      "address": "101 James Robertson Pkwy, Nashville, TN 37201",
+      "phone": "(615) 862-5195",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://general-sessions.nashville.gov/",
+      "judges": ["Multiple divisions - check ticket for assigned division"],
+      "parking": "Public parking available at multiple locations downtown",
+      "publicTransport": "Accessible via Nashville MTA bus system"
+    },
+    "municipal": {
+      "name": "Nashville Metropolitan Court",
+      "address": "101 James Robertson Pkwy, Nashville, TN 37201",
+      "phone": "(615) 862-5195",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "note": "Handles city ordinance violations; state traffic offenses go to General Sessions"
+    },
+    "trafficDivision": {
+      "name": "Traffic Division",
+      "location": "Suite 111, Historic Metro Courthouse",
+      "phone": "(615) 862-5195",
+      "note": "Handles traffic citations and payments"
+    }
+  },
+  "districtAttorney": {
+    "office": "Davidson County District Attorney's Office",
+    "address": "222 2nd Ave N, Nashville, TN 37201",
+    "phone": "(615) 862-5500",
+    "trafficDivisionContact": "(615) 862-5500"
+  },
+  "publicDefender": {
+    "office": "Metropolitan Public Defender's Office",
+    "address": "222 2nd Ave N, Nashville, TN 37201",
+    "phone": "(615) 862-5740",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Davidson County Circuit Court Clerk",
+    "address": "1 Public Square, Nashville, TN 37201",
+    "phone": "(615) 862-5195",
+    "website": "https://ccc.nashville.gov/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear or pay within 7 days of citation",
+      "process": [
+        "Appear at Traffic Division window to enter plea",
+        "Court date will be assigned for not guilty plea",
+        "Discovery requests must be filed with the court"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail", "Drop box"]
+    },
+    "courtDates": {
+      "scheduling": "Court dates typically scheduled 4-6 weeks out",
+      "continuances": "One continuance may be granted by clerk; subsequent require judge approval",
+      "noShow": "Failure to appear may result in bench warrant and license suspension"
+    },
+    "diversionProgram": {
+      "name": "Davidson County Traffic Diversion Program",
+      "eligibility": [
+        "First-time traffic offenders",
+        "No prior diversions in past 5 years",
+        "Violation not involving DUI, reckless driving, or accident with injury"
+      ],
+      "requirements": [
+        "Complete defensive driving course",
+        "Pay court costs and program fee",
+        "Stay violation-free during probation period (90 days to 1 year)"
+      ],
+      "cost": "Approximately $150-200 including course and court costs",
+      "contact": "(615) 862-5195"
+    },
+    "trafficSchool": {
+      "approvedProviders": [
+        "National Safety Council Tennessee Chapter",
+        "AAA Tennessee",
+        "Various online providers approved by Tennessee DOS"
+      ],
+      "deadline": "Must complete within 90 days of court order",
+      "cost": "$25-75 depending on provider"
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Metropolitan Nashville Police Department",
+      "address": "3055 Lebanon Pike, Nashville, TN 37218",
+      "phone": "(615) 862-8600",
+      "recordsRequest": "(615) 862-7341",
+      "website": "https://www.nashville.gov/departments/police"
+    },
+    "highwayPatrol": {
+      "name": "Tennessee Highway Patrol - Nashville District",
+      "address": "624 Foster Ave, Nashville, TN 37210",
+      "phone": "(615) 741-2060"
+    },
+    "davidsonCountySheriff": {
+      "name": "Davidson County Sheriff's Office",
+      "address": "710 S 5th St, Nashville, TN 37206",
+      "phone": "(615) 862-8170"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts, tank tops, or hats",
+    "electronics": "Cell phones must be silenced; no recording without permission",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 30 minutes early to clear security and check in"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones; strict enforcement",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Civil violations; does not add points to license",
+    "speedCameras": "Not currently used in Davidson County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Public Square Garage - 101 James Robertson Pkwy",
+        "Metro Courthouse Garage",
+        "Various metered street parking"
+      ],
+      "cost": "$5-15 for court appearance",
+      "note": "Arrive early for parking; downtown parking fills quickly"
+    },
+    "publicTransit": {
+      "service": "WeGo Public Transit (formerly Nashville MTA)",
+      "routes": "Multiple routes serve downtown",
+      "website": "https://www.wegotransit.com/"
+    }
+  }
+}

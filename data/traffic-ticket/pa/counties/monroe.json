@@ -1,0 +1,102 @@
+{
+  "name": "Monroe County",
+  "countySeat": "Stroudsburg",
+  "population": "168,578",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Monroe County Magisterial District Courts",
+      "address": "610 Monroe Street, Stroudsburg, PA 18360",
+      "phone": "(570) 517-3900",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.monroecounty.gov",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Monroe County",
+      "address": "610 Monroe Street, Stroudsburg, PA 18360",
+      "phone": "(570) 517-3900",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Monroe County District Attorney's Office",
+    "address": "610 Monroe Street, Stroudsburg, PA 18360",
+    "phone": "(570) 517-3910",
+    "trafficDivisionContact": "(570) 517-3910"
+  },
+  "publicDefender": {
+    "office": "Monroe County Public Defender",
+    "address": "610 Monroe Street, Stroudsburg, PA 18360",
+    "phone": "(570) 517-3920",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Monroe County Clerk of Courts",
+    "address": "610 Monroe Street, Stroudsburg, PA 18360",
+    "phone": "(570) 517-3900",
+    "website": "https://www.monroecounty.gov"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Monroe County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Stroud Area Regional Police Department",
+      "address": "100 Day Street, East Stroudsburg, PA 18301",
+      "phone": "(570) 421-6800",
+      "recordsRequest": "(570) 421-6800"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Swiftwater Station",
+      "address":  "72 Old Bridge Road, Swiftwater, PA 18370",
+      "phone": "(570) 839-7701"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Monroe County",
+    "speedCameras": "Not currently used in Monroe County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse", "Public parking lots"],
+      "cost": "Free to $5 for court appearance",
+      "note": "Parking generally available"
+    },
+    "publicTransit": {
+      "service": "Martz Trailways",
+      "routes": "Bus service to NYC and throughout area",
+      "website": "https://www.martztrailways.com"
+    }
+  }
+}

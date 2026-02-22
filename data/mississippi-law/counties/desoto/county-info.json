@@ -1,0 +1,94 @@
+{
+  "county": "DeSoto County",
+  "countySeat": "Hernando",
+  "population": 187000,
+  "established": 1836,
+  "namedAfter": "Hernando de Soto",
+  "cities": ["Southaven", "Olive Branch", "Horn Lake", "Hernando", "Walls", "Lake Cormorant", "Nesbit"],
+  "courts": {
+    "circuitCourt": {
+      "district": "17th Judicial District",
+      "judges": 3,
+      "location": "2535 Highway 51 South, Suite 1, Hernando, MS 38632",
+      "phone": "662-429-1300",
+      "jurisdiction": ["All felony cases", "Civil cases over $200,000", "Appeals from lower courts"],
+      "filingFees": {"civil": "$157.00", "appeal": "$150.00"}
+    },
+    "chanceryCourt": {
+      "district": "3rd Chancery District",
+      "judges": 2,
+      "location": "2535 Highway 51 South, Suite 1, Hernando, MS 38632",
+      "phone": "662-429-1320",
+      "jurisdiction": ["Divorce and domestic relations", "Probate and estates", "Real property disputes", "Guardianships"],
+      "filingFees": {"divorce": "$127.00", "probate": "$127.00"}
+    },
+    "countyCourt": {
+      "judges": 3,
+      "location": "2535 Highway 51 South, Hernando, MS 38632",
+      "phone": "662-429-1300",
+      "jurisdiction": ["Civil cases up to $200,000", "Misdemeanors", "Preliminary hearings", "Evictions"],
+      "filingFees": {"civil": "$97.00", "smallClaims": "$62.00"}
+    },
+    "justiceCourt": {
+      "judges": 2,
+      "location": "2535 Highway 51 South, Hernando, MS 38632",
+      "phone": "662-429-1310",
+      "jurisdiction": ["Civil cases up to $3,500", "Misdemeanors", "Traffic violations", "Preliminary hearings"],
+      "filingFees": {"civil": "$57.00", "smallClaims": "$42.00"}
+    },
+    "youthCourt": {
+      "judges": 1,
+      "location": "2535 Highway 51 South, Hernando, MS 38632",
+      "jurisdiction": ["Juvenile delinquency", "Child abuse/neglect", "CHINS"]
+    },
+    "drugCourt": {
+      "type": "Adult Felony Drug Court",
+      "location": "2535 Highway 51 South, Hernando, MS 38632",
+      "programDuration": "12-24 months"
+    }
+  },
+  "municipalCourts": [
+    {"name": "Southaven Municipal Court", "location": "8710 Northwest Drive, Southaven, MS 38671", "phone": "662-393-3131", "judges": 2},
+    {"name": "Olive Branch Municipal Court", "location": "7402 Pigeon Roost Road, Olive Branch, MS 38654", "phone": "662-895-2810", "judges": 2},
+    {"name": "Horn Lake Municipal Court", "location": "6815 Malone Street, Horn Lake, MS 38637", "phone": "662-393-4454", "judges": 1},
+    {"name": "Hernando Municipal Court", "location": "2605 Elm Street, Hernando, MS 38632", "phone": "662-429-3297", "judges": 1},
+    {"name": "Walls Municipal Court", "location": "7051 Highway 161, Walls, MS 38680", "phone": "662-781-1300", "judges": 1}
+  ],
+  "lawEnforcement": {
+    "sheriffsOffice": {"name": "DeSoto County Sheriff's Office", "location": "3091 Industrial Parkway West, Hernando, MS 38632", "phone": "662-429-1470"},
+    "policeDepartments": [
+      {"name": "Southaven Police Department", "phone": "662-393-8652"},
+      {"name": "Olive Branch Police Department", "phone": "662-895-4111"},
+      {"name": "Horn Lake Police Department", "phone": "662-393-6174"},
+      {"name": "Hernando Police Department", "phone": "662-429-9096"}
+    ]
+  },
+  "detentionFacilities": {
+    "name": "DeSoto County Jail",
+    "location": "3091 Industrial Parkway West, Hernando, MS 38632",
+    "phone": "662-429-1470"
+  },
+  "districtAttorney": {
+    "office": "17th Judicial District Attorney",
+    "location": "2535 Highway 51 South, Hernando, MS 38632",
+    "phone": "662-429-1330"
+  },
+  "publicDefender": {
+    "name": "DeSoto County Public Defender",
+    "phone": "662-429-1340"
+  },
+  "realPropertyRecords": {
+    "office": "Chancery Clerk",
+    "location": "2535 Highway 51 South, Hernando, MS 38632",
+    "phone": "662-429-1320"
+  },
+  "websites": {
+    "county": "https://www.desotocountyms.gov/",
+    "sheriff": "https://www.desotocountyms.gov/sheriff"
+  },
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "DeSoto County Government",
+    "notes": "Third most populous county. Part of Memphis metropolitan area. Fastest growing in northern Mississippi."
+  }
+}

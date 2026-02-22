@@ -1,0 +1,40 @@
+{
+  "county": "Elk",
+  "countySeat": "Ridgway",
+  "judicialDistrict": "51st Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Elk County",
+      "address": "100 Main Street",
+      "city": "Ridgway",
+      "state": "PA",
+      "zip": "15853",
+      "phone": "(814) 776-1100"
+    }
+  },
+  "clerkInformation": {
+    "name": "Elk County Clerk of Courts",
+    "address": "100 Main Street",
+    "city": "Ridgway",
+    "state": "PA",
+    "zip": "15853",
+    "phone": "(814) 776-1100",
+    "website": "https://www.co.elk.pa.us"
+  },
+  "districtAttorney": {
+    "office": "Elk County District Attorney's Office",
+    "phone": "(814) 776-1120"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Elk County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Elk County follows Pennsylvania Clean Slate Act"
+  ]
+}

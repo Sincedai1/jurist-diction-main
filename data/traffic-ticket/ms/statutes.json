@@ -1,0 +1,310 @@
+{
+  "title": "Mississippi Motor Vehicle Code (MS Code Title 63)",
+  "description": "Key Mississippi Code traffic provisions for defense packet generation",
+  "disclaimer": "This is informational only and not legal advice. Statutes may have been amended. Always verify current law.",
+  "lastUpdated": "2026-02-21",
+  "statutes": {
+    "speeding": {
+      "code": "MS Code 63-3-501",
+      "title": "Speed limits",
+      "description": "Establishes speed limits on Mississippi highways and roads",
+      "defensePoints": [
+        "Calibration of speed measurement device",
+        "Officer training and certification",
+        "Road conditions at time of violation",
+        "Signage visibility and placement",
+        "Speed limit posting requirements"
+      ],
+      "relatedStatutes": [
+        "MS Code 63-3-503 (Speed limit signs)",
+        "MS Code 63-3-505 (Decreased speed requirements)",
+        "MS Code 63-3-517 (Prima facie evidence)"
+      ],
+      "points": {
+        "1-5_over": 0,
+        "6-10_over": 2,
+        "11-15_over": 3,
+        "16-20_over": 4,
+        "21-25_over": 5,
+        "26+_over": 6
+      },
+      "typicalFine": "50-200+ depending on speed and location"
+    },
+    "recklessDriving": {
+      "code": "MS Code 63-3-1201",
+      "title": "Reckless driving",
+      "description": "Operating any vehicle in reckless disregard of safety",
+      "defensePoints": [
+        "Lack of willful or wanton conduct",
+        "Emergency circumstances",
+        "Road conditions necessitating actions",
+        "Witness testimony to actual driving",
+        "Definition of 'reckless disregard'"
+      ],
+      "classification": "Misdemeanor",
+      "penalties": {
+        "first_offense": {
+          "maxFine": "$500",
+          "maxJail": "90 days"
+        },
+        "second_offense": {
+          "maxFine": "$1,000",
+          "maxJail": "6 months"
+        }
+      },
+      "points": 6,
+      "typicalFine": "100-500"
+    },
+    "carelessDriving": {
+      "code": "MS Code 63-3-1205",
+      "title": "Careless driving",
+      "description": "Driving without due care and attention",
+      "defensePoints": [
+        "Driving was reasonable under circumstances",
+        "No actual danger was created",
+        "Weather or road conditions",
+        "Witness testimony"
+      ],
+      "classification": "Traffic Violation",
+      "points": 2,
+      "typicalFine": "50-150"
+    },
+    "suspendedLicense": {
+      "code": "MS Code 63-1-63",
+      "title": "Driving while license suspended or revoked",
+      "description": "Operating a vehicle with a suspended, revoked, or cancelled license",
+      "defensePoints": [
+        "Knowledge of suspension (or lack thereof)",
+        "Administrative error",
+        "Proper notice not received",
+        "Compliance with reinstatement requirements",
+        "Emergency circumstances"
+      ],
+      "classification": {
+        "first_offense": "Misdemeanor",
+        "subsequent_offenses": "Misdemeanor with enhanced penalties"
+      },
+      "penalties": {
+        "first_offense": {
+          "maxFine": "$500",
+          "maxJail": "6 months",
+          "additional_suspension": "Possible extension"
+        },
+        "second_offense": {
+          "minFine": "$500",
+          "maxFine": "$1,000",
+          "minJail": "48 hours",
+          "maxJail": "6 months"
+        }
+      },
+      "points": 0,
+      "typicalFine": "200-500"
+    },
+    "noInsurance": {
+      "code": "MS Code 63-15-4",
+      "title": "Motor vehicle liability insurance required",
+      "description": "Operating a vehicle without required liability insurance",
+      "defensePoints": [
+        "Proof of coverage at time of stop",
+        "Insurance lapse was brief and unintentional",
+        "Vehicle was not being operated",
+        "Administrative error by insurance company"
+      ],
+      "classification": "Misdemeanor",
+      "penalties": {
+        "first_offense": {
+          "maxFine": "$500"
+        },
+        "second_offense": {
+          "maxFine": "$1,000",
+          "licenseSuspension": "1 year or until proof of insurance"
+        }
+      },
+      "points": 0,
+      "typicalFine": "100-500",
+      "requirements": {
+        "minimum_coverage": {
+          "bodily_injury_per_person": "$25,000",
+          "bodily_injury_per_accident": "$50,000",
+          "property_damage": "$25,000"
+        }
+      }
+    },
+    "improperLaneChange": {
+      "code": "MS Code 63-3-703",
+      "title": "Driving on roadways laned for traffic",
+      "description": "Requirements for safe lane changes and passing",
+      "defensePoints": [
+        "Lane change was made safely",
+        "Signal was given as required",
+        "Visibility and road conditions",
+        "Necessity of maneuver",
+        "Witness testimony"
+      ],
+      "points": 2,
+      "typicalFine": "50-150"
+    },
+    "failureToYield": {
+      "code": "MS Code 63-3-801",
+      "title": "Vehicle approaching or entering intersection",
+      "description": "Requirements for yielding right-of-way in various situations",
+      "defensePoints": [
+        "Right-of-way was not actually required",
+        "Other driver was not in hazardous proximity",
+        "Emergency circumstances",
+        "Traffic signal confusion",
+        "Witness testimony"
+      ],
+      "points": 2,
+      "typicalFine": "50-150"
+    },
+    "followingTooClose": {
+      "code": "MS Code 63-3-1101",
+      "title": "Following too closely",
+      "description": "Requirements for maintaining safe following distance",
+      "defensePoints": [
+        "Distance was reasonable for conditions",
+        "Other vehicle made sudden stop",
+        "Weather and road conditions",
+        "Traffic flow considerations",
+        "No accident occurred"
+      ],
+      "points": 2,
+      "typicalFine": "50-150"
+    },
+    "failureToSignal": {
+      "code": "MS Code 63-3-705",
+      "title": "Signals for turning and stopping",
+      "description": "Requirements for turn and stop signals",
+      "defensePoints": [
+        "Signal was given but not observed",
+        "Signal mechanism malfunction",
+        "Turn was not required in that location",
+        "Other drivers were aware of intentions",
+        "Mechanical failure documentation"
+      ],
+      "points": 2,
+      "typicalFine": "25-100"
+    },
+    "runningRedLight": {
+      "code": "MS Code 63-3-1001",
+      "title": "Obedience to traffic-control signals",
+      "description": "Requirements for obeying traffic signals",
+      "defensePoints": [
+        "Light was yellow when entering intersection",
+        "Signal timing malfunction",
+        "Emergency circumstances",
+        "Visibility issues (sun glare, etc.)",
+        "Camera calibration (if applicable)"
+      ],
+      "points": 2,
+      "typicalFine": "75-200"
+    },
+    "stopSign": {
+      "code": "MS Code 63-3-803",
+      "title": "Vehicle entering stop intersection",
+      "description": "Requirements for stopping at stop signs",
+      "defensePoints": [
+        "Complete stop was made",
+        "Stop sign visibility",
+        "Sign not properly posted",
+        "Officer's view obstructed"
+      ],
+      "points": 2,
+      "typicalFine": "75-200"
+    },
+    "expiredRegistration": {
+      "code": "MS Code 27-19-41",
+      "title": "Display of license plates",
+      "description": "Requirements for current vehicle registration",
+      "defensePoints": [
+        "Registration was current (documentation error)",
+        "Mailed renewal not received",
+        "Brief expiration period",
+        "Newly purchased vehicle",
+        "Administrative delay"
+      ],
+      "points": 0,
+      "typicalFine": "25-100"
+    },
+    "equipmentViolation": {
+      "code": "Various - Title 63 Chapter 7",
+      "title": "Equipment violations",
+      "description": "Various equipment-related violations",
+      "subcategories": {
+        "headlights": {
+          "code": "MS Code 63-7-7",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "taillights": {
+          "code": "MS Code 63-7-13",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "brakeLights": {
+          "code": "MS Code 63-7-11",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "windshield": {
+          "code": "MS Code 63-7-57",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "muffler": {
+          "code": "MS Code 63-7-51",
+          "points": 0,
+          "fine": "25-100"
+        },
+        "tint": {
+          "code": "MS Code 63-7-59",
+          "points": 0,
+          "fine": "50-150"
+        },
+        "inspection": {
+          "code": "MS Code 63-13-1",
+          "points": 0,
+          "fine": "25-100"
+        }
+      },
+      "defensePoints": [
+        "Equipment was functioning at time of stop",
+        "Defect was unknown to driver",
+        "Immediate repair documentation",
+        "Manufacturer defect"
+      ]
+    }
+  },
+  "pointSystem": {
+    "description": "Mississippi Point System for Moving Violations",
+    "suspensionThresholds": {
+      "12_points": "License suspension notice issued"
+    },
+    "consequences": {
+      "8-11_points": "Warning letter from DPS",
+      "12+_points": "License suspension hearing scheduled"
+    },
+    "pointReduction": {
+      "description": "Points remain on record for 2-3 years",
+      "safeDrivingPeriod": "Points may be reduced for safe driving over time"
+    }
+  },
+  "generalProcedures": {
+    "contestTimeline": "Generally must appear or pay within time specified on citation",
+    "courtOptions": [
+      "Pay the fine (admission of guilt)",
+      "Request court hearing",
+      "Plead not guilty",
+      "Request defensive driving course (if eligible)"
+    ],
+    "trafficSchoolOptions": {
+      "description": "Traffic school may be offered to reduce or dismiss charges",
+      "eligibility": [
+        "First-time offenders",
+        "Minor violations only",
+        "Court approval required"
+      ]
+    }
+  }
+}

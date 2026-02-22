@@ -1,0 +1,112 @@
+{
+  "county": "Salem",
+  "countySeat": "Salem",
+  "population": "64,837",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This is informational only. Contact the court directly for current procedures.",
+  "court": {
+    "name": "Salem County Superior Court - Special Civil Part",
+    "division": "Landlord-Tenant",
+    "address": "92 Market St, Salem, NJ 08079",
+    "phone": "(856) 935-3800",
+    "website": "https://www.njcourts.gov",
+    "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+    "parking": "Street parking available"
+  },
+  "clerkOffice": {
+    "name": "Special Civil Part Clerk's Office",
+    "address": "92 Market St, Salem, NJ 08079",
+    "phone": "(856) 935-3800",
+    "website": "https://www.njcourts.gov"
+  },
+  "filingProcedures": {
+    "complaintForPossession": {
+      "filingLocation": "Special Civil Part Clerk's Office",
+      "filingFee": "$50 (subject to change)",
+      "methods": ["In person", "E-filing available through NJ Courts"],
+      "requiredDocuments": [
+        "Complaint for Possession",
+        "Copy of lease (if written)",
+        "Copy of notice served on tenant",
+        "Certification of service of notice"
+      ],
+      "serviceOfProcess": {
+        "methods": ["Court officer", "Private process server", "Certified and regular mail"],
+        "timeline": "At least 10 days before trial date"
+      }
+    },
+    "answer": {
+      "filingLocation": "Same as complaint",
+      "filingFee": "None for tenant answer",
+      "deadline": "Before hearing date (can be filed at hearing)",
+      "recommended": "File at least 3 business days before hearing"
+    }
+  },
+  "hearingProcedures": {
+    "location": "92 Market St, Salem",
+    "schedule": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "times": "9:00 AM and 1:00 PM dockets typically"
+    },
+    "checkIn": {
+      "description": "Check docket in hallway; find your courtroom",
+      "arrivalTime": "At least 30 minutes before scheduled time"
+    },
+    "continuances": {
+      "policy": "May be granted for good cause",
+      "method": "Request from judge at hearing or motion",
+      "limit": "Usually 2-4 weeks"
+    }
+  },
+  "timeline": {
+    "noticeToHearing": "2-3 weeks after complaint filed",
+    "judgmentToWarrant": "3 business days after judgment",
+    "warrantToEviction": "Usually within 7-14 days after warrant"
+  },
+  "rightToCounsel": {
+    "description": "NJ has some of the strongest tenant protections in the nation",
+    "eligibility": "Income-qualified tenants may receive legal aid",
+    "howToApply": [
+      "Contact Legal Services of New Jersey: 1-888-576-5529",
+      "Ask at court for referral"
+    ]
+  },
+  "legalAidResources": [
+    {
+      "name": "Legal Services of New Jersey - Salem County",
+      "address": "92 Market St, Salem, NJ 08079",
+      "phone": "(856) 935-3800",
+      "hours": "Monday-Friday 8:30 AM - 5:00 PM",
+      "eligibility": "Income-qualified tenants",
+      "services": ["Eviction defense", "Housing counseling", "Court representation"],
+      "website": "https://www.lsnj.org"
+    }
+  ],
+  "emergencyResources": {
+    "rentalAssistance": [
+      {
+        "name": "Salem County Division of Housing",
+        "phone": "(856) 935-3800",
+        "services": "Emergency rental assistance (when funding available)"
+      },
+      {
+        "name": "NJ Department of Community Affairs",
+        "phone": "(609) 292-4080",
+        "services": "State rental assistance programs"
+      }
+    ]
+  },
+  "specialNotes": [
+    "Strongest tenant protections in the nation apply (Anti-Eviction Act)",
+    "Good cause required for ALL evictions",
+    "Least populous county in NJ",
+    "Rural agricultural area",
+    "Payment of ALL rent before judgment stops eviction"
+  ],
+  "proceduralTips": [
+    "Apply for legal aid as soon as you receive notice",
+    "Payment of ALL rent before judgment stops eviction",
+    "Bring all documentation organized and ready",
+    "Know your rights under the Anti-Eviction Act"
+  ]
+}

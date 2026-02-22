@@ -1,0 +1,123 @@
+{
+  "name": "Harrison County",
+  "countySeat": "Biloxi",
+  "population": "208,621",
+  "courts": {
+    "justice": {
+      "name": "Harrison County Justice Court",
+      "address": "1804 23rd Ave, Gulfport, MS 39501",
+      "phone": "(228) 865-4125",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "website": "https://www.harrisoncountyms.gov/",
+      "note": "Handles county traffic offenses"
+    },
+    "municipal": {
+      "name": "Various Municipal Courts",
+      "note": "Biloxi, Gulfport, and other cities have their own courts",
+      "gulfport": {
+        "name": "Gulfport Municipal Court",
+        "address": "2220 15th St, Gulfport, MS 39501",
+        "phone": "(228) 868-5820"
+      },
+      "biloxi": {
+        "name": "Biloxi Municipal Court",
+        "address": "1706 Main St, Biloxi, MS 39530",
+        "phone": "(228) 435-6290"
+      }
+    },
+    "county": {
+      "name": "Harrison County Court",
+      "address": "1804 23rd Ave, Gulfport, MS 39501",
+      "phone": "(228) 865-4125",
+      "note": "Appeals and more serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Harrison County District Attorney's Office",
+    "address": "1804 23rd Ave, Gulfport, MS 39501",
+    "phone": "(228) 865-4100"
+  },
+  "publicDefender": {
+    "office": "Harrison County Public Defender",
+    "address": "1804 23rd Ave, Gulfport, MS 39501",
+    "phone": "(228) 865-4130",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Harrison County Circuit Clerk",
+    "address": "1804 23rd Ave, Gulfport, MS 39501",
+    "phone": "(228) 865-4000",
+    "website": "https://www.harrisoncountyms.gov/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must respond by court date on citation",
+      "process": [
+        "Enter not guilty plea",
+        "Trial date set",
+        "Present evidence",
+        "Officer must appear"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "3-6 weeks typical",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "diversionProgram": {
+      "available": true,
+      "eligibility": "First-time offenders with minor violations"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "May be offered in lieu of conviction",
+      "providers": ["MS DPS-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Gulfport Police Department",
+      "address": "2220 15th St, Gulfport, MS 39501",
+      "phone": "(228) 868-5700"
+    },
+    "biloxi": {
+      "name": "Biloxi Police Department",
+      "address": "1709 Elmira St, Biloxi, MS 39530",
+      "phone": "(228) 435-6112"
+    },
+    "countySheriff": {
+      "name": "Harrison County Sheriff's Office",
+      "address": "1804 23rd Ave, Gulfport, MS 39501",
+      "phone": "(228) 865-7000"
+    },
+    "highwayPatrol": {
+      "name": "Mississippi Highway Patrol - Troop K",
+      "address": "1804 23rd Ave, Gulfport, MS 39501",
+      "phone": "(228) 865-7000"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "touristAreas": "Increased enforcement during peak seasons",
+    "beachAreas": "Special parking and traffic regulations"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and lot parking",
+      "cost": "Free-$5"
+    },
+    "publicTransit": {
+      "service": "Coast Transit Authority",
+      "routes": "Bus service along coast",
+      "website": "https://www.coasttransit.com/"
+    }
+  }
+}

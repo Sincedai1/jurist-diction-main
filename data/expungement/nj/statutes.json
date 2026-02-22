@@ -1,0 +1,442 @@
+{
+  "jurisdiction": "New Jersey",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice. Consult a licensed attorney for legal guidance.",
+  "cleanSlate": {
+    "enabled": true,
+    "name": "New Jersey Clean Slate Law",
+    "statute": "N.J.S.A. 2C:52-5.1",
+    "yearEnacted": 2019,
+    "effectiveDate": "June 15, 2020",
+    "description": "New Jersey's Clean Slate law provides automatic expungement of certain criminal records for individuals who have been crime-free for 10 years. This is in addition to the traditional petition-based expungement process.",
+    "automaticExpungement": {
+      "eligibleOffenses": [
+        "Indictable offenses (felonies) that are expungement-eligible",
+        "Disorderly persons offenses",
+        "Municipal ordinance violations"
+      ],
+      "waitingPeriod": "10 years from most recent conviction, payment of fine, or completion of sentence",
+      "condition": "No new convictions during the 10-year period",
+      "processTime": "Automatic processing by State Police and courts"
+    },
+    "note": "Clean Slate automatic expungement applies to records in the State Police central repository"
+  },
+  "primaryStatutes": [
+    {
+      "code": "N.J.S.A. 2C:52-1",
+      "title": "Expungement of Criminal Records",
+      "description": "Primary statute governing expungement of criminal records in New Jersey",
+      "sections": {
+        "a": {
+          "code": "N.J.S.A. 2C:52-1(a)",
+          "description": "General expungement authority",
+          "eligibility": [
+            "After waiting period from conviction or dismissal",
+            "All fines, restitution, and assessments paid",
+            "No pending charges",
+            "Not for excluded offenses"
+          ]
+        },
+        "b": {
+          "code": "N.J.S.A. 2C:52-1(b)",
+          "description": "Expungement of entire record",
+          "note": "In most cases, entire record of arrest must be expunged if one charge is expunged"
+        }
+      }
+    },
+    {
+      "code": "N.J.S.A. 2C:52-2",
+      "title": "Expungement of Indictable Offenses (Felonies)",
+      "description": "Governs expungement of indictable offenses",
+      "sections": {
+        "a": {
+          "code": "N.J.S.A. 2C:52-2(a)",
+          "description": "Eligibility for indictable offense expungement",
+          "waitingPeriod": "10 years",
+          "conditions": [
+            "No subsequent convictions",
+            "All fines, restitution, and assessments paid",
+            "No pending charges",
+            "Offense not excluded by statute"
+          ]
+        },
+        "b": {
+          "code": "N.J.S.A. 2C:52-2(b)",
+          "description": "Early pathway for drug court graduates",
+          "waitingPeriod": "Upon completion of drug court program",
+          "note": "Special provision for successful drug court participants"
+        },
+        "c": {
+          "code": "N.J.S.A. 2C:52-2(c)",
+          "description": "List of excluded indictable offenses",
+          "excludedOffenses": [
+            "Criminal homicide",
+            "Kidnapping",
+            "Sexual assault",
+            "Robbery",
+            "Arson and related offenses",
+            "Child pornography",
+            "Endangering welfare of child by sexual conduct",
+            "Patriot Act offenses",
+            "Conspiracy to commit any of above"
+          ]
+        },
+        "d": {
+          "code": "N.J.S.A. 2C:52-2(d)",
+          "description": "Five-year early pathway",
+          "waitingPeriod": "5 years (reduced from 10)",
+          "conditions": [
+            "Only one indictable conviction on record",
+            "No more than two disorderly persons convictions",
+            "No exclusions apply",
+            "Compelling need shown"
+          ],
+          "note": "Pathway for reduced waiting period with compelling circumstances"
+        }
+      }
+    },
+    {
+      "code": "N.J.S.A. 2C:52-3",
+      "title": "Expungement of Disorderly Persons and Petty Disorderly Persons Offenses",
+      "description": "Governs expungement of misdemeanor-level offenses",
+      "sections": {
+        "a": {
+          "code": "N.J.S.A. 2C:52-3(a)",
+          "description": "Eligibility for disorderly persons expungement",
+          "waitingPeriod": "5 years",
+          "conditions": [
+            "No subsequent convictions",
+            "All fines and assessments paid",
+            "No pending charges"
+          ]
+        },
+        "b": {
+          "code": "N.J.S.A. 2C:52-3(b)",
+          "description": "Early pathway",
+          "waitingPeriod": "4 years (reduced from 5)",
+          "conditions": [
+            "Only one disorderly persons conviction",
+            "No indictable convictions",
+            "Compelling need shown"
+          ]
+        },
+        "c": {
+          "code": "N.J.S.A. 2C:52-3(c)",
+          "description": "Excluded disorderly persons offenses",
+          "excludedOffenses": [
+            "Domestic violence (certain offenses)",
+            "Criminal contempt in domestic violence case"
+          ]
+        }
+      }
+    },
+    {
+      "code": "N.J.S.A. 2C:52-4",
+      "title": "Expungement of Municipal Ordinance Violations",
+      "description": "Governs expungement of municipal ordinance convictions",
+      "waitingPeriod": "2 years",
+      "conditions": [
+        "No subsequent convictions during waiting period",
+        "All fines paid"
+      ]
+    },
+    {
+      "code": "N.J.S.A. 2C:52-5",
+      "title": "Expungement of Young Drug Offender Records",
+      "description": "Special provisions for young drug offenders",
+      "ageLimit": "Under 21 at time of offense",
+      "conditions": [
+        "Drug possession offense only",
+        "No prior drug convictions",
+        "No other criminal convictions"
+      ],
+      "waitingPeriod": "1 year from discharge"
+    },
+    {
+      "code": "N.J.S.A. 2C:52-5.1",
+      "title": "Clean Slate Automatic Expungement",
+      "description": "Automatic expungement provision for crime-free individuals",
+      "eligibilityCriteria": [
+        "10 years since most recent conviction, fine payment, or sentence completion",
+        "No new convictions during the 10-year period",
+        "Offenses not excluded by statute"
+      ],
+      "process": "Automatic by State Police and Judiciary",
+      "note": "Effective June 15, 2020 - first wave of automatic expungements began"
+    },
+    {
+      "code": "N.J.S.A. 2C:52-6",
+      "title": "Expungement of Arrests Not Resulting in Conviction",
+      "description": "Expungement for arrests that did not lead to conviction",
+      "eligibility": [
+        "Arrest with no conviction",
+        "Dismissed charges",
+        "Acquittal at trial",
+        "Grand jury no-bill",
+        "Charges not filed within statute of limitations"
+      ],
+      "waitingPeriod": "6 months after disposition",
+      "note": "Does NOT apply to charges dismissed as part of plea bargain"
+    }
+  ],
+  "waitingPeriods": {
+    "automaticCleanSlate": {
+      "period": "10 years",
+      "description": "10 years from most recent conviction, fine payment, or sentence completion",
+      "condition": "No new convictions during the 10-year period"
+    },
+    "indictableOffense": {
+      "standard": {
+        "period": "10 years",
+        "description": "Ten years from most recent conviction, payment of fine, or completion of sentence"
+      },
+      "earlyPathway": {
+        "period": "5 years",
+        "description": "Five years for single indictable offense with compelling need",
+        "conditions": [
+          "Only one indictable conviction",
+          "No more than two disorderly persons convictions",
+          "Compelling circumstances"
+        ]
+      },
+      "drugCourtGraduate": {
+        "period": "Upon completion",
+        "description": "Immediate upon successful completion of drug court"
+      }
+    },
+    "disorderlyPersons": {
+      "standard": {
+        "period": "5 years",
+        "description": "Five years from most recent conviction or fine payment"
+      },
+      "earlyPathway": {
+        "period": "4 years",
+        "description": "Four years for single disorderly persons offense with compelling need"
+      }
+    },
+    "municipalOrdinance": {
+      "period": "2 years",
+      "description": "Two years from conviction or fine payment"
+    },
+    "youngDrugOffender": {
+      "period": "1 year",
+      "description": "One year from discharge",
+      "ageLimit": "Under 21 at time of offense"
+    },
+    "arrestNoConviction": {
+      "period": "6 months",
+      "description": "Six months after disposition"
+    }
+  },
+  "ineligibleOffenses": {
+    "indictable": [
+      "Criminal homicide (murder, manslaughter)",
+      "Kidnapping",
+      "Sexual assault, aggravated sexual assault",
+      "Robbery",
+      "Arson and related offenses",
+      "Child pornography",
+      "Endangering welfare of child by sexual conduct",
+      "Terrorism-related offenses (Patriot Act)",
+      "Conspiracy or attempt to commit any of above",
+      "Perjury",
+      "False swearing",
+      "Official misconduct",
+      "Distribution, manufacture, or dispensing of controlled dangerous substance"
+    ],
+    "disorderlyPersons": [
+      "Domestic violence offenses (certain)",
+      "Criminal contempt in domestic violence case"
+    ],
+    "notes": "Drug distribution and manufacturing offenses are generally NOT eligible unless very small quantities for personal use"
+  },
+  "eligibleOffenses": {
+    "indictable": {
+      "description": "Non-excluded indictable offenses may be expunged after waiting period",
+      "examples": [
+        "Theft by unlawful taking (non-violent)",
+        "Receiving stolen property",
+        "Burglary (non-dwelling)",
+        "Fraud (non-violent)",
+        "Drug possession (simple possession)",
+        "Certain forgery offenses",
+        "Bad checks"
+      ]
+    },
+    "disorderlyPersons": {
+      "description": "Most disorderly persons offenses eligible after 5 years",
+      "examples": [
+        "Simple assault (non-domestic)",
+        "Shoplifting",
+        "Drug possession (small amount)",
+        "Disorderly conduct",
+        "Trespassing",
+        "Criminal mischief",
+        "Harassment"
+      ]
+    },
+    "municipalOrdinance": {
+      "description": "Most municipal ordinance violations eligible after 2 years",
+      "examples": [
+        "Noise violations",
+        "Public urination",
+        "Minor property offenses",
+        "Local ordinance violations"
+      ]
+    }
+  },
+  "effects": {
+    "does": [
+      "Removes record from public view",
+      "Removes from standard background checks",
+      "Allows legal denial of arrest or conviction on most job applications",
+      "Removes from New Jersey State Police records",
+      "Restores presumption of innocence"
+    ],
+    "doesNot": [
+      "Remove from federal databases",
+      "Remove from FBI records",
+      "Prevent use in future sentencing if convicted again",
+      "Restore firearm rights automatically",
+      "Remove records accessible to law enforcement for certain purposes",
+      "Remove immigration consequences"
+    ]
+  },
+  "fees": {
+    "filingFee": {
+      "amount": 75,
+      "description": "Standard filing fee for expungement petition",
+      "note": "Fee may be waived for indigent applicants"
+    },
+    "cleanSlate": {
+      "amount": 0,
+      "description": "Clean Slate automatic expungement is FREE"
+    },
+    "additionalFees": {
+      "copyFee": "Varies by court",
+      "certificationFee": "Varies by court"
+    }
+  },
+  "requiredForms": {
+    "petitionBased": [
+      "Expungement Petition (Form A)",
+      "Order for Expungement (Form B)",
+      "Notice of Expungement Order (Form C)"
+    ],
+    "additionalDocuments": [
+      "Certified copy of judgment/disposition",
+      "Proof of payment of fines and costs",
+      "State Police criminal record"
+    ],
+    "cleanSlate": {
+      "required": "None - automatic process",
+      "checkStatus": "Contact New Jersey State Police"
+    }
+  },
+  "process": {
+    "cleanSlateAutomatic": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Eligibility Verification",
+          "description": "State Police automatically identifies eligible records"
+        },
+        {
+          "step": 2,
+          "title": "10-Year Check",
+          "description": "System verifies 10-year crime-free period"
+        },
+        {
+          "step": 3,
+          "title": "Automatic Expungement",
+          "description": "Records are expunged automatically"
+        },
+        {
+          "step": 4,
+          "title": "Confirmation",
+          "description": "Individual may verify through State Police"
+        }
+      ],
+      "note": "No petition or filing required for Clean Slate"
+    },
+    "petitionBased": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verify Eligibility",
+          "description": "Confirm waiting period complete and offense eligible",
+          "requirements": [
+            "Review criminal record",
+            "Verify waiting period has passed",
+            "Confirm all fines paid"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Obtain Criminal Record",
+          "description": "Get a copy of your New Jersey criminal record",
+          "where": "New Jersey State Police, Criminal Information Unit",
+          "website": "https://www.njsp.org"
+        },
+        {
+          "step": 3,
+          "title": "Complete Petition Forms",
+          "description": "Fill out required expungement forms",
+          "requirements": [
+            "Petition for Expungement (Form A)",
+            "Order for Expungement (Form B)",
+            "Notice of Expungement Order (Form C)"
+          ]
+        },
+        {
+          "step": 4,
+          "title": "File with Court",
+          "description": "Submit petition to Superior Court",
+          "requirements": [
+            "File in county where arrest occurred",
+            "Pay $75 filing fee",
+            "Get file-stamped copies"
+          ]
+        },
+        {
+          "step": 5,
+          "title": "Serve Required Parties",
+          "description": "Provide notice to required agencies",
+          "parties": [
+            "County Prosecutor",
+            "Attorney General",
+            "State Police",
+            "Any other relevant agencies"
+          ]
+        },
+        {
+          "step": 6,
+          "title": "Wait for Response Period",
+          "description": "Agencies have time to object",
+          "period": "Prosecutor has 30 days to object"
+        },
+        {
+          "step": 7,
+          "title": "Attend Hearing (if required)",
+          "description": "Hearings rarely required for uncontested petitions",
+          "note": "Most uncontested petitions granted without hearing"
+        },
+        {
+          "step": 8,
+          "title": "Obtain Order",
+          "description": "Receive certified copies of expungement order",
+          "nextSteps": "Distribute to agencies as required"
+        }
+      ]
+    }
+  },
+  "cleanSlateHighlights": [
+    "New Jersey Clean Slate law enacted in 2019, effective June 2020",
+    "Provides automatic expungement for crime-free individuals after 10 years",
+    "Covers both indictable (felony) and disorderly persons (misdemeanor) offenses",
+    "Completely FREE - no petition or filing required",
+    "First state in the nation to combine Clean Slate with early pathway options",
+    "Complements existing petition-based expungement system",
+    "Estimated to affect over 2 million New Jersey residents"
+  ]
+}

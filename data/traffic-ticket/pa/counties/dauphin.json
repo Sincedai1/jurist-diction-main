@@ -1,0 +1,102 @@
+{
+  "name": "Dauphin County",
+  "countySeat": "Harrisburg",
+  "population": "286,401",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Dauphin County Magisterial District Courts",
+      "address": "101 Market Street, Harrisburg, PA 17101",
+      "phone": "(717) 780-6500",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.dauphincounty.gov",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Dauphin County",
+      "address": "101 Market Street, Harrisburg, PA 17101",
+      "phone": "(717) 780-6500",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Dauphin County District Attorney's Office",
+    "address": "101 Market Street, Harrisburg, PA 17101",
+    "phone": "(717) 780-6720",
+    "trafficDivisionContact": "(717) 780-6720"
+  },
+  "publicDefender": {
+    "office": "Dauphin County Public Defender",
+    "address": "101 Market Street, Harrisburg, PA 17101",
+    "phone": "(717) 780-6730",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Dauphin County Clerk of Courts",
+    "address": "101 Market Street, Harrisburg, PA 17101",
+    "phone": "(717) 780-6500",
+    "website": "https://www.dauphincounty.gov"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Dauphin County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Harrisburg Bureau of Police",
+      "address": "123 Walnut Street, Harrisburg, PA 17101",
+      "phone": "(717) 255-3100",
+      "recordsRequest": "(717) 255-3100"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Harrisburg Station",
+      "address": "2925 N 7th Street, Harrisburg, PA 17110",
+      "phone": "(717) 783-7611"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Dauphin County",
+    "speedCameras": "Not currently used in Dauphin County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-15 for court appearance",
+      "note": "Paid parking in downtown Harrisburg"
+    },
+    "publicTransit": {
+      "service": "CAT (Capital Area Transit)",
+      "routes": "Bus service throughout Harrisburg area",
+      "website": "https://www.cattransit.org"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Montgomery County",
+  "countySeat": "Norristown",
+  "population": "856,553",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Montgomery County Magisterial District Courts",
+      "address": "2 Airy Street, Norristown, PA 19401",
+      "phone": "(610) 278-3000",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.montcopa.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Montgomery County",
+      "address": "2 Airy Street, Norristown, PA 19401",
+      "phone": "(610) 278-3000",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Montgomery County District Attorney's Office",
+    "address": "2 Airy Street, Norristown, PA 19401",
+    "phone": "(610) 278-3100",
+    "trafficDivisionContact": "(610) 278-3100"
+  },
+  "publicDefender": {
+    "office": "Montgomery County Public Defender",
+    "address": "2 Airy Street, Norristown, PA 19401",
+    "phone": "(610) 278-3200",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Montgomery County Clerk of Courts",
+    "address": "2 Airy Street, Norristown, PA 19401",
+    "phone": "(610) 278-3000",
+    "website": "https://www.montcopa.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Montgomery County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Norristown Police Department",
+      "address": "235 East Airy Street, Norristown, PA 19401",
+      "phone": "(610) 270-0977",
+      "recordsRequest": "(610) 270-0977"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Philadelphia Station",
+      "address": "2841 Southampton Road, Philadelphia, PA 19154",
+      "phone": "(215) 698-0119"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Montgomery County",
+    "speedCameras": "Not currently used in Montgomery County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-15 for court appearance",
+      "note": "Paid parking in downtown Norristown"
+    },
+    "publicTransit": {
+      "service": "SEPTA",
+      "routes": "Regional Rail and bus service",
+      "website": "https://www.septa.org"
+    }
+  }
+}

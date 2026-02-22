@@ -1,0 +1,439 @@
+{
+  "jurisdiction": "Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This is informational only and does not constitute legal advice. Court procedures may vary by county.",
+  "evictionProcess": {
+    "overview": {
+      "name": "Pennsylvania Eviction Process Overview",
+      "steps": [
+        {
+          "step": 1,
+          "name": "Notice Period",
+          "description": "Landlord must serve proper written notice to tenant",
+          "timeline": "10-15 days depending on reason"
+        },
+        {
+          "step": 2,
+          "name": "File Landlord-Tenant Complaint",
+          "description": "Landlord files complaint with Magisterial District Court",
+          "timeline": "After notice period expires"
+        },
+        {
+          "step": 3,
+          "name": "Service of Complaint",
+          "description": "Court serves complaint on tenant",
+          "timeline": "Typically 7-10 days before hearing"
+        },
+        {
+          "step": 4,
+          "name": "Court Hearing",
+          "description": "Judge hears case; both parties present evidence",
+          "timeline": "7-15 days after filing"
+        },
+        {
+          "step": 5,
+          "name": "Judgment",
+          "description": "Court rules for landlord or tenant",
+          "timeline": "At hearing (usually same day)"
+        },
+        {
+          "step": 6,
+          "name": "Appeal Period",
+          "description": "Losing party has 30 days to appeal",
+          "timeline": "30 calendar days"
+        },
+        {
+          "step": 7,
+          "name": "Order of Possession",
+          "description": "If no appeal or appeal fails, order issued",
+          "timeline": "After appeal period (11th day after judgment)"
+        },
+        {
+          "step": 8,
+          "name": "Physical Eviction",
+          "description": "Constable or sheriff executes order and removes tenant",
+          "timeline": "11-21 days after judgment"
+        }
+      ]
+    }
+  },
+  "defenseStrategies": {
+    "nonpayment": {
+      "evictionType": "Non-Payment of Rent",
+      "timeline": {
+        "noticeRequired": "10 days",
+        "curePeriod": "10 days - tenant can pay all rent due to stop eviction"
+      },
+      "defenseOptions": [
+        {
+          "id": "improper_notice",
+          "name": "Improper Notice",
+          "description": "Challenge the adequacy or service of the 10-day notice",
+          "checklist": [
+            "Was notice in writing?",
+            "Did notice state amount of rent due?",
+            "Was notice properly served (personal, posted AND mailed)?",
+            "Was full 10-day period given before filing?",
+            "Does notice demand possession or payment?"
+          ],
+          "documentation": [
+            "Copy of notice received",
+            "Date notice was received",
+            "Method of service",
+            "Filing date of complaint"
+          ]
+        },
+        {
+          "id": "payment_made",
+          "name": "Payment Made Within Cure Period",
+          "description": "All rent was paid within the 10-day notice period",
+          "checklist": [
+            "Was full amount of rent claimed paid?",
+            "Was payment made within 10-day period?",
+            "Did landlord accept payment?"
+          ],
+          "documentation": [
+            "Payment receipts",
+            "Bank statements",
+            "Money order receipts",
+            "Text/email confirming payment"
+          ]
+        },
+        {
+          "id": "habitability",
+          "name": "Breach of Warranty of Habitability",
+          "description": "Property has serious conditions affecting habitability",
+          "checklist": [
+            "Are there serious conditions affecting health/safety?",
+            "Is property weatherproof and watertight?",
+            "Are plumbing, heating, electrical working?",
+            "Did you notify landlord of conditions in writing?",
+            "Did landlord fail to make repairs within reasonable time?"
+          ],
+          "documentation": [
+            "Photos/videos of conditions",
+            "Written notices to landlord",
+            "Code inspection reports",
+            "Utility bills showing issues",
+            "Witness statements"
+          ],
+          "caveat": "May reduce rent owed; must follow proper rent withholding procedures"
+        },
+        {
+          "id": "partial_payment_acceptance",
+          "name": "Acceptance of Partial Payment",
+          "description": "Landlord accepted partial payment after serving notice, potentially waiving eviction right",
+          "checklist": [
+            "Was partial payment accepted after notice served?",
+            "Did landlord provide receipt?",
+            "Was there agreement to accept partial payment?"
+          ],
+          "documentation": [
+            "Receipt showing date and amount",
+            "Bank records",
+            "Text/email showing landlord accepted payment"
+          ]
+        },
+        {
+          "id": "improper_charges",
+          "name": "Improper Charges Included",
+          "description": "Amount claimed includes fees or charges not authorized by lease",
+          "checklist": [
+            "Review lease for authorized fees",
+            "Are late fees properly calculated per lease?",
+            "Are there charges not in lease?",
+            "Is rent calculation correct?"
+          ],
+          "documentation": [
+            "Copy of lease",
+            "Rent payment history",
+            "Calculation of proper amount owed"
+          ]
+        },
+        {
+          "id": "retaliation",
+          "name": "Retaliatory Eviction",
+          "description": "Eviction filed in response to tenant exercising legal rights",
+          "checklist": [
+            "Did you recently complain about conditions?",
+            "Did you report code violations?",
+            "Did you organize with other tenants?",
+            "Was eviction filed shortly after protected activity?"
+          ],
+          "documentation": [
+            "Copies of complaints made",
+            "Code violation reports",
+            "Timeline of events",
+            "Witness statements"
+          ],
+          "timingGuidance": "Presumption of retaliation if eviction within reasonable time after protected activity"
+        },
+        {
+          "id": "security_deposit_violation",
+          "name": "Security Deposit Violation",
+          "description": "Landlord failed to properly handle security deposit",
+          "checklist": [
+            "Did you pay a security deposit?",
+            "Was deposit placed in escrow?",
+            "Was deposit returned within 30 days of move-out (if applicable)?",
+            "Was itemized list of deductions provided?"
+          ],
+          "documentation": [
+            "Proof of security deposit payment",
+            "Move-in/move-out inspection reports",
+            "Communications about deposit"
+          ],
+          "remedy": "May claim double damages for wrongfully withheld deposit"
+        }
+      ]
+    },
+    "leaseViolation": {
+      "evictionType": "Lease Violation",
+      "timeline": {
+        "noticeRequired": "15 days (or as lease specifies)",
+        "curePeriod": "15 days to cure violation (if curable)"
+      },
+      "defenseOptions": [
+        {
+          "id": "improper_notice_15",
+          "name": "Improper Notice",
+          "description": "Challenge the 15-day notice requirements",
+          "checklist": [
+            "Was notice in writing?",
+            "Did notice specify the violation?",
+            "Was full 15-day period given?",
+            "Was notice properly served?"
+          ],
+          "documentation": [
+            "Copy of notice",
+            "Date received",
+            "Filing date of complaint"
+          ]
+        },
+        {
+          "id": "violation_cured",
+          "name": "Violation Cured",
+          "description": "Violation was corrected within notice period",
+          "checklist": [
+            "What was the alleged violation?",
+            "Was it possible to cure?",
+            "Did you cure within 15 days?",
+            "Did landlord acknowledge cure?"
+          ],
+          "documentation": [
+            "Evidence violation was corrected",
+            "Photos of corrected conditions",
+            "Written notice to landlord of cure",
+            "Landlord acknowledgment"
+          ]
+        },
+        {
+          "id": "no_violation",
+          "name": "No Actual Violation",
+          "description": "Alleged conduct does not violate lease terms",
+          "checklist": [
+            "What specific lease provision is cited?",
+            "Does your conduct actually violate that provision?",
+            "Is the lease provision clear and enforceable?"
+          ],
+          "documentation": [
+            "Copy of lease",
+            "Evidence of actual conduct",
+            "Legal analysis of lease terms"
+          ]
+        },
+        {
+          "id": "selective_enforcement",
+          "name": "Selective Enforcement",
+          "description": "Landlord enforces provision against you but ignores others' violations",
+          "checklist": [
+            "Are other tenants violating same provision?",
+            "Has landlord taken action against them?",
+            "Is there pattern of discrimination?"
+          ],
+          "documentation": [
+            "Witness statements",
+            "Photos of other units",
+            "Complaints to landlord about others"
+          ]
+        },
+        {
+          "id": "landlord_breach",
+          "name": "Landlord Breached First",
+          "description": "Landlord's prior breach may excuse tenant's conduct",
+          "checklist": [
+            "How did landlord breach lease?",
+            "When did breach occur?",
+            "Is breach ongoing?",
+            "Did you give landlord notice of breach?"
+          ],
+          "documentation": [
+            "Evidence of landlord breach",
+            "Written notices to landlord",
+            "Damages caused by breach"
+          ]
+        }
+      ]
+    },
+    "holdover": {
+      "evictionType": "Holdover Tenant",
+      "timeline": {
+        "noticeRequired": "30 days for month-to-month",
+        "notes": "For month-to-month tenancy termination"
+      },
+      "defenseOptions": [
+        {
+          "id": "improper_termination_notice",
+          "name": "Improper Termination Notice",
+          "description": "Challenge the termination notice",
+          "checklist": [
+            "Was proper notice given?",
+            "Was notice for full rental period?",
+            "Was notice properly served?"
+          ],
+          "documentation": [
+            "Copy of termination notice",
+            "Date received",
+            "Lease showing tenancy type"
+          ]
+        },
+        {
+          "id": "new_tenancy_created",
+          "name": "New Tenancy Created",
+          "description": "Landlord's actions created new tenancy period",
+          "checklist": [
+            "Did landlord accept rent after lease end?",
+            "Was there discussion of renewal?",
+            "Did landlord indicate tenancy would continue?"
+          ],
+          "documentation": [
+            "Rent receipts after lease end",
+            "Written communications",
+            "Witness statements"
+          ]
+        },
+        {
+          "id": "estoppel",
+          "name": "Estoppel/Reliance",
+          "description": "Landlord's conduct led tenant to reasonably believe tenancy would continue",
+          "checklist": [
+            "What did landlord say or do?",
+            "Did tenant rely on landlord's conduct?",
+            "Would eviction now be unfair?"
+          ],
+          "documentation": [
+            "Communications showing continued tenancy",
+            "Evidence of reliance",
+            "Damages if forced to move"
+          ]
+        }
+      ]
+    }
+  },
+  "responseTimeline": {
+    "critical": [
+      {
+        "event": "Receive Notice",
+        "action": "Document date received; calculate deadline",
+        "deadline": "Immediately"
+      },
+      {
+        "event": "Complaint Served",
+        "action": "Note court date; prepare response; gather evidence",
+        "deadline": "Within days of service"
+      },
+      {
+        "event": "Court Hearing",
+        "action": "Appear or risk default judgment",
+        "deadline": "Must appear on scheduled date"
+      },
+      {
+        "event": "Judgment Against Tenant",
+        "action": "File appeal if grounds exist; post bond to stay eviction",
+        "deadline": "30 calendar days"
+      },
+      {
+        "event": "Order of Possession",
+        "action": "Must vacate or face forcible removal",
+        "deadline": "11th day after judgment (unless appealed)"
+      }
+    ]
+  },
+  "courtProcedures": {
+    "magisterialDistrict": {
+      "name": "Magisterial District Court",
+      "description": "Initial eviction hearings held here",
+      "procedures": [
+        "Landlord-Tenant Complaint filed by landlord",
+        "Complaint served on tenant by court",
+        "Hearing scheduled within 7-15 days",
+        "Both parties present evidence",
+        "Judge rules same day in most cases",
+        "No jury trial in Magisterial District Court",
+        "Informal but legal procedures apply"
+      ],
+      "filingAnswer": {
+        "description": "Tenant may file written answer before hearing",
+        "recommended": "Helpful but not required",
+        "contents": [
+          "Admit or deny each allegation",
+          "State any affirmative defenses",
+          "Request relief (dismissal, etc.)"
+        ]
+      }
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas",
+      "description": "Hears appeals from Magisterial District Court",
+      "procedures": [
+        "Appeal must be filed within 30 days",
+        "Supersedeas bond required to stay eviction",
+        "De novo hearing (new trial)",
+        "Jury trial available",
+        "More formal procedures",
+        "Discovery may be available"
+      ]
+    }
+  },
+  "formsRequired": {
+    "answer": {
+      "name": "Answer to Landlord-Tenant Complaint",
+      "purpose": "Respond to eviction filing",
+      "contents": [
+        "Case caption",
+        "Admissions/denials of allegations",
+        "Affirmative defenses",
+        "Prayer for relief"
+      ]
+    },
+    "appeal": {
+      "name": "Notice of Appeal",
+      "purpose": "Appeal Magisterial District Court judgment",
+      "deadline": "30 calendar days from judgment",
+      "requirements": [
+        "File in Magisterial District Court",
+        "Post supersedeas bond",
+        "Serve copy on landlord/attorney"
+      ]
+    }
+  },
+  "specialProvisions": {
+    "philadelphia": {
+      "name": "Philadelphia-Specific Rules",
+      "notes": [
+        "Eviction Diversion Program may apply",
+        "Right to counsel program for low-income tenants",
+        "Longer timelines possible with diversion",
+        "Special court procedures for residential cases"
+      ]
+    },
+    "pittsburgh": {
+      "name": "Pittsburgh/Allegheny County Rules",
+      "notes": [
+        "Magisterial District Courts by neighborhood",
+        "Some areas have tenant assistance programs",
+        "Check with local legal aid for current resources"
+      ]
+    }
+  }
+}

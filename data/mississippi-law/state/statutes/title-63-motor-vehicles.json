@@ -1,0 +1,319 @@
+{
+  "jurisdiction": "Mississippi",
+  "jurisdictionType": "state",
+  "title": "63",
+  "name": "Motor Vehicles",
+  "description": "Mississippi Motor Vehicle Code - Registration, licensing, traffic laws, and DUI",
+  "chapters": [
+    {
+      "chapterNumber": "1",
+      "chapterName": "General Provisions",
+      "sections": [
+        {
+          "citation": "§ 63-1-1",
+          "text": "Definitions. As used in this title: (a) 'Vehicle' means every device in, upon, or by which any person or property is or may be transported upon a highway. (b) 'Motor vehicle' means every vehicle which is self-propelled. (c) 'Trailer' means every vehicle without motive power designed for carrying property and drawn by a motor vehicle.",
+          "summary": "Definitions: Vehicle = device for transport on highway. Motor vehicle = self-propelled. Trailer = no motor, drawn by motor vehicle",
+          "keywords": ["definitions", "vehicle", "motor vehicle", "trailer"],
+          "amendments": [],
+          "relatedSections": ["§ 63-1-3", "§ 63-1-5"]
+        },
+        {
+          "citation": "§ 63-1-5",
+          "text": "Operation of vehicles generally. Every person driving a vehicle on a highway shall drive in a careful and prudent manner, at a rate of speed so as not to endanger the property of another or the life or limb of any person, and shall exercise due care.",
+          "summary": "General duty: Drive carefully and prudently at a speed that does not endanger property or persons, exercising due care",
+          "keywords": ["careful driving", "prudent", "due care", "endangerment"],
+          "amendments": [],
+          "relatedSections": ["§ 63-3-501", "§ 63-3-503"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "3",
+      "chapterName": "Registration and Titling",
+      "sections": [
+        {
+          "citation": "§ 63-3-1",
+          "text": "Registration required. Every motor vehicle operated upon the public roads and highways of this state shall be registered with the Mississippi Department of Revenue. Registration shall be renewed annually on or before the expiration date.",
+          "summary": "Registration: All motor vehicles operated on public roads must be registered with MS Department of Revenue, renewed annually",
+          "keywords": ["registration", "Department of Revenue", "annual renewal"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 63-3-3", "§ 63-3-5"]
+        },
+        {
+          "citation": "§ 63-3-5",
+          "text": "Registration fees. Registration fees are based on vehicle type and weight: (a) Passenger vehicles: $14-$30 based on model year; (b) Trucks: $14-$300 based on weight; (c) Motorcycles: $10; (d) Trailers: $5-$40 based on weight. Additional local fees may apply.",
+          "summary": "Registration fees: Passenger vehicles $14-$30 by model year, trucks $14-$300 by weight, motorcycles $10, trailers $5-$40. Local fees may apply",
+          "keywords": ["registration fees", "passenger vehicle", "truck", "motorcycle", "trailer"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 63-3-1", "§ 63-3-7"]
+        },
+        {
+          "citation": "§ 63-3-7",
+          "text": "License plates; display. License plates shall be displayed on the rear of the vehicle, clearly visible and legible. The registration tabs shall be displayed in the designated upper right or left corner of the plate.",
+          "summary": "License plates: Display on rear of vehicle, clearly visible and legible. Registration tabs in designated corner",
+          "keywords": ["license plate", "display", "registration tabs", "rear of vehicle"],
+          "amendments": [],
+          "relatedSections": ["§ 63-3-1", "§ 63-3-5"]
+        },
+        {
+          "citation": "§ 63-3-9",
+          "text": "Certificate of title required. No person shall sell or transfer a motor vehicle without delivering a certificate of title. The Department of Revenue shall issue certificates of title to owners of motor vehicles upon application and payment of fees.",
+          "summary": "Certificate of title: Required for sale/transfer of motor vehicle. Department of Revenue issues titles upon application and fee payment",
+          "keywords": ["certificate of title", "transfer", "Department of Revenue", "ownership"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 63-3-1", "§ 63-3-5"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "5",
+      "chapterName": "Driver's Licenses",
+      "sections": [
+        {
+          "citation": "§ 63-1-9",
+          "text": "License required; age requirements. No person shall drive a motor vehicle on a highway without a valid driver's license. (a) Regular license: minimum age 16; (b) Learner's permit: minimum age 15; (c) Commercial license (CDL): minimum age 21 for interstate, 18 for intrastate.",
+          "summary": "License requirement: Must have valid license to drive on highway. Regular license: 16+. Learner's permit: 15+. CDL: 21+ interstate, 18+ intrastate",
+          "keywords": ["driver's license", "age requirements", "learner's permit", "CDL"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 63-1-11", "§ 63-1-13"]
+        },
+        {
+          "citation": "§ 63-1-13",
+          "text": "License fees. Driver's license fees: (a) Regular license (4 years): $21; (b) Commercial license (4 years): $31; (c) Learner's permit: $5; (d) Duplicate/replacement: $11. Fees may be subject to additional local charges.",
+          "summary": "License fees: Regular (4 years) $21, CDL (4 years) $31, Learner's permit $5, Duplicate $11. Additional local charges may apply",
+          "keywords": ["license fees", "regular license", "CDL", "learner's permit"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 63-1-9", "§ 63-1-15"]
+        },
+        {
+          "citation": "§ 63-1-15",
+          "text": "Suspension of license; grounds. The Department of Public Safety may suspend or revoke a driver's license for: (a) DUI conviction; (b) Refusal to submit to chemical test; (c) Accumulation of 12+ points within 2 years; (d) Leaving accident scene; (e) Felony involving motor vehicle; (f) Reckless driving; (g) Habitual traffic violations.",
+          "summary": "License suspension grounds: DUI, test refusal, 12+ points in 2 years, leaving accident scene, felony involving vehicle, reckless driving, habitual violations",
+          "keywords": ["suspension", "revocation", "DUI", "points", "reckless driving"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 63-1-17", "§ 63-11-30"]
+        },
+        {
+          "citation": "§ 63-1-17",
+          "text": "Restricted license for work; conditions. A person whose license is suspended may apply for a restricted license for: (a) Travel to and from employment; (b) Travel to and from school; (c) Essential household activities; (d) Medical appointments. The court may impose conditions including time restrictions, route restrictions, and ignition interlock.",
+          "summary": "Restricted license: Available for suspended drivers for work, school, household activities, medical appointments. Conditions may include time/route restrictions and ignition interlock",
+          "keywords": ["restricted license", "work permit", "essential driving", "ignition interlock"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 63-1-15", "§ 63-11-30"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "7",
+      "chapterName": "Speed Limits and Traffic Rules",
+      "sections": [
+        {
+          "citation": "§ 63-3-501",
+          "text": "Speed limits generally. (1) No person shall drive at a speed greater than is reasonable and prudent under the conditions. (2) Maximum speed limits: (a) 70 MPH on interstate highways; (b) 65 MPH on four-lane highways; (c) 55 MPH on other highways; (d) 30 MPH in residential areas; (e) 20 MPH in school zones when children present.",
+          "summary": "Speed limits: Interstate 70 MPH, four-lane highways 65 MPH, other highways 55 MPH, residential 30 MPH, school zones 20 MPH when children present. Must always drive at reasonable speed for conditions",
+          "keywords": ["speed limit", "interstate", "residential", "school zone", "reasonable speed"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 63-3-503", "§ 63-3-505"]
+        },
+        {
+          "citation": "§ 63-3-503",
+          "text": "Racing on highway; penalty. No person shall engage in any race, speed competition, or exhibition of speed on any public highway. Violation is a misdemeanor punishable by: (a) First offense: fine of $250-$1,000 and/or up to 90 days imprisonment; (b) Second offense: $500-$1,500 fine and/or up to 6 months imprisonment; (c) License suspension: 30 days to 1 year.",
+          "summary": "Racing on highway: Misdemeanor. First offense: $250-$1,000 and/or 90 days. Second offense: $500-$1,500 and/or 6 months. License suspension 30 days-1 year",
+          "keywords": ["racing", "speed competition", "exhibition of speed", "misdemeanor"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 63-3-501", "§ 63-3-505"]
+        },
+        {
+          "citation": "§ 63-3-505",
+          "text": "Reckless driving; penalty. Any person who drives with willful or wanton disregard for the safety of persons or property is guilty of reckless driving. First offense: fine of $5-$100. Second offense within 12 months: fine of $50-$500 and/or up to 10 days imprisonment. License suspension for subsequent offenses.",
+          "summary": "Reckless driving: Willful/wanton disregard for safety. First offense: $5-$100 fine. Second offense within 12 months: $50-$500 and/or 10 days. Subsequent: license suspension",
+          "keywords": ["reckless driving", "willful disregard", "wanton", "license suspension"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 63-3-501", "§ 63-3-503"]
+        },
+        {
+          "citation": "§ 63-3-601",
+          "text": "Obedience to traffic control devices. The driver of any vehicle shall obey the instructions of any official traffic control device unless otherwise directed by a traffic or police officer.",
+          "summary": "Traffic control devices: Must obey instructions unless directed otherwise by traffic or police officer",
+          "keywords": ["traffic control", "traffic signal", "stop sign", "obedience"],
+          "amendments": [],
+          "relatedSections": ["§ 63-3-603", "§ 63-3-605"]
+        },
+        {
+          "citation": "§ 63-3-605",
+          "text": "Right of way at intersections. (a) When two vehicles approach an intersection at approximately the same time, the vehicle on the left shall yield to the vehicle on the right. (b) Vehicles entering a through highway shall yield to vehicles on the through highway. (c) Vehicles turning left shall yield to oncoming traffic.",
+          "summary": "Right of way: Vehicle on left yields to vehicle on right. Vehicles entering through highway yield to vehicles already on it. Left-turning vehicles yield to oncoming traffic",
+          "keywords": ["right of way", "intersection", "yield", "left turn", "through highway"],
+          "amendments": [],
+          "relatedSections": ["§ 63-3-601", "§ 63-3-607"]
+        },
+        {
+          "citation": "§ 63-3-701",
+          "text": "Required position and method of turning. The driver of a vehicle intending to turn shall do so as follows: (a) Right turns shall be made as close as practicable to the right-hand curb or edge; (b) Left turns shall be made from the leftmost lane available to the leftmost lane available after turning; (c) Turn signals shall be given at least 100 feet before turning.",
+          "summary": "Turning: Right turns close to curb. Left turns from left lane to left lane. Signal at least 100 feet before turning",
+          "keywords": ["turning", "right turn", "left turn", "turn signal", "100 feet"],
+          "amendments": [],
+          "relatedSections": ["§ 63-3-605", "§ 63-3-703"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "9",
+      "chapterName": "Equipment Requirements",
+      "sections": [
+        {
+          "citation": "§ 63-7-1",
+          "text": "Brakes required. Every motor vehicle shall be equipped with brakes adequate to control the movement of and to stop and hold the vehicle. The braking system shall be maintained in good working order.",
+          "summary": "Brakes: Every motor vehicle must have adequate brakes to control, stop, and hold vehicle. Must be maintained in good working order",
+          "keywords": ["brakes", "equipment", "safety", "maintenance"],
+          "amendments": [],
+          "relatedSections": ["§ 63-7-3", "§ 63-7-5"]
+        },
+        {
+          "citation": "§ 63-7-7",
+          "text": "Lights required. Every motor vehicle shall be equipped with: (a) At least two headlamps, one on each side; (b) At least two taillamps; (c) At least one stop lamp; (d) Turn signals on vehicles manufactured after 1953; (e) License plate illumination lamp.",
+          "summary": "Required lights: Two headlamps (one each side), two taillamps, one stop lamp, turn signals (post-1953), license plate lamp",
+          "keywords": ["lights", "headlamps", "taillamps", "stop lamp", "turn signals"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 63-7-1", "§ 63-7-9"]
+        },
+        {
+          "citation": "§ 63-7-13",
+          "text": "Windshield wipers required. Every motor vehicle with a windshield shall be equipped with windshield wipers in good working order capable of clearing rain, snow, and other moisture from the windshield.",
+          "summary": "Windshield wipers: Required on all vehicles with windshields. Must be in good working order and capable of clearing moisture",
+          "keywords": ["windshield wipers", "equipment", "visibility", "safety"],
+          "amendments": [],
+          "relatedSections": ["§ 63-7-1", "§ 63-7-7"]
+        },
+        {
+          "citation": "§ 63-7-15",
+          "text": "Seat belts required; child restraint systems. (1) Every passenger vehicle manufactured after 1964 shall be equipped with seat belts for each seating position. (2) Children under four (4) years of age shall be secured in a child passenger restraint system. (3) Children four (4) through seven (7) years shall be secured in a booster seat. (4) Violations carry fines of $25-$50.",
+          "summary": "Seat belts/child restraints: Vehicles post-1964 require seat belts for each position. Children under 4: child restraint. Ages 4-7: booster seat. Fines: $25-$50",
+          "keywords": ["seat belt", "child restraint", "booster seat", "safety"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 63-7-1", "§ 63-7-13"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "11",
+      "chapterName": "Driving Under the Influence",
+      "sections": [
+        {
+          "citation": "§ 63-11-30",
+          "text": "Driving under the influence of intoxicating liquor or other substance; penalty. (1) It is unlawful for any person to drive or operate a vehicle: (a) With blood alcohol concentration (BAC) of 0.08% or more; (b) Under the influence of any drug or controlled substance; (c) With any amount of Schedule I controlled substance; (d) Under combined influence of alcohol and drugs. (2) Commercial drivers: 0.04% BAC limit. (3) Drivers under 21: 0.02% BAC limit.",
+          "summary": "DUI definition: BAC 0.08%+ for adults, 0.04% for commercial drivers, 0.02% for under 21. Also covers drugs, controlled substances, and combined influence",
+          "keywords": ["DUI", "blood alcohol", "BAC", "intoxication", "controlled substance", "under 21"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 63-11-31", "§ 63-11-33", "§ 97-3-47"]
+        },
+        {
+          "citation": "§ 63-11-31",
+          "text": "Penalties for first offense DUI. First offense DUI is a misdemeanor punishable by: (a) Fine of $250-$1,000; (b) Imprisonment of 48 hours to 90 days (may be suspended); (c) License suspension of 90 days; (d) Mandatory attendance at alcohol safety education program; (e) Victim impact panel attendance. The court may order ignition interlock.",
+          "summary": "First DUI: Misdemeanor. Fine $250-$1,000. Jail 48 hrs-90 days (may suspend). License suspension 90 days. Alcohol education required. May require ignition interlock",
+          "keywords": ["DUI", "first offense", "misdemeanor", "license suspension", "alcohol education"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 63-11-30", "§ 63-11-33"]
+        },
+        {
+          "citation": "§ 63-11-33",
+          "text": "Penalties for second offense DUI within five years. Second offense within five (5) years is a misdemeanor punishable by: (a) Fine of $600-$1,500; (b) Mandatory imprisonment of 5 days to 6 months; (c) License suspension of 2 years; (d) Mandatory ignition interlock for 6 months; (e) Alcohol treatment program; (f) Vehicle forfeiture may be ordered.",
+          "summary": "Second DUI within 5 years: Fine $600-$1,500. Mandatory jail 5 days-6 months. License suspension 2 years. Mandatory ignition interlock 6 months. Treatment required. Vehicle forfeiture possible",
+          "keywords": ["DUI", "second offense", "mandatory jail", "ignition interlock", "vehicle forfeiture"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 63-11-30", "§ 63-11-31"]
+        },
+        {
+          "citation": "§ 63-11-34",
+          "text": "Third offense DUI; felony. Third offense within five (5) years or any third offense is a felony punishable by: (a) Fine of $2,000-$5,000; (b) Imprisonment of 1-5 years; (c) License suspension of 5 years; (d) Mandatory ignition interlock for 3 years; (e) Vehicle forfeiture; (f) Felony record.",
+          "summary": "Third DUI: Felony. Fine $2,000-$5,000. Prison 1-5 years. License suspension 5 years. Mandatory ignition interlock 3 years. Vehicle forfeiture. Felony record",
+          "keywords": ["DUI", "felony", "third offense", "vehicle forfeiture", "prison"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 63-11-30", "§ 63-11-31", "§ 63-11-33"]
+        },
+        {
+          "citation": "§ 63-11-35",
+          "text": "Implied consent; chemical tests. (1) Any person operating a vehicle in Mississippi is deemed to have consented to chemical testing for alcohol or drugs. (2) Refusal to submit to testing results in license suspension of 90 days for first refusal, 1 year for subsequent refusals. (3) The test results are admissible in court.",
+          "summary": "Implied consent: Operating vehicle = consent to chemical testing. Refusal = 90-day suspension (first), 1 year (subsequent). Test results admissible in court",
+          "keywords": ["implied consent", "chemical test", "refusal", "license suspension", "breathalyzer"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 63-11-30", "§ 63-11-31"]
+        },
+        {
+          "citation": "§ 63-11-38",
+          "text": "Aggravated DUI; causing death or serious injury. Any person who causes death or serious bodily injury while driving under the influence is guilty of aggravated DUI. Aggravated DUI causing death: 5-25 years imprisonment and $5,000-$25,000 fine. Aggravated DUI causing serious injury: 3-15 years imprisonment and $3,000-$15,000 fine.",
+          "summary": "Aggravated DUI causing death: 5-25 years, $5K-$25K fine. Causing serious injury: 3-15 years, $3K-$15K fine",
+          "keywords": ["aggravated DUI", "vehicular homicide", "serious injury", "death"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 63-11-30", "§ 97-3-47"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "13",
+      "chapterName": "Accidents and Reports",
+      "sections": [
+        {
+          "citation": "§ 63-3-401",
+          "text": "Duty to stop at accident; penalty. The driver of any vehicle involved in an accident resulting in injury, death, or property damage shall immediately stop at the scene or as close as possible. Failure to stop is a misdemeanor if property damage only, felony if injury or death.",
+          "summary": "Duty to stop: Must stop at/near accident scene for injury, death, or property damage. Failure = misdemeanor (property damage), felony (injury/death)",
+          "keywords": ["accident", "duty to stop", "hit and run", "leaving scene"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 63-3-403", "§ 63-3-405"]
+        },
+        {
+          "citation": "§ 63-3-403",
+          "text": "Duty to give information and render aid. The driver of any vehicle involved in an accident shall: (a) Give name, address, and registration number; (b) Show driver's license upon request; (c) Render reasonable assistance to injured persons; (d) Provide information and assistance to any person suffering injury or property damage.",
+          "summary": "Accident duties: Provide name, address, registration. Show license on request. Render reasonable assistance to injured. Exchange information",
+          "keywords": ["accident", "information exchange", "render aid", "duty to assist"],
+          "amendments": [],
+          "relatedSections": ["§ 63-3-401", "§ 63-3-405"]
+        },
+        {
+          "citation": "§ 63-3-405",
+          "text": "Accident reports. The driver of a vehicle involved in an accident resulting in injury, death, or property damage exceeding $500 shall report the accident to the local police department, county sheriff's office, or Mississippi Highway Patrol within 24 hours.",
+          "summary": "Accident report: Must report to police/sheriff/Highway Patrol within 24 hours if injury, death, or damage over $500",
+          "keywords": ["accident report", "24 hours", "police", "Highway Patrol", "$500"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 63-3-401", "§ 63-3-403"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "15",
+      "chapterName": "Financial Responsibility",
+      "sections": [
+        {
+          "citation": "§ 63-15-1",
+          "text": "Proof of financial responsibility required. No person shall operate a motor vehicle on public roads without maintaining proof of financial responsibility. Proof may be demonstrated by: (a) Liability insurance policy with minimum limits; (b) Certificate of self-insurance; (c) Cash or securities deposit with the state.",
+          "summary": "Financial responsibility: Required to operate vehicle. Proof via liability insurance, self-insurance certificate, or cash/securities deposit",
+          "keywords": ["financial responsibility", "liability insurance", "self-insurance", "proof of insurance"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 63-15-3", "§ 63-15-5"]
+        },
+        {
+          "citation": "§ 63-15-3",
+          "text": "Minimum liability insurance requirements. The minimum liability insurance limits are: (a) $25,000 for bodily injury or death of one person in any one accident; (b) $50,000 for bodily injury or death of two or more persons in any one accident; (c) $25,000 for property damage in any one accident. Higher limits may be purchased.",
+          "summary": "Minimum insurance: $25,000 bodily injury per person, $50,000 per accident, $25,000 property damage. Commonly written as 25/50/25",
+          "keywords": ["liability insurance", "minimum limits", "25/50/25", "bodily injury", "property damage"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 63-15-1", "§ 63-15-5"]
+        },
+        {
+          "citation": "§ 63-15-5",
+          "text": "Penalty for violation; suspension of license. Any person who operates a vehicle without financial responsibility is guilty of a misdemeanor and subject to: (a) Fine of $300-$1,000 for first offense; (b) Fine of $500-$2,000 for subsequent offenses; (c) License suspension up to 1 year; (d) Impoundment of vehicle.",
+          "summary": "No insurance penalty: First offense $300-$1,000 fine. Subsequent $500-$2,000. License suspension up to 1 year. Vehicle impoundment possible",
+          "keywords": ["no insurance", "fine", "license suspension", "impoundment", "misdemeanor"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 63-15-1", "§ 63-15-3"]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "Mississippi Code of 1972",
+    "url": "http://www.legislature.ms.gov/",
+    "notes": "Complete motor vehicle code covering registration, licensing, traffic laws, DUI, and accidents. Cross-referenced with Title 67 (Traffic Regulations) and Title 97 (Crimes)."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "county": "Davidson",
+  "countySeat": "Nashville",
+  "judicialDistrict": "20th Judicial District",
+  "lastUpdated": "2026-02-20",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "criminalCourt": {
+      "name": "Davidson County Criminal Court",
+      "address": "101 James Robertson Parkway",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37201",
+      "phone": "(615) 862-5290",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://circuitclerk.nashville.gov"
+    },
+    "generalSessions": {
+      "name": "Davidson County General Sessions Court",
+      "address": "100 James Robertson Parkway",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37201",
+      "phone": "(615) 862-5195",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Davidson County Circuit Court Clerk",
+    "address": "1 Public Square",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37201",
+    "phone": "(615) 862-5180",
+    "email": "circuit.clerk@nashville.gov",
+    "expungementInfo": "https://circuitclerk.nashville.gov/clerk-services/expungements/"
+  },
+  "districtAttorney": {
+    "office": "Davidson County District Attorney's Office",
+    "name": "District Attorney General",
+    "address": "222 2nd Avenue North",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37201",
+    "phone": "(615) 862-5500"
+  },
+  "fees": {
+    "filingFee": 0,
+    "administrativeFee": 0,
+    "certificationFee": 5,
+    "copyFee": 0.50,
+    "notes": "Davidson County does not charge administrative fees for expungement filings. State fees were eliminated in 2024."
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at the Circuit Court Clerk's office",
+    "hoursForFiling": "Monday-Friday 8:00 AM - 4:00 PM",
+    "daNotification": "Clerk's office will notify the DA; petitioner does not need to serve separately",
+    "hearingRequired": "Hearings typically not required for uncontested petitions",
+    "hearingLocation": "If hearing required, will be at Criminal Court",
+    "specialNotes": [
+      "Davidson County has an expungement clinic on the first Saturday of each month",
+      "Free legal assistance available through Nashville Bar Association",
+      "Self-help center available at the courthouse"
+    ]
+  },
+  "timeline": {
+    "processingTime": "30-45 days for uncontested expungements",
+    "hearingNotice": "2-3 weeks advance notice if hearing required"
+  },
+  "forms": {
+    "whereToObtain": "Available at Clerk's office or online",
+    "onlineForms": "https://circuitclerk.nashville.gov/forms/",
+    "requiredForms": [
+      "Petition for Expungement",
+      "Order of Expungement"
+    ],
+    "additionalForms": [
+      "Affidavit of Indigency (if requesting fee waiver)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Aid Society of Middle Tennessee",
+        "address": "211 2nd Avenue North",
+        "city": "Nashville",
+        "phone": "(615) 244-6610",
+        "website": "https://las.org"
+      },
+      {
+        "name": "Nashville Bar Association Lawyer Referral",
+        "phone": "(615) 242-6546"
+      }
+    ],
+    "selfHelp": {
+      "name": "Davidson County Self-Help Center",
+      "location": "Circuit Court Clerk's Office",
+      "hours": "Monday-Friday 9:00 AM - 3:00 PM",
+      "services": "Form review, procedural guidance"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinic": {
+      "schedule": "First Saturday of each month",
+      "time": "9:00 AM - 12:00 PM",
+      "location": "Nashville Public Library - Main Branch",
+      "services": "Free legal assistance with expungement paperwork"
+    },
+    "justiceProgram": {
+      "name": "Nashville Community Justice Center",
+      "services": "Reentry services including expungement assistance"
+    }
+  }
+}

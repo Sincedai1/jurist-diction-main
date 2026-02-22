@@ -1,0 +1,102 @@
+{
+  "name": "Wayne County",
+  "countySeat": "Honesdale",
+  "population": "51,553",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Wayne County Magisterial District Courts",
+      "address": "925 Court Street, Honesdale, PA 18431",
+      "phone": "(570) 253-5970",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.waynecountypa.gov",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Wayne County",
+      "address": "925 Court Street, Honesdale, PA 18431",
+      "phone": "(570) 253-5970",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Wayne County District Attorney's Office",
+    "address": "925 Court Street, Honesdale, PA 18431",
+    "phone": "(570) 253-5980",
+    "trafficDivisionContact": "(570) 253-5980"
+  },
+  "publicDefender": {
+    "office": "Wayne County Public Defender",
+    "address": "925 Court Street, Honesdale, PA 18431",
+    "phone": "(570) 253-5990",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Wayne County Clerk of Courts",
+    "address": "925 Court Street, Honesdale, PA 18431",
+    "phone": "(570) 253-5970",
+    "website": "https://www.waynecountypa.gov"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Wayne County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Honesdale Police Department",
+      "address": "724 Main Street, Honesdale, PA 18431",
+      "phone": "(570) 253-5605",
+      "recordsRequest": "(570) 253-5605"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Honesdale Station",
+      "address": "386 Salem Road, Honesdale, PA 18431",
+      "phone": "(570) 253-2621"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Wayne County",
+    "speedCameras": "Not currently used in Wayne County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Wayne County Transit",
+      "routes": "Shared ride service",
+      "website": "https://www.waynecountytransit.com"
+    }
+  }
+}

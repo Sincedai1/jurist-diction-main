@@ -1,0 +1,78 @@
+{
+  "county": "Adams",
+  "countySeat": "Gettysburg",
+  "judicialDistrict": "51st Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Adams County",
+      "address": "111 Baltimore Street",
+      "city": "Gettysburg",
+      "state": "PA",
+      "zip": "17325",
+      "phone": "(717) 334-6781",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "criminalDivision": "Main Courthouse"
+    }
+  },
+  "clerkInformation": {
+    "name": "Adams County Clerk of Courts",
+    "address": "111 Baltimore Street",
+    "city": "Gettysburg",
+    "state": "PA",
+    "zip": "17325",
+    "phone": "(717) 334-6781",
+    "website": "https://www.adamscounty.us"
+  },
+  "districtAttorney": {
+    "office": "Adams County District Attorney's Office",
+    "address": "111 Baltimore Street",
+    "city": "Gettysburg",
+    "state": "PA",
+    "zip": "17325",
+    "phone": "(717) 337-9820"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "certificationFee": 5,
+    "notes": "Adams County follows PA Clean Slate Act. Filing fees may apply for certain petition-based expungements."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "verification": "Check status through PA State Police or PAeDocket",
+    "automaticSealing": "Court system automatically processes eligible records"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at the Clerk of Courts office",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 4:00 PM",
+    "daNotification": "Court will forward copy to District Attorney's office",
+    "daResponsePeriod": "30 days for DA to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions"
+  },
+  "timeline": {
+    "processingTime": "30-90 days for uncontested expungements",
+    "daResponsePeriod": "30 days",
+    "cleanSlateProcessing": "Automatic sealing processed on rolling basis"
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "MidPenn Legal Services",
+        "phone": "(717) 232-0581",
+        "website": "https://www.midpenn.org",
+        "services": "Free legal assistance for eligible individuals"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtPortal": "https://ujsportal.pacourts.us",
+    "statePoliceRecords": "https://www.psp.pa.gov"
+  },
+  "notes": [
+    "Adams County follows Pennsylvania Clean Slate Act",
+    "Clean Slate automatic sealing is implemented",
+    "Contact Clerk of Courts for specific filing requirements"
+  ]
+}

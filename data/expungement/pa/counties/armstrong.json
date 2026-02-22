@@ -1,0 +1,60 @@
+{
+  "county": "Armstrong",
+  "countySeat": "Kittanning",
+  "judicialDistrict": "47th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Armstrong County",
+      "address": "500 Market Street",
+      "city": "Kittanning",
+      "state": "PA",
+      "zip": "16201",
+      "phone": "(724) 548-3200",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Armstrong County Clerk of Courts",
+    "address": "500 Market Street",
+    "city": "Kittanning",
+    "state": "PA",
+    "zip": "16201",
+    "phone": "(724) 548-3200",
+    "website": "https://www.armstrongcounty.org"
+  },
+  "districtAttorney": {
+    "office": "Armstrong County District Attorney's Office",
+    "address": "500 Market Street",
+    "city": "Kittanning",
+    "state": "PA",
+    "zip": "16201",
+    "phone": "(724) 548-3200"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Armstrong County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "verification": "Check status through PA State Police"
+  },
+  "procedures": {
+    "filingLocation": "File at Clerk of Courts office",
+    "daResponsePeriod": "30 days for DA to object"
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Neighborhood Legal Services",
+        "phone": "(412) 255-6590"
+      }
+    ]
+  },
+  "notes": [
+    "Armstrong County follows Pennsylvania Clean Slate Act",
+    "Contact Clerk of Courts for specific requirements"
+  ]
+}

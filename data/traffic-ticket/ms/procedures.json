@@ -1,0 +1,310 @@
+{
+  "title": "Mississippi Traffic Ticket Defense Procedures",
+  "description": "Step-by-step procedures for contesting traffic tickets in Mississippi",
+  "disclaimer": "This is informational only and not legal advice. Procedures vary by jurisdiction.",
+  "lastUpdated": "2026-02-21",
+  "proceduresByViolation": {
+    "speeding": {
+      "displayName": "Speeding Violation",
+      "severity": "minor_to_moderate",
+      "immediateActions": [
+        "Review ticket for accuracy (date, time, location, speed recorded)",
+        "Note weather and road conditions",
+        "Document any witnesses",
+        "Take photos of signage and road conditions if possible",
+        "Request calibration records for speed measurement device"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Calibration Challenge",
+          "description": "Challenge the accuracy of speed measurement device",
+          "steps": [
+            "Request discovery of radar/lidar calibration records",
+            "Verify device was calibrated within required timeframe",
+            "Check officer's training certification",
+            "Examine maintenance records"
+          ],
+          "success_factors": ["Outdated calibration", "Missing records", "Untrained officer"]
+        },
+        {
+          "name": "Signage Defense",
+          "description": "Challenge speed limit signage",
+          "steps": [
+            "Photograph all speed limit signs in the area",
+            "Verify signs meet MUTCD standards",
+            "Check if speed limit is properly posted",
+            "Document any obstructed or damaged signs"
+          ],
+          "success_factors": ["Missing signs", "Obstructed visibility", "Non-standard posting"]
+        },
+        {
+          "name": "Necessity Defense",
+          "description": "Argue speeding was necessary for safety",
+          "steps": [
+            "Document emergency circumstances",
+            "Obtain witness statements",
+            "Provide medical or emergency documentation if applicable"
+          ],
+          "success_factors": ["Documented emergency", "Credible witnesses", "Medical necessity"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal (if defense successful)",
+        "Reduced charge (plea negotiation)",
+        "Guilty with fine and points",
+        "Traffic school (if eligible)",
+        "Not guilty verdict"
+      ],
+      "timeline": {
+        "contestDeadline": "Typically must respond before court date on citation",
+        "courtDate": "30-60 days from citation or request",
+        "appealDeadline": "30 days from conviction"
+      }
+    },
+    "recklessDriving": {
+      "displayName": "Reckless Driving",
+      "severity": "serious",
+      "criminalCharge": true,
+      "immediateActions": [
+        "Document all circumstances of the stop",
+        "Do not admit to reckless behavior",
+        "Identify any witnesses",
+        "Preserve any video evidence (dash cam, surveillance)",
+        "Request officer's dash cam footage"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Lack of Reckless Disregard",
+          "description": "Challenge that driving showed reckless disregard for safety",
+          "steps": [
+            "Demonstrate driving was reasonable under circumstances",
+            "Show no actual danger was created",
+            "Present witness testimony to safe driving",
+            "Challenge officer's characterization of events"
+          ],
+          "success_factors": ["No actual danger", "Circumstantial necessity", "Witness corroboration"]
+        },
+        {
+          "name": "Reduction to Careless Driving",
+          "description": "Negotiate for downgrade to lesser offense",
+          "steps": [
+            "Request plea negotiation",
+            "Present mitigating factors",
+            "Ask for reduction to careless driving (2 points vs 6)",
+            "Show clean driving record"
+          ],
+          "success_factors": ["First offense", "No accident", "Clean record"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal",
+        "Reduction to careless driving",
+        "Conviction as misdemeanor",
+        "Fine up to $500",
+        "Jail up to 90 days",
+        "License suspension possible"
+      ],
+      "recommendation": "Misdemeanor charge - consider consulting an attorney",
+      "timeline": {
+        "arraignmentDeadline": "Per court summons",
+        "discoveryRequest": "File immediately after arraignment",
+        "trialDate": "Set at arraignment"
+      }
+    },
+    "suspendedLicense": {
+      "displayName": "Driving on Suspended License",
+      "severity": "moderate_to_serious",
+      "immediateActions": [
+        "Verify current license status with MS DPS",
+        "Request driving record from DPS",
+        "Determine reason for suspension",
+        "Begin reinstatement process if possible",
+        "Document any notice (or lack thereof) received"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Lack of Knowledge",
+          "description": "Prove you did not know license was suspended",
+          "steps": [
+            "Show DPS notice was not received",
+            "Demonstrate address change not updated",
+            "Request proof of mailing from DPS",
+            "Document reasonable belief license was valid"
+          ],
+          "success_factors": ["No actual notice", "Address issues", "Administrative error"]
+        },
+        {
+          "name": "Administrative Error",
+          "description": "Prove suspension was in error",
+          "steps": [
+            "Obtain complete driving record",
+            "Identify any errors on record",
+            "Request administrative hearing",
+            "Document proof of compliance"
+          ],
+          "success_factors": ["Clerical error", "Paid fines not recorded", "Insurance proof not recorded"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal (if license valid or error proven)",
+        "Conviction as misdemeanor",
+        "Fine up to $500",
+        "Jail up to 6 months",
+        "Additional license suspension"
+      ],
+      "reinstatementSteps": [
+        "Pay all outstanding fines and fees",
+        "Complete any required courses",
+        "Provide proof of insurance",
+        "Pay reinstatement fee to DPS",
+        "Resolve underlying cause of suspension"
+      ]
+    },
+    "noInsurance": {
+      "displayName": "No Insurance",
+      "severity": "moderate",
+      "immediateActions": [
+        "Obtain proof of insurance at time of stop if available",
+        "Check if insurance was actually in effect",
+        "Contact insurance company for documentation",
+        "Review insurance policy terms"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Proof of Coverage",
+          "description": "Show insurance was valid at time of stop",
+          "steps": [
+            "Obtain letter from insurance company with coverage dates",
+            "Bring proof to court",
+            "Ensure coverage meets Mississippi minimums"
+          ],
+          "success_factors": ["Valid insurance at time of stop", "Documentation from insurer"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal with proof of insurance",
+        "Fine up to $500",
+        "License suspension (second offense)",
+        "Vehicle impoundment possible"
+      ],
+      "minimumCoverage": {
+        "bodilyInjuryPerPerson": "$25,000",
+        "bodilyInjuryPerAccident": "$50,000",
+        "propertyDamage": "$25,000"
+      }
+    },
+    "equipmentViolation": {
+      "displayName": "Equipment Violation",
+      "severity": "minor",
+      "immediateActions": [
+        "Document condition of equipment at time of stop",
+        "Have equipment repaired immediately",
+        "Obtain repair receipt or documentation",
+        "Take photos of repaired equipment"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Prompt Repair",
+          "description": "Show equipment was repaired promptly",
+          "steps": [
+            "Have equipment fixed same or next day",
+            "Obtain detailed repair invoice",
+            "Bring proof to court",
+            "Many jurisdictions dismiss with proof of repair"
+          ],
+          "success_factors": ["Immediate repair", "First offense", "Documentation"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal with proof of repair",
+        "Reduced fine",
+        "Warning only",
+        "Fine payment required"
+      ],
+      "fixItTicket": true
+    }
+  },
+  "generalDefenseTactics": [
+    {
+      "name": "Discovery Request",
+      "description": "Request evidence from prosecution",
+      "items": [
+        "Officer's notes and report",
+        "Calibration records",
+        "Training certifications",
+        "Dash cam or body cam footage",
+        "Witness statements"
+      ],
+      "deadlineNote": "File discovery request immediately after arraignment"
+    },
+    {
+      "name": "Officer No-Show",
+      "description": "If officer fails to appear, case may be dismissed",
+      "considerations": [
+        "Not guaranteed - judge may reschedule",
+        "More common in smaller jurisdictions",
+        "Cannot rely on this strategy alone"
+      ]
+    },
+    {
+      "name": "Plea Negotiation",
+      "description": "Negotiate for reduced charge",
+      "options": [
+        "Reduction to non-moving violation",
+        "Reduction to lesser offense",
+        "Traffic school in lieu of conviction",
+        "Reduction from reckless to careless driving"
+      ]
+    }
+  ],
+  "courtTypes": {
+    "justice": {
+      "description": "County-level court handling misdemeanors and traffic offenses",
+      "procedures": "Less formal, judge decides without jury",
+      "appeal": "Appeal to County Court or Circuit Court"
+    },
+    "municipal": {
+      "description": "City-level court for violations within city limits",
+      "procedures": "Varies by municipality",
+      "appeal": "Appeal to County Court"
+    },
+    "county": {
+      "description": "County court handling appeals and some original matters",
+      "procedures": "More formal proceedings",
+      "appeal": "Appeal to Circuit Court"
+    }
+  },
+  "trafficSchoolOptions": {
+    "description": "Traffic school may be available to reduce points or dismiss charges",
+    "eligibility": [
+      "First-time offenders",
+      "Minor violations only",
+      "Court approval required",
+      "Not available for DUI or reckless driving"
+    ],
+    "benefits": [
+      "Points may not be assessed",
+      "Ticket may be dismissed",
+      "Insurance premiums may not increase"
+    ],
+    "providers": [
+      "Mississippi DPS-approved defensive driving courses",
+      "Online options available",
+      "4-8 hour courses typical"
+    ]
+  },
+  "mississippiSpecific": {
+    "pointSystem": {
+      "description": "MS point system with 12-point suspension threshold",
+      "suspensionThresholds": {
+        "8-11_points": "Warning letter",
+        "12+_points": "License suspension"
+      },
+      "pointDuration": "Points remain on record for 2-3 years"
+    },
+    "nonResidentCompact": {
+      "description": "Mississippi is part of the Non-Resident Violator Compact",
+      "impact": "Out-of-state violations may affect MS license"
+    }
+  }
+}

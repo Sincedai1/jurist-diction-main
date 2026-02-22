@@ -1,0 +1,171 @@
+{
+  "name": "Hamilton County",
+  "countySeat": "Chattanooga",
+  "population": "366,207",
+  "courts": {
+    "generalSessions": {
+      "name": "Hamilton County General Sessions Court",
+      "address": "600 Market St, Chattanooga, TN 37402",
+      "phone": "(423) 209-7600",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.hamiltontn.gov/generalSessions/",
+      "parking": "Public parking available downtown",
+      "publicTransport": "Accessible via CARTA bus system"
+    },
+    "municipal": {
+      "name": "Chattanooga City Court",
+      "address": "600 Market St, Chattanooga, TN 37402",
+      "phone": "(423) 643-6500",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://cha.city/citycourt",
+      "note": "Handles city ordinance and traffic violations within Chattanooga city limits"
+    },
+    "trafficDivision": {
+      "name": "Traffic Division",
+      "location": "Hamilton County Courts Building",
+      "phone": "(423) 209-7600",
+      "note": "Handles state traffic citations"
+    },
+    "suburbanMunicipal": {
+      "description": "Suburban municipalities have their own courts",
+      "cities": [
+        {
+          "name": "East Ridge City Court",
+          "address": "1517 Tombras Ave, East Ridge, TN 37412",
+          "phone": "(423) 894-5200"
+        },
+        {
+          "name": "Red Bank City Court",
+          "address": "3105 Dayton Blvd, Red Bank, TN 37415",
+          "phone": "(423) 877-2524"
+        },
+        {
+          "name": "Ooltewah/Collegedale Court",
+          "address": "9148 Apison Pike, Ooltewah, TN 37363",
+          "phone": "(423) 238-5300"
+        }
+      ]
+    }
+  },
+  "districtAttorney": {
+    "office": "Hamilton County District Attorney's Office",
+    "address": "600 Market St, Chattanooga, TN 37402",
+    "phone": "(423) 209-7400",
+    "website": "https://www.hamiltontn.gov/da/"
+  },
+  "publicDefender": {
+    "office": "Hamilton County Public Defender's Office",
+    "address": "5705 Uptain Rd, Chattanooga, TN 37411",
+    "phone": "(423) 698-7150",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Hamilton County Circuit Court Clerk",
+    "address": "625 Georgia Ave, Chattanooga, TN 37402",
+    "phone": "(423) 209-7500",
+    "website": "https://www.hamiltontn.gov/circuitcourt/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Generally 7-10 days from citation date",
+      "process": [
+        "City tickets: Contact Chattanooga City Court",
+        "County tickets: Contact General Sessions Court",
+        "Enter not guilty plea",
+        "Discovery requests filed through court clerk"
+      ],
+      "onlinePayment": "Available through City of Chattanooga website for city tickets",
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Court dates typically 4-6 weeks from arraignment",
+      "continuances": "Contact court clerk at least 48 hours before scheduled date",
+      "noShow": "Failure to appear may result in bench warrant and license suspension"
+    },
+    "diversionProgram": {
+      "name": "Hamilton County Pre-Trial Diversion",
+      "eligibility": [
+        "First-time offenders",
+        "No prior diversions",
+        "Non-violent traffic offenses"
+      ],
+      "requirements": [
+        "Complete defensive driving course",
+        "Pay program fees and court costs",
+        "Probation period (typically 11 months 29 days)"
+      ],
+      "cost": "$150-300",
+      "contact": "District Attorney's Office - (423) 209-7400"
+    },
+    "trafficSchool": {
+      "approvedProviders": [
+        "National Safety Council",
+        "Tennessee-approved online courses",
+        "AAA Tennessee"
+      ],
+      "deadline": "Must complete within 90 days of court order",
+      "cost": "$25-75"
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Chattanooga Police Department",
+      "address": "3410 Amnicola Hwy, Chattanooga, TN 37406",
+      "phone": "(423) 698-2525",
+      "recordsRequest": "(423) 643-5000",
+      "website": "https://cha.city/police"
+    },
+    "highwayPatrol": {
+      "name": "Tennessee Highway Patrol - Chattanooga District",
+      "address": "2201 Sr-58, Chattanooga, TN 37421",
+      "phone": "(423) 634-6800"
+    },
+    "hamiltonCountySheriff": {
+      "name": "Hamilton County Sheriff's Office",
+      "address": "600 Market St, Chattanooga, TN 37402",
+      "phone": "(423) 209-7190",
+      "website": "https://www.hamiltontn.gov/sheriff/"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts, tank tops, or hats",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 20-30 minutes early for security"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used",
+    "speedCameras": "Not used in Hamilton County",
+    "interstateEnforcement": "Heavy enforcement on I-24, I-75 through county"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "County Courthouse parking",
+        "Metered street parking downtown",
+        "Private lots"
+      ],
+      "cost": "$5-10",
+      "note": "Plan for downtown parking time"
+    },
+    "publicTransit": {
+      "service": "Chattanooga Area Regional Transportation Authority (CARTA)",
+      "routes": "Multiple routes serve downtown",
+      "website": "https://www.carta-bus.org/"
+    }
+  },
+  "additionalResources": {
+    "legalAid": {
+      "name": "Legal Aid of East Tennessee - Chattanooga Office",
+      "address": "535 Chestnut St, Chattanooga, TN 37402",
+      "phone": "(423) 756-4013",
+      "note": "Free legal assistance for qualifying individuals"
+    },
+    "lawyerReferral": {
+      "name": "Chattanooga Bar Association Lawyer Referral",
+      "phone": "(423) 756-3222"
+    }
+  }
+}

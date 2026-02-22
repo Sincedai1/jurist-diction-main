@@ -1,0 +1,161 @@
+{
+  "county": "Allegheny",
+  "countySeat": "Pittsburgh",
+  "judicialDistrict": "Fifth Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Allegheny County",
+      "address": "436 Grant Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15219",
+      "phone": "(412) 350-5300",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "criminalDivision": "Room 114"
+    },
+    "criminalDivision": {
+      "name": "Allegheny County Criminal Division",
+      "address": "436 Grant Street, Room 114",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15219",
+      "phone": "(412) 350-5300",
+      "expungementContact": "Criminal Division Clerk"
+    }
+  },
+  "clerkInformation": {
+    "name": "Department of Court Records, Criminal Division",
+    "address": "436 Grant Street, Room 114",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15219",
+    "phone": "(412) 350-5300",
+    "website": "https://www.alleghenycounty.us/courts",
+    "expungementInfo": "https://www.alleghenycounty.us/courts/criminal/expungement.aspx"
+  },
+  "districtAttorney": {
+    "office": "Allegheny County District Attorney's Office",
+    "name": "District Attorney",
+    "address": "436 Grant Street, Courthouse Room 501",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15219",
+    "phone": "(412) 350-3400"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "certificationFee": 5,
+    "copyFee": 0.25,
+    "notes": "Allegheny County does not charge filing fees for expungement petitions. Clean Slate sealing is always free."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Second highest volume in Pennsylvania after Philadelphia",
+    "verification": "Check status through PA State Police or PAeDocket",
+    "automaticSealing": "Court system automatically processes eligible records",
+    "contactForIssues": "Contact Department of Court Records if sealed records still appear"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at the Department of Court Records, Criminal Division, Room 114",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 4:00 PM",
+    "daNotification": "Court will forward copy to District Attorney's office automatically",
+    "daResponsePeriod": "30 days for DA to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions",
+    "hearingLocation": "Court of Common Pleas if hearing scheduled",
+    "specialNotes": [
+      "Allegheny County has well-developed expungement procedures",
+      "Filing is FREE",
+      "Check PAeDocket for case status",
+      "Dedicated self-help resources available"
+    ]
+  },
+  "timeline": {
+    "processingTime": "30-60 days for uncontested expungements",
+    "daResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required",
+    "cleanSlateProcessing": "Automatic sealing processed on rolling basis"
+  },
+  "forms": {
+    "whereToObtain": "Available at Clerk's office or online",
+    "onlineForms": "https://www.alleghenycounty.us/courts/criminal/expungement.aspx",
+    "requiredForms": [
+      "Petition for Expungement",
+      "Order of Expungement",
+      "Notice to DA"
+    ],
+    "additionalForms": [
+      "Affidavit of Indigency (if requesting fee waiver - usually not needed)",
+      "Verification of Payment of Court Costs"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Neighborhood Legal Services",
+        "address": "928 Penn Avenue",
+        "city": "Pittsburgh",
+        "phone": "(412) 255-6590",
+        "website": "https://www.nlsa.us",
+        "services": "Free legal assistance for eligible individuals"
+      },
+      {
+        "name": "Allegheny County Bar Association Lawyer Referral",
+        "phone": "(412) 261-5555",
+        "website": "https://www.acba.org"
+      },
+      {
+        "name": "University of Pittsburgh School of Law Clinic",
+        "address": "3900 Forbes Avenue",
+        "city": "Pittsburgh",
+        "phone": "(412) 648-1300"
+      }
+    ],
+    "selfHelp": {
+      "name": "Allegheny County Law Library",
+      "location": "436 Grant Street, Room 901",
+      "city": "Pittsburgh",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinics": [
+      {
+        "name": "Neighborhood Legal Services Expungement Clinic",
+        "schedule": "Regular clinics scheduled monthly",
+        "services": "Free legal assistance with expungement paperwork",
+        "contact": "(412) 255-6590"
+      }
+    ],
+    "reentryPrograms": [
+      {
+        "name": "Center for Employment Opportunities (CEO) Pittsburgh",
+        "address": "901 Pennsylvania Avenue",
+        "city": "Pittsburgh",
+        "phone": "(412) 391-9000",
+        "services": "Employment and reentry services including expungement assistance"
+      },
+      {
+        "name": "Allegheny County Reentry Services",
+        "phone": "(412) 350-3440",
+        "services": "Comprehensive reentry services"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtPortal": "https://ujsportal.pacourts.us",
+    "courtWebsite": "https://www.alleghenycounty.us/courts",
+    "statePoliceRecords": "https://www.psp.pa.gov",
+    "caseSearch": "https://dcr.alleghenycounty.us"
+  },
+  "notes": [
+    "Allegheny County is Pennsylvania's second-most populous county",
+    "Pittsburgh is the county seat and largest city",
+    "Filing is FREE for expungement petitions",
+    "Well-developed expungement procedures and self-help resources",
+    "Clean Slate automatic sealing is fully implemented"
+  ]
+}

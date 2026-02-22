@@ -1,0 +1,102 @@
+{
+  "name": "Warren County",
+  "countySeat": "Warren",
+  "population": "39,568",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Warren County Magisterial District Courts",
+      "address": "204 4th Avenue, Warren, PA 16365",
+      "phone": "(814) 728-3400",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.warrencountypa.net",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Warren County",
+      "address": "204 4th Avenue, Warren, PA 16365",
+      "phone": "(814) 728-3400",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Warren County District Attorney's Office",
+    "address": "204 4th Avenue, Warren, PA 16365",
+    "phone": "(814) 728-3410",
+    "trafficDivisionContact": "(814) 728-3410"
+  },
+  "publicDefender": {
+    "office": "Warren County Public Defender",
+    "address": "204 4th Avenue, Warren, PA 16365",
+    "phone": "(814) 728-3420",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Warren County Clerk of Courts",
+    "address": "204 4th Avenue, Warren, PA 16365",
+    "phone": "(814) 728-3400",
+    "website": "https://www.warrencountypa.net"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Warren County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Warren City Police Department",
+      "address": "318 West 3rd Avenue, Warren, PA 16365",
+      "phone": "(814) 723-6500",
+      "recordsRequest": "(814) 723-6500"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Warren Station",
+      "address": "100 Dundon Avenue, Warren, PA 16365",
+      "phone": "(814) 726-3500"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Warren County",
+    "speedCameras": "Not currently used in Warren County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Warren Transit",
+      "routes": "Shared ride service",
+      "website": "https://www.warrentransit.com"
+    }
+  }
+}

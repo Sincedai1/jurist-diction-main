@@ -1,0 +1,365 @@
+{
+  "jurisdiction": "Mississippi",
+  "jurisdictionType": "state",
+  "title": "97",
+  "name": "Crimes",
+  "description": "Mississippi Criminal Code - All criminal offenses and penalties",
+  "chapters": [
+    {
+      "chapterNumber": "1",
+      "chapterName": "General Provisions",
+      "sections": [
+        {
+          "citation": "§ 97-1-1",
+          "text": "Crimes divided into felonies and misdemeanors. Felonies are punishable by death or imprisonment in the Penitentiary. Every other crime is a misdemeanor.",
+          "summary": "Defines two categories of crimes: felonies (punishable by death or state prison) and misdemeanors (all other crimes)",
+          "keywords": ["felony", "misdemeanor", "classification", "penalty"],
+          "amendments": [],
+          "relatedSections": ["§ 97-1-3", "§ 99-1-1"]
+        },
+        {
+          "citation": "§ 97-1-3",
+          "text": "Misdemeanors; punishment. Every person convicted of a misdemeanor for which no penalty is prescribed shall be fined not more than Five Hundred Dollars ($500.00), or imprisoned not exceeding six (6) months, or both.",
+          "summary": "Default penalty for misdemeanors without specific penalties: up to $500 fine, 6 months jail, or both",
+          "keywords": ["misdemeanor", "fine", "imprisonment", "penalty"],
+          "amendments": ["2018"],
+          "relatedSections": ["§ 97-1-1"]
+        },
+        {
+          "citation": "§ 97-1-5",
+          "text": "Capital offenses; punishment. The punishment for capital offenses shall be as prescribed in Sections 99-19-101 through 99-19-107.",
+          "summary": "Refers to capital punishment procedures under Sections 99-19-101 through 99-19-107",
+          "keywords": ["capital", "death penalty", "punishment"],
+          "amendments": [],
+          "relatedSections": ["§ 99-19-101", "§ 99-19-107"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "3",
+      "chapterName": "Offenses Against the Person",
+      "sections": [
+        {
+          "citation": "§ 97-3-7",
+          "text": "Simple assault; aggravated assault; penalty. (1) An offender is guilty of simple assault if he (a) attempts to cause or purposely, knowingly or recklessly causes bodily injury to another; (b) negligently causes bodily injury to another with a deadly weapon; or (c) attempts by physical menace to put another in fear of imminent serious bodily harm. Simple assault is a misdemeanor punishable by a fine of not more than Five Hundred Dollars ($500.00) or imprisonment for not more than six (6) months, or both. (2) An offender is guilty of aggravated assault if he (a) attempts to cause serious bodily injury to another, or causes such injury purposely, knowingly or recklessly under circumstances manifesting extreme indifference to the value of human life; or (b) attempts to cause or purposely or knowingly causes bodily injury to another with a deadly weapon or other means likely to produce death or serious bodily harm. Aggravated assault is punishable by imprisonment for not more than one (1) year or a fine of not more than One Thousand Dollars ($1,000.00), or both. (3) Simple assault on a law enforcement officer, firefighter, or emergency medical technician is a felony with 3-15 years imprisonment. (4) Aggravated assault on a law enforcement officer, firefighter, or emergency medical technician is a felony with 15-30 years imprisonment.",
+          "summary": "Defines simple assault (misdemeanor, up to 6 months, $500) and aggravated assault (up to 1 year, $1000). Enhanced penalties for assaults on law enforcement, firefighters, and EMTs.",
+          "keywords": ["assault", "aggravated assault", "bodily injury", "deadly weapon", "law enforcement"],
+          "amendments": ["2018", "2020"],
+          "relatedSections": ["§ 97-3-15", "§ 97-3-37"]
+        },
+        {
+          "citation": "§ 97-3-15",
+          "text": "Justifiable homicide. Homicide is justifiable when committed by any person in any of the following cases: (a) When committed in the lawful defense of the slayer, or his or her husband, wife, parent, child, brother, or sister, or of any other person in the presence or at the direction of the slayer, when there is reasonable ground to apprehend a design on the part of the person slain to commit a felony or to do some great bodily harm, and there is imminent danger of such design being accomplished; or (b) When committed in the lawful defense of such person when there is reasonable ground to apprehend a design on the part of the person slain to commit a felony or to do some great bodily harm, and there is imminent danger of such design being accomplished; or (c) When necessarily committed in arresting any person who has committed any felony in the presence of the arrestor, or in retaking any felon who has escaped from lawful custody, or in preventing the escape of any felon from lawful custody.",
+          "summary": "Homicide is justified in self-defense, defense of others, or during lawful arrest of a felon when there is reasonable fear of death or great bodily harm",
+          "keywords": ["homicide", "self-defense", "justifiable", "felony", "arrest"],
+          "amendments": ["2014"],
+          "relatedSections": ["§ 97-3-7", "§ 97-3-31"]
+        },
+        {
+          "citation": "§ 97-3-21",
+          "text": "Murder; penalty. (1) The killing of a human being without the authority of law by any means or in any manner shall be murder in the following cases: (a) When done with deliberate design to effect the death of the person killed, or of any human being; (b) When done in the commission of an act eminently dangerous to others and evincing a depraved heart, regardless of human life, although without any premeditated design to effect the death of any particular individual; (c) When done by any act greatly dangerous to the lives of others, and evidencing a wanton disregard of human life; (d) When done in the commission of any felony, arson, rape, robbery, burglary, lewd or lascivious acts with a child under sixteen (16) years, or kidnapping. (2) Every person convicted of murder shall be imprisoned for life in the State Penitentiary.",
+          "summary": "Murder defined as intentional killing, depraved heart killing, or felony murder. Penalty: Life imprisonment without parole",
+          "keywords": ["murder", "homicide", "felony murder", "life imprisonment", "capital"],
+          "amendments": ["1994", "2020"],
+          "relatedSections": ["§ 97-3-15", "§ 97-3-23", "§ 99-19-101"]
+        },
+        {
+          "citation": "§ 97-3-23",
+          "text": "Capital murder; penalty. (1) Any person who kills another in the following circumstances shall be guilty of capital murder: (a) Murder of a peace officer or fireman while acting in official capacity; (b) Murder in the commission of kidnapping, arson, rape, robbery, burglary, or felonious abuse/rape of a child; (c) Murder for hire; (d) Murder by a person under life sentence; (e) Murder of an elected official; (f) Murder of a witness to prevent testimony; (g) Multiple murders by same person; (h) Murder with bomb or explosive; (i) Murder during carjacking; (j) Murder of a child under 14 by person 18 or older. (2) Capital murder is punishable by death or life imprisonment.",
+          "summary": "Capital murder includes murder of police, murder during felony, murder for hire, multiple murders. Punishable by death or life imprisonment",
+          "keywords": ["capital murder", "death penalty", "life imprisonment", "aggravating factors"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 97-3-21", "§ 99-19-101", "§ 99-19-107"]
+        },
+        {
+          "citation": "§ 97-3-27",
+          "text": "Manslaughter; penalty. Any person who kills another without malice, or without any design to effect death, in the heat of passion, but in a cruel and unusual manner, or by the use of a dangerous weapon, without authority of law, and not in necessary self-defense, shall be guilty of manslaughter. Manslaughter is punishable by imprisonment for not more than twenty (20) years.",
+          "summary": "Manslaughter: killing without malice or premeditation, in heat of passion, or with dangerous weapon. Penalty: up to 20 years",
+          "keywords": ["manslaughter", "heat of passion", "no malice", "dangerous weapon"],
+          "amendments": [],
+          "relatedSections": ["§ 97-3-21", "§ 97-3-31"]
+        },
+        {
+          "citation": "§ 97-3-31",
+          "text": "Homicide; negligent; penalty. Any person who kills another negligently but without malice aforethought, or unintentionally, shall be guilty of negligent homicide. Negligent homicide is punishable by imprisonment for not more than ten (10) years, or by a fine of not more than Ten Thousand Dollars ($10,000.00), or both.",
+          "summary": "Negligent homicide: killing through negligence without intent. Penalty: up to 10 years, $10,000 fine, or both",
+          "keywords": ["negligent homicide", "negligence", "unintentional"],
+          "amendments": [],
+          "relatedSections": ["§ 97-3-27", "§ 97-3-47"]
+        },
+        {
+          "citation": "§ 97-3-37",
+          "text": "Kidnapping; penalty. (1) Any person who shall unlawfully confine, detain or kidnap another person with intent to cause such other person to be secretly confined or imprisoned against his will, or to cause such other person to be sent out of the state against his will, or to cause such other person to be held to service against his will, shall be guilty of kidnapping. (2) Any person who kidnaps a child under sixteen (16) years of age without the consent of the parent or guardian shall be guilty of kidnapping. (3) Kidnapping is punishable by imprisonment for life if the victim is under twelve (12) or the kidnapper is armed, or up to thirty (30) years otherwise.",
+          "summary": "Kidnapping: unlawful confinement with intent to secretly imprison, transport out of state, or hold against will. Penalty: Life if victim under 12 or armed, up to 30 years otherwise",
+          "keywords": ["kidnapping", "abduction", "confinement", "child abduction"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 97-3-23", "§ 97-5-1"]
+        },
+        {
+          "citation": "§ 97-3-47",
+          "text": "Vehicular homicide; penalty. (1) Any person who operates a vehicle in a criminally negligent manner causing death shall be guilty of vehicular homicide. (2) Vehicular homicide while intoxicated is a felony punishable by 5-25 years imprisonment and $10,000-$25,000 fine. (3) Vehicular homicide not involving intoxication is punishable by 1-20 years and up to $10,000 fine.",
+          "summary": "Vehicular homicide: death caused by criminally negligent driving. DUI-related: 5-25 years, $10K-25K. Non-DUI: 1-20 years, up to $10K",
+          "keywords": ["vehicular homicide", "DUI", "negligent driving", "death"],
+          "amendments": ["2019"],
+          "relatedSections": ["§ 63-11-30", "§ 97-3-31"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "5",
+      "chapterName": "Sex Crimes",
+      "sections": [
+        {
+          "citation": "§ 97-3-65",
+          "text": "Rape; penalty. Any person who has forcible sexual intercourse with any person, without such person's consent, shall be guilty of rape. Any person convicted of rape shall be imprisoned for life, or for such lesser term as the court may determine.",
+          "summary": "Rape: forcible sexual intercourse without consent. Penalty: Life imprisonment or lesser term determined by court",
+          "keywords": ["rape", "sexual assault", "forcible", "consent", "life imprisonment"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 97-3-67", "§ 97-3-95"]
+        },
+        {
+          "citation": "§ 97-3-67",
+          "text": "Sexual battery; penalty. Any person who engages in sexual penetration with another person without such person's consent is guilty of sexual battery. Sexual battery is punishable by imprisonment for up to thirty (30) years.",
+          "summary": "Sexual battery: sexual penetration without consent. Penalty: up to 30 years imprisonment",
+          "keywords": ["sexual battery", "penetration", "consent"],
+          "amendments": ["2014"],
+          "relatedSections": ["§ 97-3-65", "§ 97-3-95"]
+        },
+        {
+          "citation": "§ 97-3-95",
+          "text": "Statutory rape; enhanced penalty. (1) Any person seventeen (17) years of age or older who has sexual intercourse with a child at least fourteen (14) but under sixteen (16) years of age, where the person is more than thirty-six (36) months older than the child, is guilty of statutory rape. (2) Statutory rape is punishable by imprisonment for up to thirty (30) years. (3) If the child is under fourteen (14), the penalty is twenty (20) years to life imprisonment.",
+          "summary": "Statutory rape: person 17+ having intercourse with child 14-16 where 36+ months older. Penalty: up to 30 years. If under 14: 20 years to life",
+          "keywords": ["statutory rape", "minor", "age of consent", "child"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 97-3-65", "§ 97-3-67", "§ 97-5-1"]
+        },
+        {
+          "citation": "§ 97-5-1",
+          "text": "Sexual abuse of a child; penalty. (1) Any person who commits any sexual act upon or with a child under eighteen (18) years of age for purpose of sexual gratification is guilty of sexual abuse of a child. (2) Sexual abuse of a child under fourteen (14) is punishable by 20 years to life. (3) Sexual abuse of a child 14-17 is punishable by up to 30 years. (4) Commercial sexual exploitation of a minor carries enhanced penalties.",
+          "summary": "Sexual abuse of child: sexual act with child under 18 for gratification. Under 14: 20 years to life. 14-17: up to 30 years",
+          "keywords": ["child sexual abuse", "exploitation", "minor", "commercial exploitation"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 97-3-95", "§ 97-5-33"]
+        },
+        {
+          "citation": "§ 97-5-33",
+          "text": "Child exploitation; penalty. Any person who knowingly produces, distributes, or possesses any visual depiction of a child engaged in sexually explicit conduct shall be guilty of child exploitation. Child exploitation is punishable by imprisonment for up to forty (40) years and a fine of up to Five Hundred Thousand Dollars ($500,000.00).",
+          "summary": "Child exploitation: producing, distributing, or possessing child sexual abuse material. Penalty: up to 40 years, $500,000 fine",
+          "keywords": ["child exploitation", "child pornography", "CSAM", "distribution"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 97-5-1", "§ 97-45-3"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "7",
+      "chapterName": "Robbery, Burglary, and Theft",
+      "sections": [
+        {
+          "citation": "§ 97-3-73",
+          "text": "Armed robbery; penalty. Any person who, by putting in fear of some immediate injury to his person, or by violence to his person, or by the putting in fear of some immediate injury to the person of another, feloniously takes the personal property of another from his person or in his presence against his will, being armed with a deadly weapon or anything so used as to give the appearance of a deadly weapon, shall be guilty of armed robbery. Armed robbery is punishable by imprisonment for life.",
+          "summary": "Armed robbery: taking property by force or fear while armed with deadly weapon. Penalty: Life imprisonment",
+          "keywords": ["armed robbery", "deadly weapon", "force", "fear", "life imprisonment"],
+          "amendments": ["2015"],
+          "relatedSections": ["§ 97-3-75", "§ 97-3-79"]
+        },
+        {
+          "citation": "§ 97-3-75",
+          "text": "Robbery; penalty. Any person who feloniously takes the personal property of another from his person or in his presence against his will, by violence to his person or by putting such person in fear of some immediate injury to his person, shall be guilty of robbery. Robbery is punishable by imprisonment for not more than fifteen (15) years.",
+          "summary": "Robbery: taking property by force or fear without weapon. Penalty: up to 15 years imprisonment",
+          "keywords": ["robbery", "force", "fear", "property"],
+          "amendments": [],
+          "relatedSections": ["§ 97-3-73", "§ 97-3-79"]
+        },
+        {
+          "citation": "§ 97-3-79",
+          "text": "Burglary; elements; penalty. (1) Any person who breaks and enters the dwelling house of another with intent to commit a crime is guilty of burglary. (2) Burglary of a dwelling is punishable by 3-25 years imprisonment. (3) Burglary of a dwelling while armed carries 10-25 years. (4) Burglary of a non-dwelling is punishable by up to 7 years.",
+          "summary": "Burglary: breaking and entering dwelling with intent to commit crime. Dwelling: 3-25 years. Armed: 10-25 years. Non-dwelling: up to 7 years",
+          "keywords": ["burglary", "breaking and entering", "dwelling", "intent"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 97-3-73", "§ 97-17-33"]
+        },
+        {
+          "citation": "§ 97-17-33",
+          "text": "Motor vehicle theft; penalty. Any person who takes or exercises control over a motor vehicle belonging to another with intent to deprive the owner permanently shall be guilty of motor vehicle theft. Motor vehicle theft is punishable by imprisonment for up to ten (10) years and a fine of up to Ten Thousand Dollars ($10,000.00).",
+          "summary": "Motor vehicle theft: taking vehicle with intent to permanently deprive owner. Penalty: up to 10 years, $10,000 fine",
+          "keywords": ["motor vehicle theft", "grand theft auto", "car theft"],
+          "amendments": ["2018"],
+          "relatedSections": ["§ 97-3-79", "§ 97-17-41"]
+        },
+        {
+          "citation": "§ 97-17-41",
+          "text": "Larceny; penalty. (1) Any person who takes the personal property of another with intent to permanently deprive the owner shall be guilty of larceny. (2) Grand larceny (property valued at $1,000 or more) is punishable by up to ten (10) years imprisonment. (3) Petit larceny (property valued under $1,000) is punishable by up to six (6) months imprisonment and a fine of up to One Thousand Dollars ($1,000.00).",
+          "summary": "Larceny: taking property with intent to permanently deprive. Grand larceny ($1,000+): up to 10 years. Petit larceny: up to 6 months, $1,000",
+          "keywords": ["larceny", "theft", "grand larceny", "petit larceny"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 97-3-75", "§ 97-17-33"]
+        },
+        {
+          "citation": "§ 97-17-51",
+          "text": "Shoplifting; penalty. (1) Any person who willfully takes possession of merchandise with intent to convert without paying full retail value is guilty of shoplifting. (2) Shoplifting merchandise valued at $1,000 or more is a felony punishable by up to 5 years and $5,000 fine. (3) Shoplifting merchandise valued under $1,000 is a misdemeanor punishable by up to 6 months and $1,000 fine. (4) Civil recovery provisions allow merchants to recover actual damages, penalties of $100-$250, and costs.",
+          "summary": "Shoplifting: taking merchandise without paying. $1,000+: felony up to 5 years, $5,000 fine. Under $1,000: misdemeanor up to 6 months, $1,000 fine. Civil recovery available",
+          "keywords": ["shoplifting", "retail theft", "concealment", "civil recovery"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 97-17-41", "§ 11-41-1"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "9",
+      "chapterName": "Drug Offenses",
+      "sections": [
+        {
+          "citation": "§ 41-29-139",
+          "text": "Controlled substances; penalties for violations. (a) Any person who possesses with intent to sell, barter, transfer, or distribute any controlled substance classified in Schedule I or II is guilty of a felony punishable by: (i) For substances other than marijuana: 3-20 years imprisonment and fine up to $50,000; (ii) For marijuana: up to 3 years and fine up to $3,000. (b) Simple possession of Schedule I-V controlled substance is punishable by up to 4 years and fine up to $10,000 for first offense. (c) Enhanced penalties for sale within 1,500 feet of school, church, or park.",
+          "summary": "Drug possession with intent to distribute Schedule I-II: 3-20 years, $50,000 fine. Simple possession: up to 4 years, $10,000. Enhanced penalties near schools",
+          "keywords": ["controlled substances", "drugs", "possession", "distribution", "Schedule I", "Schedule II"],
+          "amendments": ["2020", "2022"],
+          "relatedSections": ["§ 41-29-113", "§ 41-29-149"]
+        },
+        {
+          "citation": "§ 41-29-149",
+          "text": "Drug trafficking; penalty. Any person who knowingly sells, manufactures, delivers, or brings into this state, or is knowingly in actual or constructive possession of, any controlled substance in quantities meeting trafficking thresholds shall be guilty of drug trafficking. Trafficking carries mandatory minimum sentences of 10-30 years and fines of $5,000 to $1,000,000.",
+          "summary": "Drug trafficking: manufacturing/distributing large quantities of controlled substances. Mandatory minimum: 10-30 years, $5K-$1M fine",
+          "keywords": ["drug trafficking", "manufacturing", "mandatory minimum", "large quantities"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 41-29-139", "§ 41-29-113"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "11",
+      "chapterName": "Weapons and Explosives",
+      "sections": [
+        {
+          "citation": "§ 97-37-1",
+          "text": "Possession of firearm by convicted felon; penalty. Any person who has been convicted of a felony and who possesses a firearm is guilty of a felony punishable by imprisonment for not more than ten (10) years and a fine of not more than Twenty-Five Thousand Dollars ($25,000.00).",
+          "summary": "Felon in possession of firearm: felony with up to 10 years imprisonment and $25,000 fine",
+          "keywords": ["felon", "firearm", "possession", "prohibited person"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 97-37-5", "§ 97-37-7"]
+        },
+        {
+          "citation": "§ 97-37-5",
+          "text": "Carrying concealed weapon; penalty. Any person who carries concealed about his person any bowie knife, dirk knife, butcher knife, or firearm is guilty of a misdemeanor punishable by a fine of up to Five Hundred Dollars ($500.00) or imprisonment for up to six (6) months, or both. Exceptions for law enforcement, military, and concealed carry permit holders.",
+          "summary": "Carrying concealed weapon without permit: misdemeanor with up to 6 months and $500 fine. Exceptions for permit holders, law enforcement, military",
+          "keywords": ["concealed carry", "weapon", "permit", "misdemeanor"],
+          "amendments": ["2018"],
+          "relatedSections": ["§ 97-37-1", "§ 45-9-101"]
+        },
+        {
+          "citation": "§ 97-37-7",
+          "text": "Possession of firearm by minor; penalty. Any person under eighteen (18) years of age who possesses a handgun without parental consent or adult supervision is guilty of a misdemeanor. Exceptions for hunting, target shooting, and organized competitions.",
+          "summary": "Minor possessing handgun without consent/supervision: misdemeanor. Exceptions for hunting, target shooting, competitions",
+          "keywords": ["minor", "handgun", "possession", "parental consent"],
+          "amendments": ["2015"],
+          "relatedSections": ["§ 97-37-1", "§ 97-37-5"]
+        },
+        {
+          "citation": "§ 97-37-9",
+          "text": "Carrying firearm on school property; penalty. Any person who possesses a firearm on educational property is guilty of a felony punishable by imprisonment for up to three (3) years and a fine of up to Five Thousand Dollars ($5,000.00). Exceptions for law enforcement, authorized security, and firearms stored in locked vehicles.",
+          "summary": "Firearm on school property: felony up to 3 years, $5,000 fine. Exceptions for law enforcement, security, locked vehicle storage",
+          "keywords": ["school property", "firearm", "educational property", "gun-free zone"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 97-37-1", "§ 97-37-5"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "13",
+      "chapterName": "Fraud and Deception",
+      "sections": [
+        {
+          "citation": "§ 97-19-5",
+          "text": "False pretense; penalty. Any person who by false pretense obtains from another any money, goods, or property with intent to defraud is guilty of false pretense. Value over $1,000 is a felony punishable by up to ten (10) years imprisonment. Value under $1,000 is a misdemeanor punishable by up to six (6) months and a fine of up to One Thousand Dollars ($1,000.00).",
+          "summary": "False pretense: obtaining money/property through deception. Over $1,000: felony up to 10 years. Under $1,000: misdemeanor up to 6 months, $1,000",
+          "keywords": ["false pretense", "fraud", "deception", "intent to defraud"],
+          "amendments": ["2019"],
+          "relatedSections": ["§ 97-19-7", "§ 97-19-81"]
+        },
+        {
+          "citation": "§ 97-19-7",
+          "text": "Forgery; penalty. Any person who falsely makes, completes, or alters any writing so that it purports to be genuine with intent to defraud is guilty of forgery. Forgery is punishable by imprisonment for up to ten (10) years and a fine of up to Ten Thousand Dollars ($10,000.00).",
+          "summary": "Forgery: falsifying documents with intent to defraud. Penalty: up to 10 years, $10,000 fine",
+          "keywords": ["forgery", "document fraud", "falsification"],
+          "amendments": [],
+          "relatedSections": ["§ 97-19-5", "§ 97-19-81"]
+        },
+        {
+          "citation": "§ 97-19-81",
+          "text": "Identity theft; penalty. Any person who knowingly obtains, possesses, or uses personal identifying information of another person without authorization with intent to commit any unlawful act is guilty of identity theft. Identity theft is a felony punishable by up to fifteen (15) years imprisonment and a fine of up to Twenty-Five Thousand Dollars ($25,000.00).",
+          "summary": "Identity theft: using personal identifying information without authorization for unlawful purpose. Penalty: up to 15 years, $25,000 fine",
+          "keywords": ["identity theft", "personal information", "fraud"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 97-19-5", "§ 97-19-7"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "17",
+      "chapterName": "Property Offenses",
+      "sections": [
+        {
+          "citation": "§ 97-17-1",
+          "text": "Arson; first degree; penalty. Any person who willfully and maliciously sets fire to or burns or causes to be burned any dwelling house, or any building, structure, or property of another is guilty of arson in the first degree. Arson first degree is punishable by imprisonment for up to twenty (20) years and a fine of up to Twenty-Five Thousand Dollars ($25,000.00).",
+          "summary": "First degree arson: intentionally burning dwelling or structure of another. Penalty: up to 20 years, $25,000 fine",
+          "keywords": ["arson", "fire", "dwelling", "malicious"],
+          "amendments": ["2018"],
+          "relatedSections": ["§ 97-17-3", "§ 97-17-7"]
+        },
+        {
+          "citation": "§ 97-17-3",
+          "text": "Arson; second degree; penalty. Any person who willfully and maliciously sets fire to or burns any personal property of another with value of One Hundred Dollars ($100.00) or more is guilty of arson in the second degree. Arson second degree is punishable by up to ten (10) years imprisonment and a fine of up to Ten Thousand Dollars ($10,000.00).",
+          "summary": "Second degree arson: intentionally burning personal property worth $100+ of another. Penalty: up to 10 years, $10,000 fine",
+          "keywords": ["arson", "personal property", "second degree"],
+          "amendments": [],
+          "relatedSections": ["§ 97-17-1", "§ 97-17-7"]
+        },
+        {
+          "citation": "§ 97-17-7",
+          "text": "Malicious mischief; penalty. Any person who maliciously injures, destroys, or defaces any property of another is guilty of malicious mischief. Damage exceeding $500 is a felony punishable by up to 3 years and $5,000 fine. Damage of $500 or less is a misdemeanor punishable by up to 6 months and $1,000 fine.",
+          "summary": "Malicious mischief: intentionally damaging another's property. Over $500: felony up to 3 years, $5,000 fine. $500 or less: misdemeanor up to 6 months, $1,000 fine",
+          "keywords": ["malicious mischief", "property damage", "vandalism"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 97-17-1", "§ 97-17-3"]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "19",
+      "chapterName": "Computer Crimes",
+      "sections": [
+        {
+          "citation": "§ 97-45-3",
+          "text": "Computer fraud; penalty. Any person who knowingly accesses or causes to be accessed any computer, computer network, or computer system without authorization with intent to defraud is guilty of computer fraud. Computer fraud causing damage exceeding $500 is a felony punishable by up to 5 years imprisonment and a fine of up to Ten Thousand Dollars ($10,000.00).",
+          "summary": "Computer fraud: unauthorized computer access with intent to defraud causing $500+ damage. Penalty: up to 5 years, $10,000 fine",
+          "keywords": ["computer fraud", "unauthorized access", "cybercrime", "hacking"],
+          "amendments": ["2021"],
+          "relatedSections": ["§ 97-45-5", "§ 97-45-7"]
+        },
+        {
+          "citation": "§ 97-45-5",
+          "text": "Computer trespass; penalty. Any person who knowingly accesses or causes to be accessed any computer, computer network, or computer system without authorization and with intent to alter, delete, or destroy data is guilty of computer trespass. Computer trespass is a felony punishable by up to 3 years imprisonment and a fine of up to Five Thousand Dollars ($5,000.00).",
+          "summary": "Computer trespass: unauthorized access with intent to alter/destroy data. Penalty: up to 3 years, $5,000 fine",
+          "keywords": ["computer trespass", "unauthorized access", "data destruction"],
+          "amendments": ["2020"],
+          "relatedSections": ["§ 97-45-3", "§ 97-45-7"]
+        },
+        {
+          "citation": "§ 97-45-7",
+          "text": "Identity theft; computer; penalty. Any person who uses a computer to obtain personal identifying information of another without authorization with intent to commit any unlawful act is guilty of identity theft. Computer-based identity theft is a felony punishable by up to fifteen (15) years imprisonment and a fine of up to Twenty-Five Thousand Dollars ($25,000.00).",
+          "summary": "Computer identity theft: using computer to obtain personal information for unlawful purpose. Penalty: up to 15 years, $25,000 fine",
+          "keywords": ["identity theft", "computer crime", "personal information"],
+          "amendments": ["2022"],
+          "relatedSections": ["§ 97-19-81", "§ 97-45-3"]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "Mississippi Code of 1972",
+    "url": "http://www.legislature.ms.gov/",
+    "notes": "Complete criminal code covering all felony and misdemeanor offenses. Cross-referenced with criminal procedure (Title 99)."
+  }
+}

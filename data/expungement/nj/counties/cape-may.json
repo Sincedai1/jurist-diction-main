@@ -1,0 +1,152 @@
+{
+  "county": "Cape May",
+  "countySeat": "Cape May Court House",
+  "vicinage": "Vicinage 1",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "superiorCourt": {
+      "name": "Superior Court of New Jersey, Cape May County",
+      "address": "9 North Main Street",
+      "city": "Cape May Court House",
+      "state": "NJ",
+      "zip": "08210",
+      "phone": "(609) 465-1100",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "criminalDivision": "Room 100"
+    },
+    "criminalDivision": {
+      "name": "Criminal Division, Cape May County",
+      "address": "9 North Main Street, Room 100",
+      "city": "Cape May Court House",
+      "state": "NJ",
+      "zip": "08210",
+      "phone": "(609) 465-1100",
+      "expungementClerk": "Criminal Division Manager's Office"
+    }
+  },
+  "clerkInformation": {
+    "name": "Cape May County Clerk, Superior Court",
+    "address": "9 North Main Street",
+    "city": "Cape May Court House",
+    "state": "NJ",
+    "zip": "08210",
+    "phone": "(609) 465-1013",
+    "website": "https://www.njcourts.gov",
+    "expungementInfo": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "prosecutorOffice": {
+    "office": "Cape May County Prosecutor's Office",
+    "name": "Cape May County Prosecutor",
+    "address": "4 Moore Road",
+    "city": "Cape May Court House",
+    "state": "NJ",
+    "zip": "08210",
+    "phone": "(609) 465-1135",
+    "expungementUnit": "Expungement Unit"
+  },
+  "fees": {
+    "filingFee": 75,
+    "certificationFee": 10,
+    "copyFee": 0.50,
+    "notes": "Standard $75 filing fee statewide. Fee waiver available for indigent applicants. Clean Slate automatic expungement is FREE."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Cape May County processes expungements regularly",
+    "verification": "Check status through NJ State Police",
+    "automaticExpungement": "State system automatically processes eligible records",
+    "contactForIssues": "Contact Criminal Division if expunged records still appear"
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at Superior Court, Criminal Division",
+    "hoursForFiling": "Monday-Friday 8:30 AM - 3:30 PM",
+    "prosecutorNotification": "Petitioner must serve copy on Cape May County Prosecutor's Office",
+    "prosecutorServiceAddress": "4 Moore Road, Cape May Court House, NJ 08210",
+    "responsePeriod": "30 days for prosecutor to object",
+    "hearingRequired": "Hearings rarely required for uncontested petitions",
+    "hearingLocation": "Superior Court, Cape May Court House if hearing scheduled",
+    "specialNotes": [
+      "Cape May County includes Cape May, Wildwood, Ocean City shore points",
+      "Tourism-driven economy with seasonal population changes",
+      "Must serve Prosecutor's Office with copy of petition",
+      "Use certified mail with return receipt for proof of service"
+    ]
+  },
+  "timeline": {
+    "processingTime": "45-90 days for uncontested expungements",
+    "prosecutorResponsePeriod": "30 days",
+    "hearingNotice": "2-3 weeks advance notice if hearing required",
+    "cleanSlateProcessing": "Automatic - processed by state system"
+  },
+  "forms": {
+    "whereToObtain": "Available at Court Clerk's office or NJ Courts website",
+    "onlineForms": "https://www.njcourts.gov/self-help/expungement",
+    "requiredForms": [
+      "Petition for Expungement (Form A)",
+      "Order for Expungement (Form B)",
+      "Notice of Expungement Order (Form C)"
+    ],
+    "additionalDocuments": [
+      "Certified copy of judgment/disposition",
+      "Proof of payment of fines and costs",
+      "Fee waiver application (if requesting)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "Legal Services of New Jersey - Cape May County",
+        "address": "9 North Main Street",
+        "city": "Cape May Court House",
+        "phone": "(609) 465-1100",
+        "website": "https://www.lsnjlaw.org",
+        "services": "Free legal assistance for eligible individuals"
+      },
+      {
+        "name": "Cape May County Bar Association Lawyer Referral",
+        "address": "9 North Main Street",
+        "city": "Cape May Court House",
+        "phone": "(609) 465-0800"
+      }
+    ],
+    "selfHelp": {
+      "name": "Cape May County Law Library",
+      "location": "9 North Main Street",
+      "city": "Cape May Court House",
+      "hours": "Monday-Friday 9:00 AM - 4:00 PM",
+      "services": "Legal research, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinics": [
+      {
+        "name": "Cape May County Expungement Clinics",
+        "schedule": "Scheduled periodically through legal aid organizations",
+        "services": "Free legal assistance with expungement paperwork",
+        "contact": "(609) 465-1100"
+      }
+    ],
+    "reentryPrograms": [
+      {
+        "name": "Cape May County Reentry Services",
+        "address": "9 North Main Street",
+        "city": "Cape May Court House",
+        "phone": "(609) 465-1100",
+        "services": "Comprehensive reentry services including expungement assistance"
+      }
+    ]
+  },
+  "onlineResources": {
+    "courtWebsite": "https://www.njcourts.gov",
+    "statePoliceRecords": "https://www.njsp.org",
+    "caseSearch": "https://www.njcourts.gov/attorneys/case-management",
+    "selfHelp": "https://www.njcourts.gov/self-help/expungement"
+  },
+  "notes": [
+    "Cape May County includes popular shore destinations",
+    "Cape May Court House is the county seat",
+    "Standard $75 filing fee applies (fee waiver available)",
+    "Clean Slate automatic expungement is FREE"
+  ]
+}

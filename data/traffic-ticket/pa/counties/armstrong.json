@@ -1,0 +1,102 @@
+{
+  "name": "Armstrong County",
+  "countySeat": "Kittanning",
+  "population": "65,728",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Armstrong County Magisterial District Courts",
+      "address": "500 Market Street, Kittanning, PA 16201",
+      "phone": "(724) 548-3200",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.armstrongcounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Armstrong County",
+      "address": "500 Market Street, Kittanning, PA 16201",
+      "phone": "(724) 548-3200",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Armstrong County District Attorney's Office",
+    "address": "500 Market Street, Kittanning, PA 16201",
+    "phone": "(724) 548-3200",
+    "trafficDivisionContact": "(724) 548-3200"
+  },
+  "publicDefender": {
+    "office": "Armstrong County Public Defender",
+    "address": "500 Market Street, Kittanning, PA 16201",
+    "phone": "(724) 548-3200",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Armstrong County Clerk of Courts",
+    "address": "500 Market Street, Kittanning, PA 16201",
+    "phone": "(724) 548-3200",
+    "website": "https://www.armstrongcounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Armstrong County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Kittanning Police Department",
+      "address": "245 North Water Street, Kittanning, PA 16201",
+      "phone": "(724) 548-1500",
+      "recordsRequest": "(724) 548-1500"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Kittanning Station",
+      "address": "140 Fountain Street, Kittanning, PA 16201",
+      "phone": "(724) 543-2000"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Armstrong County",
+    "speedCameras": "Not currently used in Armstrong County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse", "Public parking lots"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Limited public transit",
+      "routes": "Armstrong Transit Authority",
+      "website": "https://www.armstrongtransit.org"
+    }
+  }
+}

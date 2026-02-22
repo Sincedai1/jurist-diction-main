@@ -1,0 +1,141 @@
+{
+  "city": "Gulfport",
+  "county": "Harrison",
+  "population": 72000,
+  "incorporated": 1898,
+  "governmentType": "Mayor-Council",
+  "municipalCode": {
+    "title1": {
+      "name": "General Provisions",
+      "sections": [
+        {"section": "1-1", "name": "Short title", "description": "Code of Ordinances, City of Gulfport, Mississippi"},
+        {"section": "1-2", "name": "General penalty", "description": "Violation: fine up to $1,000 and/or 90 days imprisonment, unless otherwise specified"}
+      ]
+    },
+    "title3": {
+      "name": "Administration",
+      "sections": [
+        {"section": "3-1", "name": "Mayor", "description": "Chief executive, elected at-large for 4-year term"},
+        {"section": "3-2", "name": "City Council", "description": "Seven members elected from wards for 4-year terms"}
+      ]
+    },
+    "title5": {
+      "name": "Business Licenses",
+      "sections": [
+        {"section": "5-1", "name": "License required", "description": "All businesses must obtain city license before operating"},
+        {"section": "5-2", "name": "Fees", "description": "Varies by business type: $50-$5,000 annually"},
+        {"section": "5-3", "name": "Alcohol permits", "description": "Special license required. On-premise and off-premise permits available. Hours: 10 AM - 10 PM Sunday-Thursday, 10 AM - Midnight Friday-Saturday"},
+        {"section": "5-4", "name": "Food service", "description": "Health permit required. Annual inspection"},
+        {"section": "5-5", "name": "Transient merchants", "description": "Special permit required. Bond: $5,000"}
+      ]
+    },
+    "title7": {
+      "name": "Traffic and Vehicles",
+      "sections": [
+        {"section": "7-1", "name": "Speed limits", "description": "School zones: 15 MPH. Residential: 25 MPH. Business: 30 MPH. Beach Boulevard: 35 MPH"},
+        {"section": "7-2", "name": "Parking", "description": "Metered parking downtown. Handicap violations: $150. Residential permit parking zones"},
+        {"section": "7-3", "name": "Beach parking", "description": "Parking on beach permitted in designated areas. No overnight parking"},
+        {"section": "7-4", "name": "Truck routes", "description": "Heavy trucks restricted to designated routes. Weight limit: 10 tons on residential streets"}
+      ]
+    },
+    "title9": {
+      "name": "Public Peace and Safety",
+      "sections": [
+        {"section": "9-1", "name": "Noise ordinance", "description": "Residential: 55 dB day, 45 dB night. Commercial: 65 dB day, 55 dB night. Special provisions for entertainment district"},
+        {"section": "9-2", "name": "Curfew", "description": "Under 17: 11 PM - 6 AM Sunday-Thursday, Midnight - 6 AM Friday-Saturday"},
+        {"section": "9-3", "name": "Public intoxication", "description": "Fine: $100-$500. Treatment program may be required"},
+        {"section": "9-4", "name": "Open container", "description": "Prohibited in public except during permitted events. Fine: $100-$500"},
+        {"section": "9-5", "name": "Beach regulations", "description": "No glass containers, fires in designated areas only, dogs allowed on leash in designated areas"}
+      ]
+    },
+    "title11": {
+      "name": "Public Health",
+      "sections": [
+        {"section": "11-1", "name": "Garbage collection", "description": "Weekly pickup. Container must be at curb by 7 AM"},
+        {"section": "11-2", "name": "Illegal dumping", "description": "Fine: $500-$2,500 plus cleanup costs"},
+        {"section": "11-3", "name": "Smoking", "description": "Prohibited in public buildings, restaurants, beaches"}
+      ]
+    },
+    "title13": {
+      "name": "Buildings",
+      "sections": [
+        {"section": "13-1", "name": "Permits required", "description": "New construction, additions, electrical, plumbing, HVAC"},
+        {"section": "13-2", "name": "Coastal construction", "description": "Special requirements for flood zone construction. Elevation requirements apply"},
+        {"section": "13-3", "name": "Wind mitigation", "description": "Hurricane-resistant construction required for new buildings"}
+      ]
+    },
+    "title15": {
+      "name": "Zoning",
+      "sections": [
+        {"section": "15-1", "name": "Zoning districts", "description": "R-1, R-2, R-3, C-1, C-2, C-3, I-1, I-2, Waterfront"},
+        {"section": "15-2", "name": "Setbacks", "description": "Front: 25 feet. Sides: 8 feet. Rear: 20 feet. Varies by district"},
+        {"section": "15-3", "name": "Waterfront district", "description": "Special regulations for harbor, marina, and beachfront development"}
+      ]
+    },
+    "title17": {
+      "name": "Housing",
+      "sections": [
+        {"section": "17-1", "name": "Rental registration", "description": "Annual registration required. Fee: $25/unit"},
+        {"section": "17-2", "name": "Minimum standards", "description": "Housing code compliance required"},
+        {"section": "17-3", "name": "Vacant properties", "description": "Registration required after 60 days vacant. Fee: $200/year"}
+      ]
+    },
+    "title19": {
+      "name": "Animals",
+      "sections": [
+        {"section": "19-1", "name": "Leash law", "description": "Dogs must be leashed off owner's property"},
+        {"section": "19-2", "name": "Beach dogs", "description": "Dogs permitted on beach on leash in designated areas only"},
+        {"section": "19-3", "name": "License required", "description": "Annual license: $5 spayed/neutered, $25 intact"}
+      ]
+    },
+    "title21": {
+      "name": "Coastal Protection",
+      "sections": [
+        {"section": "21-1", "name": "Beach protection", "description": "No vehicles on beach except emergency and maintenance"},
+        {"section": "21-2", "name": "Dune protection", "description": "No disturbance of dunes without permit"},
+        {"section": "21-3", "name": "Seawalls", "description": "Permit required for construction or modification"}
+      ]
+    }
+  },
+  "municipalCourt": {
+    "name": "Gulfport Municipal Court",
+    "location": "1908 15th Street, Gulfport, MS 39501",
+    "phone": "228-868-5700",
+    "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+    "judges": 2,
+    "jurisdiction": ["City ordinance violations", "Traffic violations", "Misdemeanors"],
+    "fines": {
+      "speeding": "$75-$250",
+      "disorderlyConduct": "$100-$500",
+      "openContainer": "$100-$500"
+    }
+  },
+  "policeDepartment": {
+    "name": "Gulfport Police Department",
+    "headquarters": "2220 15th Street, Gulfport, MS 39501",
+    "phone": "228-868-5900",
+    "emergency": "911"
+  },
+  "fireDepartment": {
+    "name": "Gulfport Fire Department",
+    "phone": "228-868-5700",
+    "stations": 12
+  },
+  "contactInformation": {
+    "cityHall": {
+      "address": "1410 24th Avenue, Gulfport, MS 39501",
+      "phone": "228-868-5700",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM"
+    }
+  },
+  "websites": {
+    "city": "https://www.gulfport-ms.gov/",
+    "police": "https://www.gulfport-ms.gov/police",
+    "municipalCourt": "https://www.gulfport-ms.gov/court"
+  },
+  "metadata": {
+    "lastUpdated": "2026-02-22",
+    "source": "City of Gulfport, Mississippi",
+    "notes": "Second largest city in Mississippi. Major port city with unique coastal regulations."
+  }
+}

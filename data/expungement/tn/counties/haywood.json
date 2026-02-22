@@ -1,0 +1,117 @@
+{
+  "county": "Haywood",
+  "countySeat": "Brownsville",
+  "judicialDistrict": "28th Judicial District",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "criminalCourt": {
+      "name": "Haywood County Criminal Court",
+      "address": "Brownsville Courthouse",
+      "city": "Brownsville",
+      "state": "TN",
+      "zip": "XXXXX",
+      "phone": "(731) XXX-XXXX",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "Contact Brownsville County Clerk"
+    },
+    "generalSessions": {
+      "name": "Haywood County General Sessions Court",
+      "address": "Brownsville Courthouse",
+      "city": "Brownsville",
+      "state": "TN",
+      "zip": "XXXXX",
+      "phone": "(731) XXX-XXXX",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Haywood County Circuit Court Clerk",
+    "address": "Brownsville Courthouse",
+    "city": "Brownsville",
+    "state": "TN",
+    "zip": "XXXXX",
+    "phone": "(731) XXX-XXXX",
+    "email": "clerk@haywoodcountytn.gov",
+    "expungementInfo": "Contact clerk's office for expungement information"
+  },
+  "districtAttorney": {
+    "office": "Haywood County District Attorney's Office",
+    "name": "District Attorney General",
+    "address": "Brownsville, TN",
+    "phone": "(731) XXX-XXXX"
+  },
+  "fees": {
+    "filingFee": 0,
+    "administrativeFee": 25,
+    "certificationFee": 5,
+    "copyFee": 0.5,
+    "notes": "State expungement fees were eliminated in 2024. Some counties may charge administrative processing fees."
+  },
+  "procedures": {
+    "filingLocation": "File expungement petitions at the Circuit Court Clerk's office in Brownsville",
+    "hoursForFiling": "Monday-Friday 8:00 AM - 4:00 PM",
+    "daNotification": "Petitioner must serve a copy of the petition on the District Attorney's office",
+    "daServiceAddress": "District Attorney's Office, Brownsville, TN",
+    "hearingRequired": "Hearings may be required for felony expungements; misdemeanors often processed without hearing",
+    "hearingLocation": "If hearing required, will be at Haywood County Criminal Court",
+    "specialNotes": [
+      "Contact clerk's office for current forms and procedures",
+      "Proof of DA service typically required",
+      "Processing times vary by case complexity"
+    ]
+  },
+  "timeline": {
+    "processingTime": "30-60 days for uncontested expungements",
+    "daResponsePeriod": "30 days",
+    "hearingNotice": "2-4 weeks advance notice if hearing required"
+  },
+  "forms": {
+    "whereToObtain": "Available at Clerk's office or contact for current forms",
+    "onlineForms": "Contact clerk's office for form availability",
+    "requiredForms": [
+      "Petition for Expungement",
+      "Order of Expungement"
+    ],
+    "additionalForms": [
+      "Certificate of Service (proof of DA service)",
+      "Affidavit of Indigency (if requesting fee waiver)"
+    ]
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "West Tennessee Legal Services",
+        "address": "210 E Main St",
+        "city": "Jackson",
+        "phone": "(731) 423-5670",
+        "website": "https://www.wtls.org"
+      },
+      {
+        "name": "Brownsville Bar Association Lawyer Referral",
+        "phone": "Contact local bar association"
+      }
+    ],
+    "selfHelp": {
+      "name": "Haywood County Clerk's Office",
+      "location": "Brownsville Courthouse",
+      "hours": "Contact for hours",
+      "services": "Legal research assistance, form samples"
+    }
+  },
+  "specialPrograms": {
+    "expungementClinic": {
+      "schedule": "Contact local legal aid for clinic schedules",
+      "services": "Free legal assistance with expungement paperwork"
+    },
+    "reentryProgram": {
+      "name": "Haywood County Reentry Services",
+      "services": "Contact local agencies for reentry assistance"
+    }
+  },
+  "notes": [
+    "Haywood County is part of the 28th Judicial District",
+    "Contact clerk's office for specific local procedures",
+    "State law governs expungement eligibility"
+  ]
+}

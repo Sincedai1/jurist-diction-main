@@ -1,0 +1,51 @@
+{
+  "county": "Berks",
+  "countySeat": "Reading",
+  "judicialDistrict": "23rd Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Berks County",
+      "address": "633 Court Street",
+      "city": "Reading",
+      "state": "PA",
+      "zip": "19601",
+      "phone": "(610) 478-6200",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Berks County Clerk of Courts",
+    "address": "633 Court Street",
+    "city": "Reading",
+    "state": "PA",
+    "zip": "19601",
+    "phone": "(610) 478-6200",
+    "website": "https://www.co.berks.pa.us"
+  },
+  "districtAttorney": {
+    "office": "Berks County District Attorney's Office",
+    "phone": "(610) 478-7171"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Berks County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation",
+    "processingVolume": "Significant processing volume"
+  },
+  "resources": {
+    "legalAid": [
+      {
+        "name": "MidPenn Legal Services - Reading",
+        "phone": "(610) 376-5650"
+      }
+    ]
+  },
+  "notes": [
+    "Berks County follows Pennsylvania Clean Slate Act"
+  ]
+}

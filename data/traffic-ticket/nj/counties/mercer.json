@@ -1,0 +1,106 @@
+{
+  "name": "Mercer County",
+  "countySeat": "Trenton",
+  "population": "387,340",
+  "courts": {
+    "municipal": {
+      "name": "Trenton Municipal Court (and other municipal courts)",
+      "address": "209 N Broad St, Trenton, NJ 08608",
+      "phone": "(609) 989-3200",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.trentonnj.org/municipal-court",
+      "note": "12 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Mercer County Superior Court",
+      "address": "400 S Warren St, Trenton, NJ 08608",
+      "phone": "(609) 571-4200",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Mercer County Prosecutor's Office",
+    "address": "400 S Warren St, Trenton, NJ 08608",
+    "phone": "(609) 989-6350",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Mercer County Public Defender's Office",
+    "address": "210 S Broad St, Trenton, NJ 08608",
+    "phone": "(609) 989-7070",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Mercer County Clerk",
+    "address": "209 S Broad St, Trenton, NJ 08608",
+    "phone": "(609) 989-6465",
+    "website": "https://www.mercercounty.org/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Trenton Police Department",
+      "address": "209 N Broad St, Trenton, NJ 08608",
+      "phone": "(609) 989-4170"
+    },
+    "countyPolice": {
+      "name": "Mercer County Sheriff's Office",
+      "address": "400 S Warren St, Trenton, NJ 08608",
+      "phone": "(609) 989-6700"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses",
+    "stateCapital": "Extra security near government buildings"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and garage parking",
+      "cost": "$5-15"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and train service including Northeast Corridor",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

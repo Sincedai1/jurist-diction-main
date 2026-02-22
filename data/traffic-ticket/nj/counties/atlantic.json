@@ -1,0 +1,106 @@
+{
+  "name": "Atlantic County",
+  "countySeat": "Mays Landing",
+  "population": "274,539",
+  "courts": {
+    "municipal": {
+      "name": "Atlantic City Municipal Court (and other municipal courts)",
+      "address": "2715 Atlantic Ave, Atlantic City, NJ 08401",
+      "phone": "(609) 347-5770",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.acnj.gov/departments/municipal-court",
+      "note": "Each municipality has its own court"
+    },
+    "superior": {
+      "name": "Atlantic County Superior Court",
+      "address": "1201 Bacharach Blvd, Atlantic City, NJ 08401",
+      "phone": "(609) 345-6700",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Atlantic County Prosecutor's Office",
+    "address": "4997 Unami Blvd, Mays Landing, NJ 08330",
+    "phone": "(609) 909-7800",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Atlantic County Public Defender's Office",
+    "address": "1201 Bacharach Blvd, Atlantic City, NJ 08401",
+    "phone": "(609) 345-6700",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Atlantic County Clerk",
+    "address": "5901 Main St, Mays Landing, NJ 08330",
+    "phone": "(609) 625-4016",
+    "website": "https://www.atlanticcountyclerk.org/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Atlantic City Police Department",
+      "address": "2715 Atlantic Ave, Atlantic City, NJ 08401",
+      "phone": "(609) 347-5700"
+    },
+    "countyPolice": {
+      "name": "Atlantic County Sheriff's Office",
+      "address": "501 Atlantic Ave, Mays Landing, NJ 08330",
+      "phone": "(609) 909-7200"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop A",
+      "phone": "(609) 861-2400"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses",
+    "touristAreas": "Higher enforcement during summer"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and lot parking",
+      "cost": "$5-15"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and train service to Atlantic City",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

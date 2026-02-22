@@ -1,0 +1,42 @@
+{
+  "county": "Clearfield",
+  "countySeat": "Clearfield",
+  "judicialDistrict": "46th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Clearfield County",
+      "address": "230 East Market Street",
+      "city": "Clearfield",
+      "state": "PA",
+      "zip": "16830",
+      "phone": "(814) 765-2641",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Clearfield County Clerk of Courts",
+    "address": "230 East Market Street",
+    "city": "Clearfield",
+    "state": "PA",
+    "zip": "16830",
+    "phone": "(814) 765-2641",
+    "website": "https://www.clearfieldcounty.org"
+  },
+  "districtAttorney": {
+    "office": "Clearfield County District Attorney's Office",
+    "phone": "(814) 765-2641"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Clearfield County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Clearfield County follows Pennsylvania Clean Slate Act"
+  ]
+}

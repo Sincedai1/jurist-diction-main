@@ -1,0 +1,102 @@
+{
+  "name": "Fulton County",
+  "countySeat": "McConnellsburg",
+  "population": "14,515",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Fulton County Magisterial District Court",
+      "address": "201 North Second Street, McConnellsburg, PA 17233",
+      "phone": "(717) 485-4231",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.co.fulton.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Fulton County",
+      "address": "201 North Second Street, McConnellsburg, PA 17233",
+      "phone": "(717) 485-4231",
+      "note": "Appeals from Magisterial District Court"
+    }
+  },
+  "districtAttorney": {
+    "office": "Fulton County District Attorney's Office",
+    "address": "201 North Second Street, McConnellsburg, PA 17233",
+    "phone": "(717) 485-4231",
+    "trafficDivisionContact": "(717) 485-4231"
+  },
+  "publicDefender": {
+    "office": "Fulton County Public Defender",
+    "address": "201 North Second Street, McConnellsburg, PA 17233",
+    "phone": "(717) 485-4231",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Fulton County Clerk of Courts",
+    "address": "201 North Second Street, McConnellsburg, PA 17233",
+    "phone": "(717) 485-4231",
+    "website": "https://www.co.fulton.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Fulton County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "McConnellsburg Police Department",
+      "address": "119 North Second Street, McConnellsburg, PA 17233",
+      "phone": "(717) 485-4414",
+      "recordsRequest": "(717) 485-4414"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - McConnellsburg Station",
+      "address": "27485 Great Cove Road, McConnellsburg, PA 17233",
+      "phone": "(717) 485-3131"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Fulton County",
+    "speedCameras": "Not currently used in Fulton County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking available"
+    },
+    "publicTransit": {
+      "service": "No public transit available",
+      "routes": "N/A",
+      "website": "N/A"
+    }
+  }
+}

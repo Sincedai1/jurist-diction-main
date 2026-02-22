@@ -1,0 +1,102 @@
+{
+  "name": "Greene County",
+  "countySeat": "Waynesburg",
+  "population": "36,765",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Greene County Magisterial District Courts",
+      "address": "93 High Street, Waynesburg, PA 15370",
+      "phone": "(724) 852-5210",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.co.greene.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Greene County",
+      "address": "93 High Street, Waynesburg, PA 15370",
+      "phone": "(724) 852-5210",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Greene County District Attorney's Office",
+    "address": "93 High Street, Waynesburg, PA 15370",
+    "phone": "(724) 852-5220",
+    "trafficDivisionContact": "(724) 852-5220"
+  },
+  "publicDefender": {
+    "office": "Greene County Public Defender",
+    "address": "93 High Street, Waynesburg, PA 15370",
+    "phone": "(724) 852-5230",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Greene County Clerk of Courts",
+    "address": "93 High Street, Waynesburg, PA 15370",
+    "phone": "(724) 852-5210",
+    "website": "https://www.co.greene.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Greene County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Waynesburg Police Department",
+      "address": "90 High Street, Waynesburg, PA 15370",
+      "phone": "(724) 627-8113",
+      "recordsRequest": "(724) 627-8113"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Waynesburg Station",
+      "address": "119 Greene Plaza, Waynesburg, PA 15370",
+      "phone": "(724) 627-6151"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Greene County",
+    "speedCameras": "Not currently used in Greene County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Greene County Transit",
+      "routes": "Shared ride service",
+      "website": "https://www.greenetransit.com"
+    }
+  }
+}

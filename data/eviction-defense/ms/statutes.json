@@ -1,0 +1,358 @@
+{
+  "jurisdiction": "Mississippi",
+  "lastUpdated": "2026-02-21",
+  "title": "Mississippi Landlord-Tenant Law Reference",
+  "disclaimer": "This is informational only and does not constitute legal advice. Consult a licensed attorney for legal guidance.",
+  "statutes": {
+    "residentialLandlordTenantAct": {
+      "name": "Mississippi Residential Landlord and Tenant Act",
+      "code": "MS Code 89-8-1 et seq.",
+      "appliesTo": "All residential rental properties in Mississippi",
+      "sections": {
+        "89-8-3": {
+          "title": "Definitions",
+          "summary": "Defines key terms including 'landlord', 'tenant', 'premises', 'rent', and 'security deposit'"
+        },
+        "89-8-7": {
+          "title": "Security Deposits",
+          "summary": "Rules governing security deposits",
+          "keyPoints": [
+            "May not exceed one month's rent",
+            "Must be returned within 45 days of lease termination",
+            "Written itemized list required for deductions",
+            "May not withhold for normal wear and tear",
+            "Must deposit in financial institution or post bond"
+          ]
+        },
+        "89-8-9": {
+          "title": "Disclosure of Information",
+          "summary": "Landlord must disclose name and address for service of process"
+        },
+        "89-8-15": {
+          "title": "Landlord Obligations",
+          "summary": "Landlords must maintain premises in habitable condition",
+          "tenantRights": [
+            "Right to habitable dwelling",
+            "Right to working plumbing, heating, and electrical systems",
+            "Right to notice before landlord entry (except emergencies)",
+            "Right to reasonable security measures"
+          ]
+        },
+        "89-8-19": {
+          "title": "Landlord's Right of Access",
+          "summary": "Landlord may enter with tenant consent or 48 hours notice",
+          "exceptions": "Emergency, abandonment, or court order"
+        },
+        "89-8-23": {
+          "title": "Tenant Obligations",
+          "summary": "Tenants must pay rent, keep premises clean, and comply with lease terms"
+        },
+        "89-8-25": {
+          "title": "Tenant's Remedies for Landlord's Noncompliance",
+          "summary": "Tenant remedies when landlord fails to maintain premises",
+          "remedies": [
+            "Written notice to landlord",
+            "14 days to cure defect",
+            "May terminate lease if not cured",
+            "May sue for damages",
+            "May use repair and deduct remedy"
+          ]
+        },
+        "89-8-27": {
+          "title": "Termination by Landlord for Tenant's Noncompliance",
+          "summary": "Landlord may terminate for tenant violations",
+          "noticeRequired": {
+            "nonpayment": "3 days to pay or vacate",
+            "leaseViolation": "30 days to cure or vacate",
+            "illegalActivity": "14 days"
+          }
+        },
+        "89-8-31": {
+          "title": "Retaliatory Conduct Prohibited",
+          "summary": "Landlord cannot retaliate for tenant exercising legal rights",
+          "protectedActivities": [
+            "Complaining about housing conditions",
+            "Reporting code violations",
+            "Exercising legal rights under lease or law"
+          ]
+        },
+        "89-8-33": {
+          "title": "Recovery of Possession",
+          "summary": "Landlord must use judicial process to evict",
+          "prohibitedActions": [
+            "Self-help evictions are ILLEGAL",
+            "Cannot change locks",
+            "Cannot shut off utilities",
+            "Cannot remove tenant belongings"
+          ]
+        }
+      }
+    },
+    "unlawfulDetainer": {
+      "name": "Unlawful Detainer Proceedings",
+      "code": "MS Code 11-19-1 et seq.",
+      "summary": "Legal process for landlord to recover possession of rental property",
+      "keyPoints": [
+        "Filed in County Court or Justice Court",
+        "Must state grounds for eviction",
+        "Hearing within 14 days of service",
+        "Judgment for possession if tenant fails to appear or defend",
+        "5-day appeal period",
+        "Writ of possession after appeal period expires"
+      ]
+    },
+    "selfHelpEviction": {
+      "name": "Self-Help Eviction Prohibition",
+      "code": "MS Code 89-8-33",
+      "summary": "Landlords cannot use self-help methods to remove tenants",
+      "prohibitedActions": [
+        "Changing locks without court order",
+        "Removing doors or windows",
+        "Shutting off utilities (water, electric, gas)",
+        "Removing tenant's belongings",
+        "Threatening or harassing tenant"
+      ],
+      "remedies": [
+        "Tenant may sue for damages",
+        "Recovery of actual damages",
+        "May recover possession",
+        "Possible criminal penalties"
+      ]
+    },
+    "retaliatoryEviction": {
+      "name": "Retaliatory Eviction Protection",
+      "code": "MS Code 89-8-31",
+      "summary": "Landlord cannot evict in retaliation for tenant exercising legal rights",
+      "protectedActivities": [
+        "Complaining about housing code violations",
+        "Reporting health or safety violations",
+        "Exercising rights under lease or law",
+        "Organizing with other tenants"
+      ],
+      "presumptionPeriod": "6 months after protected activity"
+    },
+    "noticePeriods": {
+      "name": "Required Notice Periods",
+      "summary": "Minimum notice periods required under Mississippi law",
+      "periods": {
+        "nonpayment": {
+          "days": 3,
+          "type": "Pay or vacate notice",
+          "notes": "Very short - tenant must act immediately",
+          "mustInclude": [
+            "Amount of rent owed",
+            "Demand for payment or possession",
+            "3-day deadline"
+          ]
+        },
+        "leaseViolation": {
+          "days": 30,
+          "type": "Cure or vacate notice",
+          "notes": "Must specify the nature of the violation",
+          "curePeriod": "30 days to cure the violation"
+        },
+        "holdover": {
+          "days": 30,
+          "type": "Notice to vacate",
+          "notes": "For month-to-month tenancies"
+        },
+        "illegalActivity": {
+          "days": 14,
+          "type": "Notice to vacate",
+          "notes": "For drug or criminal activity on premises"
+        }
+      }
+    },
+    "courtSystem": {
+      "name": "Mississippi Court System for Landlord-Tenant",
+      "summary": "Two court options for eviction proceedings",
+      "courts": {
+        "justiceCourt": {
+          "name": "Justice Court",
+          "description": "Common filing location for evictions",
+          "jurisdiction": "Eviction cases regardless of rent amount",
+          "procedures": [
+            "Unlawful detainer filed by landlord",
+            "Summons served on tenant",
+            "Hearing within 14 days of service",
+            "Both parties present evidence",
+            "Judge rules same day typically",
+            "5-day appeal period"
+          ]
+        },
+        "countyCourt": {
+          "name": "County Court",
+          "description": "Higher court option in some counties",
+          "jurisdiction": "Eviction cases and damages up to $200,000",
+          "procedures": [
+            "More formal procedures",
+            "May have broader remedies",
+            "5-day appeal period"
+          ]
+        },
+        "municipalCourt": {
+          "name": "Municipal Court",
+          "description": "Some cities handle evictions in municipal court",
+          "jurisdiction": "Varies by municipality",
+          "note": "Check with local court for procedures"
+        }
+      }
+    },
+    "appeals": {
+      "name": "Appeal Rights",
+      "code": "MS Code 11-51-3",
+      "summary": "Right to appeal court judgment",
+      "keyPoints": [
+        "5 calendar days to file appeal",
+        "Must post appeal bond",
+        "Appeal heard in Circuit Court",
+        "De novo trial available"
+      ]
+    },
+    "securityDeposits": {
+      "name": "Security Deposit Law",
+      "code": "MS Code 89-8-7",
+      "summary": "Rules for handling security deposits",
+      "keyPoints": [
+        "Maximum one month's rent",
+        "Must return within 45 days of lease termination",
+        "Must provide itemized list of deductions",
+        "Cannot deduct for normal wear and tear",
+        "Wrongful withholding = tenant may sue for deposit plus damages"
+      ]
+    }
+  },
+  "defenseStrategies": {
+    "nonpayment": {
+      "name": "Non-Payment of Rent",
+      "defenses": [
+        {
+          "defense": "Improper Notice",
+          "description": "Landlord failed to provide required 3-day written notice",
+          "citation": "MS Code 89-8-27",
+          "howToRaise": "File answer alleging insufficient notice; request dismissal"
+        },
+        {
+          "defense": "Payment Made",
+          "description": "All rent due was paid within the 3-day notice period",
+          "citation": "MS Code 89-8-27",
+          "howToRaise": "Provide receipts showing payment before deadline"
+        },
+        {
+          "defense": "Breach of Warranty of Habitability",
+          "description": "Premises not maintained in habitable condition",
+          "citation": "MS Code 89-8-15",
+          "howToRaise": "Document conditions; show landlord was notified; may offset rent"
+        },
+        {
+          "defense": "Improper Calculation",
+          "description": "Amount claimed includes improper charges",
+          "citation": "Contract law",
+          "howToRaise": "Review lease terms; challenge improper fees"
+        },
+        {
+          "defense": "Retaliation",
+          "description": "Eviction filed in response to tenant exercising legal rights",
+          "citation": "MS Code 89-8-31",
+          "howToRaise": "Show timing between protected activity and eviction filing"
+        },
+        {
+          "defense": "Security Deposit Violation",
+          "description": "Landlord failed to properly handle security deposit",
+          "citation": "MS Code 89-8-7",
+          "howToRaise": "May use as offset against rent owed"
+        }
+      ]
+    },
+    "leaseViolation": {
+      "name": "Lease Violation",
+      "defenses": [
+        {
+          "defense": "Improper Notice",
+          "description": "Landlord failed to provide required 30-day written notice",
+          "citation": "MS Code 89-8-27",
+          "howToRaise": "File answer alleging insufficient notice period"
+        },
+        {
+          "defense": "Violation Cured",
+          "description": "Tenant cured the violation within 30-day period",
+          "citation": "MS Code 89-8-27",
+          "howToRaise": "Document compliance; show violation was remedied"
+        },
+        {
+          "defense": "No Actual Violation",
+          "description": "Alleged violation did not occur or does not violate lease",
+          "citation": "Contract law",
+          "howToRaise": "Review lease terms; present evidence disproving violation"
+        },
+        {
+          "defense": "Selective Enforcement",
+          "description": "Landlord enforces provision against tenant but not others",
+          "citation": "Equitable principles",
+          "howToRaise": "Document inconsistent enforcement"
+        },
+        {
+          "defense": "Landlord Breach First",
+          "description": "Landlord breached lease before alleged tenant violation",
+          "citation": "Contract law",
+          "howToRaise": "Document landlord's prior breach"
+        }
+      ]
+    },
+    "holdover": {
+      "name": "Holdover Tenant",
+      "defenses": [
+        {
+          "defense": "Improper Notice",
+          "description": "Landlord failed to provide required 30-day notice",
+          "citation": "MS Code 89-8-27",
+          "howToRaise": "Challenge notice adequacy"
+        },
+        {
+          "defense": "New Tenancy Created",
+          "description": "Landlord's actions created new tenancy",
+          "citation": "Common law",
+          "howToRaise": "Show acceptance of rent after lease end"
+        }
+      ]
+    }
+  },
+  "resources": {
+    "legalAid": {
+      "statewide": {
+        "name": "Mississippi Center for Legal Services",
+        "website": "https://www.mslegalservices.org",
+        "phone": "1-800-498-1804"
+      },
+      "hinds": {
+        "name": "Mississippi Center for Legal Services - Jackson",
+        "address": "528 East Capitol Street, Jackson, MS 39201",
+        "phone": "601-355-9126",
+        "website": "https://www.mslegalservices.org"
+      },
+      "harrison": {
+        "name": "Mississippi Center for Legal Services - Gulfport",
+        "address": "1845 23rd Avenue, Gulfport, MS 39501",
+        "phone": "228-863-9227",
+        "website": "https://www.mslegalservices.org"
+      }
+    },
+    "tenantOrganizations": {
+      "statewide": {
+        "name": "Mississippi Housing Partnership",
+        "website": "https://www.mshousing.com",
+        "description": "Housing assistance and tenant resources"
+      }
+    },
+    "courtSystems": {
+      "general": "Justice Court or County Court handles eviction cases",
+      "appeals": "Circuit Court hears appeals within 5 days"
+    },
+    "tenantProtectionNotes": [
+      "3-day notice for non-payment is very short - act immediately",
+      "14-day summons period to prepare defense",
+      "Self-help evictions prohibited",
+      "45-day security deposit return requirement"
+    ]
+  }
+}

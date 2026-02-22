@@ -1,0 +1,106 @@
+{
+  "name": "Ocean County",
+  "countySeat": "Toms River",
+  "population": "637,229",
+  "courts": {
+    "municipal": {
+      "name": "Toms River Municipal Court (and other municipal courts)",
+      "address": "88 2nd St, Toms River, NJ 08753",
+      "phone": "(732) 341-1000",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.tomsrivertownship.com/municipal-court",
+      "note": "33 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Ocean County Superior Court",
+      "address": "118 Washington St, Toms River, NJ 08753",
+      "phone": "(732) 929-2000",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Ocean County Prosecutor's Office",
+    "address": "119 Washington St, Toms River, NJ 08753",
+    "phone": "(732) 929-2027",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Ocean County Public Defender's Office",
+    "address": "118 Washington St, Toms River, NJ 08753",
+    "phone": "(732) 929-2000",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Ocean County Clerk",
+    "address": "101 Hooper Ave, Toms River, NJ 08753",
+    "phone": "(732) 929-2018",
+    "website": "https://www.co.ocean.nj.us/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Toms River Police Department",
+      "address": "88 2nd St, Toms River, NJ 08753",
+      "phone": "(732) 341-1000"
+    },
+    "countyPolice": {
+      "name": "Ocean County Sheriff's Office",
+      "address": "114 Washington St, Toms River, NJ 08753",
+      "phone": "(732) 929-2042"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses",
+    "shorePoints": "Higher enforcement during summer at shore points"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and lot parking",
+      "cost": "$5-10"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and train service",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

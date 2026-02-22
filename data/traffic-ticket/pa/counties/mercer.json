@@ -1,0 +1,102 @@
+{
+  "name": "Mercer County",
+  "countySeat": "Mercer",
+  "population": "109,527",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Mercer County Magisterial District Courts",
+      "address": "109 Courthouse, Mercer, PA 16137",
+      "phone": "(724) 662-3800",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.mcc.co.mercer.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Mercer County",
+      "address": "109 Courthouse, Mercer, PA 16137",
+      "phone": "(724) 662-3800",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Mercer County District Attorney's Office",
+    "address": "109 Courthouse, Mercer, PA 16137",
+    "phone": "(724) 662-3810",
+    "trafficDivisionContact": "(724) 662-3810"
+  },
+  "publicDefender": {
+    "office": "Mercer County Public Defender",
+    "address": "109 Courthouse, Mercer, PA 16137",
+    "phone": "(724) 662-3820",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Mercer County Clerk of Courts",
+    "address": "109 Courthouse, Mercer, PA 16137",
+    "phone": "(724) 662-3800",
+    "website": "https://www.mcc.co.mercer.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Mercer County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Mercer Borough Police Department",
+      "address": "107 North Pitt Street, Mercer, PA 16137",
+      "phone": "(724) 662-2700",
+      "recordsRequest": "(724) 662-2700"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Mercer Station",
+      "address": "4444 Sharon-Mercer Road, Mercer, PA 16137",
+      "phone": "(724) 662-6162"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Mercer County",
+    "speedCameras": "Not currently used in Mercer County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Shenango Valley Shuttle Service",
+      "routes": "Bus service in Shenango Valley",
+      "website": "https://www.svssbus.org"
+    }
+  }
+}

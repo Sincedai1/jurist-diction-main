@@ -1,0 +1,113 @@
+{
+  "name": "Essex County",
+  "countySeat": "Newark",
+  "population": "863,728",
+  "courts": {
+    "municipal": {
+      "name": "Newark Municipal Court (and other municipal courts)",
+      "address": "31-47 Franklin St, Newark, NJ 07102",
+      "phone": "(973) 733-6520",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.newarknj.gov/departments/municipal-court",
+      "note": "Newark violations heard here; other towns have their own courts"
+    },
+    "superior": {
+      "name": "Essex County Superior Court",
+      "address": "50 W Market St, Newark, NJ 07102",
+      "phone": "(973) 693-5500",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Essex County Prosecutor's Office",
+    "address": "50 W Market St, Newark, NJ 07102",
+    "phone": "(973) 621-4500",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Essex County Public Defender's Office",
+    "address": "31 Clinton St, Newark, NJ 07102",
+    "phone": "(973) 621-2500",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Essex County Clerk",
+    "address": "465 Dr. Martin Luther King Jr. Blvd, Newark, NJ 07102",
+    "phone": "(973) 621-4930",
+    "website": "https://www.essexclerk.com/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date on summons",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference scheduled with municipal prosecutor",
+        "Trial if no agreement",
+        "NJ allows plea bargaining for traffic offenses"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Court dates vary by municipality",
+      "continuances": "Request through court administrator",
+      "noShow": "Failure to appear may result in bench warrant and license suspension"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 commonly available (no points, surcharge)",
+      "note": "Newark and other municipalities actively negotiate"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": [
+        "NJMVC-approved courses",
+        "Various online and in-person options"
+      ]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Newark Police Department",
+      "address": "311 Washington St, Newark, NJ 07102",
+      "phone": "(973) 733-6000",
+      "recordsRequest": "(973) 733-6050"
+    },
+    "countyPolice": {
+      "name": "Essex County Sheriff's Office",
+      "address": "50 W Market St, Newark, NJ 07102",
+      "phone": "(973) 621-4111"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop B",
+      "address": "20 Winters Rd, Paramus, NJ 07652",
+      "phone": "(201) 261-2100"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts, tank tops, hats",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 20-30 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued in NJ",
+    "mandatoryAppearances": "Many violations require court appearance"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Street parking (metered)",
+        "Municipal parking lots"
+      ],
+      "cost": "$5-15 for court appearance"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus, light rail, and train service",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

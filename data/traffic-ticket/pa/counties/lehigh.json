@@ -1,0 +1,102 @@
+{
+  "name": "Lehigh County",
+  "countySeat": "Allentown",
+  "population": "374,557",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Lehigh County Magisterial District Courts",
+      "address": "505 Hamilton Street, Allentown, PA 18101",
+      "phone": "(610) 782-3100",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.lehighcounty.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Lehigh County",
+      "address": "505 Hamilton Street, Allentown, PA 18101",
+      "phone": "(610) 782-3100",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Lehigh County District Attorney's Office",
+    "address": "505 Hamilton Street, Allentown, PA 18101",
+    "phone": "(610) 782-3200",
+    "trafficDivisionContact": "(610) 782-3200"
+  },
+  "publicDefender": {
+    "office": "Lehigh County Public Defender",
+    "address": "505 Hamilton Street, Allentown, PA 18101",
+    "phone": "(610) 782-3300",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Lehigh County Clerk of Courts",
+    "address": "505 Hamilton Street, Allentown, PA 18101",
+    "phone": "(610) 782-3100",
+    "website": "https://www.lehighcounty.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Lehigh County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Allentown Police Department",
+      "address": "435 Hamilton Street, Allentown, PA 18101",
+      "phone": "(610) 437-7751",
+      "recordsRequest": "(610) 437-7751"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Bethlehem Station",
+      "address": "2925 Schoenersville Road, Bethlehem, PA 18017",
+      "phone": "(610) 861-2026"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Lehigh County",
+    "speedCameras": "Not currently used in Lehigh County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-15 for court appearance",
+      "note": "Paid parking in downtown Allentown"
+    },
+    "publicTransit": {
+      "service": "LANTA (Lehigh and Northampton Transportation Authority)",
+      "routes": "Bus service throughout Lehigh Valley",
+      "website": "https://www.lantabus.com"
+    }
+  }
+}

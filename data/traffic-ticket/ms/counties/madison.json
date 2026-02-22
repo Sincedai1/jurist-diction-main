@@ -1,0 +1,124 @@
+{
+  "name": "Madison County",
+  "countySeat": "Canton",
+  "population": 110000,
+  "courts": {
+    "justice": {
+      "name": "Madison County Justice Court",
+      "address": "152 W Center St, Canton, MS 39046",
+      "phone": "(601) 184-1000",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "note": "Handles traffic offenses and misdemeanors"
+    },
+    "municipal": {
+      "name": "Canton Municipal Court",
+      "address": "2108 Main St, Madison, MS 39110",
+      "phone": "(601) 184-1100",
+      "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+      "note": "Handles city of Canton traffic violations"
+    },
+    "county": {
+      "name": "Madison County Court",
+      "address": "152 W Center St, Canton, MS 39046",
+      "phone": "(601) 184-1000",
+      "note": "Appeals and more serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Madison County District Attorney's Office",
+    "address": "152 W Center St, Canton, MS 39046",
+    "phone": "(601) 184-1200",
+    "trafficDivisionContact": "(601) 184-1200"
+  },
+  "publicDefender": {
+    "office": "Madison County Public Defender",
+    "address": "152 W Center St, Canton, MS 39046",
+    "phone": "(601) 184-1300",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Madison County Circuit Clerk",
+    "address": "152 W Center St, Canton, MS 39046",
+    "phone": "(601) 184-1400"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear or pay by court date on citation",
+      "process": [
+        "Enter not guilty plea at court window or by mail",
+        "Trial date will be set",
+        "Present evidence at trial",
+        "Officer must appear for conviction"
+      ],
+      "paymentOptions": [
+        "In person",
+        "Mail"
+      ]
+    },
+    "courtDates": {
+      "scheduling": "Typically 4-8 weeks from plea",
+      "continuances": "Request through court clerk",
+      "noShow": "Failure to appear may result in bench warrant"
+    },
+    "diversionProgram": {
+      "available": true,
+      "eligibility": [
+        "First-time offenders",
+        "Minor violations only",
+        "Court approval required"
+      ],
+      "benefits": "Dismissal upon completion"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "May be offered to reduce or dismiss charges",
+      "providers": [
+        "MS DPS-approved defensive driving courses",
+        "Various online options"
+      ]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Canton Police Department",
+      "address": "Canton City Hall, Canton, MS",
+      "phone": "(601) 184-2000",
+      "recordsRequest": "(601) 184-2010"
+    },
+    "countySheriff": {
+      "name": "Madison County Sheriff's Office",
+      "address": "152 W Center St, Canton, MS 39046",
+      "phone": "(601) 184-2100"
+    },
+    "highwayPatrol": {
+      "name": "Mississippi Highway Patrol",
+      "address": "Contact local troop headquarters",
+      "phone": "(601) 184-2200"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual; no shorts or tank tops",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted in courthouse",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "mandatoryAppearances": "Required for reckless driving, DUI, driving suspended"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": [
+        "Street parking around courthouse",
+        "Public parking lots"
+      ],
+      "cost": "Free-$5"
+    },
+    "publicTransit": {
+      "service": "Limited public transit",
+      "routes": "Check local transit authority",
+      "note": "Rural counties may have no public transit"
+    }
+  }
+}

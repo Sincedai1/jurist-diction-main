@@ -1,0 +1,136 @@
+{
+  "county": "Davidson",
+  "countySeat": "Nashville",
+  "population": "700,000+",
+  "urltaApplies": true,
+  "lastUpdated": "2026-02-20",
+  "disclaimer": "This is informational only. Contact the court directly for current procedures.",
+  "court": {
+    "name": "Davidson County General Sessions Court",
+    "division": "Civil Division",
+    "address": "1 Public Square, Nashville, TN 37201",
+    "phone": "615-862-5195",
+    "website": "https://www.nashville.gov/Courts/General-Sessions-Court",
+    "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+    "parking": "Public Square Garage"
+  },
+  "clerkOffice": {
+    "name": "Davidson County Circuit Court Clerk - Civil Division",
+    "address": "1 Public Square, Suite 302, Nashville, TN 37201",
+    "phone": "615-862-5188",
+    "website": "https://www.circuitclerk.nashville.gov"
+  },
+  "filingProcedures": {
+    "detainerWarrant": {
+      "filingLocation": "Circuit Court Clerk's Office, Room 302",
+      "filingFee": "$146.50 (subject to change)",
+      "methods": ["In person", "E-filing (for attorneys)"],
+      "requiredDocuments": [
+        "Detainer Warrant form",
+        "Copy of lease (if written)",
+        "Copy of notice served",
+        "Proof of service of notice"
+      ],
+      "serviceOfProcess": {
+        "methods": ["Sheriff's Office", "Private process server", "Certified mail"],
+        "sheriffFee": "$30.00",
+        "timeline": "Deputy serves within 5-7 business days"
+      }
+    },
+    "answer": {
+      "filingLocation": "Same as detainer warrant",
+      "filingFee": "None for initial answer",
+      "deadline": "Before hearing date",
+      "recommended": "File at least 3 business days before hearing"
+    }
+  },
+  "hearingProcedures": {
+    "location": "Historic Metro Courthouse, Courtrooms vary",
+    "schedule": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+      "times": "9:00 AM and 1:00 PM dockets"
+    },
+    "checkIn": {
+      "description": "Check in with bailiff outside courtroom",
+      "arrivalTime": "At least 30 minutes before scheduled time"
+    },
+    "continuances": {
+      "policy": "First continuance typically granted on request",
+      "method": "Request from judge at hearing or file motion beforehand",
+      "limit": "Maximum 30 days without good cause"
+    }
+  },
+  "timeline": {
+    "noticeToHearing": "6-10 days after detainer filed",
+    "judgmentToWrit": "10 days after judgment (appeal period)",
+    "writToEviction": "24-72 hours after writ issued"
+  },
+  "appealProcedures": {
+    "court": "Davidson County Circuit Court",
+    "deadline": "10 calendar days from judgment",
+    "bondAmount": "Judgment amount plus $211.50 court costs",
+    "filingLocation": "General Sessions Court Clerk",
+    "hearingTimeline": "30-60 days for Circuit Court setting"
+  },
+  "legalAidResources": [
+    {
+      "name": "Legal Aid Society of Middle Tennessee",
+      "address": "211 Union Street, Suite 800, Nashville, TN 37201",
+      "phone": "615-244-6610",
+      "hours": "Monday-Friday 8:30 AM - 5:00 PM",
+      "eligibility": "Income-qualified tenants",
+      "services": ["Eviction defense", "Housing counseling", "Court representation"],
+      "website": "https://www.lasmt.org",
+      "intake": "Call for telephone intake screening"
+    },
+    {
+      "name": "Nashville Conflict Resolution Center",
+      "address": "310 Nashville Rescue Mission, 639 1st Ave S, Nashville, TN 37210",
+      "phone": "615-333-5664",
+      "services": ["Mediation services", "Conflict resolution"],
+      "website": "https://www.nashvillecrc.org"
+    },
+    {
+      "name": "Tennessee Justice Center",
+      "address": "211 7th Avenue North, Suite 300, Nashville, TN 37219",
+      "phone": "615-255-1683",
+      "services": ["Policy advocacy", "Referrals"],
+      "website": "https://www.tnjustice.org"
+    }
+  ],
+  "emergencyResources": {
+    "rentalAssistance": [
+      {
+        "name": "Metro Action Commission",
+        "phone": "615-862-8860",
+        "services": "Emergency rental assistance (when available)"
+      },
+      {
+        "name": "Nashville Rescue Mission",
+        "phone": "615-255-2475",
+        "services": "Emergency shelter"
+      }
+    ],
+    "shelters": [
+      {
+        "name": "Room in the Inn",
+        "phone": "615-251-9791",
+        "services": "Winter shelter program"
+      }
+    ]
+  },
+  "specialNotes": [
+    "Davidson County uses e-filing for attorneys; pro se tenants file in person",
+    "Mediation available through court programs",
+    "Housing court docket handles many eviction cases",
+    "Arrive early - parking can be difficult downtown",
+    "Security screening required to enter courthouse"
+  ],
+  "proceduralTips": [
+    "Bring all documentation to hearing",
+    "Dress appropriately for court",
+    "Be prepared to present case concisely",
+    "Know your defense before hearing",
+    "Request mediation if landlord willing"
+  ]
+}

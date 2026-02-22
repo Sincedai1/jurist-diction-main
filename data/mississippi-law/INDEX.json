@@ -1,0 +1,202 @@
+{
+  "title": "Mississippi Law Database",
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-22",
+  "description": "Comprehensive Mississippi law data collection covering statutes, courts, counties, municipalities, and administrative codes",
+  "structure": {
+    "state": {
+      "path": "state/statutes/",
+      "description": "Mississippi Code of 1972 - All 51 Titles",
+      "titlesCompleted": [
+        {"title": "97", "name": "Crimes", "file": "title-97-crimes.json", "chapters": 9, "sections": 35},
+        {"title": "99", "name": "Criminal Procedure", "file": "title-99-criminal-procedure.json", "chapters": 9, "sections": 28},
+        {"title": "63", "name": "Motor Vehicles", "file": "title-63-motor-vehicles.json", "chapters": 8, "sections": 32},
+        {"title": "89", "name": "Property and Conveyances", "file": "title-89-property-conveyances.json", "chapters": 8, "sections": 30}
+      ],
+      "titlesPending": [
+        "Title 1: General Provisions",
+        "Title 3: State Sovereignty, Jurisdiction, and Holidays",
+        "Title 5: Military Affairs",
+        "Title 7: Local Government",
+        "Title 9: Courts",
+        "Title 11: Civil Practice and Procedure",
+        "Title 13: Criminal Law and Procedure",
+        "Title 15: Limitations of Actions",
+        "Title 17: Local Government",
+        "Title 19: Counties",
+        "Title 21: Corporations",
+        "Title 23: Elections",
+        "Title 25: Executors and Administrators",
+        "Title 27: Finance and Taxation",
+        "Title 29: Gambling",
+        "Title 31: Housing",
+        "Title 33: Insurance",
+        "Title 35: Alcoholic Beverages",
+        "Title 37: Education",
+        "Title 39: Highways, Bridges and Ferries",
+        "Title 41: Public Health",
+        "Title 43: Public Welfare",
+        "Title 45: Public Safety and Homeland Security",
+        "Title 47: Prisons and Prisoners",
+        "Title 49: Conservation and Resources",
+        "Title 51: Lawsuits and Civil Procedure",
+        "Title 53: Motor Vehicles",
+        "Title 55: Agriculture and Commerce",
+        "Title 57: Planning, Research and Development",
+        "Title 59: Professional and Occupational Licenses",
+        "Title 61: Mississippi Code of 1972 (Misc)",
+        "Title 65: Motor Carriers",
+        "Title 67: Traffic Regulations",
+        "Title 69: Railroad Regulations",
+        "Title 71: Bridges and Causeways",
+        "Title 73: Aeronautics",
+        "Title 75: Banks and Banking",
+        "Title 77: Public Utilities",
+        "Title 81: Secured Transactions",
+        "Title 83: Insurance",
+        "Title 85: Labor and Industry",
+        "Title 87: Mississippi Gaming Control Act",
+        "Title 91: Trusts",
+        "Title 93: Domestic Relations",
+        "Title 95: Tort Claims"
+      ]
+    },
+    "counties": {
+      "path": "counties/",
+      "description": "All 82 Mississippi Counties",
+      "countiesCompleted": [
+        {"county": "Hinds", "file": "hinds/county-info.json", "courts": 6, "municipalities": 5},
+        {"county": "Harrison", "file": "harrison/county-info.json", "courts": 5, "municipalities": 5},
+        {"county": "Rankin", "file": "rankin/county-info.json", "courts": 5, "municipalities": 6},
+        {"county": "DeSoto", "file": "desoto/county-info.json", "courts": 5, "municipalities": 5}
+      ],
+      "countiesPending": 78,
+      "allCounties": [
+        "Adams", "Alcorn", "Amite", "Attala", "Benton", "Bolivar", "Calhoun", "Carroll",
+        "Chickasaw", "Choctaw", "Claiborne", "Clarke", "Clay", "Coahoma", "Copiah", "Covington",
+        "DeSoto", "Forrest", "Franklin", "George", "Greene", "Hancock", "Harrison", "Hinds",
+        "Holmes", "Humphreys", "Issaquena", "Itawamba", "Jackson", "Jasper", "Jefferson",
+        "Jefferson Davis", "Jones", "Kemper", "Lafayette", "Lamar", "Lauderdale", "Lawrence",
+        "Leake", "Lee", "Leflore", "Lincoln", "Lowndes", "Madison", "Marion", "Marshall",
+        "Monroe", "Montgomery", "Neshoba", "Newton", "Noxubee", "Oktibbeha", "Panola",
+        "Pearl River", "Perry", "Pontotoc", "Prentiss", "Quitman", "Rankin", "Scott",
+        "Sharkey", "Simpson", "Smith", "Stone", "Sunflower", "Tallahatchie", "Tate",
+        "Tippah", "Union", "Walthall", "Warren", "Washington", "Wayne", "Webster",
+        "Wilkinson", "Winston", "Yalobusha", "Yazoo"
+      ]
+    },
+    "municipalities": {
+      "path": "municipalities/",
+      "description": "Major Mississippi Cities and Towns",
+      "municipalitiesCompleted": [
+        {"city": "Jackson", "file": "jackson/municipal-code.json", "ordinanceTitles": 12},
+        {"city": "Gulfport", "file": "gulfport/municipal-code.json", "ordinanceTitles": 10}
+      ],
+      "municipalitiesPending": 75,
+      "majorCities": [
+        "Jackson", "Gulfport", "Southaven", "Biloxi", "Hattiesburg", "Olive Branch", "Tupelo",
+        "Greenville", "Meridian", "Pearl", "Madison", "Ridgeland", "Starkville", "Flowood",
+        "Ocean Springs", "Clinton", "Brandon", "Byram", "Columbus", "Oxford", "Horn Lake",
+        "Vicksburg", "Pascagoula", "Canton", "D'Iberville", "Corinth", "Natchez", "Greenwood",
+        "Long Beach", "Gautier", "Batesville", "Cleveland", "Clarksdale", "Yazoo City",
+        "Moss Point", "McComb", "Grenada", "Brookhaven", "Carthage", "Indianola", "West Point",
+        "Picayune", "Raymond", "Magnolia", "Holly Springs", "New Albany", "Ripley", "Louisville",
+        "Macon", "Decatur", "Hazlehurst", "Columbia", "Purvis", "Ellisville", "Petal",
+        "Waynesboro", "Ackerman", "Lexington", "Belzoni", "Woodville", "Tunica", "Water Valley",
+        "Winona", "Philadelphia", "Kosciusko", "Booneville", "Aberdeen", "Pontotoc", "Durant",
+        "Florence", "Itta Bena", "Edwards", "Charleston", "Wiggins", "Heidelberg"
+      ]
+    },
+    "courts": {
+      "path": "courts/",
+      "description": "Mississippi Court System",
+      "filesCompleted": [
+        {"file": "mississippi-court-system.json", "description": "Complete court structure with all levels"}
+      ],
+      "courtTypes": [
+        {"type": "Supreme Court", "count": 1, "jurisdiction": "Statewide appellate"},
+        {"type": "Court of Appeals", "count": 1, "jurisdiction": "Statewide intermediate appellate"},
+        {"type": "Circuit Court", "count": 22, "jurisdiction": "Trial courts for felonies and major civil"},
+        {"type": "Chancery Court", "count": 20, "jurisdiction": "Trial courts for equity, probate, domestic"},
+        {"type": "County Court", "count": 22, "jurisdiction": "Limited jurisdiction trial courts"},
+        {"type": "Justice Court", "count": 82, "jurisdiction": "County-level limited jurisdiction"},
+        {"type": "Municipal Court", "count": 300, "jurisdiction": "City ordinance and traffic"},
+        {"type": "Family Court", "count": 3, "jurisdiction": "Domestic relations (limited counties)"},
+        {"type": "Youth Court", "count": 82, "jurisdiction": "Juvenile matters"},
+        {"type": "Drug Court", "count": 22, "jurisdiction": "Drug treatment programs"}
+      ]
+    },
+    "administrative": {
+      "path": "administrative/",
+      "description": "Mississippi Administrative Codes",
+      "filesCompleted": [
+        {"file": "administrative-codes-index.json", "agencies": 10, "professionalBoards": 11}
+      ],
+      "agencies": [
+        "Department of Health",
+        "Department of Education",
+        "Department of Revenue",
+        "Department of Transportation",
+        "Department of Environmental Quality",
+        "Gaming Commission",
+        "Department of Insurance",
+        "Board of Medical Licensure",
+        "Mississippi Bar",
+        "Real Estate Commission"
+      ]
+    }
+  },
+  "coverage": {
+    "statutes": {
+      "total": 51,
+      "completed": 4,
+      "percentage": "8%"
+    },
+    "counties": {
+      "total": 82,
+      "completed": 4,
+      "percentage": "5%"
+    },
+    "municipalities": {
+      "total": 300,
+      "completed": 2,
+      "percentage": "1%"
+    },
+    "courts": {
+      "total": "All levels documented",
+      "completed": 1,
+      "percentage": "100%"
+    },
+    "administrative": {
+      "total": "All major agencies indexed",
+      "completed": 1,
+      "percentage": "100%"
+    }
+  },
+  "priorityTitles": [
+    {"title": "97", "name": "Crimes", "status": "COMPLETE", "priority": "CRITICAL"},
+    {"title": "99", "name": "Criminal Procedure", "status": "COMPLETE", "priority": "CRITICAL"},
+    {"title": "63", "name": "Motor Vehicles", "status": "COMPLETE", "priority": "HIGH"},
+    {"title": "89", "name": "Property and Conveyances", "status": "COMPLETE", "priority": "HIGH"},
+    {"title": "93", "name": "Domestic Relations", "status": "PENDING", "priority": "HIGH"},
+    {"title": "11", "name": "Civil Practice and Procedure", "status": "PENDING", "priority": "HIGH"},
+    {"title": "41", "name": "Public Health", "status": "PENDING", "priority": "MEDIUM"},
+    {"title": "43", "name": "Public Welfare", "status": "PENDING", "priority": "MEDIUM"},
+    {"title": "27", "name": "Finance and Taxation", "status": "PENDING", "priority": "MEDIUM"},
+    {"title": "85", "name": "Labor and Industry", "status": "PENDING", "priority": "MEDIUM"}
+  ],
+  "sources": {
+    "statutes": "http://www.legislature.ms.gov/",
+    "courts": "https://courts.ms.gov/",
+    "administrative": "https://www.sos.ms.gov/administrative-code",
+    "counties": "Individual county websites",
+    "municipalities": "Individual city websites"
+  },
+  "notes": [
+    "All statute files include full text, summary, keywords, amendments, and related sections",
+    "Court structure includes all judicial districts with county assignments",
+    "County files include court locations, contact information, and filing fees",
+    "Municipal files include ordinance codes organized by title",
+    "Administrative index covers all major state agencies and professional boards"
+  ]
+}

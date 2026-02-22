@@ -1,0 +1,409 @@
+{
+  "jurisdiction": "Mississippi",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This is informational only and does not constitute legal advice. Court procedures may vary by county.",
+  "timingNote": "Mississippi has FASTER eviction timelines than many states - 3-day notice for non-payment requires immediate action",
+  "evictionProcess": {
+    "overview": {
+      "name": "Mississippi Eviction Process Overview",
+      "steps": [
+        {
+          "step": 1,
+          "name": "Notice Period",
+          "description": "Landlord must serve proper written notice to tenant",
+          "timeline": "3-30 days depending on reason"
+        },
+        {
+          "step": 2,
+          "name": "File Unlawful Detainer",
+          "description": "Landlord files unlawful detainer with Justice or County Court",
+          "timeline": "After notice period expires"
+        },
+        {
+          "step": 3,
+          "name": "Service of Summons",
+          "description": "Court serves summons and complaint on tenant",
+          "timeline": "Within 14 days of filing"
+        },
+        {
+          "step": 4,
+          "name": "Court Hearing",
+          "description": "Judge hears case; both parties present evidence",
+          "timeline": "Within 14 days of service"
+        },
+        {
+          "step": 5,
+          "name": "Judgment",
+          "description": "Court rules for landlord or tenant",
+          "timeline": "At hearing"
+        },
+        {
+          "step": 6,
+          "name": "Appeal Period",
+          "description": "Losing party has 5 days to appeal",
+          "timeline": "5 calendar days"
+        },
+        {
+          "step": 7,
+          "name": "Writ of Possession",
+          "description": "If no appeal, writ issued to sheriff or constable",
+          "timeline": "After 5-day appeal period"
+        },
+        {
+          "step": 8,
+          "name": "Physical Eviction",
+          "description": "Sheriff or constable executes writ and removes tenant",
+          "timeline": "24-48 hours after writ"
+        }
+      ]
+    },
+    "fastTimelineWarning": {
+      "title": "FAST TIMELINE WARNING",
+      "description": "Mississippi evictions move faster than most states",
+      "criticalPoints": [
+        "Only 3 days to pay rent or vacate after notice",
+        "Only 5 days to appeal after judgment",
+        "Physical eviction can happen within 24-48 hours of writ"
+      ]
+    }
+  },
+  "defenseStrategies": {
+    "nonpayment": {
+      "evictionType": "Non-Payment of Rent",
+      "timeline": {
+        "noticeRequired": "3 days",
+        "curePeriod": "3 days - very short, act immediately"
+      },
+      "defenseOptions": [
+        {
+          "id": "improper_notice",
+          "name": "Improper Notice",
+          "description": "Challenge the adequacy or service of the 3-day notice",
+          "checklist": [
+            "Was notice in writing?",
+            "Did notice state amount of rent due?",
+            "Was notice properly served?",
+            "Was full 3-day period given before filing?",
+            "Does notice demand payment or possession?"
+          ],
+          "documentation": [
+            "Copy of notice received",
+            "Date notice was received",
+            "Method of service",
+            "Filing date of unlawful detainer"
+          ]
+        },
+        {
+          "id": "payment_made",
+          "name": "Payment Made Within 3-Day Period",
+          "description": "All rent was paid within the 3-day notice period",
+          "checklist": [
+            "Was full amount of rent claimed paid?",
+            "Was payment made within 3-day period?",
+            "Did landlord accept payment?"
+          ],
+          "documentation": [
+            "Payment receipts",
+            "Bank statements",
+            "Money order receipts",
+            "Text/email confirming payment"
+          ],
+          "urgentNote": "ACT FAST - only 3 days to pay"
+        },
+        {
+          "id": "habitability",
+          "name": "Breach of Warranty of Habitability",
+          "description": "Property has serious conditions affecting habitability",
+          "checklist": [
+            "Are there serious conditions affecting health/safety?",
+            "Did you notify landlord of conditions in writing?",
+            "Did landlord fail to make repairs within 14 days?",
+            "Are conditions documented?"
+          ],
+          "documentation": [
+            "Photos/videos of conditions",
+            "Written notices to landlord",
+            "Code inspection reports",
+            "Witness statements"
+          ],
+          "caveat": "May reduce rent owed; must have given landlord 14-day notice to repair"
+        },
+        {
+          "id": "improper_charges",
+          "name": "Improper Charges Included",
+          "description": "Amount claimed includes fees or charges not authorized by lease",
+          "checklist": [
+            "Review lease for authorized fees",
+            "Are late fees properly calculated?",
+            "Are there charges not in lease?",
+            "Is rent calculation correct?"
+          ],
+          "documentation": [
+            "Copy of lease",
+            "Rent payment history",
+            "Calculation of proper amount owed"
+          ]
+        },
+        {
+          "id": "retaliation",
+          "name": "Retaliatory Eviction",
+          "description": "Eviction filed in response to tenant exercising legal rights",
+          "checklist": [
+            "Did you recently complain about conditions?",
+            "Did you report code violations?",
+            "Was eviction filed within 6 months of protected activity?"
+          ],
+          "documentation": [
+            "Copies of complaints made",
+            "Code violation reports",
+            "Timeline of events",
+            "Witness statements"
+          ],
+          "timingGuidance": "Presumption of retaliation within 6 months"
+        },
+        {
+          "id": "security_deposit",
+          "name": "Security Deposit Violation",
+          "description": "Landlord failed to properly handle security deposit",
+          "checklist": [
+            "Did landlord fail to return deposit within 45 days?",
+            "Did landlord provide itemized deductions?",
+            "Were improper deductions made?"
+          ],
+          "documentation": [
+            "Proof of deposit payment",
+            "Move-in/move-out inspection",
+            "Communications about deposit"
+          ],
+          "remedy": "May offset against rent owed"
+        }
+      ]
+    },
+    "leaseViolation": {
+      "evictionType": "Lease Violation",
+      "timeline": {
+        "noticeRequired": "30 days",
+        "curePeriod": "30 days to cure violation"
+      },
+      "defenseOptions": [
+        {
+          "id": "improper_notice_30",
+          "name": "Improper Notice",
+          "description": "Challenge the 30-day notice requirements",
+          "checklist": [
+            "Was notice in writing?",
+            "Did notice specify the violation?",
+            "Was full 30-day period given?",
+            "Was notice properly served?"
+          ],
+          "documentation": [
+            "Copy of notice",
+            "Date received",
+            "Filing date of unlawful detainer"
+          ]
+        },
+        {
+          "id": "violation_cured",
+          "name": "Violation Cured",
+          "description": "Violation was corrected within 30-day period",
+          "checklist": [
+            "What was the alleged violation?",
+            "Was it possible to cure?",
+            "Did you cure within 30 days?",
+            "Did landlord acknowledge cure?"
+          ],
+          "documentation": [
+            "Evidence violation was corrected",
+            "Photos of corrected conditions",
+            "Written notice to landlord of cure"
+          ]
+        },
+        {
+          "id": "no_violation",
+          "name": "No Actual Violation",
+          "description": "Alleged conduct does not violate lease terms",
+          "checklist": [
+            "What specific lease provision is cited?",
+            "Does your conduct actually violate that provision?",
+            "Is the lease provision clear and enforceable?"
+          ],
+          "documentation": [
+            "Copy of lease",
+            "Evidence of actual conduct",
+            "Legal analysis of lease terms"
+          ]
+        },
+        {
+          "id": "selective_enforcement",
+          "name": "Selective Enforcement",
+          "description": "Landlord enforces provision against you but not others",
+          "checklist": [
+            "Are other tenants violating same provision?",
+            "Has landlord taken action against them?",
+            "Is there pattern of discrimination?"
+          ],
+          "documentation": [
+            "Witness statements",
+            "Photos of other units",
+            "Complaints to landlord about others"
+          ]
+        },
+        {
+          "id": "landlord_breach",
+          "name": "Landlord Breached First",
+          "description": "Landlord's prior breach may excuse tenant's conduct",
+          "checklist": [
+            "How did landlord breach lease?",
+            "When did breach occur?",
+            "Did you give landlord notice of breach?"
+          ],
+          "documentation": [
+            "Evidence of landlord breach",
+            "Written notices to landlord",
+            "Damages caused by breach"
+          ]
+        }
+      ]
+    },
+    "holdover": {
+      "evictionType": "Holdover Tenant",
+      "timeline": {
+        "noticeRequired": "30 days",
+        "notes": "For month-to-month tenancy termination"
+      },
+      "defenseOptions": [
+        {
+          "id": "improper_termination_notice",
+          "name": "Improper Termination Notice",
+          "description": "Challenge the 30-day termination notice",
+          "checklist": [
+            "Was proper notice given?",
+            "Was notice for full rental period?",
+            "Was notice properly served?"
+          ],
+          "documentation": [
+            "Copy of termination notice",
+            "Date received",
+            "Lease showing tenancy type"
+          ]
+        },
+        {
+          "id": "new_tenancy_created",
+          "name": "New Tenancy Created",
+          "description": "Landlord's actions created new tenancy",
+          "checklist": [
+            "Did landlord accept rent after lease end?",
+            "Was there discussion of renewal?"
+          ],
+          "documentation": [
+            "Rent receipts after lease end",
+            "Written communications"
+          ]
+        }
+      ]
+    }
+  },
+  "responseTimeline": {
+    "critical": [
+      {
+        "event": "Receive 3-Day Notice",
+        "action": "Pay rent immediately or prepare to defend",
+        "deadline": "Only 3 days!"
+      },
+      {
+        "event": "Receive Summons",
+        "action": "Note court date; prepare response; gather evidence",
+        "deadline": "Within 14 days"
+      },
+      {
+        "event": "Court Hearing",
+        "action": "MUST appear or risk default judgment",
+        "deadline": "On scheduled date"
+      },
+      {
+        "event": "Judgment Against Tenant",
+        "action": "File appeal immediately if grounds exist",
+        "deadline": "Only 5 calendar days"
+      },
+      {
+        "event": "Writ of Possession",
+        "action": "Physical eviction imminent",
+        "deadline": "24-48 hours"
+      }
+    ]
+  },
+  "courtProcedures": {
+    "justiceCourt": {
+      "name": "Justice Court",
+      "description": "Common venue for eviction hearings",
+      "procedures": [
+        "Unlawful detainer filed by landlord",
+        "Summons served on tenant",
+        "Hearing scheduled within 14 days",
+        "Both parties present evidence",
+        "Judge rules same day typically",
+        "No jury trial in Justice Court",
+        "5-day appeal period"
+      ],
+      "filingAnswer": {
+        "description": "Tenant may file written answer before hearing",
+        "recommended": "Helpful but not required",
+        "contents": [
+          "Admit or deny each allegation",
+          "State any affirmative defenses",
+          "Request relief"
+        ]
+      }
+    },
+    "countyCourt": {
+      "name": "County Court",
+      "description": "Higher court option in some counties",
+      "procedures": [
+        "More formal procedures",
+        "May have broader remedies",
+        "5-day appeal period",
+        "De novo appeal to Circuit Court"
+      ]
+    }
+  },
+  "formsRequired": {
+    "answer": {
+      "name": "Answer to Unlawful Detainer",
+      "purpose": "Respond to eviction filing",
+      "contents": [
+        "Case caption",
+        "Admissions/denials of allegations",
+        "Affirmative defenses",
+        "Prayer for relief"
+      ]
+    },
+    "appeal": {
+      "name": "Notice of Appeal",
+      "purpose": "Appeal court judgment",
+      "deadline": "5 calendar days from judgment",
+      "requirements": [
+        "File in court where judgment was entered",
+        "Post appeal bond",
+        "Serve copy on landlord/attorney"
+      ]
+    }
+  },
+  "specialProvisions": {
+    "jackson": {
+      "name": "Jackson/Hinds County Notes",
+      "notes": [
+        "Hinds County Court and Justice Court both handle evictions",
+        "Legal aid available through Mississippi Center for Legal Services",
+        "Check local rules for specific procedures"
+      ]
+    },
+    "gulfport": {
+      "name": "Gulfport/Harrison County Notes",
+      "notes": [
+        "Justice Court handles most evictions",
+        "Municipal Court may handle some cases",
+        "Contact court for local procedures"
+      ]
+    }
+  }
+}

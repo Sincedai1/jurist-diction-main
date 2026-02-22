@@ -1,0 +1,102 @@
+{
+  "name": "Westmoreland County",
+  "countySeat": "Greensburg",
+  "population": "353,952",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Westmoreland County Magisterial District Courts",
+      "address": "2 North Main Street, Greensburg, PA 15601",
+      "phone": "(724) 830-3800",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.co.westmoreland.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Westmoreland County",
+      "address": "2 North Main Street, Greensburg, PA 15601",
+      "phone": "(724) 830-3800",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Westmoreland County District Attorney's Office",
+    "address": "2 North Main Street, Greensburg, PA 15601",
+    "phone": "(724) 830-3810",
+    "trafficDivisionContact": "(724) 830-3810"
+  },
+  "publicDefender": {
+    "office": "Westmoreland County Public Defender",
+    "address": "2 North Main Street, Greensburg, PA 15601",
+    "phone": "(724) 830-3820",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Westmoreland County Clerk of Courts",
+    "address": "2 North Main Street, Greensburg, PA 15601",
+    "phone": "(724) 830-3800",
+    "website": "https://www.co.westmoreland.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Westmoreland County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Greensburg Police Department",
+      "address": "416 South Main Street, Greensburg, PA 15601",
+      "phone": "(724) 834-3800",
+      "recordsRequest": "(724) 834-3800"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Greensburg Station",
+      "address": "1000 West Newton Road, Greensburg, PA 15601",
+      "phone": "(724) 832-3280"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Westmoreland County",
+    "speedCameras": "Not currently used in Westmoreland County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-10 for court appearance",
+      "note": "Paid parking in downtown Greensburg"
+    },
+    "publicTransit": {
+      "service": "Westmoreland Transit",
+      "routes": "Bus service throughout Westmoreland County",
+      "website": "https://www.westmorelandtransit.com"
+    }
+  }
+}

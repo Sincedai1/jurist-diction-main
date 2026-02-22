@@ -1,0 +1,106 @@
+{
+  "name": "Monmouth County",
+  "countySeat": "Freehold",
+  "population": "643,615",
+  "courts": {
+    "municipal": {
+      "name": "Various Municipal Courts",
+      "address": "Each municipality has its own court",
+      "phone": "Check ticket for court information",
+      "hours": "Varies by municipality",
+      "note": "Traffic matters heard in municipal court where violation occurred"
+    },
+    "superior": {
+      "name": "Monmouth County Superior Court",
+      "address": "71 Monument St, Freehold, NJ 07728",
+      "phone": "(732) 677-4300",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Monmouth County Prosecutor's Office",
+    "address": "71 Monument St, Freehold, NJ 07728",
+    "phone": "(732) 431-7011",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Monmouth County Public Defender",
+    "address": "71 Monument St, Freehold, NJ 07728",
+    "phone": "(732) 683-8500",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Monmouth County Clerk",
+    "address": "33 Mechanic St, Freehold, NJ 07728",
+    "phone": "(732) 431-7324",
+    "website": "https://www.monmouthcountyclerk.com/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date on summons",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if needed",
+        "NJ allows plea negotiations"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 typically available",
+      "note": "Common practice in Monmouth County courts"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": [
+        "NJMVC-approved courses"
+      ]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Local Municipal Police",
+      "note": "Each town has its own department"
+    },
+    "countyPolice": {
+      "name": "Monmouth County Sheriff's Office",
+      "address": "2500 Kozloski Rd, Freehold, NJ 07728",
+      "phone": "(732) 431-6400"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop D",
+      "address": "P.O. Box 7068, West Trenton, NJ 08628",
+      "phone": "(609) 882-2000"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "shoreAreas": "Increased enforcement during summer months",
+    "mandatoryAppearances": "Required for many violations"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Varies by municipality",
+      "cost": "Free-$10"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and train service",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

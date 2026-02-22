@@ -1,0 +1,147 @@
+{
+  "county": "Knox",
+  "countySeat": "Knoxville",
+  "population": "475,000+",
+  "urltaApplies": true,
+  "lastUpdated": "2026-02-20",
+  "disclaimer": "This is informational only. Contact the court directly for current procedures.",
+  "court": {
+    "name": "Knox County General Sessions Court - Civil Division",
+    "division": "Civil Division",
+    "address": "300 Main Street, City County Building, Knoxville, TN 37902",
+    "phone": "865-215-2400",
+    "website": "https://www.knoxcounty.org/generalsessions",
+    "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+    "parking": "Main Street Garage (free for first 2 hours)"
+  },
+  "clerkOffice": {
+    "name": "Knox County Circuit Court Clerk",
+    "address": "300 Main Street, Suite 339, Knoxville, TN 37902",
+    "phone": "865-215-2400",
+    "website": "https://www.knoxcounty.org/circuitcourt"
+  },
+  "filingProcedures": {
+    "detainerWarrant": {
+      "filingLocation": "Circuit Court Clerk's Office, Room 339",
+      "filingFee": "$145.50 (subject to change)",
+      "methods": ["In person", "Mail with notarized affidavit"],
+      "requiredDocuments": [
+        "Detainer Warrant form (available at clerk's office)",
+        "Copy of lease (if written)",
+        "Copy of notice served",
+        "Affidavit of service"
+      ],
+      "serviceOfProcess": {
+        "methods": ["Knox County Sheriff's Office", "Private process server", "Certified mail"],
+        "sheriffFee": "$30.00",
+        "timeline": "Sheriff serves within 5-7 business days"
+      }
+    },
+    "answer": {
+      "filingLocation": "Same as detainer warrant",
+      "filingFee": "None for initial answer",
+      "deadline": "Before hearing date",
+      "recommended": "File at least 2 business days before hearing"
+    }
+  },
+  "hearingProcedures": {
+    "location": "City County Building, Courtrooms on 4th Floor",
+    "schedule": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+      "times": "9:00 AM docket"
+    },
+    "checkIn": {
+      "description": "Check docket posted on courtroom door",
+      "arrivalTime": "At least 20 minutes before scheduled time"
+    },
+    "continuances": {
+      "policy": "First continuance typically granted on request",
+      "method": "Request from judge at hearing or file written motion",
+      "limit": "Generally up to 30 days"
+    }
+  },
+  "timeline": {
+    "noticeToHearing": "7-14 days after detainer filed",
+    "judgmentToWrit": "10 days after judgment (appeal period)",
+    "writToEviction": "24-72 hours after writ issued"
+  },
+  "appealProcedures": {
+    "court": "Knox County Circuit Court",
+    "deadline": "10 calendar days from judgment",
+    "bondAmount": "Judgment amount plus $211.50 court costs",
+    "filingLocation": "General Sessions Court Clerk",
+    "hearingTimeline": "30-60 days for Circuit Court setting"
+  },
+  "legalAidResources": [
+    {
+      "name": "Legal Aid of East Tennessee",
+      "address": "502 South Gay Street, Suite 400, Knoxville, TN 37902",
+      "phone": "865-637-0484",
+      "hours": "Monday-Friday 8:30 AM - 5:00 PM",
+      "eligibility": "Income-qualified tenants (typically 200% of federal poverty level)",
+      "services": ["Eviction defense representation", "Housing counseling", "Tenant rights education", "Mediation"],
+      "website": "https://www.laet.org",
+      "intake": "Call for telephone screening; walk-in intake available"
+    },
+    {
+      "name": "University of Tennessee Legal Clinic",
+      "address": "1505 White Avenue, Knoxville, TN 37916",
+      "phone": "865-974-2331",
+      "services": ["Law student representation under faculty supervision"],
+      "eligibility": "Income-qualified tenants",
+      "notes": "Academic year operation only (August-May)"
+    },
+    {
+      "name": "Knoxville Bar Association Lawyer Referral Service",
+      "phone": "865-522-6522",
+      "services": ["Attorney referrals", "Initial consultation at reduced fee"],
+      "website": "https://www.knoxbar.org"
+    }
+  ],
+  "emergencyResources": {
+    "rentalAssistance": [
+      {
+        "name": "Knox County Community Action Committee",
+        "phone": "865-546-3500",
+        "services": "Emergency rental assistance (when funding available)"
+      },
+      {
+        "name": "United Way of Greater Knoxville",
+        "phone": "865-523-9131",
+        "services": "Referrals to emergency assistance programs",
+        "dial": "Dial 2-1-1 for resource information"
+      }
+    ],
+    "shelters": [
+      {
+        "name": "Volunteer Ministry Center",
+        "phone": "865-525-4407",
+        "services": "Emergency shelter, housing assistance"
+      },
+      {
+        "name": "Salvation Army - Knoxville",
+        "phone": "865-525-9401",
+        "services": "Emergency shelter, family services"
+      },
+      {
+        "name": "Knox Area Rescue Ministries",
+        "phone": "865-673-6555",
+        "services": "Emergency shelter, meals, transitional housing"
+      }
+    ]
+  },
+  "specialNotes": [
+    "Free parking available in Main Street Garage (validate at clerk's office)",
+    "Security screening required at building entrance",
+    "Spanish interpretation available with advance notice",
+    "Court staff can provide procedural information but not legal advice",
+    "Small claims and detainer dockets run together - arrive early"
+  ],
+  "proceduralTips": [
+    "Bring original and 2 copies of all documents",
+    "Dress appropriately for court appearance",
+    "Be prepared to wait - dockets can be lengthy",
+    "Know exactly how much rent you owe (if nonpayment case)",
+    "Have your defense organized before hearing"
+  ]
+}

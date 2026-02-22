@@ -1,0 +1,102 @@
+{
+  "name": "Somerset County",
+  "countySeat": "Somerset",
+  "population": "73,795",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Somerset County Magisterial District Courts",
+      "address": "111 East Union Street, Somerset, PA 15501",
+      "phone": "(814) 445-1500",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.co.somerset.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Somerset County",
+      "address": "111 East Union Street, Somerset, PA 15501",
+      "phone": "(814) 445-1500",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Somerset County District Attorney's Office",
+    "address": "111 East Union Street, Somerset, PA 15501",
+    "phone": "(814) 445-1510",
+    "trafficDivisionContact": "(814) 445-1510"
+  },
+  "publicDefender": {
+    "office": "Somerset County Public Defender",
+    "address": "111 East Union Street, Somerset, PA 15501",
+    "phone": "(814) 445-1520",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Somerset County Clerk of Courts",
+    "address": "111 East Union Street, Somerset, PA 15501",
+    "phone": "(814) 445-1500",
+    "website": "https://www.co.somerset.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Somerset County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Somerset Borough Police Department",
+      "address": "340 West Union Street, Somerset, PA 15501",
+      "phone": "(814) 445-1515",
+      "recordsRequest": "(814) 445-1515"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Somerset Station",
+      "address": "2852 Huckleberry Highway, Somerset, PA 15501",
+      "phone": "(814) 445-6441"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Somerset County",
+    "speedCameras": "Not currently used in Somerset County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "Somerset County Transportation",
+      "routes": "Shared ride service",
+      "website": "https://www.somersettransit.com"
+    }
+  }
+}

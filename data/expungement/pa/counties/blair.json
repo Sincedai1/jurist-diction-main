@@ -1,0 +1,42 @@
+{
+  "county": "Blair",
+  "countySeat": "Hollidaysburg",
+  "judicialDistrict": "24th Judicial District of Pennsylvania",
+  "lastUpdated": "2026-02-21",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice.",
+  "courtInformation": {
+    "courtOfCommonPleas": {
+      "name": "Court of Common Pleas of Blair County",
+      "address": "423 Allegheny Street",
+      "city": "Hollidaysburg",
+      "state": "PA",
+      "zip": "16648",
+      "phone": "(814) 696-4273",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+    }
+  },
+  "clerkInformation": {
+    "name": "Blair County Clerk of Courts",
+    "address": "423 Allegheny Street",
+    "city": "Hollidaysburg",
+    "state": "PA",
+    "zip": "16648",
+    "phone": "(814) 696-4273",
+    "website": "https://www.blairco.org"
+  },
+  "districtAttorney": {
+    "office": "Blair County District Attorney's Office",
+    "phone": "(814) 693-3050"
+  },
+  "fees": {
+    "filingFee": 0,
+    "expungementFee": 0,
+    "notes": "Blair County follows PA Clean Slate Act."
+  },
+  "cleanSlateStatus": {
+    "localImplementation": "Full Clean Slate implementation"
+  },
+  "notes": [
+    "Blair County follows Pennsylvania Clean Slate Act"
+  ]
+}

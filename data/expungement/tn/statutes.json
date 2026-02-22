@@ -1,0 +1,260 @@
+{
+  "jurisdiction": "Tennessee",
+  "lastUpdated": "2026-02-20",
+  "disclaimer": "This information is for educational purposes only and does not constitute legal advice. Consult a licensed attorney for legal guidance.",
+  "primaryStatutes": [
+    {
+      "code": "TCA 40-32-101",
+      "title": "Expungement of Criminal Records",
+      "description": "Primary statute governing expungement eligibility and procedures in Tennessee",
+      "sections": {
+        "a1": {
+          "code": "TCA 40-32-101(a)(1)",
+          "description": "Expungement for dismissed charges, acquittals, and certain completed diversions",
+          "eligibility": [
+            "Charges dismissed without plea",
+            "Not guilty verdict at trial",
+            "Successful completion of judicial diversion",
+            "Successful completion of pretrial diversion"
+          ]
+        },
+        "g": {
+          "code": "TCA 40-32-101(g)",
+          "description": "Expungement for certain misdemeanor convictions",
+          "eligibility": [
+            "Non-violent misdemeanor convictions",
+            "Class A, B, C misdemeanors that are not excluded",
+            "Waiting period completed"
+          ],
+          "exclusions": [
+            "Driving under the influence (DUI)",
+            "Domestic assault",
+            "Sex offenses",
+            "Crimes against children",
+            "Violent felonies"
+          ]
+        },
+        "a1_B": {
+          "code": "TCA 40-32-101(a)(1)(B)",
+          "description": "Expungement for certain non-violent felony convictions",
+          "eligibility": [
+            "Non-violent Class E felonies",
+            "Certain drug possession offenses",
+            "Waiting period completed",
+            "All court obligations satisfied"
+          ],
+          "exclusions": [
+            "Violent felonies",
+            "Sex offenses",
+            "Crimes against children",
+            "Drug trafficking",
+            "Firearm-related offenses"
+          ]
+        }
+      }
+    }
+  ],
+  "waitingPeriods": {
+    "misdemeanor": {
+      "period": "1 year",
+      "description": "One year from the date of conviction or completion of sentence, whichever is later",
+      "details": [
+        "Count from final discharge of sentence",
+        "Includes probation completion",
+        "All fines and court costs must be paid"
+      ]
+    },
+    "felony": {
+      "period": "5 years",
+      "description": "Five years from the date of conviction or completion of sentence, whichever is later",
+      "details": [
+        "Count from final discharge of sentence",
+        "Includes probation completion",
+        "All fines, restitution, and court costs must be paid"
+      ]
+    },
+    "dismissed": {
+      "period": "Immediate",
+      "description": "Dismissed or acquitted charges may be expunged immediately",
+      "details": [
+        "No waiting period required",
+        "Must verify case is fully closed",
+        "No outstanding warrants or charges"
+      ]
+    },
+    "diversion": {
+      "period": "Upon completion",
+      "description": "Judicial or pretrial diversion may be expunged upon successful completion",
+      "details": [
+        "Must complete all diversion requirements",
+        "No new criminal charges during diversion",
+        "All fees paid"
+      ]
+    }
+  },
+  "ineligibleOffenses": {
+    "felonies": [
+      "First degree murder",
+      "Second degree murder",
+      "Voluntary manslaughter",
+      "Especially aggravated kidnapping",
+      "Aggravated kidnapping",
+      "Especially aggravated robbery",
+      "Aggravated rape",
+      "Rape",
+      "Aggravated sexual battery",
+      "Sexual battery",
+      "Statutory rape",
+      "Aggravated arson",
+      "Any sexual offense against a child",
+      "Child abuse",
+      "Child neglect",
+      "Child endangerment",
+      "Vehicular homicide",
+      "Any drug offense involving trafficking or manufacturing"
+    ],
+    "misdemeanors": [
+      "Driving under the influence (DUI)",
+      "Domestic assault",
+      "Criminal contempt in a domestic violence case",
+      "Any sexual offense"
+    ]
+  },
+  "eligibleOffenses": {
+    "misdemeanors": {
+      "description": "Most non-violent misdemeanors are eligible after 1-year waiting period",
+      "examples": [
+        "Simple possession of controlled substance",
+        "Petty theft (under $500)",
+        "Disorderly conduct",
+        "Public intoxication",
+        "Simple assault (non-domestic)",
+        "Trespassing",
+        "Vandalism (under $500)",
+        "Reckless driving (non-DUI)"
+      ]
+    },
+    "felonies": {
+      "description": "Certain non-violent Class E felonies may be eligible after 5-year waiting period",
+      "examples": [
+        "Simple possession of controlled substance (felony amount)",
+        "Non-violent theft (under $1,000)",
+        "Non-violent burglary (non-dwelling)",
+        "Certain fraud offenses (non-violent)"
+      ]
+    }
+  },
+  "effects": {
+    "does": [
+      "Removes the record from public view",
+      "Allows you to legally deny the arrest or conviction on most job applications",
+      "Removes record from most background checks",
+      "Restores certain civil rights"
+    ],
+    "doesNot": [
+      "Remove records from law enforcement databases",
+      "Remove records from federal databases",
+      "Prevent use in future sentencing if convicted again",
+      "Restore firearm rights automatically",
+      "Remove immigration consequences",
+      "Affect professional licensing board records in all cases"
+    ]
+  },
+  "fees": {
+    "baseFee": {
+      "amount": 0,
+      "description": "Tennessee eliminated expungement fees for eligible petitions effective 2024",
+      "note": "Court clerks may still charge administrative processing fees"
+    },
+    "administrativeFees": {
+      "range": "$0 - $50",
+      "description": "Some counties charge small administrative processing fees",
+      "varies": "Fees vary by county"
+    }
+  },
+  "requiredForms": {
+    "statewide": [
+      "Petition for Expungement (Form AOC-SP-001)",
+      "Order of Expungement (Form AOC-SP-002)"
+    ],
+    "additionalForms": [
+      "Affidavit of Indigency (if fee waiver requested)",
+      "Certificate of Completion (for diversion cases)",
+      "Proof of payment of all court costs"
+    ]
+  },
+  "process": {
+    "steps": [
+      {
+        "step": 1,
+        "title": "Verify Eligibility",
+        "description": "Confirm that your offense is eligible for expungement under Tennessee law",
+        "requirements": [
+          "Review conviction records",
+          "Verify waiting period has passed",
+          "Confirm all court obligations are satisfied"
+        ]
+      },
+      {
+        "step": 2,
+        "title": "Obtain Criminal Records",
+        "description": "Get copies of your criminal records from the appropriate court",
+        "requirements": [
+          "Contact the court clerk where convicted",
+          "Request certified copies of the judgment",
+          "Obtain proof of sentence completion"
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Complete Petition Forms",
+        "description": "Fill out the required expungement petition forms",
+        "requirements": [
+          "Complete Petition for Expungement",
+          "Attach required documentation",
+          "Sign and notarize if required"
+        ]
+      },
+      {
+        "step": 4,
+        "title": "File with the Court",
+        "description": "Submit your petition to the court where you were convicted",
+        "requirements": [
+          "File with the clerk of court",
+          "Pay any required administrative fees",
+          "Obtain file-stamped copies"
+        ]
+      },
+      {
+        "step": 5,
+        "title": "Serve District Attorney",
+        "description": "Provide notice to the District Attorney's office",
+        "requirements": [
+          "Deliver copy of petition to DA",
+          "Obtain proof of service",
+          "Some counties may do this automatically"
+        ]
+      },
+      {
+        "step": 6,
+        "title": "Attend Hearing (if required)",
+        "description": "Some expungements require a court hearing",
+        "requirements": [
+          "Appear at scheduled hearing",
+          "Bring supporting documentation",
+          "Many uncontested petitions are granted without hearing"
+        ]
+      },
+      {
+        "step": 7,
+        "title": "Obtain Order",
+        "description": "Receive the signed expungement order",
+        "requirements": [
+          "Get certified copies of order",
+          "Distribute to relevant agencies",
+          "Verify records are expunged"
+        ]
+      }
+    ]
+  }
+}

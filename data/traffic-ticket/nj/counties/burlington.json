@@ -1,0 +1,105 @@
+{
+  "name": "Burlington County",
+  "countySeat": "Mount Holly",
+  "population": "461,860",
+  "courts": {
+    "municipal": {
+      "name": "Mount Holly Municipal Court (and other municipal courts)",
+      "address": "23 Washington St, Mount Holly, NJ 08060",
+      "phone": "(609) 267-1892",
+      "hours": "Monday-Friday 8:30 AM - 4:30 PM",
+      "website": "https://www.townofmountholly.com/municipal-court",
+      "note": "40 municipalities each have own court"
+    },
+    "superior": {
+      "name": "Burlington County Superior Court",
+      "address": "49 Rancocas Rd, Mount Holly, NJ 08060",
+      "phone": "(609) 265-5000",
+      "note": "Appeals and serious matters"
+    }
+  },
+  "districtAttorney": {
+    "office": "Burlington County Prosecutor's Office",
+    "address": "49 Rancocas Rd, Mount Holly, NJ 08060",
+    "phone": "(609) 265-5035",
+    "note": "Handles serious offenses"
+  },
+  "publicDefender": {
+    "office": "Burlington County Public Defender's Office",
+    "address": "49 Rancocas Rd, Mount Holly, NJ 08060",
+    "phone": "(609) 265-5037",
+    "note": "Available for indigent defendants"
+  },
+  "clerk": {
+    "name": "Burlington County Clerk",
+    "address": "49 Rancocas Rd, Mount Holly, NJ 08060",
+    "phone": "(609) 265-5122",
+    "website": "https://www.co.burlington.nj.us/"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Must appear on court date listed",
+      "process": [
+        "Enter not guilty plea",
+        "Plea conference with prosecutor",
+        "Trial if no agreement",
+        "Present evidence at trial"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Varies by municipality",
+      "continuances": "Request through court",
+      "noShow": "Failure to appear may result in warrant"
+    },
+    "pleaBargaining": {
+      "available": true,
+      "unsafeDriving": "39:4-97.2 available in most cases",
+      "note": "Plea negotiations are standard practice"
+    },
+    "trafficSchool": {
+      "available": true,
+      "description": "Defensive driving reduces 2 points",
+      "providers": ["NJMVC-approved courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "Mount Holly Police Department",
+      "address": "23 Washington St, Mount Holly, NJ 08060",
+      "phone": "(609) 267-8300"
+    },
+    "countyPolice": {
+      "name": "Burlington County Sheriff's Office",
+      "address": "49 Rancocas Rd, Mount Holly, NJ 08060",
+      "phone": "(609) 265-5127"
+    },
+    "statePolice": {
+      "name": "New Jersey State Police - Troop A",
+      "phone": "(609) 861-2400"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual",
+    "electronics": "Cell phones silenced",
+    "weapons": "No weapons",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines",
+    "constructionZones": "Double fines",
+    "redLightCameras": "Discontinued",
+    "mandatoryAppearances": "Required for many offenses"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": "Street and lot parking",
+      "cost": "$5-10"
+    },
+    "publicTransit": {
+      "service": "NJ Transit",
+      "routes": "Bus and River Line light rail",
+      "website": "https://www.njtransit.com/"
+    }
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "title": "Pennsylvania Traffic Ticket Defense Procedures",
+  "description": "Step-by-step procedures for contesting traffic tickets in Pennsylvania",
+  "disclaimer": "This is informational only and not legal advice. Procedures vary by jurisdiction.",
+  "lastUpdated": "2026-02-21",
+  "proceduresByViolation": {
+    "speeding": {
+      "displayName": "Speeding Violation",
+      "severity": "minor_to_moderate",
+      "immediateActions": [
+        "Review ticket for accuracy (date, time, location, speed recorded)",
+        "Note weather and road conditions",
+        "Document any witnesses",
+        "Take photos of signage and road conditions if possible",
+        "Request calibration records for speed measurement device (SPMDEE)"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "SPMDEE Calibration Challenge",
+          "description": "Challenge the accuracy of speed timing device under PA regulations",
+          "steps": [
+            "Request discovery of speed timing device calibration records",
+            "Verify device is approved under 75 Pa.C.S. 3368",
+            "Check calibration frequency (must be within guidelines)",
+            "Verify officer's certification to operate device",
+            "Examine maintenance records"
+          ],
+          "success_factors": ["Outdated calibration", "Missing records", "Untrained officer", "Non-approved device"]
+        },
+        {
+          "name": "Signage Defense",
+          "description": "Challenge speed limit signage compliance",
+          "steps": [
+            "Photograph all speed limit signs in the area",
+            "Verify signs meet MUTCD standards",
+            "Check if speed limit was properly established per 75 Pa.C.S. 3363",
+            "Document any obstructed or damaged signs"
+          ],
+          "success_factors": ["Missing signs", "Obstructed visibility", "Non-standard posting", "Improper engineering study"]
+        },
+        {
+          "name": "Necessity Defense",
+          "description": "Argue speeding was necessary for safety",
+          "steps": [
+            "Document emergency circumstances",
+            "Obtain witness statements",
+            "Provide medical or emergency documentation if applicable"
+          ],
+          "success_factors": ["Documented emergency", "Credible witnesses", "Medical necessity"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal (if defense successful)",
+        "Reduced charge (plea negotiation)",
+        "Guilty with fine and points",
+        "Traffic school (rare in PA - only by court order)",
+        "Not guilty verdict"
+      ],
+      "timeline": {
+        "contestDeadline": "Within 10 days typically",
+        "courtDate": "30-60 days from request",
+        "appealDeadline": "30 days from summary conviction"
+      }
+    },
+    "recklessDriving": {
+      "displayName": "Reckless Driving",
+      "severity": "serious",
+      "criminalCharge": false,
+      "immediateActions": [
+        "Document all circumstances of the stop",
+        "Do not admit to reckless behavior",
+        "Identify any witnesses",
+        "Preserve any video evidence (dash cam, surveillance)",
+        "Request officer's dash cam footage"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Lack of Willful Disregard",
+          "description": "Challenge that driving showed willful disregard for safety",
+          "steps": [
+            "Demonstrate driving was reasonable under circumstances",
+            "Show no actual danger was created",
+            "Present witness testimony to safe driving",
+            "Challenge officer's characterization of events"
+          ],
+          "success_factors": ["No actual danger", "Circumstantial necessity", "Witness corroboration"]
+        },
+        {
+          "name": "Emergency Circumstances",
+          "description": "Argue driving was justified by emergency",
+          "steps": [
+            "Document emergency situation",
+            "Obtain medical records if health-related",
+            "Provide witness statements",
+            "Show no reasonable alternative existed"
+          ],
+          "success_factors": ["Documented emergency", "No alternative", "Proportionate response"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal",
+        "Reduction to lesser offense (careless driving)",
+        "Conviction with penalties",
+        "License suspension for subsequent offenses"
+      ],
+      "recommendation": "Summary offense but serious - consider consulting an attorney",
+      "timeline": {
+        "hearingDate": "Per summons",
+        "discoveryRequest": "File as soon as possible",
+        "appealDeadline": "30 days from conviction"
+      }
+    },
+    "suspendedLicense": {
+      "displayName": "Driving on Suspended License",
+      "severity": "moderate_to_serious",
+      "immediateActions": [
+        "Verify current license status with PennDOT",
+        "Request driving record from PennDOT",
+        "Determine reason for suspension",
+        "Begin reinstatement process if possible",
+        "Document any notice (or lack thereof) received"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Lack of Knowledge",
+          "description": "Prove you did not know license was suspended",
+          "steps": [
+            "Show PennDOT notice was not received",
+            "Demonstrate address change not updated properly",
+            "Request proof of mailing from PennDOT",
+            "Document reasonable belief license was valid"
+          ],
+          "success_factors": ["No actual notice", "Address issues", "Administrative error"]
+        },
+        {
+          "name": "Administrative Error",
+          "description": "Prove suspension was in error",
+          "steps": [
+            "Obtain complete driving record",
+            "Identify any errors on record",
+            "Request administrative hearing",
+            "Document proof of compliance with original requirements"
+          ],
+          "success_factors": ["Clerical error", "Paid fines not recorded", "Insurance proof not recorded"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal (if license valid or error proven)",
+        "Conviction with fine",
+        "Additional suspension period",
+        "Jail time (repeat offenses)"
+      ],
+      "reinstatementSteps": [
+        "Pay all outstanding fines and fees",
+        "Complete any required courses",
+        "Provide proof of insurance",
+        "Pay reinstatement fee to PennDOT",
+        "Resolve underlying cause of suspension"
+      ],
+      "timeline": {
+        "reinstatementTime": "Varies by reason for suspension"
+      }
+    },
+    "noInsurance": {
+      "displayName": "No Proof of Insurance",
+      "severity": "moderate",
+      "immediateActions": [
+        "Obtain proof of insurance at time of stop if available",
+        "Check if insurance was actually in effect",
+        "Contact insurance company for documentation",
+        "Review insurance policy terms"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Proof of Coverage",
+          "description": "Show insurance was valid at time of stop",
+          "steps": [
+            "Obtain letter from insurance company with coverage dates",
+            "Bring proof to court",
+            "Ensure coverage meets Pennsylvania minimums"
+          ],
+          "success_factors": ["Valid insurance at time of stop", "Documentation from insurer"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal with proof of insurance",
+        "Fine only",
+        "License suspension if not resolved",
+        "Restoration fee requirement"
+      ],
+      "minimumCoverage": {
+        "bodilyInjuryPerPerson": "$15,000",
+        "bodilyInjuryPerAccident": "$30,000",
+        "propertyDamage": "$5,000"
+      }
+    },
+    "equipmentViolation": {
+      "displayName": "Equipment Violation",
+      "severity": "minor",
+      "immediateActions": [
+        "Document condition of equipment at time of stop",
+        "Have equipment repaired immediately",
+        "Obtain repair receipt or documentation",
+        "Take photos of repaired equipment"
+      ],
+      "defenseStrategies": [
+        {
+          "name": "Prompt Repair",
+          "description": "Show equipment was repaired promptly",
+          "steps": [
+            "Have equipment fixed same or next day",
+            "Obtain detailed repair invoice",
+            "Bring proof to court",
+            "Many jurisdictions dismiss with proof of repair"
+          ],
+          "success_factors": ["Immediate repair", "First offense", "Documentation"]
+        },
+        {
+          "name": "No Knowledge",
+          "description": "Driver was unaware of defect",
+          "steps": [
+            "Demonstrate defect was not obvious",
+            "Show reasonable maintenance practices",
+            "Document recent vehicle inspection if applicable"
+          ],
+          "success_factors": ["Hidden defect", "Regular maintenance", "Recent inspection passed"]
+        }
+      ],
+      "possibleOutcomes": [
+        "Dismissal with proof of repair",
+        "Reduced fine",
+        "Warning only",
+        "Fine payment required"
+      ],
+      "fixItTicket": true
+    }
+  },
+  "generalDefenseTactics": [
+    {
+      "name": "Discovery Request",
+      "description": "Request evidence from prosecution",
+      "items": [
+        "Officer's notes and report",
+        "Calibration records (SPMDEE certification)",
+        "Training certifications",
+        "Dash cam or body cam footage",
+        "Witness statements"
+      ],
+      "deadlineNote": "File discovery request immediately after entering not guilty plea"
+    },
+    {
+      "name": "Officer No-Show",
+      "description": "If officer fails to appear, case may be dismissed",
+      "considerations": [
+        "Not guaranteed - judge may reschedule",
+        "More common in smaller jurisdictions",
+        "Cannot rely on this strategy alone"
+      ]
+    },
+    {
+      "name": "Plea Negotiation",
+      "description": "Negotiate for reduced charge",
+      "options": [
+        "Reduction to non-moving violation",
+        "Reduction to lesser offense",
+        "Reduction from reckless to careless driving"
+      ],
+      "note": "PA does not offer traffic school on plea bargaining"
+    }
+  ],
+  "courtTypes": {
+    "magisterialDistrict": {
+      "description": "Local court handling most traffic summary offenses",
+      "procedures": "Less formal, judge decides without jury",
+      "appeal": "30-day right to appeal to Court of Common Pleas for de novo trial"
+    },
+    "municipal": {
+      "description": "City-level court (Philadelphia, Pittsburgh)",
+      "procedures": "Varies by municipality",
+      "appeal": "Appeal to Court of Common Pleas"
+    },
+    "commonPleas": {
+      "description": "County-level court for appeals and more serious matters",
+      "procedures": "More formal, may have jury trial",
+      "appeal": "Appeal to Superior Court"
+    }
+  },
+  "trafficSchoolOptions": {
+    "description": "Pennsylvania does NOT offer traffic school for point reduction on plea bargaining",
+    "note": "Traffic school may only be ordered by court after conviction",
+    "eligibility": [
+      "Court order required",
+      "Not available as plea bargain option",
+      "May reduce points only if ordered by court"
+    ],
+    "providers": [
+      "PennDOT-approved defensive driving courses"
+    ]
+  },
+  "pennsylvaniaSpecific": {
+    "pointSystem": {
+      "description": "PA has unique point system with accumulation and reduction rules",
+      "accumulation": {
+        "6_points": "Written warning",
+        "6_points_second": "Special hearing",
+        "11+_points": "Suspension (5 days per point over 10)"
+      },
+      "reduction": "3 points removed per year of safe driving after first 12 months"
+    },
+    "speedTimingDevices": {
+      "description": "PA has specific regulations for speed timing devices (SPMDEE)",
+      "requirements": [
+        "Device must be on approved list",
+        "Regular calibration required",
+        "Officer must be certified"
+      ]
+    }
+  }
+}

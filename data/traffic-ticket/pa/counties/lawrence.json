@@ -1,0 +1,102 @@
+{
+  "name": "Lawrence County",
+  "countySeat": "New Castle",
+  "population": "86,075",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Lawrence County Magisterial District Courts",
+      "address": "430 Court Street, New Castle, PA 16101",
+      "phone": "(724) 656-1910",
+      "hours": "Monday-Friday 8:00 AM - 4:00 PM",
+      "website": "https://www.co.lawrence.pa.us",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Lawrence County",
+      "address": "430 Court Street, New Castle, PA 16101",
+      "phone": "(724) 656-1910",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Lawrence County District Attorney's Office",
+    "address": "430 Court Street, New Castle, PA 16101",
+    "phone": "(724) 656-1920",
+    "trafficDivisionContact": "(724) 656-1920"
+  },
+  "publicDefender": {
+    "office": "Lawrence County Public Defender",
+    "address": "430 Court Street, New Castle, PA 16101",
+    "phone": "(724) 656-1930",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Lawrence County Clerk of Courts",
+    "address": "430 Court Street, New Castle, PA 16101",
+    "phone": "(724) 656-1910",
+    "website": "https://www.co.lawrence.pa.us"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Lawrence County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "New Castle Police Department",
+      "address": "200 North Mercer Street, New Castle, PA 16101",
+      "phone": "(724) 656-9300",
+      "recordsRequest": "(724) 656-9300"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - New Castle Station",
+      "address": "2859 New Castle Road, New Castle, PA 16101",
+      "phone": "(724) 652-6500"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Lawrence County",
+    "speedCameras": "Not currently used in Lawrence County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Street parking around courthouse"],
+      "cost": "Free for court appearance",
+      "note": "Free parking generally available"
+    },
+    "publicTransit": {
+      "service": "New Castle Area Transit Authority",
+      "routes": "Bus service in New Castle area",
+      "website": "https://www.ncatpa.org"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Chester County",
+  "countySeat": "West Chester",
+  "population": "534,678",
+  "courts": {
+    "magisterialDistrict": {
+      "name": "Chester County Magisterial District Courts",
+      "address": "2 North High Street, West Chester, PA 19380",
+      "phone": "(610) 344-6400",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "website": "https://www.chesco.org",
+      "note": "Traffic cases heard at district court location on ticket"
+    },
+    "commonPleas": {
+      "name": "Court of Common Pleas of Chester County",
+      "address": "2 North High Street, West Chester, PA 19380",
+      "phone": "(610) 344-6400",
+      "note": "Appeals from Magisterial District Courts"
+    }
+  },
+  "districtAttorney": {
+    "office": "Chester County District Attorney's Office",
+    "address": "2 North High Street, West Chester, PA 19380",
+    "phone": "(610) 344-6800",
+    "trafficDivisionContact": "(610) 344-6800"
+  },
+  "publicDefender": {
+    "office": "Chester County Public Defender",
+    "address": "2 North High Street, West Chester, PA 19380",
+    "phone": "(610) 344-6900",
+    "note": "Available for indigent defendants in criminal traffic cases"
+  },
+  "clerk": {
+    "name": "Chester County Clerk of Courts",
+    "address": "2 North High Street, West Chester, PA 19380",
+    "phone": "(610) 344-6400",
+    "website": "https://www.chesco.org"
+  },
+  "procedures": {
+    "contestingTicket": {
+      "deadline": "Within 10 days of citation",
+      "process": [
+        "Enter not guilty plea at district court",
+        "Hearing will be scheduled",
+        "Officer and defendant both present evidence",
+        "Judge issues verdict"
+      ],
+      "paymentOptions": ["Online", "In person", "Mail"]
+    },
+    "courtDates": {
+      "scheduling": "Hearings typically 4-6 weeks from plea entry",
+      "continuances": "Contact district court to request",
+      "noShow": "Failure to appear results in guilty finding"
+    },
+    "diversionProgram": {
+      "available": false,
+      "note": "No traffic diversion program in Chester County"
+    },
+    "trafficSchool": {
+      "available": "Only by court order after conviction",
+      "note": "PA does not allow traffic school for plea bargaining",
+      "providers": ["PennDOT-approved defensive driving courses"]
+    }
+  },
+  "lawEnforcement": {
+    "primary": {
+      "name": "West Chester Police Department",
+      "address": "205 North Darlington Street, West Chester, PA 19380",
+      "phone": "(610) 696-2700",
+      "recordsRequest": "(610) 696-2700"
+    },
+    "highwayPatrol": {
+      "name": "Pennsylvania State Police - Embreeville Station",
+      "address": "351 Starview Lane, West Chester, PA 19380",
+      "phone": "(610) 486-6170"
+    }
+  },
+  "localRules": {
+    "dressCode": "Business casual recommended",
+    "electronics": "Cell phones must be silenced",
+    "weapons": "No weapons permitted",
+    "checkIn": "Arrive 15-20 minutes early"
+  },
+  "specialConsiderations": {
+    "schoolZones": "Enhanced fines in school zones",
+    "constructionZones": "Double fines when workers present",
+    "redLightCameras": "Not currently used in Chester County",
+    "speedCameras": "Not currently used in Chester County"
+  },
+  "parkingAndTransit": {
+    "parking": {
+      "locations": ["Parking garages near courthouse", "Metered street parking"],
+      "cost": "$5-15 for court appearance",
+      "note": "Paid parking in downtown West Chester"
+    },
+    "publicTransit": {
+      "service": "SEPTA and Krapf Transit",
+      "routes": "Bus service to West Chester",
+      "website": "https://www.septa.org"
+    }
+  }
+}
