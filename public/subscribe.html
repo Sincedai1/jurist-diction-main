@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Subscribe | Jurist Diction</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <style>
+    .pricing-section {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .pricing-header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    .pricing-header h1 {
+      font-size: 36px;
+      color: #1a365d;
+      margin-bottom: 15px;
+    }
+
+    .pricing-header p {
+      font-size: 18px;
+      color: #666;
+    }
+
+    .pricing-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 30px;
+      margin-bottom: 50px;
+    }
+
+    @media (max-width: 900px) {
+      .pricing-grid {
+        grid-template-columns: 1fr;
+        max-width: 400px;
+        margin: 0 auto 50px;
+      }
+    }
+
+    .pricing-card {
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      overflow: hidden;
+      position: relative;
+    }
+
+    .pricing-card.popular {
+      border: 3px solid #d0b665;
+      transform: scale(1.05);
+    }
+
+    .pricing-card.popular::before {
+      content: 'MOST POPULAR';
+      position: absolute;
+      top: 15px;
+      right: -35px;
+      background: #d0b665;
+      color: #1a365d;
+      padding: 5px 40px;
+      font-size: 12px;
+      font-weight: bold;
+      transform: rotate(45deg);
+    }
+
+    .card-header {
+      padding: 30px;
+      background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%);
+      color: white;
+      text-align: center;
+    }
+
+    .pricing-card.popular .card-header {
+      background: linear-gradient(135deg, #2c5282 0%, #1a365d 100%);
+    }
+
+    .tier-name {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .tier-price {
+      font-size: 48px;
+      font-weight: bold;
+    }
+
+    .tier-price span {
+      font-size: 18px;
+      font-weight: normal;
+      opacity: 0.9;
+    }
+
+    .card-body {
+      padding: 30px;
+    }
+
+    .feature-list {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 30px 0;
+    }
+
+    .feature-list li {
+      padding: 12px 0;
+      border-bottom: 1px solid #eee;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .feature-list li:last-child {
+      border-bottom: none;
+    }
+
+    .check-icon {
+      color: #38a169;
+      font-weight: bold;
+    }
+
+    .x-icon {
+      color: #ccc;
+    }
+
+    .btn-subscribe {
+      width: 100%;
+      padding: 16px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-subscribe.primary {
+      background: #1a365d;
+      color: white;
+    }
+
+    .btn-subscribe.primary:hover {
+      background: #2c5282;
+    }
+
+    .btn-subscribe.secondary {
+      background: #f0f4f8;
+      color: #1a365d;
+    }
+
+    .btn-subscribe.secondary:hover {
+      background: #e2e8f0;
+    }
+
+    .btn-subscribe:disabled {
+      background: #ccc;
+      cursor: not-allowed;
+    }
+
+    .packet-features {
+      background: #f0fff4;
+      border: 1px solid #9ae6b4;
+      border-radius: 8px;
+      padding: 20px;
+      margin-top: 20px;
+    }
+
+    .packet-features h4 {
+      color: #276749;
+      margin-bottom: 15px;
+    }
+
+    .guarantee-section {
+      text-align: center;
+      padding: 40px 20px;
+      background: #f8f9fa;
+      border-radius: 16px;
+    }
+
+    .guarantee-section h3 {
+      color: #1a365d;
+      margin-bottom: 15px;
+    }
+
+    .payment-methods {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 30px;
+    }
+
+    .payment-methods img {
+      height: 30px;
+      opacity: 0.7;
+    }
+
+    .secure-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 20px;
+      background: #f0f4f8;
+      border-radius: 20px;
+      margin-top: 20px;
+      font-size: 14px;
+      color: #666;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 20px;
+    }
+
+    .spinner {
+      border: 3px solid #f0f4f8;
+      border-top: 3px solid #1a365d;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 15px;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="logo">Jurist<span>Diction</span></div>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/tools">Tools</a>
+      <a href="/packets">Packets</a>
+      <a href="/subscribe" class="active">Subscribe</a>
+    </nav>
+  </header>
+
+  <div class="pricing-section">
+    <div class="pricing-header">
+      <h1>Choose Your Plan</h1>
+      <p>Get unlimited access to legal information tools and packet generators</p>
+    </div>
+
+    <div class="pricing-grid">
+
+      <!-- Basic Plan -->
+      <div class="pricing-card">
+        <div class="card-header">
+          <div class="tier-name">Basic</div>
+          <div class="tier-price">$29<span>/mo</span></div>
+        </div>
+        <div class="card-body">
+          <ul class="feature-list">
+            <li><span class="check-icon">✓</span> Document Parser</li>
+            <li><span class="check-icon">✓</span> Legal Auditor</li>
+            <li><span class="check-icon">✓</span> Case Log Analyzer</li>
+            <li><span class="x-icon">✗</span> Legalese Simplifier</li>
+            <li><span class="x-icon">✗</span> Whitepaper Generator</li>
+          </ul>
+
+          <div class="packet-features">
+            <h4>Packet Access</h4>
+            <ul class="feature-list">
+              <li><span class="check-icon">✓</span> Tennessee only</li>
+              <li><span class="check-icon">✓</span> 5 packets/month</li>
+              <li><span class="check-icon">✓</span> 10% discount</li>
+              <li><span class="x-icon">✗</span> Multi-state access</li>
+            </ul>
+          </div>
+
+          <button class="btn-subscribe secondary" onclick="subscribe('basic')">
+            Get Started
+          </button>
+        </div>
+      </div>
+
+      <!-- Professional Plan -->
+      <div class="pricing-card popular">
+        <div class="card-header">
+          <div class="tier-name">Professional</div>
+          <div class="tier-price">$79<span>/mo</span></div>
+        </div>
+        <div class="card-body">
+          <ul class="feature-list">
+            <li><span class="check-icon">✓</span> All Basic features</li>
+            <li><span class="check-icon">✓</span> Legalese Simplifier</li>
+            <li><span class="check-icon">✓</span> Whitepaper Generator</li>
+            <li><span class="check-icon">✓</span> 500 docs/month</li>
+            <li><span class="check-icon">✓</span> Priority support</li>
+          </ul>
+
+          <div class="packet-features">
+            <h4>Packet Access</h4>
+            <ul class="feature-list">
+              <li><span class="check-icon">✓</span> ALL 4 states (TN, PA, NJ, MS)</li>
+              <li><span class="check-icon">✓</span> 25 packets/month</li>
+              <li><span class="check-icon">✓</span> 25% discount</li>
+              <li><span class="check-icon">✓</span> Major counties</li>
+            </ul>
+          </div>
+
+          <button class="btn-subscribe primary" onclick="subscribe('professional')">
+            Subscribe Now
+          </button>
+        </div>
+      </div>
+
+      <!-- Firm Plan -->
+      <div class="pricing-card">
+        <div class="card-header">
+          <div class="tier-name">Firm</div>
+          <div class="tier-price">$299<span>/mo</span></div>
+        </div>
+        <div class="card-body">
+          <ul class="feature-list">
+            <li><span class="check-icon">✓</span> All Professional features</li>
+            <li><span class="check-icon">✓</span> API Access</li>
+            <li><span class="check-icon">✓</span> Unlimited docs</li>
+            <li><span class="check-icon">✓</span> Dedicated support</li>
+            <li><span class="check-icon">✓</span> Custom branding</li>
+          </ul>
+
+          <div class="packet-features">
+            <h4>Packet Access</h4>
+            <ul class="feature-list">
+              <li><span class="check-icon">✓</span> UNLIMITED packets</li>
+              <li><span class="check-icon">✓</span> All 713 counties</li>
+              <li><span class="check-icon">✓</span> 40% discount</li>
+              <li><span class="check-icon">✓</span> Custom branding</li>
+            </ul>
+          </div>
+
+          <button class="btn-subscribe secondary" onclick="subscribe('firm')">
+            Contact Sales
+          </button>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="guarantee-section">
+      <h3>🔒 Secure Payments Powered by Lemon Squeezy</h3>
+      <p>
+        Lemon Squeezy handles all payments as a Merchant of Record.
+        They manage taxes, fraud protection, and chargebacks so you can focus on your legal information needs.
+      </p>
+
+      <div class="secure-badge">
+        <span>🛡️</span>
+        <span>256-bit SSL encryption • PCI DSS compliant</span>
+      </div>
+
+      <div class="payment-methods">
+        <span style="font-size: 24px;">💳</span>
+        <span style="font-size: 24px;">🏦</span>
+        <span style="font-size: 24px;">📱</span>
+      </div>
+      <p style="font-size: 14px; color: #666; margin-top: 10px;">
+        Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay
+      </p>
+    </div>
+  </div>
+
+  <script>
+    async function subscribe(tier) {
+      const button = event.target;
+      const originalText = button.textContent;
+      button.disabled = true;
+      button.innerHTML = '<div class="spinner" style="width:20px;height:20px;display:inline-block;vertical-align:middle;margin-right:10px;"></div>Processing...';
+
+      // Get user info from form or localStorage
+      const user = {
+        id: localStorage.getItem('userId') || null,
+        email: document.getElementById('email')?.value || localStorage.getItem('userEmail') || null,
+        name: document.getElementById('name')?.value || localStorage.getItem('userName') || null
+      };
+
+      try {
+        const response = await fetch('/api/payments/create-checkout', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            type: 'subscription',
+            tier: tier,
+            user: user
+          })
+        });
+
+        const data = await response.json();
+
+        if (data.success) {
+          // Redirect to Lemon Squeezy checkout
+          window.location.href = data.checkout.url;
+        } else {
+          throw new Error(data.message || 'Failed to create checkout');
+        }
+      } catch (error) {
+        alert('Error: ' + error.message);
+        button.disabled = false;
+        button.textContent = originalText;
+      }
+    }
+  </script>
+
+  <footer style="text-align: center; padding: 40px 20px; background: #f8f9fa;">
+    <p style="color: #666; margin: 0;">
+      Questions? Contact <a href="mailto:support@jurist-diction.com">support@jurist-diction.com</a>
+    </p>
+  </footer>
+</body>
+</html>
